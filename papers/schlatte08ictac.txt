@@ -1,0 +1,16 @@
+@InProceedings{schlatte08ictac,
+  author =	 {Rudolf Schlatte and Bernhard Aichernig
+                  and Frank de Boer and Andreas Griesmayer
+                  and Einar Broch Johnsen},
+  title =	 {Testing Concurrent Objects with
+                  Application-Specific Schedulers},
+  booktitle =	 {Proc. 5th International Colloquium on 
+                  Theoretical Aspects of Computing ({ICTAC}'08)},
+  editor =       {John S. Fitzgerald and Anne E. Haxthausen and H\"usn\"u Yenig\"un},
+  series =	 {Lecture Notes in Computer Science},
+  volume =	 5160,
+  publisher =	 {Springer-Verlag},
+  pages =        {319--333},
+  year =	 2008,
+  month =        aug,
+}

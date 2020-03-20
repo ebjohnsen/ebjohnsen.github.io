@@ -1,0 +1,14 @@
+@inproceedings{albert15sas,
+  author =	 {Elvira Albert and Jes{\'{u}}s Correas and Einar
+                  Broch Johnsen and Guillermo
+                  Rom{\'{a}}n{-}D{\'{\i}}ez},
+  title =	 {Parallel Cost Analysis of Distributed Systems},
+  booktitle =	 {Proc. 22nd International Symposium on Static
+                  Analysis ({SAS} 2015)},
+  pages =	 {275--292},
+  year =	 2015,
+  editor =	 {Sandrine Blazy and Thomas Jensen},
+  series =	 {Lecture Notes in Computer Science},
+  volume =	 9291,
+  publisher =	 {Springer},
+}

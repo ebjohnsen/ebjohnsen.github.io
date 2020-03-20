@@ -1,0 +1,15 @@
+@inproceedings{deboer10concur,
+  author =	 {Frank S. de Boer and Mohammad Mahdi Jaghoori and
+                  Einar Broch Johnsen},
+  title =	 {Dating Concurrent Objects: Real-Time Modeling and
+                  Schedulability Analysis},
+  booktitle =	 {Proc.\ 21st Intl.\ Conf.\ on Concurrency Theory
+                  ({CONCUR})},
+  editor =	 {Paul Gastin and Fran\c{c}ois Laroussinie},
+  series =	 {Lecture Notes in Computer Science},
+  volume =	 6269,
+  publisher =	 {Springer-Verlag},
+  pages =	 {1--18},
+  year =	 2010,
+  month =	 sep,
+}

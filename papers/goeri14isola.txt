@@ -1,0 +1,12 @@
+@InProceedings{goeri14isola,
+  author    = {Georg G{\"{o}}ri and Einar Broch Johnsen and Rudolf Schlatte and Volker Stolz},
+  title     = {Erlang-Style Error Recovery for Concurrent Objects with Cooperative Scheduling},
+  editor    = {Tiziana Margaria and Bernhard Steffen},
+  booktitle = {Proc.\ 6th Intl.\ Symposium on Leveraging Applications of 
+               Formal Methods, Verification and Validation ({ISoLA} 2014)},
+  year      = 2014,
+  series    = {Lecture Notes in Computer Science},
+  volume    = 8803,
+  pages     = {5--21},
+  publisher = {Springer-Verlag},
+}

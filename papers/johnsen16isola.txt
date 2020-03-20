@@ -1,0 +1,15 @@
+@inproceedings{johnsen16isola,
+  author =	 {Einar Broch Johnsen and Jia{-}Chun Lin and Ingrid
+                  Chieh Yu},
+  title =	 {Comparing {AWS} Deployments Using Model-Based
+                  Predictions},
+  editor =	 {Tiziana Margaria and Bernhard Steffen},
+  booktitle =	 {Proceedings 7th International Symposium on
+                  Leveraging Applications of Formal Methods,
+                  Verification and Validation ({ISoLA})},
+  pages =	 {482--496},
+  series =	 {Lecture Notes in Computer Science},
+  volume =	 9953,
+  publisher =	 {Springer},
+  year =	 2016,
+}

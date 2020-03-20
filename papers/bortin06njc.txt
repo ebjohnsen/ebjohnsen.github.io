@@ -1,0 +1,8 @@
+@Article{bortin06njc,
+  author  = {Maksym Bortin and Einar Broch Johnsen and Christoph L\"uth},
+  title   = "Structured Formal Development in {I}sabelle",
+  journal = "Nordic Journal of Computing",
+  volume  = 13,
+  pages   = {2--21},
+  year    = 2006
+  }

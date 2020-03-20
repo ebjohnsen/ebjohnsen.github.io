@@ -1,0 +1,14 @@
+@InProceedings{johnsen04wrla,
+  author =	 {Einar Broch Johnsen and Olaf Owe and Eyvind W.\ Axelsen},
+  title =	 {A Run-Time Environment for Concurrent Objects with
+                  Asynchronous Method Calls},
+  booktitle =	 {Proc.\ 5th International Workshop on Rewriting Logic
+                  and its Applications {(WRLA'04)}, \textrm{Mar.\ 2004}},
+  series =	 {Electronic Notes in Theoretical Computer Science},
+  editor =	 {Narciso Mart{\'\i}-Oliet},
+  volume =	 117,
+  publisher =	 {Elsevier},
+  pages =	 {375--392},
+  month =	 jan,
+  year =	 2005,
+}

@@ -1,0 +1,16 @@
+<body text="#CCCCCC" bgcolor="#000000" link="#FFCC33" vlink="#FFCC99" alink="#FFCC33" TOPMARGIN="25">
+<pre>
+@InProceedings{bortyn04lopstrpre,
+  author =	 {Maksym Bortyn and Einar Broch Johnsen and Christoph
+                  L\"uth},
+  title =	 {An Approach to Transformational Development in
+                  Logical Frameworks},
+  booktitle =	 {Pre-Proceedings of the 14th International Workshop
+                  on Logic Based Program Synthesis and Transformation
+                  ({LOPSTR} 2004)},
+  pages =	 {297--306},
+  year =	 2004,
+  editor =	 {Sandro Etalle}
+}
+</pre>
+</body>

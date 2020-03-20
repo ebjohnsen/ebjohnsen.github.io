@@ -1,0 +1,17 @@
+@inproceedings{schlatte18farhad,
+  author =	 {Rudolf Schlatte and Einar Broch Johnsen and Jacopo
+                  Mauro and Silvia Lizeth Tapia Tarifa and Ingrid
+                  Chieh Yu},
+  title =	 {Release the Beasts: When Formal Methods Meet Real
+                  World Data},
+  editor =	 {Frank S. de Boer and Marcello M. Bonsangue and Jan
+                  Rutten},
+  booktitle =	 {It's All About Coordination - Essays to Celebrate
+                  the Lifelong Scientific Achievements of Farhad
+                  Arbab},
+  pages =	 {107--121},
+  series =	 {Lecture Notes in Computer Science},
+  volume =	 10865,
+  publisher =	 {Springer},
+  year =	 2018,
+}

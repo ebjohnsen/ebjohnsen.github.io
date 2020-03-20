@@ -1,0 +1,13 @@
+@inproceedings{johnsen18ifm,
+  author =	 {Einar Broch Johnsen and Martin Steffen and Johanna
+                  Beate Stumpf and Lars Tveito},
+  title =	 {Resource-Aware Virtually Timed Ambients},
+  editor =	 {Carlo A. Furia and Kirsten Winter},
+  booktitle =	 {Proc.\ 14th Intl.\ Conf.\ on Integrated Formal
+                  Methods ({IFM} 2018)},
+  series =	 {Lecture Notes in Computer Science},
+  volume =	 11023,
+  publisher =	 {Springer},
+  pages =	 {194--213},
+  year =	 2018,
+}

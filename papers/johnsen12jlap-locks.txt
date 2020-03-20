@@ -1,0 +1,12 @@
+@article{johnsen12locks-jlap,
+  author =	 "Einar Broch Johnsen and Thi Mai Thuong Tran and Olaf
+                  Owe and Martin Steffen",
+  title =	 "Safe locking for multi-threaded Java with
+                  exceptions",
+  journal =	 "Journal of Logic and Algebraic Programming",
+  volume =	 81,
+  number =	 3,
+  pages =	 "257--283",
+  year =	 2012,
+  doi =		 "10.1016/j.jlap.2011.11.002",
+}

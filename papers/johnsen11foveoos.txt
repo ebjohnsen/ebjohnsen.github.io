@@ -1,0 +1,13 @@
+@InProceedings{johnsen11foveoos,
+  author =       {Einar Broch Johnsen and Rudolf Schlatte
+                  and S.\ Lizeth {Tapia Tarifa}},
+  title =        {A Formal Model of User-Defined Resources in Resource-Restricted Deployment Scenarios},
+  editor =       {B. Beckert and F. Damiani},
+  booktitle =    {Proc.\ International Conference on Formal Verification
+                  of Object-Oriented Software ({FoVeOOS}'11)},
+  year =         2012,
+  series =       {Lecture Notes in Computer Science},
+  volume =       7421,
+  publisher =    {Springer-Verlag},
+  pages =	 {196--213},
+}

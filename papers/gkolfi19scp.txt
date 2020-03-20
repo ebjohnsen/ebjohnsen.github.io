@@ -1,0 +1,12 @@
+@article{gkolfi19scp,
+  author =	 {Anastasia Gkolfi and Crystal Chang Din and Einar
+                  Broch Johnsen and Lars Michael Kristensen and Martin
+                  Steffen and Ingrid Chieh Yu},
+  title =	 {Translating active objects into colored {P}etri nets
+                  for communication analysis},
+  journal =	 {Science of Computer programming},
+  volume =	 181,
+  pages =	 {1--26},
+  year =	 2019
+}
+

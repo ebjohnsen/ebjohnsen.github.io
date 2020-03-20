@@ -1,0 +1,12 @@
+@article{bubel16fomac,
+  author =	 {Richard Bubel and Ferruccio Damiani and Reiner
+                  H{\"{a}}hnle and Einar Broch Johnsen and Olaf Owe
+                  and Ina Schaefer and Ingrid Chieh Yu},
+  title =	 {Proof Repositories for Compositional Verification of
+                  Evolving Software Systems - Managing Change When
+                  Proving Software Correct},
+  journal =	 {T. Foundations for Mastering Change},
+  volume =	 1,
+  pages =	 {130--156},
+  year =	 2016,
+}

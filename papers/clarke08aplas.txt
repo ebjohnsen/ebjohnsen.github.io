@@ -1,0 +1,13 @@
+@inproceedings{clarke08aplas,
+  author =    {Dave Clarke and Tobias Wrigstad and
+               Johan {\"O}stlund and Einar Broch Johnsen},
+  title =     {Minimal Ownership for Active Objects},
+  editor    = {Ganesan Ramalingam},
+  booktitle = {Proc. 6th Asian Symposium on Programming Languages
+               and Systems ({APLAS}'08)},
+  pages     = {139--154},
+  series =    {Lecture Notes in Computer Science},
+  volume    = {5356},
+  publisher = {Springer-Verlag},
+  year =      2008,
+}

@@ -1,0 +1,14 @@
+@Proceedings{lncs4468,
+  title		= "Proceedings of the Ninth IFIP WG 6.1 International
+                   Conference on Formal Methods for Open Object-Based 
+                   Distributed Systems ({FMOODS}'07)",
+  booktitle     = "Proceedings of the Ninth IFIP WG 6.1 International
+                   Conference on Formal Methods for Open Object-Based 
+                   Distributed Systems ({FMOODS}'07)",
+  month         = jun,
+  year		= 2007,
+  editor	= {Marcello M. Bonsangue and Einar Broch Johnsen},
+  series	= {Lecture Notes in Computer Science},
+  publisher	= {Springer},
+  volume	= 4468
+}

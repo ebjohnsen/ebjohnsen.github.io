@@ -1,0 +1,12 @@
+@article{johnsen15jlamp,
+  author =	 "Einar Broch Johnsen and Rudolf Schlatte and
+                  S.\ Lizeth {Tapia Tarifa}",
+  title =	 "Integrating deployment architectures and resource
+                  consumption in timed object-oriented models",
+  journal =	 "Journal of Logical and Algebraic Methods in Programming",
+  volume =       "84",
+  number =       "1",
+  pages =        "67--91",
+  year =         "2015",
+  doi =		 "10.1016/j.jlamp.2014.07.001",
+}

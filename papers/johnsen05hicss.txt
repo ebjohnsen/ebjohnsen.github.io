@@ -1,0 +1,9 @@
+@InProceedings{johnsen05hicss,
+  author =	 {Einar Broch Johnsen and Olaf Owe},
+  title =	 {Inheritance in the Presence of Asynchronous Method Calls},
+  booktitle =	 {Proc.\ 38th Hawaii Intl.\ Conf.\ on System Sciences 
+                  ({HICSS-38})},
+  publisher =	 {IEEE Computer Society Press},
+  month =	 jan,
+  year =	 2005,
+}

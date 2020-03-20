@@ -1,0 +1,13 @@
+@inproceedings{johnsen11fmco,
+  author =	 {Einar Broch Johnsen and Rudolf Schlatte and S.
+                  Lizeth {Tapia Tarifa}},
+  title =	 {Modeling Application-Level Management
+                  of Virtualized Resources in {ABS}},
+ booktitle =	 {Proc. 10th International Symposium on Formal Methods for
+                  Components and Objects ({FMCO} 2011)},
+  year =	 2013,
+  series =	 {Lecture Notes in Computer Science},
+  volume =	 7542,
+  publisher =	 {Springer-Verlag},
+  pages =	 {89--108},
+}

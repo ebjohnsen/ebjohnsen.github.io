@@ -1,0 +1,11 @@
+@InProceedings{johnsen04sefm,
+  author =	 {Einar Broch Johnsen and Olaf Owe},
+  title =	 {An Asynchronous Communication Model 
+                  for Distributed Concurrent Objects},
+  booktitle =	 {Proc.\ 2nd Intl.\ Conf.\ on Software
+                  Engineering and Formal Methods ({SEFM'04})},
+  pages =        "188--197",
+  publisher =	 {IEEE Computer Society Press},
+  month =	 sep,
+  year =	 2004,
+}

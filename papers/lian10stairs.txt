@@ -1,0 +1,11 @@
+@InProceedings{lian10stairs,
+  author =       {Espen H. Lian and Einar Broch Johnsen and Arild Waaler},
+  title =        {Confluent Term Rewriting for Only-knowing Logics},
+  editor =       {Thomas Ãgotnes},
+  booktitle =    {Proc.\ Fifth Starting AI Researchers' Symposium ({STAIRS}'10)},
+  year =         2010,
+  series =       {Frontiers in Artificial Intelligence and Applications},
+  volume =       222,
+  pages =        {162--174},
+  publisher =    {IOS Press},
+}

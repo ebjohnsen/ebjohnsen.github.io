@@ -1,0 +1,12 @@
+@InProceedings{johnsen11coordination,
+  author =       {Einar Broch Johnsen and Ivan Lanese and Gianluigi Zavattaro},
+  title =        {Fault in the Future},
+  editor =       {Wolfgang De Meuter and Gruia-Catalin Roman},
+  booktitle =    {Proc.\ 13th International Conference on Coordination Models
+                 and Languages ({COORDINATION} 2011)},
+  year =         2011,
+  series =       {Lecture Notes in Computer Science},
+  volume =       6721,
+  pages =        {1--15},
+  publisher =    {Springer-Verlag},
+}

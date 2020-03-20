@@ -1,0 +1,15 @@
+@InProceedings{din15icfem,
+  author =	 {Crystal Chang Din and S.\ Lizeth {Tapia Tarifa} and
+                  Reiner H\"ahnle and Einar Broch Johnsen},
+  title =	 {History-Based Specification and Verification of
+                  Scalable Concurrent and Distributed Systems},
+  editor =	 {Butler, Michael and Conchon, Sylvain and Za\"idi,
+                  Fatiha},
+  booktitle =	 {Proc.\ 17th International Conference on Formal
+                  Engineering Methods ({ICFEM} 2015)},
+  pages =	 {217--233},
+  year =	 2015,
+  series =	 {Lecture Notes in Computer Science},
+  volume =	 9407,
+  publisher =	 {Springer-Verlag},
+}

@@ -1,0 +1,10 @@
+@InProceedings{abraham15nbis,
+  author    = {Erika {\'{A}}brah{\'{a}}m and Costas Bekas and Ivona Brandic and
+               Samir Genaim and Einar Broch Johnsen and Ivan Kondov and Sabri Pllana and Achim Streit},
+  title     = {Preparing {HPC} Applications for Exascale: Challenges and Recommendations},
+  editor    = {Leonard Barolli and Makoto Takizawa and Hui{-}Huang Hsu and Tomoya Enokido and Fatos Xhafa},
+  booktitle = {Proc. 18th Intl. Conf. on Network-Based Information Systems ({NBis} 2015)},
+  pages     = {401--406},
+  publisher = {{IEEE} Computer Society},
+  year      = 2015,
+}
