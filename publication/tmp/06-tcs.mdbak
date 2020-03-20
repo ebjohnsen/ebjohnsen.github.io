@@ -1,0 +1,27 @@
++++
+abstract = "Object-oriented distributed computing is becoming increasingly important for critical infrastructure in society. In standard object-oriented models, objects synchronize on method calls. These models may be criticized in the distributed setting for their tight coupling of communication and synchronization; network delays and instabilities may locally result in much waiting and even deadlock. The Creol model targets distributed objects by a looser coupling of method calls and synchronization. Asynchronous method calls and high-level local control structures allow local computation to adapt to network instability. Object variables are typed by interfaces, so communication with remote objects is independent from their implementation. The inheritance and subtyping relations are distinct in Creol. Interfaces form a subtype hierarchy, whereas multiple inheritance is used for code reuse at the class level. This paper presents the Creol syntax, operational semantics, and type system. It is shown that runtime type errors do not occur for well-typed programs."
+abstract_short = ""
+authors = ["Einar Broch Johnsen", "Olaf Owe", "Ingrid Chieh Yu"]
+date = "2006-10-21T22:52:18+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "Theoretical Computer Science **365** (1-2): 23-66, 2006. © Elsevier."
+publication_short = ""
+selected = false
+title = "Creol: A type-safe object-oriented model for distributed concurrent systems"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]]
+name = "DOI"
+url = "http://dx.doi.org/10.1016/j.tcs.2006.07.031"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/johnsen06tcs.txt"
+
++++
+

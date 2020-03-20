@@ -1,0 +1,29 @@
++++
+abstract = "A virtual machine, which is a software layer representing an execution environment, can be placed inside another virtual machine. As virtual machines at every level in a location hierarchy compete with other processes for processing time, the computing power of a virtual machine depends on its position in this hierarchy and may change if the virtual machine moves. These effects of nested virtualization motivate the calculus of virtually timed ambients, a formal model of hierarchical locations for execution with explicit resource provisioning, introduced in this paper. Resource provisioning in this model is based on virtual time slices as a local resource. To reason about timed behavior in this setting, weak timed bisimulation for virtually timed ambients is defined as an extension of bisimulation for mobile ambients. We show that the equivalence of contextual bisimulation and reduction barbed congruence is preserved by weak timed bisimulation. The calculus of virtually timed ambients is illustrated by examples."
+abstract_short = ""
+authors = ["Einar Broch Johnsen", "Martin Steffen", "Johanna Beate Stumpf"]
+date = "2017-12-02T22:04:12+01:00"
+image = ""
+image_preview = ""
+math = false
+publication =  "In *Proc. 23rd International Workshop on Recent Trends in Algebraic Development Techniques* (WADT 2017). LNCS 10644. © Springer 2017."
+publication_short = ""
+selected = false
+title = "A Calculus of Virtually Timed Ambients"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = "" 
+[[url_custom]] 
+name = "DOI"
+url = "https://doi.org/10.1007/978-3-319-72044-9_7"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/johnsen16wadt.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/johnsen16wadt.txt"
++++
+

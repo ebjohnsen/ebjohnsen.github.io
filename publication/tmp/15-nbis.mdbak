@@ -1,0 +1,30 @@
++++
+abstract = "While the HPC community is working towards the development of the first Exaflop computer (expected around 2020), after reaching the Petaflop milestone in 2008 still only few HPC applications are able to fully exploit the capabilities of Petaflop systems. In this paper we argue that efforts for preparing HPC applications for Exascale should start before such systems become available. We identify challenges that need to be addressed and recommend solutions in key areas of interest, including formal modeling, static analysis and optimization, runtime analysis and optimization, and autonomic computing. Furthermore, we outline a conceptual framework for porting HPC applications to future Exascale computing systems and propose steps for its implementation."
+abstract_short = ""
+authors = ["Erika Ábrahám", "Costas Bekas", "Ivona Brandic", "Samir Genaim", "Einar Broch Johnsen", "Ivan Kondov", "Sabri Pllana", "Achim Streit"]
+date = "2015-09-21T23:07:08+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *18th International Conference on Network-Based Information Systems* (NBiS 2015). © IEEE Computer Society 2015"
+publication_short = ""
+selected = false
+title = "Preparing HPC Applications for Exascale: Challenges and Recommendations"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]] 
+name = "DOI"
+url = "http://dx.doi.org/10.1109/NBiS.2015.61"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/abraham15nbis.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/abraham15nbis.txt"
+
++++
+

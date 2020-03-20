@@ -1,0 +1,24 @@
++++
+abstract = "Rewriting logic can be used to prototype systems for automated deduction. In this paper, we illustrate how this approach allows experiments with deduction strategies in a flexible and conceptually satisfying way. This is achieved by exploiting the reflective property of rewriting logic. By specifying a theorem prover in this way one quickly obtains a readable, reliable and reasonably efficient system which can be used both as a platform for tactic experiments and as a basis for an optimized implementation. The approach is illustrated by specifying a calculus for the connection method in rewriting logic which clearly separates rules from tactics."
+abstract_short = ""
+authors = ["Bjarne Holen", "Einar Broch Johnsen", "Arild Waaler"]
+date = "2005-07-21T22:51:12+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *Proc. 5th Intl. Workshop on First-Order Theorem Proving (FTP 2005).*"
+publication_short = ""
+selected = false
+title = "Representing Strategies for the Connection Calculus in Rewriting Logic"
+url_code = ""
+url_dataset = ""
+url_pdf = "Papers/holen05ftp.pdf"
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/holen05ftp.txt"
+
++++
+

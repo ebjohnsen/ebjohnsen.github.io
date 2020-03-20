@@ -1,0 +1,30 @@
++++
+abstract = "An intrinsic property of real world software is that it needs to evolve. The software is continuously changed during the initial development phase, and existing software may need modifications to meet new requirements. To facilitate the development and maintenance of programs, it is an advantage to have programming environments which allow the developer to alternate between programming and verification tasks in a flexible manner and which ensures correctness of the final program with respect to specified behavioral properties. This paper proposes a formal framework for the flexible development of object-oriented programs, which supports an interleaving of programming and verification steps. The motivation for this framework is to avoid imposing restrictions on the programming steps to facilitate the verification steps, but rather to track unresolved proof obligations and specified properties of a program which evolves. A proof environment connects unresolved proof obligations and specified properties by means of a soundness invariant which is maintained by both programming and verification steps. Once the set of unresolved obligations is empty, the invariant ensures the soundness of the overall program verification."
+abstract_short = ""
+authors = ["Johan Dovland", "Einar Broch Johnsen", "Ingrid Chieh Yu"]
+date = "2012-10-21T23:04:31+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *Proc. Intl. Symposium on Leveraging Applications* (ISoLA 2012). LNCS 7609. © Springer 2012."
+publication_short = ""
+selected = false
+title = "Tracking Behavioral Constraints during Object-Oriented Software Evolution"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]] 
+name = "DOI"
+url = "http://dx.doi.org/10.1007/978-3-642-34026-0_19"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/dovland12isola.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/dovland12isola.txt"
+
++++
+

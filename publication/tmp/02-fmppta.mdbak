@@ -1,0 +1,31 @@
++++
+abstract = "For the specification and development of large, distributed, and object-oriented systems, it is often advocated that individual components should be developed in an aspectwise  manner,  where  separate  descriptions  depict  various roles or viewpoints of the objects considered. The introduction of such partial specifications requires extra care when reasoning about systems as several specifications of an object may coexist and lead to overlapping information. In this paper, we consider a compositional approach to system  development by  means  of  partial  specifications of objects. The approach supports stepwise refinement, which enables  global  reasoning  by  local  refinement  steps  in  an aspect-oriented specification style.  For this purpose, a refinement relation is proposed which is suitable for multiple inheritance of behavior and component upgrade."
+abstract_short = ""
+authors = ["Einar Broch Johnsen", "Olaf Owe"]
+date = "2002-04-21T22:46:45+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *Proc. 16th Intl. Parallel & Distributed Processing Symposium (IPDPS 2002), FMPPTA workshop*, © IEEE Press 2002 "
+publication_short = ""
+selected = false
+title = "Composition and Refinement for Partial Object Specifications"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]]
+name = "DOI"
+url = "http://dx.doi.org/10.1109/IPDPS.2002.1016622"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/johnsen02fmppta.pdf" 
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/johnsen02fmppta.txt"
+
++++
+
+*Full version* available as Research Report 301, Dept. of Informatics, Univ. of Oslo, 2002 ([Preprint](Papers/johnsen02rr301.pdf), [Bibtex](Papers/johnsen02rr301.bib)). 

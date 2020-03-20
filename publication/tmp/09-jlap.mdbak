@@ -1,0 +1,24 @@
++++
+abstract = ""
+abstract_short = ""
+authors = ["Einar Broch Johnsen", "Olaf Owe", "Gerardo Schneider (Eds.)"]
+date = "2009-08-21T22:55:39+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "Journal of Logic and Algebraic Programming **78** (7). © Elsevier 2009. "
+publication_short = ""
+selected = false
+title = "The 19th Nordic Workshop on Programming Theory (NWPT 2007)"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]]
+name = "Online edition"
+url = "http://www.sciencedirect.com/science/journal/15678326/78/7 "
+
++++
+

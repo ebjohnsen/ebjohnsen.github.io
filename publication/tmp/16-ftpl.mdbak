@@ -1,0 +1,26 @@
++++
+abstract = "A recent trend in programming language research is to use behavioral type theory to ensure various correctness properties of largescale, communication-intensive systems. Behavioral types encompass concepts such as interfaces, communication protocols, contracts, and choreography. The successful application of behavioral types requires a solid understanding of several practical aspects, from their representation in a concrete programming language, to their integration with other programming constructs such as methods and functions, to design and monitoring methodologies that take behaviors into account. This survey provides an overview of the state of the art of these aspects, which we summarize as the pragmatics of behavioral types."
+abstract_short = ""
+authors = ["Davide Ancona", "Viviana Bono", "Mario Bravetti", "Joana Campos", "Giuseppe Castagna", "Pierre-Malo Deniélou", "Simon J. Gay", "Nils Gesbert", "Elena Giachino", "Raymond Hu", "Einar Broch Johnsen", "Francisco Martins", "Viviana Mascardi", "Fabrizio Montesi", "Rumyana Neykova", "Nicholas Ng", "Luca Padovani", "Vasco T. Vasconcelos", "Nobuko Yoshida"]
+date = "2016-07-22T12:07:39+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "Foundations and Trends® in Programming Languages 3 (2-3): 95-230, 2016"
+publication_short = ""
+selected = false
+title = "Behavioral Types in Programming Languages"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]]
+name = "DOI"
+url = "http://dx.doi.org/10.1561/2500000031"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/ancona16ftpl.txt"
+ 
++++

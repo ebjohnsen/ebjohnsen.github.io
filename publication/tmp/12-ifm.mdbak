@@ -1,0 +1,30 @@
++++
+abstract = "Wireless sensor networks (WSNs) consist of resource-constrained nodes; especially with respect to power. In most cases, the replacement of a dead node is difficult and costly. It is therefore crucial to minimize the total energy consumption of the network. Since the major consumer of power in WSNs is the data transmission process, we consider nodes which cooperate for data transmission in terms of groups. A group has a leader which collects data from the members and communicates with the outside of the group. We propose and formalize a model for data collection in which mobile entities, called data MULEs, are used to move between group leaders and collect data messages using short-range and low-power data transmission. We combine declarative and operational modeling. The declarative model abstractly captures behavior without committing to specific transitions by means of probability distributions, whereas the operational model is given as a concrete transition system in rewriting logic. The probabilistic, declarative model is not used to select transition rules, but to stochastically capture the result of applying rules. Technically, we use probabilistic rewriting logic and embed our models into PMaude, which gives us a simulation engine for the combined models. We perform statistical quantitative analysis based on repeated discrete-event simulations in Maude."
+abstract_short = ""
+authors = ["Fatemeh Kazemeyni", "Einar Broch Johnsen", "Olaf Owe", "Ilangko Balasingham"]
+date = "2012-06-18T23:01:58+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *Proc. 12th Intl. Conf. on Integrated Formal Methods* (IFM 2012). LNCS 7321. © Springer 2012."
+publication_short = ""
+selected = false
+title = "MULE-based Wireless Sensor Networks: Probabilistic Modeling and Quantitative Analysis"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]] 
+name = "DOI"
+url = "http://dx.doi.org/10.1007/978-3-642-30729-4_11"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/kazemeyni12ifm.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/kazemeyni12ifm.txt"
+
++++
+

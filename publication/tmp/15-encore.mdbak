@@ -1,0 +1,30 @@
++++
+abstract = "The age of multi-core computers is upon us, yet current programming languages, typically designed for single-core computers and adapted post hoc for multi-cores, remain tied to the constraints of a sequential mindset and are thus in many ways inadequate. New programming language designs are required that break away from this old-fashioned mindset. To address this need, we have been developing a new programming language called Encore, in the context of the European Project UpScale. The paper presents a motivation for the Encore language, examples of its main constructs, several larger programs, a formalisation of its core, and a discussion of some future directions our work will take. The work is ongoing and we started more or less from scratch. That means that a lot of work has to be done, but also that we need not be tied to decisions made for sequential language designs. Any design decision can be made in favour of good performance and scalability. For this reason, Encore offers an interesting platform for future exploration into object-oriented parallel programming."
+abstract_short = ""
+authors = ["Stephan Brandauer", "Elias Castegren", "Dave Clarke", "Kiko Fernandez-Reyes", "Einar Broch Johnsen", "Ka I. Pun", "Silvia Lizeth Tapia Tarifa", "Tobias Wrigstad", "Albert Mingkun Yang"]
+date = "2015-05-21T23:07:40+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *Formal Methods for Multicore Programming* (SFM 2015). LNCS 9104. © Springer 2015."
+publication_short = ""
+selected = false
+title = "Parallel Objects for Multicores: A Glimpse at the Parallel Language Encore"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]] 
+name = "DOI"
+url = "http://dx.doi.org/10.1007/978-3-319-18941-3_1"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/brandauer15sfm.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/brandauer15sfm.txt"
+
++++
+

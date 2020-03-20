@@ -1,0 +1,30 @@
++++
+abstract = "Modern software systems are increasingly being developed for deployment on a range of architectures. For this purpose, it is interesting to capture aspects of low-level deployment concerns in high-level modeling languages. In this paper, an executable object-oriented modeling language is extended with resource-restricted deployment components. To analyze model behavior a formal methodology is proposed to assess resource consumption, which balances the scalability of the method and the reliability of the obtained results. The approach applies to a general notion of resource, including traditional cost measures (e.g., time, memory) as well as concurrency-related measures (e.g., requests to a server, spawned tasks). The main idea of our approach is to combine reliable (but expensive) worst-case cost analysis of statically predictable parts of the model with fast (but inherently incomplete) simulations of the concurrent aspects in order to avoid the state-space explosion. The approach is illustrated by the analysis of memory consumption."
+abstract_short = ""
+authors = ["Elvira Albert", "Samir Genaim", "Miguel Gómez-Zamalloa", "Einar Broch Johnsen", "Rudolf Schlatte", "S. Lizeth Tapia Tarifa"]
+date = "2011-06-20T23:00:26+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *Proc. 17th Intl. Conf. on Formal Methods* (FM 2011). LNCS 6664. © Springer 2011."
+publication_short = ""
+selected = false
+title = "Simulating Concurrent Behaviors with Worst-Case Cost Bounds"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]] 
+name = "DOI"
+url = "http://dx.doi.org/10.1007/978-3-642-21437-0_27"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/albert11fm.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/albert11fm.txt"
+
++++
+

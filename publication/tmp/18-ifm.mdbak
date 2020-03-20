@@ -1,0 +1,30 @@
++++
+abstract = "Virtually timed ambients is a calculus of nested virtualization, which models timing and resource consumption for hierarchically structured virtual machines. This structure may change dynamically to support load-balancing, migration, and scaling. This paper introduces resource-awareness for virtually timed ambients, which enables processes to actively query the system about the resources necessary for a task and to reconfigure accordingly. Technically we extend virtually timed ambients with context-expressions using modal logic operators, give a formal semantics for the extension, and define bisimulation for resource-aware virtually timed systems. The paper also provides a proof of concept implementation in Maude and a case study involving dynamic auto scaling."
+abstract_short = ""
+authors = ["Einar Broch Johnsen", "Martin Steffen", "Johanna Beate Stumpf", "Lars Tveito"]
+date = "2018-09-19T00:23:39+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *Proc. 14th Intl. Conf. on Integrated Formal Methods (iFM 2018)*, LNCS 11023. © Springer 2018."
+publication_short = ""
+selected = false
+title = "Resource-Aware Virtually Timed Ambients"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]]
+name = "DOI"
+url = "https://doi.org/10.1007/978-3-319-98938-9_12"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/johnsen18ifm.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/johnsen18ifm.txt"
+
++++
+

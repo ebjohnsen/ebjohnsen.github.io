@@ -1,0 +1,29 @@
++++
+abstract = "Nested virtualization enables a virtual machine, which is a software layer representing an execution environment, to be placed inside another virtual machine. Nested virtual machines form a location hierarchy where virtual machines at every level in the hierarchy compete with other processes at that level for processing time. With nested virtualization, the computing power of a virtual machine depends on its position in this hierarchy and may change if the virtual machine moves. This paper introduces the calculus of virtually timed ambients, a formal model of hierarchical locations for execution with explicit resource provisioning, motivated by these effects of nested virtualization. Resource provisioning in this model is based on virtual time slices as a local resource. To reason about timed behavior in this setting, weak timed bisimulation for virtually timed ambients is defined as an extension of bisimulation for mobile ambients. We show that the equivalence of contextual bisimulation and reduction barbed congruence is preserved by weak timed bisimulation. Simulation with time relaxation is defined to express that a system is slower than another system up to a given time bound. The calculus of virtually timed ambients is illustrated by examples."
+abstract_short = ""
+authors = ["Einar Broch Johnsen", "Martin Steffen", "Johanna Beate Stumpf"]
+date = "2018-01-02T22:04:12+01:00"
+image = ""
+image_preview = ""
+math = false
+publication =  "Journal of Logic and  Algebraic Methods in Programming *94*:109-127, 2018. © Elsevier 2017."
+publication_short = ""
+selected = false
+title = "Virtually timed ambients: A calculus of nested virtualization"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = "" 
+[[url_custom]] 
+name = "DOI"
+url = "https://doi.org/10.1016/j.jlamp.2017.10.001"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/johnsen18jlamp.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/johnsen18jlamp.txt"
++++
+

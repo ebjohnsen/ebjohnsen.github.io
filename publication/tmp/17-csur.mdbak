@@ -1,0 +1,30 @@
++++
+abstract = "To program parallel systems efficiently and easily, a wide range of programming models have been proposed, each with different choices concerning synchronization and communication between parallel entities. Among them, the actor model is based on loosely coupled parallel entities that communicate by means of asynchronous messages and mailboxes. Some actor languages provide a strong integration with object-oriented concepts; these are often called active object languages. This article reviews four major actor and active object languages and compares them according to carefully chosen dimensions that cover central aspects of the programming paradigms and their implementation."
+abstract_short = ""
+authors = ["Frank De Boer", "Vlad Serbanescu", "Reiner Hähnle", "Ludovic Henrio", "Justine Rochas", "Marjan Sirjani" , "Ehsan Khamespanah", "Kiko Fernandez-Reyes", "Albert Mingkun Yang"]
+date = "2017-10-22T00:23:39+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "ACM Computing Surveys **50** (5): 76:1--76:39 © ACM 2017."
+publication_short = ""
+selected = false
+title = "A Survey of Active Object Languages"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]]
+name = "DOI"
+url = "https://doi.org/10.1145/3122848"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/deboer17csur.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/deboer17csur.txt"
+
++++
+

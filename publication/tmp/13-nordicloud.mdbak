@@ -1,0 +1,30 @@
++++
+abstract = "To foster the industrial adoption of virtualized services, it is necessary to address two important problems: (1) the efficient analysis, dynamic composition and deployment of services with qualitative and quantitative service levels and (2) the dynamic control of resources such as storage and processing capacities according to the internal policies of the services. The position supported in this paper is to overcome these problems by leveraging service-level agreements into software models and resource management into early phases of service design."
+abstract_short = ""
+authors = ["Elvira Albert", "Frank de Boer", "Reiner Hähnle", "Einar Broch Johnsen", "Cosimo Laneve"]
+date = "2013-09-21T23:05:24+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *2nd Nordic Symposium on Cloud Computing & Internet Technologies*. © ACM Press 2013."
+publication_short = ""
+selected = false
+title = "Engineering Virtualized Services"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]] 
+name = "DOI"
+url = "http://dx.doi.org/10.1145/2513534.2513545"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/albert13nordicloud.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/albert13nordicloud.txt"
+
++++
+

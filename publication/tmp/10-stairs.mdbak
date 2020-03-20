@@ -1,0 +1,30 @@
++++
+abstract = "Combining term rewriting and modal logics, this paper addresses confluence and termination of rewrite systems introduced for only-knowing logics. The rewrite systems contain a rule scheme that gives rise to an infinite number of critical pairs, hence we cannot check the joinability of every critical pair directly, in order to establish local confluence. We investigate conditions that are sufficient for confluence and identify a set of rewrite rules that satisfy these conditions; however, the general confluence result makes it easier to check confluence also of stronger systems should one want additional rules. The results provide a firm logical basis for implementation of procedures that compute autoepistemic expansions."
+abstract_short = ""
+authors = ["Espen H. Lian", "Einar Broch Johnsen", "Arild Waaler"]
+date = "2010-08-21T22:56:26+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *Proc. STAIRS 2010.* Frontiers in Artificial Intelligence and Applications **222**. © IOS Press 2010. "
+publication_short = ""
+selected = false
+title = "Confluent Term Rewriting for Only-knowing Logics"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]] 
+name = "DOI"
+url = "http://dx.doi.org/10.3233/978-1-60750-676-8-162"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/lian10stairs.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/lian10stairs.txt"
+
++++
+

@@ -1,0 +1,30 @@
++++
+abstract = "Today’s software systems are becoming increasingly configurable and designed for deployment on a plethora of architectures, ranging from sequential machines via multicore and distributed architectures to the cloud. Examples of such systems are found in, e.g., software product lines, service-oriented computing, information systems, embedded systems, operating systems, and telephony. To model and analyze systems without a fixed architecture, the models need to naturally capture and range over relevant deployment scenarios. For this purpose, it is interesting to lift aspects of low-level deployment concerns to the abstraction level of the modeling language. In this paper, the object-oriented modeling language Creol is extended with a notion of dynamic deployment components with parametric processing resources, such that processor resources may be explicitly reallocated. The approach is compositional in the sense that functional models and reallocation strategies are both expressed in Creol, and functional models can be run alone or in combination with different reallocation strategies. The formal semantics of deployment components is given in rewriting logic, extending the semantics of Creol, and executes on Maude, which allows simulations and test suites to be applied to models which vary in their available resources as well as in their resource reallocation strategies."
+abstract_short = ""
+authors = ["Einar Broch Johnsen", "Olaf Owe", "Rudolf Schlatte", "S. Lizeth Tapia Tarifa"]
+date = "2010-10-21T22:58:55+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *Proc. Intl. Conf. on Formal Engineering Methods (ICFEM 2010)*. LNCS 6447. © Springer 2010."
+publication_short = ""
+selected = false
+title = "Dynamic Resource Reallocation Between Deployment Components"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]] 
+name = "DOI"
+url = "http://dx.doi.org/10.1007/978-3-642-16901-4_42"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/johnsen10icfem.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/johnsen10icfem.txt"
+
++++
+

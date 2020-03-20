@@ -1,0 +1,30 @@
++++
+abstract = "Active objects offer a structured approach to concurrency, encapsulating both unshared state and a thread of control. For efficient data transfer, data should be passed by reference whenever possible, but this introduces aliasing and undermines the validity of the active objects. This paper proposes a minimal variant of ownership types that preserves the required race freedom invariant yet enables data transfer by reference between active objects (that is, without copying) in many cases, and a cheap clone operation where copying is necessary. Our approach is general and should be adaptable to several existing active object systems."
+abstract_short = ""
+authors = ["Dave Clarke", "Tobias Wrigstad", "Johan Östlund", "Einar Broch Johnsen"]
+date = "2008-12-21T22:54:17+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *Proc. 6th Asian Symposium on Programming Languages and Systems (APLAS'08)*. LNCS 5356. © Springer 2008."
+publication_short = ""
+selected = false
+title = "Minimal Ownership for Active Objects"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]] 
+name = "DOI"
+url = "http://dx.doi.org/10.1007/978-3-540-89330-1_11"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/clarke08aplas.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/clarke08aplas.txt"
+
++++
+

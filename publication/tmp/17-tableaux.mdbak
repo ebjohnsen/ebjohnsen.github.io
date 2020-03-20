@@ -1,0 +1,30 @@
++++
+abstract = "Language semantics that is formal and mathematically precise, is the essential prerequisite for the design of logics and calculi that permit automated reasoning about programs. The most popular approach to programming language semantics—small step operational semantics (SOS)—is not modular in the sense that it does not separate conceptual layers in the target language. SOS is also hard to relate formally to program logics and calculi. Minimalist semantic formalisms, such as automata, Petri nets, or π-calculus are inadequate for rich programming languages. We propose a new formal trace semantics for a concurrent, active objects language. It is designed with the explicit aim of being compatible with a sequent calculus for a program logic and has a strong model theoretic flavor. Our semantics separates sequential and object-local from concurrent computation: the former yields abstract traces which in a second stage are combined into global system behavior."
+abstract_short = ""
+authors = ["Crystal Chang Din", "Reiner Hähnle", "Einar Broch Johnsen", "Ka I Pun", "Silvia Lizeth Tapia Tarifa"]
+date = "2017-09-22T00:23:39+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *Proc. 26th International Conference on Automated Reasoning with Analytic Tableaux and Related Methods (TABLEAUX 2017)*, LNAI 10501. © Springer 2017."
+publication_short = ""
+selected = false
+title = "Locally Abstract, Globally Concrete Semantics of Concurrent Programming Languages"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]]
+name = "DOI"
+url = "https://doi.org/10.1007/978-3-319-66902-1_2"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/din17tableaux.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/din17tableaux.txt"
+
++++
+

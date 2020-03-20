@@ -1,0 +1,30 @@
++++
+abstract = "Traits have been proposed as a more flexible mechanism for code structuring in object-oriented programming than class inheritance, for achieving fine-grained code reuse. A trait originally developed for one purpose can be modified and reused in a completely different context. Formalizations of traits have been extensively studied, and implementations of traits have started to appear in programming languages. However, work on formally establishing properties of trait-based programs has so far mostly concentrated on type systems. This paper proposes the first deductive proof system for a trait-based object-oriented language. If a specification for a trait can be given a priori, covering all actual usage of that trait, our proof system is modular as each trait is analyzed only once. In order to reflect the flexible reuse potential of traits, our proof system additionally allows new specifications to be added to a trait in an incremental way which does not violate established proofs. We formalize and show the soundness of the proof system."
+abstract_short = ""
+authors = ["Ferruccio Damiani", "Johan Dovland", "Einar Broch Johnsen", "Ina Schaefer "]
+date = "2011-07-21T23:01:09+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *Proc. 13th Workshop on Formal Techniques for Java-like Programs* (FTfJP 2011). ACM Digital Library. © ACM 2011. "
+publication_short = ""
+selected = false
+title = "Verifying Traits: A Proof System for Fine-Grained Reuse"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]] 
+name = "DOI"
+url = "http://dx.doi.org/10.1145/2076674.2076682"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/damiani11ftfjp.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/damiani11ftfjp.txt"
+
++++
+

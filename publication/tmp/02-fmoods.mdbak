@@ -1,0 +1,24 @@
++++
+abstract = "Aspect-oriented approaches have recently been proposed to address the problem of specifying dynamic object-based systems, by depicting the various roles of the  objects  separately.   In  this  paper,  we  consider  an  approach based on the observable behavior of objects and propose a specification formalism for reusable object interfaces with input/output-driven assumption-guarantee predicates. The formalism supports compositional reasoning and exchange of object identities between objects in an environment where the number of objects is unbounded."
+abstract_short = ""
+authors = ["Einar Broch Johnsen" , "Olaf Owe"]
+date = "2002-03-21T22:46:45+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *Proc. 5th Intl. Conf. on Formal Methods for Open Object-Based Distributed Systems (FMOODS'02)*,  © Kluwer"
+publication_short = ""
+selected = false
+title = "A Compositional Formalism for Object Viewpoints"
+url_code = ""
+url_dataset = ""
+url_pdf = "Papers/johnsen02fmoods.pdf"
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/johnsen02fmoods.txt"
+
++++
+

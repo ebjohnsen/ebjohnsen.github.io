@@ -1,0 +1,30 @@
++++
+abstract = "The performance of software running on parallel or distributed architectures can be severely affected by the location of data. On shared memory multicore architectures, data movement between caches and main memory is driven by tasks executing in parallel on different cores and by a protocol to ensure cache coherence, such as MSI. This paper integrates MSI in a formal model to capture such data movement from an application perspective. We develop an executable model which integrates cache coherent data movement between different cache levels and main memory, for software described by task-level data access patterns. The proposed model is generic in the number of cache levels and cores, and abstracts from the concrete communication medium. We show that the model guarantees expected correctness properties for the MSI protocol, in particular data consistency. This paper further presents a proof of concept implementation of the proposed model in rewriting logic, which allows different choices for a program's underlying hardware architecture to be specified and compared."
+abstract_short = ""
+authors = ["Shiji Bijo", "Einar Broch Johnsen", "Ka I Pun", "Silvia Lizeth Tapia Tarifa"]
+date = "2017-10-22T00:23:39+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *Proc. 14th International Conference on Formal Aspects of Component Software (FACS 2017)*, LNCS 10487.  © Springer 2017."
+publication_short = ""
+selected = false
+title = "A Formal Model of Parallel Execution on Multicore Architectures with Multilevel Caches"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]]
+name = "DOI"
+url = "https://doi.org/10.1007/978-3-319-68034-7_4"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/bijo17facs.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/bijo17facs.txt"
+
++++
+

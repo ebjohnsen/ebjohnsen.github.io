@@ -1,0 +1,24 @@
++++
+abstract = "A distributed system can be modeled by objects that run concurrently, each with its own processor, and communicate by remote method calls. However objects may have to wait for response to external calls; at best resulting in inefficient use of processor capacity, at worst resulting in deadlock. Furthermore, it is difficult to combine active and passive object behavior without defining explicit control loops. This paper proposes a solution to these problems by means of asynchronous method calls and conditional processor release points in program code. Although at the cost of additional internal non-determinism in the objects, this approach seems attractive in asynchronous or unreliable distributed environments. The concepts are illustrated by the small object-oriented language Creol and its operational semantics."
+abstract_short = ""
+authors = ["Einar Broch Johnsen", "Olaf Owe", "Marte Arnestad"]
+date = "2003-11-21T22:47:45+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *Proc. Norsk Informatikkonferanse (NIK 2003)*, Tapir 2003. "
+publication_short = ""
+selected = false
+title = "Combining Active and Reactive Behavior in Concurrent Systems"
+url_code = ""
+url_dataset = ""
+url_pdf = "Papers/johnsen03nik.pdf"
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/johnsen03nik.txt"
+
++++
+

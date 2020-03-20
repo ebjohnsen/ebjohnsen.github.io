@@ -1,0 +1,30 @@
++++
+abstract = "This paper presents work on object-oriented modelling of wireless biomedical sensors in order to analyse their behaviour. These sensors combine synchronous and asynchronous communication, hard and soft real-time requirements, and have limited resources in terms of memory and energy. Moreover, design decisions tend to influence the validity of other requirements; e.g., higher communication throughput increases energy requirements. A single language is proposed in which design concerns can be expressed and analysed. This language is an extension for real-time systems of Creol, a modelling language specifically designed for distributed, asynchronously communicating, active objects. The extension proposes language primitives to capture requirements on the progress of time and the progress of the system. We integrate the timing requirements and the underlying object-oriented modelling language in a timed denotational semantics. The controller of a biomedical sensor node is used to illustrate the approach, for which there are both hard real-time requirements imposed by taking sensor measurements and soft requirements imposed by the communication network."
+abstract_short = ""
+authors = ["Einar Broch Johnsen", "Olaf Owe", "Joakim Bjørk", "Marcel Kyas"]
+date = "2008-07-21T22:54:06+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *Proc. 6th Intl. Symp. on Formal Methods for Components and Objects (FMCO 2007)*. LNCS 5382. © Springer 2008. "
+publication_short = ""
+selected = false
+title = "An Object-Oriented Component Model for Heterogeneous Nets"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]] 
+name = "DOI"
+url = "http://dx.doi.org/10.1007/978-3-642-04167-9_3"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/johnsen07fmco.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/johnsen07fmco.txt"
+
++++
+

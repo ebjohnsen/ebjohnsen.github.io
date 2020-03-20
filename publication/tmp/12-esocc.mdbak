@@ -1,0 +1,30 @@
++++
+abstract = "We show how aspects of performance, resource consumption, and deployment on the cloud can be formally modeled for an industrial case study of a distributed system, using the abstract behavioral specification language ABS. These non-functional aspects are integrated with an existing formal model of the functional system behavior, supporting a separation of concerns between the functional and non-functional aspects in the integrated model. The ABS model is parameterized with respect to deployment scenarios which capture different application-level management policies for virtualized resources. The model is validated against the existing system’s performance characteristics and used to simulate and compare deployment scenarios on the cloud."
+abstract_short = ""
+authors = ["Frank S. de Boer", "Reiner Hähnle", "Einar Broch Johnsen", "Rudolf Schlatte", "Peter Y. H. Wong"]
+date = "2012-09-21T23:03:48+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *Proc. European Conference on Service-Oriented and Cloud Computing* (ESOCC 2012). LNCS 7592. © Springer 2012."
+publication_short = ""
+selected = false
+title = "Formal Modeling of Resource Management for Cloud Architectures: An Industrial Case Study"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]] 
+name = "DOI"
+url = "http://dx.doi.org/10.1007/978-3-642-33427-6_7"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/deboer12esocc.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/deboer12esocc.txt"
+
++++
+

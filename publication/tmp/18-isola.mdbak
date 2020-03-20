@@ -1,0 +1,30 @@
++++
+abstract = "In stepwise program development, abstract specifications can be transformed into (parallel) programs which preserve functional correctness. Although tackling bad performance after a program’s deployment may require a costly redesign, deployment decisions are usually made very late in program development. This paper argues for the introduction of deployment decisions as an integrated part of a development-by-construction process: Deployment decisions should be expressed as part of a program’s high-level model and evaluated by how they affect program performance, using metrics at an appropriate level of abstraction. To illustrate such a deployment-by-construction process, we sketch how deployment decisions may be modelled and evaluated, concerning data layout in shared memory for parallel programs targeting shared-memory multicore architectures with caches. For simplicity, we use an abstract metric of data access penalties and simulate data accesses on a memory system which internally ensures data coherency between cores."
+abstract_short = ""
+authors = ["Shiji Bijo", "Einar Broch Johnsen", "Ka I Pun", "Christoph Seidl", "Silvia Lizeth Tapia Tarifa"]
+date = "2018-11-05T00:23:39+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *Proc. 8th Intl. Symp. on Leveraging Applications of Formal Methods (ISoLA 2018)*, LNCS 11244. © Springer 2018."
+publication_short = ""
+selected = false
+title = "Deployment by Construction for Multicore Architectures"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]]
+name = "DOI"
+url = "https://doi.org/10.1007/978-3-030-03418-4_26"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/bijo18isola.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/bijo18isola.txt"
+
++++
+

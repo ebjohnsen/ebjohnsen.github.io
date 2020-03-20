@@ -1,0 +1,30 @@
++++
+abstract = "Cloud computing provides on-demand resource provisioning for scalable applications with a pay-as-you-go pricing model. However, the cost-efficient use of virtual resources requires the application to exploit the available resources efficiently. Will an application perform equally well on fewer or cheaper resources? Will the application successfully finish on these resources? We have previously proposed a model-centric approach, ABS-YARN, for prototyping deployment decisions to answer such questions during the design of an application. In this paper, we make model-centric predictions for applications on Amazon Web Services (AWS), which is a prominent platform for cloud deployment. To demonstrate how ABS-YARN can help users make deployment decisions with a high cost-performance ratio on AWS, we design several workload scenarios based on MapReduce benchmarks and execute these scenarios on ABS-YARN by considering different AWS resource purchasing options."
+abstract_short = ""
+authors = ["Einar Broch Johnsen", "Jia-Chun Lin", "Ingrid Chieh Yu"]
+date = "2016-10-06T21:04:13+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *7th International Symposium on Leveraging Applications of Formal Methods, Verification and Validation (ISoLA 2016)*. LNCS 9953.  © Springer 2016."
+publication_short = ""
+selected = false
+title = "Comparing AWS Deployments Using Model-Based Predictions"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]]
+name = "DOI"
+url = "http://dx.doi.org/10.1007/978-3-319-47169-3_39"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/johnsen16isola.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/johnsen16isola.txt"
+
++++
+

@@ -1,0 +1,27 @@
++++
+abstract = ""
+abstract_short = ""
+authors = ["Einar Broch Johnsen","Ina Schaefer (Editors)"]
+date = "2018-06-18T13:51:24+02:00"
+image = "lncs10886.jpg"
+image_preview = ""
+math = false
+publication = "LNCS 10886. © Springer 2018."
+publication_short = ""
+selected = false
+title = "Proc. 16th Intl Conference on Software Engineering and Formal Methods (SEFM 2018)"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]]
+name = "Online edition"
+url = "https://doi.org/10.1007/978-3-319-92970-5"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/johnsen18sefm.txt"
+
++++
+

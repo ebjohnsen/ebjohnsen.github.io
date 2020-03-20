@@ -1,0 +1,30 @@
++++
+abstract = "This paper presents ABS, an abstract behavioral specification language for designing executable models of distributed object-oriented systems. The language combines advanced concurrency and synchronization mechanisms for concurrent object groups with a functional language for modeling data. ABS uses asynchronous method calls, interfaces for encapsulation, and cooperative scheduling of method activations inside concurrent objects. This feature combination results in a concurrent object-oriented model which is inherently compositional. We discuss central design issues for ABS and formalize the type system and semantics of Core ABS, a calculus with the main features of ABS. For Core ABS, we prove a subject reduction property which shows that well-typedness is preserved during execution; in particular, “method not understood” errors do not occur at runtime for well-typed ABS models. Finally, we briefly discuss the tool support developed for ABS."
+abstract_short = ""
+authors = ["Einar Broch Johnsen", "Reiner Hähnle", "Jan Schäfer", "Rudolf Schlatte", "Martin Steffen"]
+date = "2012-01-21T23:00:48+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *Proc. 9th Intl. Symp. on Formal Methods for Components and Objects (FMCO 2010)*. LNCS 6957. © Springer 2012."
+publication_short = ""
+selected = false
+title = "ABS: A Core Language for Abstract Behavioral Specification"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]] 
+name = "DOI"
+url = "http://dx.doi.org/10.1007/978-3-642-25271-6_8"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/johnsen10fmco.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/johnsen10fmco.txt"
+
++++
+

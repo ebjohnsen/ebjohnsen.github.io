@@ -1,0 +1,30 @@
++++
+abstract = "This paper considers a formal object-oriented model for distributed computing.  Object orientation appears as a leading framework for concurrent and distributed systems.  However, the synchronization of the RPC communication model is unsatisfactory in many distributed systems.  Asynchronous message passing gives better control and efficiency in this setting, but lacks the structure and discipline of traditional object-oriented methods. The integration of the message concept in the object-oriented paradigm is unsettled, especially with respect to inheritance and redefinition.  We propose an approach combining asynchronous method calls and conditional processor release points, which reduces the cost of waiting for replies in the distributed environment while avoiding low-level synchronization constructs such as explicit signaling.  Even the lack of replies to method calls in unstable environments need not lead to deadlock in the invoking objects.  This property seems attractive in asynchronous, open, or unreliable environments.  Furthermore, the approach allows active and passive behavior (client and server) to be combined in concurrent objects in a very natural way.  In this paper, we consider the integration of these constructs with a mechanism for multiple inheritance within a small object-oriented language.  The language constructs are formally described by an operational semantics defined in rewriting logic."
+abstract_short = ""
+authors = ["Einar Broch Johnsen", "Olaf Owe"]
+date = "2005-12-21T22:50:16+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *Proc. 38th Hawaii Intl. Conf. on System Sciences (HICSS-38)*, © IEEE press, 2005."
+publication_short = ""
+selected = false
+title = "Inheritance in the Presence of Asynchronous Method Calls"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]]
+name = "DOI"
+url = "http://dx.doi.org/10.1109/HICSS.2005.323"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/johnsen05hicss.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/johnsen05hicss.txt"
+
++++
+

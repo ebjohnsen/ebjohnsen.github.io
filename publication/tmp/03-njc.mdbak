@@ -1,0 +1,24 @@
++++
+abstract = "Formal program development by stepwise refinement involves a lot of work discharging proof obligations.  Transformational techniques can reduce this work:  applying correct transformation rules removes the need for verifying the correctness of each refinement step individually.  However, a crucial problem is how to identify appropriate transformation rules.In this paper, a method is proposed to incrementally construct a set of correctness preserving transformation rules for refinement relations in arbitrary specification formalisms. Transformational developments are considered as proofs, which are generalised.  This results in a framework where specific example refinements can be systematically generalised to more applicable transformation rules.  The method is implemented in the Isabelle theorem prover and demonstrated on an example of data refinement."
+abstract_short = ""
+authors = ["Einar Broch Johnsen", "Christoph Lüth"]
+date = "2003-07-21T22:47:55+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "Nordic Journal of Computing **10**: 313-336, 2003."
+publication_short = ""
+selected = false
+title = "Abstracting Refinements for Transformation"
+url_code = ""
+url_dataset = ""
+url_pdf = "Papers/johnsen03njc.pdf"
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/johnsen03njc.txt"
+
++++
+

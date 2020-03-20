@@ -1,0 +1,30 @@
++++
+abstract = "We present a novel static analysis to infer the parallel cost of distributed systems. Parallel cost differs from the standard notion of serial cost by exploiting the truly concurrent execution model of distributed processing to capture the cost of synchronized tasks executing in parallel.It is challenging to analyze parallel cost because one needs to soundly infer the parallelism between tasks while accounting for waiting and idle processor times at the different locations. Our analysis works in three phases: (1) It first performs a block-level analysis to estimate the serial costs of the blocks between synchronization points in the program; (2) Next, it constructs a distributed flow graph (DFG) to capture the parallelism, the waiting and idle times at the locations of the distributed system; Finally, (3) the parallel cost can be obtained as the path of maximal cost in the DFG. A prototype implementation demonstrates the accuracy and feasibility of the proposed analysis."
+abstract_short = ""
+authors = ["Elvira Albert", "Jesús Correas", "Einar Broch Johnsen", "Guillermo Román-Díez"]
+date = "2015-09-21T23:07:32+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *Proc. 22nd International Symposium on Static Analysis* (SAS 2015). LNCS 9291. © Springer 2015."
+publication_short = ""
+selected = false
+title = "Parallel Cost Analysis of Distributed Systems"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]] 
+name = "DOI"
+url = "http://dx.doi.org/10.1007/978-3-662-48288-9_16"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/albert15sas.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/albert15sas.txt"
+
++++
+

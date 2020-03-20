@@ -1,0 +1,30 @@
++++
+abstract = "In this paper, we propose a novel approach to testing executable models of concurrent objects under application-specific scheduling regimes. Method activations in concurrent objects are modeled as a composition of symbolic automata; this composition expresses all possible interleavings of actions. Scheduler specifications, also modeled as automata, are used to constrain the system execution. Test purposes are expressed as assertions on selected states of the system, and weakest precondition calculation is used to derive the test cases from these test purposes. Our new testing technique is based on the assumption that we have full control over the (application-specific) scheduler, which is the case in our executable models under test. Hence, the enforced scheduling policy becomes an integral part of a test case. This tackles the problem of testing non-deterministic behavior due to scheduling."
+abstract_short = ""
+authors = ["Rudolf Schlatte", "Bernhard K. Aichernig", "Frank S. de Boer", "Andreas Griesmayer", "Einar Broch Johnsen"]
+date = "2008-08-21T22:53:49+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *Proc. 5th International Colloquium on Theoretical Aspects of Computing (ICTAC'08)*. LNCS 5160. © Springer 2008. "
+publication_short = ""
+selected = false
+title = "Testing Concurrent Objects with Application-Specific Schedulers"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]] 
+name = "DOI"
+url = "http://dx.doi.org/10.1007/978-3-540-85762-4_22"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/schlatte08ictac.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/schlatte08ictac.txt"
+
++++
+

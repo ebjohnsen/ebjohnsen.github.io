@@ -1,0 +1,30 @@
++++
+abstract = "Current object-oriented approaches to distributed programs may be criticized in several respects. First, method calls are generally synchronous, which leads to much waiting in distributed and unstable networks. Second, the common model of thread concurrency makes reasoning about program behavior very challenging. Models based on concurrent objects communicating by asynchronous method calls, have been proposed to combine object orientation and distribution in a more satisfactory way. In this paper, a high-level language and proof system are developed for such a model, emphasizing simplicity and modularity. In particular, the proof system is used to derive external specifications of observable behavior for objects, encapsulating their state. A simple and compositional proof system is paramount to allow verification of real programs. The proposed proof rules are derived from the Hoare rules of a standard sequential language by a semantic encoding preserving soundness and relative completeness. Thus, the paper demonstrates that these models not only address the first criticism above, but also the second."
+abstract_short = ""
+authors = ["Johan Dovland", "Einar Broch Johnsen", "Olaf Owe"]
+date = "2007-07-21T22:52:48+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *Proc. Workshop on the Foundations of Interactive Computation (FInCo'07)*. Electronic Notes in Theoretical Computer Science 203:19-34, 2008. © Elsevier."
+publication_short = ""
+selected = false
+title = "Observable Behavior of Dynamic Systems: Component Reasoning for Concurrent Objects"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]]
+name = "DOI"
+url = "http://dx.doi.org/10.1016/j.entcs.2008.04.084"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/dovland07finco.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/dovland07finco.txt"
+
++++
+

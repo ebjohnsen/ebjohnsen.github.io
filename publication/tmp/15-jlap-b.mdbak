@@ -1,0 +1,30 @@
++++
+abstract = "The code base of a software system undergoes changes during its life time. For object-oriented languages, classes are adapted, e.g., to meet new requirements, customize the software to specific user functionalities, or refactor the code to reduce its complexity. However, the adaptation of class hierarchies makes reasoning about program behavior challenging; even classes in the middle of a class hierarchy can be modified. This paper develops a proof system for analyzing the effect of operations to adapt classes, in the context of method overriding and late bound method calls. The proof system is incremental in the sense that reverification is avoided for methods that are not explicitly changed by adaptations. Furthermore, the possible adaptations are not unduly restricted; i.e., flexibility is retained without compromising on reasoning control. To achieve this balance, we extend the mechanism of lazy behavioral subtyping, originally proposed for reasoning about inheritance when subclasses are added to a class hierarchy, to deal with the more general situation of adaptable class hierarchies and changing specifications. The reasoning system distinguishes guaranteed method behavior from requirements toward methods, and achieves incremental reasoning by tracking guarantees and requirements in adaptable class hierarchies. We show soundness of the proposed proof system."
+abstract_short = ""
+authors = ["Johan Dovland", "Einar Broch Johnsen", "Olaf Owe", "Ingrid Chieh Yu"]
+date = "2015-01-21T23:06:40+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "Journal of Logical and Algebraic Methods in Programming **84** (1): 37-53, 2015. © Elsevier."
+publication_short = ""
+selected = false
+title = "A proof system for adaptable class hierarchies"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]] 
+name = "DOI"
+url = "http://dx.doi.org/10.1016/j.jlamp.2014.09.001"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/dovland15jlamp.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/dovland15jlamp.txt"
+
++++
+

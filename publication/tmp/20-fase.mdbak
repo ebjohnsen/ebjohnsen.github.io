@@ -1,0 +1,27 @@
++++
+abstract = "Non-determinism in a concurrent or distributed setting may lead to many different runs or executions of a program. This paper presents a method to reproduce a specific run for non-deterministic actor or active object systems. The method is based on recording traces of events reflecting local transitions at so-called stable states during execution; i.e., states in which local execution depends on interaction with the environment. The paper formalizes trace recording and replay for a basic active object language, to show that such local traces suffice to obtain global reproducibility of runs; during replay different objects may operate fairly independently of each other and in parallel, yet a program under replay has guaranteed deterministic outcome. We then show that the method extends to the other forms of non-determinism as found in richer active object languages. Following the proposed method, we have implemented a tool to record and replay runs, and to visualize the communication and scheduling decisions of a recorded run, for Real-Time ABS, a formally defined, rich active object language for modeling timed, resource-aware behavior in distributed systems."
+abstract_short = ""
+authors = ["Lars Tveito", "Einar Broch Johnsen", "Rudolf Schlatte"]
+date = "2020-02-14T23:08:36+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *Proc. 23rd International Conference on Fundamental Approaches to Software Engineering* (FASE 2020).  © Springer 2020. To appear."
+publication_short = ""
+selected = false
+title = "Global Reproducibility through Local Control for Distributed Active Objects"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]]
+name = "Preprint"
+url = "Papers/tveito20fase.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/tveito20fase.txt"
+
++++
+

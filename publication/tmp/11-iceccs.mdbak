@@ -1,0 +1,30 @@
++++
+abstract = "Wireless sensor networks consist of resource constrained nodes, especially with respect to power resources. In many cases, the replacement of a dead node is difficult and costly, e.g. an implanted node in the human body. Our main goal in this paper is reducing the total power consumption of the network. For this purpose, we consider the cooperation of nodes in data transmission in terms of a group, since the major consumer of power is the data transmission process. A mobile node may move to a new location, in which it is desirable for the node to join a group. In this paper, we propose an algorithm for nodes to choose the best group in their signal range, using coalitional game theory to determine what is beneficial in terms of power consumption. The protocol is formalized in rewriting logic, implemented in the Maude tool, and validated by means of Maude's model exploration facilities. Simulation-based tools are in general not able to prove the protocol. However, by using Maude, we prove the correctness of our proposed protocol, by searching for failures of the protocol, through all possible behaviors of sensors. These searches prove that grouping nodes is done correctly in all reachable states from a set of initial states of the model. In addition, we simulate our model in order to quantitatively analyze the efficiency of the proposed protocol. The results show significant improvements in power efficiency."
+abstract_short = ""
+authors = ["Fatemeh Kazemeyni", "Einar Broch Johnsen", "Olaf Owe", "Ilangko Balasingham"]
+date = "2011-04-21T22:59:32+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *Proc. 16th Intl. Conf. on Engineering of Complex Computer Systems* (ICECCS 2011). © IEEE Computer Society Press 2011."
+publication_short = ""
+selected = false
+title = "Group Selection by Nodes in Wireless Sensor Networks Using Coalitional Game Theory"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]] 
+name = "DOI"
+url = "http://dx.doi.org/10.1109/ICECCS.2011.32"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/kazemeyni11iceccs.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/kazemeyni11iceccs.txt"
+
++++
+

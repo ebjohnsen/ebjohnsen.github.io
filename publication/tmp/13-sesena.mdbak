@@ -1,0 +1,30 @@
++++
+abstract = "The challenge of designing and programming Wireless Sensor Network (WSN) applications has gained increasing attention in recent years. While most existing programming models for WSNs share the same goal of improving software modularity, there exists a gap between the structural software design patterns offered by them and the high-level description of system components. The gap has appeared due to the lack of a software design solution that can model the unique behavioural and dynamic aspects of WSN software, e.g., activities, states, timed operations, and event-driven control flow. In this paper, we present a behavioural design solution for sensor networks based on the principles of finite automata, abstracting the complicated dynamic aspects of WSN software systems through the concept of activity-driven states. This promises a design model which effectively fills the above gap and provides the programmer with concrete design elements that can be directly mapped to the constructs of target programming languages. Moreover, it allows more accurate verification and validation of software systems for WSNs by precisely formulating their behavioural elements."
+abstract_short = ""
+authors = ["Amir Taherkordi", "Frank Eliassen", "Einar Broch Johnsen"]
+date = "2013-05-21T23:05:03+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *Proc. 4th International ICSE Workshop on Software Engineering for Sensor Network Applications* (SESENA 2013). © IEEE Computer Society Press 2013."
+publication_short = ""
+selected = false
+title = "Behavioural Design of Sensor Network Applications using Activity-Driven States"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]] 
+name = "DOI"
+url = "http://dx.doi.org/10.1109/SESENA.2013.6612259"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/taherkordi13sesena.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/taherkordi13sesena.txt"
+
++++
+

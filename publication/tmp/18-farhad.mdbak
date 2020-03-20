@@ -1,0 +1,31 @@
++++
+title = "Release the Beasts: When Formal Methods Meet Real World Data"
+abstract = "It is well-known that the difference between theory and practice seems smaller in theory than in practice. From the perspective of the coordinator, the coordinated components play the role of wild beasts, fortunately imprisoned in boxes. From the perspective of the care-free semanticist, the development of tools is merely a minor step away (possibly hidden in promises of future work). This paper draws parallels between beasts and tool building by describing challenges we have encountered and sharing experiences and lesson learned when going from a compositional semantics to a well-functioning tool interacting with industrial use cases. Concretely, we discuss the development of the simulation backend for Real-Time ABS."
+abstract_short = ""
+authors = ["Rudolf Schlatte","Einar Broch Johnsen","Jacopo Mauro","S. Lizeth Tapia Tarifa","Ingrid Chieh Yu"]
+date = "2018-05-25T22:04:12+01:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *It's All About Coordination - Essays to Celebrate the Lifelong Scientific Achievements of Farhad Arbab*, LNCS 10865. © Springer 2018."
+publication_short = ""
+selected = false
+url_pdf = ""
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]] 
+name = "DOI"
+url = "https://doi.org/10.1007/978-3-319-90089-6_8"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/schlatte18farhad.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/schlatte18farhad.txt"
+
++++
+
+

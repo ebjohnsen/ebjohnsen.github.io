@@ -1,0 +1,27 @@
++++
+abstract = ""
+abstract_short = ""
+authors = ["Marco Bernardo", "Einar Broch Johnsen (Editors)"]
+date = "2015-06-07T13:51:24+02:00"
+image = "lncs9104.jpg"
+image_preview = ""
+math = false
+publication = "LNCS 9104. © Springer 2015."
+publication_short = ""
+selected = false
+title = "Advanced Lectures on Formal Methods for Multicore Programming"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]]
+name = "Online edition"
+url = "https://doi.org/10.1007/978-3-319-18941-3"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/bernardo15sfm.txt"
+
++++
+

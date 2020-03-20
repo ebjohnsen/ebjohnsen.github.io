@@ -1,0 +1,30 @@
++++
+abstract = "We study the problem of automatically computing the time complexity of concurrent object-oriented programs. To determine this complexity we use intermediate abstract descriptions that record relevant information for the time analysis (cost of statements, creations of objects, and concurrent operations), called behavioural types. Then, we define a translation function that takes behavioural types and makes the parallelism explicit into so-called cost equations, which are fed to an automatic off-the-shelf solver for obtaining the time complexity."
+abstract_short = ""
+authors = ["Elena Giachino", "Einar Broch Johnsen", "Cosimo Laneve", "Ka I Pun"]
+date = "2016-01-21T23:07:58+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *Proc. 12th International Conference on Formal Aspects of Component Software* (FACS 2015). LNCS 9659. © Springer 2016."
+publication_short = ""
+selected = false
+title = "Time Complexity of Concurrent Programs - A Technique Based on Behavioural Types"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]] 
+name = "DOI"
+url = "http://dx.doi.org/10.1007/978-3-319-28934-2_11"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/giachino15facs.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/giachino15facs.txt"
+
++++
+

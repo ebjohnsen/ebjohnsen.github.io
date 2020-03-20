@@ -1,0 +1,30 @@
++++
+abstract = "Scheduling concerns the allocation of processors to processes, and is traditionally associated with low-level tasks in operating systems and embedded devices. However, modern software applications with soft real-time requirements need to control application-level performance. High-level scheduling control at the application level may complement general purpose OS level scheduling to fine-tune performance of a specific application, by allowing the application to adapt to changes in client traffic on the one hand and to low-level scheduling on the other hand. This paper presents an approach to express and analyze application-specific scheduling decisions during the software design stage. For this purpose, we integrate support for application-level scheduling control in a high-level object-oriented modeling language, Real-Time ABS, in which executable specifications of method calls are given deadlines and real-time computational constraints. In Real-Time ABS, flexible application-specific schedulers may be specified by the user, i.e., developer, at the abstraction level of the high-level modeling language itself and associated with concurrent objects at creation time. Tool support for Real-Time ABS is based on an abstract interpreter that supports simulations and measurements of systems at the design stage."
+abstract_short = ""
+authors = ["Joakim Bjørk", "Frank S. de Boer", "Einar Broch Johnsen", "Rudolf Schlatte", "S. Lizeth Tapia Tarifa"]
+date = "2013-04-21T23:02:20+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "Innovations in Systems and Software Engineering **9** (1):29-43, 2013. © Springer."
+publication_short = ""
+selected = false
+title = "User-defined Schedulers for Real-Time Concurrent Objects"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]] 
+name = "DOI"
+url = "http://dx.doi.org/10.1007/s11334-012-0184-5"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/bjork13isse.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/bjork13isse.txt"
+
++++
+

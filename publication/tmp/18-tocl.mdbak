@@ -1,0 +1,30 @@
++++
+abstract = "This article presents parallel cost analysis, a static cost analysis targeting to over-approximate the cost of parallel execution in distributed systems. In contrast to the standard notion of serial cost, parallel cost captures the cost of synchronized tasks executing in parallel by exploiting the true concurrency available in the execution model of distributed processing. True concurrency is challenging for static cost analysis, because the parallelism between tasks needs to be soundly inferred, and the waiting and idle processor times at the different locations need to be accounted for. Parallel cost analysis works in three phases: (1) it performs a block-level analysis to estimate the serial costs of the blocks between synchronization points in the program; (2) it then constructs a distributed flow graph (DFG) to capture the parallelism, the waiting, and idle times at the locations of the distributed system; and (3) the parallel cost can finally be obtained as the path of maximal cost in the DFG. We prove the correctness of the proposed parallel cost analysis, and provide a prototype implementation to perform an experimental evaluation of the accuracy and feasibility of the proposed analysis.."
+abstract_short = ""
+authors = ["Elvira Albert", "Jesús Correas", "Einar Broch Johnsen", "Ka I Pun", "Guillermo Román-Díez"]
+date = "2018-11-21T13:07:32+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *ACM Transactions on Computational Logic (TOCL)* 19(4) 31:1-31:39. © ACM 2018."
+publication_short = ""
+selected = false
+title = "Parallel Cost Analysis"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]] 
+name = "DOI"
+url = "https://doi.org/10.1145/3274278"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/albert18tocl.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/albert18tocl.txt"
+
++++
+

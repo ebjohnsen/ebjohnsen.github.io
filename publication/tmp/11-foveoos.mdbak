@@ -1,0 +1,30 @@
++++
+abstract = "Software today is often developed for deployment on varying architectures. In order to model and analyze the consequences of such deployment choices at an early stage in software development, it seems desirable to capture aspects of low-level deployment concerns in high-level models. In this paper, we propose an integration of a generic cost model for resource consumption with deployment components in Timed ABS, an abstract behavioral specification language for executable object-oriented models. The actual cost model may be user-defined and specified by means of annotations in the executable Timed ABS model, and can be used to capture specific resource requirements such as processing capacity or memory usage. Architectural variations are specified by resource-restricted deployment scenarios with different capacities. For this purpose, the models have deployment components which are parametric in their assigned resources. The approach is demonstrated on an example of multimedia processing servers with a user-defined cost model for memory usage. We use our simulation tool to analyze deadline misses for given usage and deployment scenarios."
+abstract_short = ""
+authors = ["Einar Broch Johnsen", "Rudolf Schlatte", "S. Lizeth Tapia Tarifa"]
+date = "2012-01-21T23:02:40+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *Proc. Formal Verification of Object-Oriented Systems* (FoVeOOS 2011). LNCS 7421. © Springer 2012."
+publication_short = ""
+selected = false
+title = "A Formal Model of User-Defined Resources in Resource-Restricted Deployment Scenarios"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]] 
+name = "DOI"
+url = "http://dx.doi.org/10.1007/978-3-642-31762-0_13"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/johnsen11foveoos.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/johnsen11foveoos.txt"
+
++++
+

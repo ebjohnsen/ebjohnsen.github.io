@@ -1,0 +1,29 @@
++++
+abstract = "On shared memory multicore architectures, cache memory is used to accelerate program execution by providing quick access to recently used data, but enables multiple copies of data to co-exist during execution. Although cache coherence protocols ensure that cores do not access stale data, the organisation of data in memory and the scheduling of tasks may significantly influence the performance of a parallel program in this setting. As a step towards understanding how the data organisation impacts the performance of a given parallel program using shared memory, this paper proposes a framework defined in Maude for the executable modelling of program execution on cache coherent multicore architectures, formalising the interactions between cores executing tasks, their caches, and main memory. The framework allows the specification and comparison of program execution with different design choices for the underlying hardware architecture, such as the number of cores, the data layout in main memory, and the cache associativity."
+abstract_short = ""
+authors = ["Shiji Bijo", "Einar Broch Johnsen", "Ka I Pun", "Silvia Lizeth Tapia Tarifa"]
+date = "2016-03-07"
+image = ""
+image_preview = ""
+math = false
+publication = "In *11th International Workshop on Rewriting Logic and Applications (WRLA 2016)*. LNCS 9942.  © Springer 2016"
+publication_short = ""
+selected = false
+title = "A Maude Framework for Cache Coherent Multicore Architectures"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]] 
+name = "DOI"
+url = "http://dx.doi.org/10.1007/978-3-319-44802-2_3"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/bijo16wrla.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/bijo16wrla.txt"
++++
+

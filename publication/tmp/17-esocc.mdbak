@@ -1,0 +1,27 @@
++++
+abstract = ""
+abstract_short = ""
+authors = ["Flavio De Paoli","Stefan Schulte","Einar Broch Johnsen (Editors)"]
+date = "2017-09-07T13:51:24+02:00"
+image = "lncs10465.jpg"
+image_preview = ""
+math = false
+publication = "LNCS 10465. © Springer 2017."
+publication_short = ""
+selected = false
+title = "Proc. 6th IFIP WG 2.14 European Conference on Service-Oriented and Cloud Computing (ESOCC 2017)"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]]
+name = "Online edition"
+url = "https://doi.org/10.1007/978-3-319-67262-5"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/depaoli17esocc.txt"
+
++++
+

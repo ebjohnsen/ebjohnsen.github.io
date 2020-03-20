@@ -1,0 +1,30 @@
++++
+abstract = "Services are autonomous, self-describing, technology-neutral software units that can be described, published, discovered, and composed into software applications at run-time. Designing software services and composing services in order to form applications or composite services requires abstractions beyond those found in typical object-oriented programming languages. In this paper, we explore a number of the abstractions used in service-oriented computing and related Internet- and web-based programming models in the context of Creol, an executable concurrent object-oriented modeling language with active objects and futures; i.e., features capable of expressing and dealing with asynchronous actions. By adding various abstractions to the modeling language, we demonstrate how a concurrent object language may naturally address many of the requirements of service-oriented computing. The study of language extensions in the restricted setting of a small, high-level modeling language, such as Creol, suggests a cheap way of developing new abstractions for emerging application domains. In this paper, we explore abstractions in the context of service-oriented computing, particularly with regard to dynamic aspects such as service discovery and structuring mechanisms such as groups."
+abstract_short = ""
+authors = ["Dave Clarke", "Einar Broch Johnsen", "Olaf Owe"]
+date = "2010-09-21T22:56:03+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *Correctness, Concurrency, Compositionality: Essays in honor of Willem-Paul de Roever*. LNCS 5930. © Springer 2010. "
+publication_short = ""
+selected = false
+title = "Concurrent Objects a la Carte"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]] 
+name = "DOI"
+url = "http://dx.doi.org/10.1007/978-3-642-11512-7_12"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/clarke10wpdr.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/clarke10wpdr.txt"
+
++++
+

@@ -1,0 +1,29 @@
++++
+abstract = "Actor-based languages attract attention for their ability to scale to highly parallel architectures. Active objects combine the asynchronous communication of actors with object-oriented programming by means of asynchronous method calls and synchronization on futures. However, the combination of asynchronous calls and synchronization may introduce communication cycles which lead to a form of communication deadlock and livelock. This paper addresses such communication deadlocks and livelocks for ABS, a formally defined active object language which additionally supports cooperative scheduling to express complex distributed control flow, using first-class futures and explicit process release points. Our approach is based on a translation of the semantics of ABS into colored Petri nets, such that a program and its state correspond to a marking of this net. We prove the soundness of this translation and demonstrate by example how the implementation of this net can be used to analyze ABS programs with respect to communication deadlocks and livelocks."
+abstract_short = ""
+authors = ["Anastasia Gkolfi", "Crystal Chang Din", "Einar Broch Johnsen", "Lars Michael Kristensen", "Martin Steffen", "Ingrid Chieh Yu"]
+date = "2019-07-09T00:23:39+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "Science of Computer Programming **181**: 1-26, 2019. © Elsevier."
+publication_short = ""
+selected = false
+title = "Translating active objects into colored Petri nets for communication analysis"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]]
+name = "DOI"
+url = "https://doi.org/10.1016/j.scico.2019.04.002"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/gkolfi19scp.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/gkolfi19scp.txt"
+
++++

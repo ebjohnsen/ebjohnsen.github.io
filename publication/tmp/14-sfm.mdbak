@@ -1,0 +1,27 @@
++++
+abstract = ""
+abstract_short = ""
+authors = ["Marco Bernardo", "Ferruccio Damiani", "Reiner Hähnle", "Einar Broch Johnsen", "Ina Schaefer (Editors)"]
+date = "2014-06-07T13:51:24+02:00"
+image = "lncs8483.jpg"
+image_preview = ""
+math = false
+publication = "LNCS 8483. © Springer 2014."
+publication_short = ""
+selected = false
+title = "Advanced Lectures on Formal Methods for Executable Software Models"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]]
+name = "Online edition"
+url = "https://doi.org/10.1007/978-3-319-07317-0"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/bernardo14sfm.txt"
+
++++
+

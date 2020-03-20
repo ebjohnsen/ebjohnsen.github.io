@@ -1,0 +1,30 @@
++++
+abstract = "With the increasing emphasis on dependability in complex, distributed systems, it is essential that system development can be done gradually and at different levels of detail. In this paper we propose an incremental treatment of faults as  a  refinement  process  on  object-oriented  system  specifications.   An  intolerant  system  specification is  a  natural abstraction from which a fault-tolerant system can evolve. With each refinement step a fault and its treatment are introduced, so the fault-tolerance of the system increases during the design process. Different kinds of faults are identified and captured by separate refinement relations according to how the tolerant system relates to abstract properties of the intolerant one in terms of safety and liveness.  The specification language utilized is object-oriented and based upon first-order predicates on communication traces. Fault-tolerance refinement relations are formalized within this framework"
+abstract_short = ""
+authors = ["Einar Broch Johnsen", "Olaf Owe", "Ellen Munthe-Kaas","Jüri Vain"]
+date = "2001-12-21"
+image = ""
+image_preview = ""
+math = false
+publication = "In *Proc. 2nd Asian Pacific Conference on Quality Software (APAQS 2001)*, &copy;  IEEE."
+publication_short = "APAQS 2001"
+selected = false
+title = "Incremental Fault-Tolerant Design in an Object-Oriented Setting"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]]
+name = "DOI"
+url = "http://dx.doi.org/10.1109/APAQS.2001.990023"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/johnsen01apaqs.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/johnsen01apaqs.txt"
+
++++
+

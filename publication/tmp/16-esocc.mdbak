@@ -1,0 +1,27 @@
++++
+abstract = ""
+abstract_short = ""
+authors = ["Marco Aiello", "Einar Broch Johnsen", "Schahram Dustdar", "Ilche Georgievski (Editors)"]
+date = "2016-09-07T13:51:24+02:00"
+image = "lncs9846.jpg"
+image_preview = ""
+math = false
+publication = "LNCS 9846. © Springer 2016."
+publication_short = ""
+selected = false
+title = "Proc. 5th IFIP WG 2.14 European Conference Service-Oriented and Cloud Computing (ESOCC 2016)"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]]
+name = "Online edition"
+url = "http://dx.doi.org/10.1007/978-3-319-44482-6"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/aiello16esocc.txt"
+
++++
+

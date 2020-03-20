@@ -1,0 +1,30 @@
++++
+abstract = "Asynchronous method calls have been proposed to better integrate object orientation with distribution. In the language, asynchronous method calls are combined with so-called processor release points in order to allow concurrent objects to adapt local scheduling to network delays in a very flexible way. However, asynchronous method calls complicate the type analysis by decoupling input and output information for method calls, which can be tracked by a type and effect system. Interestingly, backwards type analysis simplifies the effect system considerably and allows analysis in a single pass. This paper presents a kernel language with asynchronous method calls and processor release points, a novel mechanism for local memory deallocation related to asynchronous method calls, an operational semantics in rewriting logic for the language, and a type and effect system for backwards analysis. Source code is translated into runtime code as an effect of the type analysis, automatically inserting inferred type information in method invocations and operations for local memory deallocation in the process. We establish a subject reduction property, showing in particular that method lookup errors do not occur at runtime and that the inserted deallocation operations are safe."
+abstract_short = ""
+authors = ["Einar Broch Johnsen", "Ingrid Chieh Yu"]
+date = "2008-09-21T22:53:29+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "Journal of Logic and Algebraic Programming **77** (1-2): 40-59, 2008. © Elsevier."
+publication_short = ""
+selected = false
+title = "Backwards Type Analysis of Asynchronous Method Calls"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]] 
+name = "DOI"
+url = "http://dx.doi.org/10.1016/j.jlap.2008.05.004"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/johnsen08jlap.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/johnsen08jlap.txt"
+
++++
+

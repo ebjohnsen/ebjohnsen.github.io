@@ -1,0 +1,30 @@
++++
+abstract = "Object-orientation supports code reuse and incremental programming. Multiple inheritance increases the possibilities for code reuse, but complicates the binding of method calls and thereby program analysis. Behavioral subtyping allows program analysis under an open world assumption; i.e., under the assumption that class hierarchies are extensible. However, method redefinition is severely restricted by behavioral subtyping, and multiple inheritance may lead to conflicting restrictions from independently designed superclasses. This paper presents a more liberal approach to incremental reasoning for multiple inheritance under an open world assumption. The approach, based on lazy behavioral subtyping, is well-suited for multiple inheritance, as it incrementally imposes context-dependent behavioral constraints on new subclasses. We first present the approach for a simple language and show how incremental reasoning can be combined with flexible code reuse. Then this language is extended with a hierarchy of interface types which is independent of the class hierarchy. In this setting, flexible code reuse can be combined with modular reasoning about external calls in the sense that each class is analyzed only once. We formalize the approach as a calculus and show soundness for both languages."
+abstract_short = ""
+authors = ["Johan Dovland", "Einar Broch Johnsen", "Olaf Owe", "Martin Steffen"]
+date = "2011-10-21T22:59:19+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "Science of Computer Programming **76** (10):915-941, 2011. © Elsevier. "
+publication_short = "Science of Computer Programming 76(10):915-941, 2011."
+selected = false
+title = "Incremental Reasoning with Lazy Behavioral Subtyping for Multiple Inheritance"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]] 
+name = "DOI"
+url = "http://dx.doi.org/doi:10.1016/j.scico.2010.09.006"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/dovland11scp.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/dovland11scp.txt"
+
++++
+

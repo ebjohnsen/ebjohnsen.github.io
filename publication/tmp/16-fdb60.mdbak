@@ -1,0 +1,27 @@
++++
+abstract = ""
+abstract_short = ""
+authors = ["Erika Ábrahám", "Marcello M. Bonsangue", "Einar Broch Johnsen (Editors)"]
+date = "2016-03-07T13:51:07+02:00"
+image = "lncs9660.jpg"
+image_preview = ""
+math = false
+publication = "LNCS 9660. © Springer 2016."
+publication_short = ""
+selected = false
+title = "Theory and Practice of Formal Methods - Essays Dedicated to Frank de Boer on the Occasion of His 60th Birthday"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]]
+name = "Online edition"
+url = "http://dx.doi.org/10.1007/978-3-319-30734-3"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/abraham16fdb.txt"
+
++++
+

@@ -1,0 +1,30 @@
++++
+abstract = "Re-establishing a safe program state after an error occurred is a known problem. Manually written error-recovery code is both more difficult to test and less often executed than the main code paths, hence errors are prevalent in these parts of a program. This paper proposes a failure model for concurrent objects with cooperative scheduling that automatically re-establishes object invariants after program failures, thereby eliminating the need to manually write this problematic code. The proposed model relies on a number of features of actor-based object-oriented languages, such as asynchronous method calls, co-operative scheduling with explicit synchronization points, and communication via future variables. We show that this approach can be used to implement Erlang-style process linking, and implement a supervision tree as a proof-of-concept."
+abstract_short = ""
+authors = ["Georg Göri", "Einar Broch Johnsen", "Rudolf Schlatte", "Volker Stolz"]
+date = "2014-10-01T20:21:47+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *Proc. Intl. Symposium on Leveraging Applications* (ISoLA 2014). LNCS 8803. © Springer 2014."
+publication_short = ""
+selected = false
+title = "Erlang-Style Error Recovery for Concurrent Objects with Cooperative Scheduling"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]] 
+name = "DOI"
+url = "http://dx.doi.org/10.1007/978-3-662-45231-8_2"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/goeri14isola.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/goeri14isola.txt"
+
++++
+

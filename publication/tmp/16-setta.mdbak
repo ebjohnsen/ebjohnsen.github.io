@@ -1,0 +1,30 @@
++++
+abstract = "Modern cloud applications consist of software components deployed on multiple virtual machines. Deploying such applications is error prone and requires detailed system expertise. The deployment optimization problem is about how to configure and deploy applications correctly while at the same time minimizing resource cost on the cloud. This problem is addressed by tools such as Zephyrus, which take a declarative specification of the components and their configuration requirements as input and propose an optimal deployment. This paper presents Zephyrus2, a new tool which addresses deployment optimization by exploiting modern SMT and CP technologies to handle larger and more complex deployment scenarios. Compared to Zephyrus, Zephyrus2 can solve problems involving hundreds of components to be deployed on hundreds of virtual machines in a matter of seconds instead of minutes. This significant speed-up, combined with an improved specification format, enables Zephyrus2 to interactively support on the fly decision making."
+abstract_short = ""
+authors = ["Erika Ábrahám", "Florian Corzilius", "Einar Broch Johnsen", "Gereon Kremer", "Jacopo Mauro"]
+date = "2016-11-26T00:23:39+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *Proc. 2nd International Symposium on Theories, Tools, and Applications (SETTA 2016)*, LNCS 9984.  © Springer 2016."
+publication_short = ""
+selected = false
+title = "Zephyrus2: On the Fly Deployment Optimization Using SMT and CP Technologies"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]]
+name = "DOI"
+url = "http://dx.doi.org/10.1007/978-3-319-47677-3_15"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/abraham16setta.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/abraham16setta.txt"
+
++++
+

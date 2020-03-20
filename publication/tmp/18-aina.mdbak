@@ -1,0 +1,28 @@
++++
+abstract = "As more and more devices connect to Internet of Things, unbounded streams of data will be generated, which have to be processed ''on the fly'' in order to trigger automated actions and deliver real-time services. Spark Streaming is a popular realtime stream processing framework. To make efficient use of Spark Streaming and achieve stable stream processing, it requires a careful interplay between different parameter configurations. Mistakes may lead to significant resource overprovisioning and bad performance. To alleviate such issues, this paper develops an executable and configurable model named SSP (stands for Spark Streaming Processing) to model and simulate Spark Streaming. SSP is written in ABS, which is a formal, executable, and object-oriented language for modeling distributed systems by means of concurrent object groups. SSP allows users to rapidly evaluate and compare different parameter configurations without deploying their applications on a cluster/cloud. The simulation results show that SSP is able to mimic Spark Streaming in different scenarios."
+abstract_short = ""
+authors = ["Jia-Chun Lin", "Ming-Chang Lee", "Ingrid Chieh Yu", "Einar Broch Johnsen"]
+date = "2018-05-17T00:23:39+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *Proc. 32nd Intl. Conf. on Advanced Information Networking and Applications (AINA)*. © IEEE CS Press 2018."
+publication_short = ""
+selected = false
+title = "Modeling and Simulation of Spark Streaming"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]]
+name = "DOI"
+url = "https://doi.org/10.1109/AINA.2018.00068"
+[[url_custom]]
+name = "Preprint"
+url = "http://arxiv.org/abs/1808.09005"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/lin18aina.txt"
++++

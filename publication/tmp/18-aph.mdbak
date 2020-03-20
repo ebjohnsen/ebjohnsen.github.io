@@ -1,0 +1,30 @@
++++
+abstract = "Dynamic software updates enable running programs to evolve without downtime. Drivers for such updates include software enhancements, bug fixes, and maintenance for software in domains, where it is costly, impractical, or even impossible to halt the system to reconfigure. In particular, application-level services in IoT ecosystems need to adapt seamlessly to changing, heterogeneous contexts. Services need to discover, adapt to, and interact with other services already deployed in the running ecosystem, supporting autonomicity within the service life-cycle. This paper explores a formalized, type safe asynchronous system of runtime software discovery and evolution, motivated by IoT ecosystems."
+abstract_short = ""
+authors = ["Einar Broch Johnsen", "Ingrid Chieh Yu"]
+date = "2018-11-15T00:23:39+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *Principled Software Development - Essays Dedicated to Arnd Poetzsch-Heffter on the Occasion of his 60th Birthday*. © Springer 2018."
+publication_short = ""
+selected = false
+title = "Dynamic Software Updates and Context Adaptation for Distributed Active Objects"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]]
+name = "DOI"
+url = "https://doi.org/10.1007/978-3-319-98047-8_10"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/johnsen18aph.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/johnsen18aph.txt"
+
++++
+

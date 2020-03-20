@@ -1,0 +1,24 @@
++++
+abstract = "General purpose theorem provers provide advanced facilities for proving properties about specifications, and may therefore be a valuable tool in formal program development.  However, these provers generally lack many of the useful structuring mechanisms found in functional programming or specification languages. This paper presents a constructive approach to adding theory morphisms and parametrisation to theorem provers, while preserving the proof support and consistency of the prover. The approach is implemented in Isabelle and illustrated by examples of an algorithm design rule and of the modular development of computational effects for imperative language features based on monads."
+abstract_short = ""
+authors = ["Maksym Bortin", "Einar Broch Johnsen", "Christoph Lüth"]
+date = "2006-11-21T22:51:45+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "Nordic Journal of Computing **13**: 2-21, 2006."
+publication_short = ""
+selected = false
+title = "Structured Formal Development in Isabelle"
+url_code = ""
+url_dataset = ""
+url_pdf = "Papers/bortin06njc.pdf"
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/bortin06njc.txt"
+
++++
+

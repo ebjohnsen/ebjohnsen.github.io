@@ -1,0 +1,29 @@
++++
+abstract = "In this paper we describe EasyInterface, an open-source toolkit for rapid development of web-based graphical user interfaces (GUIs). This toolkit addresses the need of researchers to make their research prototype tools available to the community, and integrating them in a common environment, rapidly and without being familiar with web programming or GUI libraries in general. If a tool can be executed from a command-line and its output goes to the standard output, then in few minutes one can make it accessible via a web-interface or within Eclipse. Moreover, the toolkit defines a text-based language that can be used to get more sophisticated GUIs, e.g., syntax highlighting, dialog boxes, user interactions, etc. EasyInterface was originally developed for building a common frontend for tools developed in the Envisage project. "
+abstract_short = ""
+authors = ["Jesús Doménech", "Samir Genaim", "Einar Broch Johnsen", "Rudolf Schlatte"]
+date = "2017-04-02T22:04:12+01:00"
+image = ""
+image_preview = ""
+math = false
+publication =  "In *Proc. 20th International Conference on Fundamental Approaches to Software Engineering* (FASE 2017). LNCS 10202. © Springer 2017."
+publication_short = ""
+selected = false
+title = "EasyInterface: A toolkit for rapid development of GUIs for research prototype tools"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = "" 
+[[url_custom]] 
+name = "DOI"
+url = "https://doi.org/10.1007/978-3-662-54494-5_22"
+[[url_custom]]
+name = "Preprint"
+url = "https://arxiv.org/pdf/1702.00364v1"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/domenech17fase.txt"
++++
+

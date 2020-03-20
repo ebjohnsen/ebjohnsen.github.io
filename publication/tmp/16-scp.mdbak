@@ -1,0 +1,30 @@
++++
+abstract = "Services are autonomous, self-describing, technology-neutral software units that can be published, discovered, queried, and composed into software applications at runtime. Designing and composing software services to form applications or composite services, require abstractions beyond those found in typical object-oriented programming languages. This paper explores service-oriented abstractions such as service adaptation, discovery, and querying in an object-oriented setting. We develop a formal model of dynamic object-oriented groups which offer services to their environment. These groups fit directly into the object-oriented paradigm in the sense that they can be dynamically created, they have an identity, and they can receive method calls. In contrast to objects, groups are not used for structuring code. A group exports its services through interfaces and relies on objects to implement these services. Objects may join or leave different groups. Groups may dynamically export new interfaces, they support service discovery, and they can be queried at runtime for the interfaces they support. We define an operational semantics and a static type system for this model of dynamic object groups, and show that well-typed programs do not cause method-not-understood errors at runtime."
+abstract_short = ""
+authors = ["Einar Broch Johnsen", "Olaf Owe", "Dave Clarke", "Joakim Bjørk"]
+date = "2016-01-21T23:06:55+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "Science of Computer Programming **115-116**: 3-22, 2016. © Elsevier."
+publication_short = ""
+selected = false
+title = "A formal model of service-oriented dynamic object groups"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]] 
+name = "DOI"
+url = "http://dx.doi.org/10.1016/j.scico.2014.11.014"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/johnsen16scp.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/johnsen16scp.txt"
+
++++
+

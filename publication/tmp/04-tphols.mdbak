@@ -1,0 +1,30 @@
++++
+abstract = "Proof reuse addresses the issue of how proofs of theorems in a specific setting can be used to prove other theorems in different settings. This paper proposes an approach where theorems are generalised by abstracting their proofs from the original setting. The approach is based on a representation of proofs as logical framework proof terms, using the theorem prover Isabelle. The logical framework allows type-specific inference rules to be handled uniformly in the abstraction process and the prover's automated proof tactics may be used freely. This way, established results become more generally applicable; for example, theorems about a data type can be reapplied to other types. The paper also considers how to reapply such abstracted theorems, and suggests an approach based on mappings between operations and types, and on systematically exploiting the dependencies between theorems."
+abstract_short = ""
+authors = ["Einar Broch Johnsen", "Christoph Lüth"]
+date = "2004-08-21T22:48:54+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *Proc. 17th Intl. Conf. on Theorem Proving in Higher-Order Logics (TPHOLs 2004)*,  [LNCS 3223](http://springerlink.metapress.com/link.asp?id=ptx04bpl0tnf), © Springer, 2004."
+publication_short = ""
+selected = false
+title = "Theorem Reuse by Proof Term Transformation"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]]
+name = "DOI"
+url = "http://dx.doi.org/10.1007/978-3-540-30142-4_12"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/johnsen04tphols.pdf" 
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/johnsen04tphols.txt"
+
++++
+

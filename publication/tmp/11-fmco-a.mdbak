@@ -1,0 +1,30 @@
++++
+abstract = "Virtualization motivates lifting aspects of low-level resource management to the abstraction level of modeling languages, in order to model and analyze virtualized resource usage for application-level services and its relationship to service-level QoS. In this paper we illustrate how the modeling language ABS may be used for this purpose by modeling a service deployed on the cloud. Virtual machines are provided on demand to the service, which distributes service requests between its available machines depending on its application-level load balancing scheme. The resulting ABS models are used to relate the accumulated usage cost for the virtual machines to the obtained QoS for the service. ABS is an abstract behavioral specification language for designing executable models of distributed object-oriented systems. The language combines advanced concurrency and synchronization mechanisms based on concurrent object groups with a functional language for modeling data. ABS supports deployment variability by dynamically created deployment components which act as resource-restricted execution contexts for ABS objects, for example with respect to CPU resources. The use of these artefacts is demonstrated in this paper through an example of service-level management of virtualized resources on the cloud."
+abstract_short = ""
+authors = ["Einar Broch Johnsen", "Rudolf Schlatte", "S. Lizeth Tapia Tarifa"]
+date = "2012-01-21T23:03:02+02:00"
+image = ""
+image_preview = ""
+math = false
+publication = "In *Proc. 10th Intl. Symposium on Formal Methods for Components and Objects* (FMCO 2011). LNCS 7542. © Springer 2013."
+publication_short = ""
+selected = false
+title = "Modeling Application-Level Management of Virtualized Resources in ABS"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+[[url_custom]] 
+name = "DOI"
+url = "http://dx.doi.org/10.1007/978-3-642-35887-6_5"
+[[url_custom]]
+name = "Preprint"
+url = "Papers/johnsen11fmco.pdf"
+[[url_custom]]
+name = "Bibtex"
+url = "Papers/johnsen11fmco.txt"
+
++++
+
