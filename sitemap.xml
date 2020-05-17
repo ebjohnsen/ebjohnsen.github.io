@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -14,6 +14,16 @@
   
   <url>
     <loc>/publication/20-ijguc/</loc>
+    <lastmod>2020-03-09T23:30:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-03-09T23:30:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
     <lastmod>2020-03-09T23:30:36+02:00</lastmod>
   </url>
   
@@ -158,6 +168,11 @@
   </url>
   
   <url>
+    <loc>/project/</loc>
+    <lastmod>2017-02-02T22:17:32+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/16-setta/</loc>
     <lastmod>2016-11-26T00:23:39+02:00</lastmod>
   </url>
@@ -190,6 +205,11 @@
   <url>
     <loc>/publication/16-fase/</loc>
     <lastmod>2016-07-21T23:08:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/home/</loc>
+    <lastmod>2016-07-21T22:27:29+02:00</lastmod>
   </url>
   
   <url>
@@ -704,36 +724,10 @@
   
   <url>
     <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2016-07-21T21:19:05+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/home/</loc>
-    <lastmod>2016-07-21T21:19:05+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2017-02-02T22:17:32+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-03-09T23:30:36+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

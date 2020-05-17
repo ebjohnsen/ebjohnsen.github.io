@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Einar Broch Johnsen&#39;s Homepage</title>
@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Einar Broch Johnsen 2020</copyright>
-    <lastBuildDate>Thu, 21 Jul 2016 21:19:05 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 21 Jul 2016 22:27:29 +0200</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
