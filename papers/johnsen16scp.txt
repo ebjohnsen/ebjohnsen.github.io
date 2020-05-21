@@ -1,0 +1,12 @@
+@article{johnsen16scp,
+  author =	 "Einar Broch Johnsen and Olaf Owe and Dave Clarke and
+                  Joakim Bjork",
+  title =	 "A formal model of service-oriented dynamic object
+                  groups ",
+  journal =	 "Science of Computer Programming ",
+  volume =	 {115--116},
+  pages =	 {3--22},
+  year =	 2016,
+  issn =	 "0167-6423",
+  doi =		 "http://dx.doi.org/10.1016/j.scico.2014.11.014",
+}

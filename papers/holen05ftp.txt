@@ -1,0 +1,13 @@
+@InProceedings{holen05ftp,
+  author =	 {Bjarne Holen and Einar Broch Johnsen and Arild Waaler},
+  title =	 {Representing Strategies for the Connection Calculus
+                  in Rewriting Logic},
+  booktitle =	 {Fifth International Workshop on First-Order Theorem Proving
+                  ({FTP} 2005)},
+  pages =	 {130--141},
+  month =        aug,
+  year =	 2005,
+  editor =	 {Reinhold Letz},
+  note =	 {Tech.\ rep.\ 13/2005, Inst.\ f\"ur Informatik, 
+                  Universit\"at Koblenz-Landau, ISSN 1860-4471}
+}

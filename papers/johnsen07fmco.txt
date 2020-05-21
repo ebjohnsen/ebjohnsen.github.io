@@ -1,0 +1,15 @@
+@inproceedings{johnsen07fmco,
+  author =	 {Einar Broch Johnsen and Olaf Owe and
+                  Joakim Bj{\o}rk and Marcel Kyas},
+  title =	 {An Object-Oriented Component Model 
+                  for Heterogeneous Nets},
+  booktitle =	 {Proc. 6th International Symposium on Formal Methods for
+                  Components and Objects ({FMCO} 2007)},
+  editor =	 {Frank S. de Boer and Marcello M. Bonsangue and
+                  Susanne Graf and Willem-Paul de Roever},
+  series =	 {Lecture Notes in Computer Science},
+  volume =	 5382,
+  publisher =	 {Springer-Verlag},
+  pages =	 {257--279},
+  year =	 2008
+}

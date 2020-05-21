@@ -1,0 +1,11 @@
+@inproceedings{bjork12foclasa,
+  author    = {Joakim Bj{\o}rk and Dave Clarke and Einar Broch Johnsen and Olaf Owe},
+  title     = {A Type-Safe Model of Adaptive Object Groups},
+  editor    = {Natallia Kokash and Ant{\'o}nio Ravara},
+  booktitle = {Proc. 11th Intl.\ Workshop on Foundations of Coordination
+               Languages and Self Adaptation ({FOCLASA}'12)},
+  series    = {Electronic Proceedings in Theoretical Computer Science},
+  volume    = {91},
+  year      = {2012},
+  pages     = {1--15},
+}

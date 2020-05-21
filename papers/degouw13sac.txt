@@ -1,0 +1,11 @@
+@inproceedings{degouw13sac,
+  author    = {Stijn de Gouw and Frank S. de Boer and
+               Einar Broch Johnsen and Peter Y. H. Wong},
+  title     = {Run-time checking of data- and protocol-oriented
+               properties of {J}ava programs: an industrial case study},
+  editor    = {Sung Y. Shin and Jos{\'e} Carlos Maldonado},
+  booktitle = {Proc. 28th Symposium on Applied Computing ({SAC}'13)},
+  publisher = {ACM},
+  year      = {2013},
+  pages     = {1573--1578},
+}

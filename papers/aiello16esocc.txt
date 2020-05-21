@@ -1,0 +1,10 @@
+@proceedings{aiello16esocc,
+  editor =	 {Marco Aiello and Einar Broch Johnsen and Schahram
+                  Dustdar and Ilche Georgievski},
+  title =	 {Proc.\ 5th {IFIP} {WG} 2.14 European Conference on
+                  Service-Oriented and Cloud Computing ({ESOCC} 2016)},
+  series =	 {Lecture Notes in Computer Science},
+  volume =	 9846,
+  publisher =	 {Springer},
+  year =	 2016,
+}

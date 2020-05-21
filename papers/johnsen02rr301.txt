@@ -1,0 +1,11 @@
+@TechReport{johnsen02rr301,
+  author =	 {Einar Broch Johnsen and Olaf Owe},
+  title =	 {Composition and Refinement for Partial Object
+                  Specifications (full version)},
+  institution =	 {Department of Informatics},
+  month =	 jan,
+  year =	 2002,
+  type =	 {Research Report},
+  number =	 301,
+  address =	 {University of Oslo}
+}

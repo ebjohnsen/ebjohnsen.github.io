@@ -1,0 +1,14 @@
+@inproceedings{haehnle11fmco,
+  author =	 {Reiner H{\"a}hnle and Michiel Helvensteijn and Einar
+                  Broch Johnsen and Michael Lienhardt and Davide
+                  Sangiorgi and Ina Schaefer and Peter Y.H. Wong},
+  title =	 {{HATS} Abstract Behavioral Specification: The
+                  Architectural View},
+  booktitle =	 {Proc. 10th International Symposium on Formal Methods
+                  for Components and Objects ({FMCO} 2011)},
+  year =	 2013,
+  series =	 {Lecture Notes in Computer Science},
+  volume =	 7542,
+  publisher =	 {Springer-Verlag},
+  pages =	 {109--132},
+}

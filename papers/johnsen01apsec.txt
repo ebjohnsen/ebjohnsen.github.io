@@ -1,0 +1,13 @@
+@InProceedings{johnsen01apsec,
+  author =	 {Einar Broch Johnsen and Wenhui Zhang and Olaf Owe
+                  and Demmisie Aredo},
+  title =	 {Specification of Distributed Systems with a
+                  Combination of Graphical and Formal Languages},
+  booktitle =	 {Proceedings of the 8th Asian Pacific Software
+                  Engineering Conference {(APSEC 2001)}},
+  editors =	 "J. He and Y. Li and G. Lowe",
+  pages =	 {105--108},
+  publisher =	 {IEEE Computer Society Press},
+  month =	 dec,
+  year =	 2001,
+}

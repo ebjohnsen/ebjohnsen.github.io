@@ -1,0 +1,9 @@
+@proceedings{gabmeyer17tap,
+  editor =	 {Sebastian Gabmeyer and Einar Broch Johnsen},
+  title =	 {Proc.\ 11th Intl.\ Conf.\ on Tests and Proofs ({TAP} 2017)},
+  series =	 {Lecture Notes in Computer Science},
+  volume =	 10375,
+  publisher =	 {Springer},
+  year =	 2017,
+}
+

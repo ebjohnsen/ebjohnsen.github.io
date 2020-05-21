@@ -1,0 +1,887 @@
+<!--#config timefmt="%d.%m.%Y"-->
+<body text="#CCCCCC" bgcolor="#000000" link="#FFCC33" vlink="#FFCC99" alink="#FFCC33" TOPMARGIN="25">
+<br><br><br><br><br>
+<h3>Einar Broch Johnsen: Selected Publications</h3>
+<font color="#CCCCCC">
+<ol>
+
+<li>Jia-Chun Lin, Ingrid Chieh Yu, Einar Broch Johnsen, Ming-Chang Lee<br>
+<b>ABS-YARN: A Formal Framework for Modeling Hadoop YARN Clusters</b><br>
+Proc. 19th International Conference on Fundamental Approaches to Software Engineering (FASE 2016).<br>
+LNCS 9633. &copy; Springer 2016.<br>
+[ <a href="http://dx.doi.org/10.1007/978-3-662-49665-7_4" target="_top">Available online</a>
+| <a href="lin16fase.pdf" target="_top">Preprint</a>
+| <a href="lin16fase.html">Bibtex</a> ].
+<br><br>
+
+<li>Shiji Bijo, Einar Broch Johnsen, Ka I Pun, S. Lizeth Tapia Tarifa<br>
+<b>An Operational Semantics of Cache Coherent Multicore  Architectures</b><br>
+Proc. 31st Annual ACM Symposium on Applied Computing (SAC 2016).<br>
+&copy; ACM Press 2016.<br>
+[ <a href="bijo16sac.pdf" target="_top">Preprint</a>
+| <a href="bijo16sac.html">Bibtex</a> ].
+<br><br>
+
+<li>Elena Giachino, Einar Broch Johnsen, Cosimo Laneve, Ka I Pun<br>
+<b>Time Complexity of Concurrent Programs - A Technique Based on Behavioural Types</b><br>
+Proc. 12th International Conference on Formal Aspects of Component Software (FACS 2015).<br>
+LNCS 9659. &copy; Springer 2016.<br>
+[ <a href="http://dx.doi.org/10.1007/978-3-319-28934-2_11" target="_top">Available online</a>
+| <a href="giachino15facs.pdf" target="_top">Preprint</a>
+| <a href="giachino15facs.html">Bibtex</a> ].
+<br><br>
+
+<li>Crystal Chang Din, S. Lizeth Tapia Tarifa, Reiner H&auml;hnle, Einar Broch Johnsen<br>
+<b>History-Based Specification and Verification of Scalable Concurrent and Distributed Systems</b><br>
+Proc. 17th International Conference on Formal Engineering Methods (ICFEM 2015).<br>
+LNCS 9407. &copy; Springer 2015.<br>
+[ <a href="http://dx.doi.org/10.1007/978-3-319-25423-4_14" target="_top">Available online</a>
+| <a href="din15icfem.pdf" target="_top">Preprint</a>
+| <a href="din15icfem.html">Bibtex</a> ].
+<br><br>
+
+<li>Stephan Brandauer, Elias Castegren, Dave Clarke, Kiko Fernandez-Reyes, Einar Broch Johnsen,<br> 
+Ka I. Pun, Silvia Lizeth Tapia Tarifa, Tobias Wrigstad, Albert Mingkun Yang<br> 
+<b>Parallel Objects for Multicores: A Glimpse at the Parallel Language Encore</b><br>
+Formal Methods for Multicore Programming (SFM 2015).<br>
+LNCS 9104. &copy; Springer 2015.<br>
+[ <a href="http://dx.doi.org/10.1007/978-3-319-18941-3_1"
+     target="_top">Available online</a>
+| <a href="brandauer15sfm.pdf" target="_top">Preprint</a>
+| <a href="brandauer15sfm.html">Bibtex</a> ].
+<br><br>
+
+<li>Elvira Albert, Jes&uacute;s Correas, Einar Broch Johnsen, Guillermo Rom&aacute;n-D&iacute;ez<br> 
+<b>Parallel Cost Analysis of Distributed Systems</b><br> 
+Proc. 22nd International Symposium on Static Analysis (SAS 2015).<br> 
+LNCS 9291. &copy; Springer 2015.<br>
+[ <a href="http://dx.doi.org/10.1007/978-3-662-48288-9_16"
+     target="_top">Available online</a>
+| <a href="albert15sas.pdf" target="_top">Preprint</a>
+| <a href="albert15sas.html">Bibtex</a> ].
+<br><br>
+
+<li>Reiner H&auml;hnle, Einar Broch Johnsen.<br>
+<b>Designing Resource-Aware Cloud Applications</b><br>
+IEEE Computer <b>48</b> (6), 2015. &copy; IEEE Computer Society Press.<br>
+[ <a href="http://dx.doi.org/10.1109/MC.2015.172"
+     target="_top">Available online</a>
+| <a href="haehnle15ieee_comp.pdf" target="_top">Preprint</a>
+| <a href="haehnle15ieee_comp.html">Bibtex</a> ].
+<br><br>
+
+<li>Erika &Aacute;brah&aacute;m, Costas Bekas, Ivona Brandic, Samir Genaim, Einar Broch Johnsen, Ivan Kondov, Sabri Pllana, Achim Streit<br>
+<b>Preparing HPC Applications for Exascale: Challenges and Recommendations.</b> <br>
+18th International Conference on Network-Based Information Systems (NBiS 2015)<br>
+&copy; IEEE Computer Society 2015<br>
+[ <a href="http://dx.doi.org/10.1109/NBiS.2015.61"
+     target="_top">Available online</a>
+| <a href="abraham15nbis.pdf" target="_top">Preprint</a>
+| <a href="abraham15nbis.html">Bibtex</a> ].
+<br><br>
+
+
+<li>Einar Broch Johnsen, Olaf Owe, Dave Clarke, Joakim Bj&oslash;rk<br>
+<b>A formal model of service-oriented dynamic object groups</b><br>
+Science of Computer Programming <b>115-116</b>: 3-22, 2016. &copy; Elsevier.<br>
+[ <a href="http://dx.doi.org/10.1016/j.scico.2014.11.014"
+     target="_top">Available online</a>
+| <a href="johnsen16scp.pdf" target="_top">Preprint</a>
+| <a href="johnsen16scp.html">Bibtex</a> ].
+<br><br>
+
+<li>Johan Dovland, Einar Broch Johnsen, Olaf Owe, Ingrid Chieh Yu<br>
+<b>A proof system for adaptable class hierarchies</b><br>
+Journal of Logical and Algebraic Methods in Programming <b>84</b> (1): 37-53, 2015. &copy; Elsevier.<br>
+[ <a href="http://dx.doi.org/10.1016/j.jlamp.2014.09.001"
+     target="_top">Available online</a>
+| <a href="dovland15jlamp.pdf" target="_top">Preprint</a>
+| <a href="dovland15jlamp.html">Bibtex</a> ].
+<br><br>
+
+<li>Einar Broch Johnsen, Rudolf Schlatte, S. Lizeth Tapia Tarifa<br>
+<b>Integrating deployment architectures and resource consumption in timed object-oriented models</b><br>
+Journal of Logical and Algebraic Methods in Programming <b>84</b> (1): 67-91, 2015. &copy; Elsevier.<br>
+[ <a href="http://dx.doi.org/10.1016/j.jlamp.2014.07.001"
+     target="_top">Available online</a>
+| <a href="johnsen15jlamp.pdf" target="_top">Preprint</a>
+| <a href="johnsen15jlamp.html">Bibtex</a> ].
+<br><br>
+
+<li>Ferruccio Damiani, Johan Dovland, Einar Broch Johnsen, Ina Schaefer<br>
+<b>Verifying traits: an incremental proof system for fine-grained reuse</b><br>
+Formal Aspects of Computing <b>26</b> (4): 761-793, 2014. &copy; Springer.<br>
+[ <a href="http://dx.doi.org/10.1007/s00165-013-0278-3"
+     target="_top">Available online</a>
+| <a href="damiani14faoc.pdf" target="_top">Preprint</a>
+| <a href="damiani14faoc.html">Bibtex</a> ].
+<br><br>
+
+<li> Frank S. de Boer, Stijn de Gouw, Einar Broch Johnsen, Andreas
+  Kohn, Peter Y. H. Wong<br> 
+<b>Run-Time Assertion Checking of Data- and Protocol-Oriented Properties of Java Programs: An Industrial Case
+  Study</b><br>
+Transactions on Aspect-Oriented Software Development <b>11</b>: 1-26, 2014. LNCS 8400.  &copy; Springer.<br>
+[ <a href="http://dx.doi.org/10.1007/978-3-642-55099-7_1"
+     target="_top">Available online</a>
+| <a href="deboer14taosd.pdf" target="_top">Preprint</a>
+| <a href="deboer14taosd.html">Bibtex</a> ].
+<br><br>
+
+<li>Elvira Albert, Frank de Boer, Reiner H&auml;hnle, Einar Broch
+  Johnsen, Rudolf Schlatte, S. Lizeth Tapia Tarifa, Peter Y. H. Wong<br>
+<b>Formal modeling and analysis of resource management for cloud
+  architectures: an industrial case study using Real-Time ABS</b><br>
+Journal of Service-Oriented Computing and Applications <b>8</b> (4):323-339, 2014.
+  &copy; Springer.<br>
+[ <a href="http://dx.doi.org/10.1007/s11761-013-0148-0"
+     target="_top">Available online</a>
+| <a href="albert14soca.pdf" target="_top">Preprint</a>
+| <a href="albert14soca.html">Bibtex</a> ].
+<br><br>
+
+<li> Georg G&ouml;ri, Einar Broch Johnsen, Rudolf Schlatte, Volker Stolz<br>
+<b>Erlang-Style Error Recovery for Concurrent Objects with Cooperative Scheduling</b><br>
+Proc. Intl. Symposium on Leveraging Applications (ISoLA 2014).<br> LNCS 8803. &copy; Springer 2014.<br>
+[ <a href="http://dx.doi.org/10.1007/978-3-662-45231-8_2" target="_top">Available online</a>
+| <a href="goeri14isola.pdf" target="_top">Preprint</a>
+| <a href="goeri14isola.html">Bibtex</a> ].
+<br><br>
+
+
+<li> Ivan Lanese, Michael Lienhardt, Mario Bravetti, Einar Broch Johnsen, Rudolf Schlatte,
+               Volker Stolz, Gianluigi Zavattaro<br>
+<b>Fault Model Design Space for Cooperative Concurrency</b><br>
+Proc. Intl. Symposium on Leveraging Applications (ISoLA 2014).<br> LNCS 8803. &copy; Springer 2014.<br>
+[ <a href="http://dx.doi.org/10.1007/978-3-662-45231-8_3" target="_top">Available online</a>
+| <a href="lanese14isola.pdf" target="_top">Preprint</a>
+| <a href="lanese14isola.html">Bibtex</a> ].
+<br><br>
+
+
+<li> Einar Broch Johnsen, Rudolf Schlatte, Silvia Lizeth Tapia Tarifa<br>
+<b>Deployment Variability in Delta-Oriented Models</b><br>
+Proc. Intl. Symposium on Leveraging Applications (ISoLA 2014).<br> LNCS 8802. &copy; Springer 2014.<br>
+[ <a href="http://dx.doi.org/10.1007/978-3-662-45234-9_22" target="_top">Available online</a>
+| <a href="johnsen14isola.pdf" target="_top">Preprint</a>
+| <a href="johnsen14fmsple.html">Bibtex</a> ].
+<br><br>
+
+
+<li>Elvira Albert, Frank de Boer, Reiner H&auml;hnle, Einar Broch Johnsen, Cosimo Laneve<br>
+<b>Engineering Virtualized Services</b><br>
+2nd Nordic Symposium on Cloud Computing &amp; Internet Technologies.
+  &copy; ACM Press 2013.<br>
+[ <a href="http://dx.doi.org/10.1145/2513534.2513545" target="_top">Available online</a>
+| <a href="albert13nordicloud.pdf" target="_top">Preprint</a>
+| <a href="albert13nordicloud.html">Bibtex</a> ].
+<br><br>
+
+<li>Stijn de Gouw, Frank S. de Boer, Einar Broch Johnsen, and Peter Y. H. Wong<br>
+<b>Run-time checking of data- and protocol-oriented properties of Java programs: an industrial case study</b><br>
+Proc. 28th Symposium on Applied Computing (SAC'13).<br>
+&copy; ACM Press 2013.<br>
+[ <a href="http://dx.doi.org/10.1145/2480362.2480656" target="_top">Available online</a>
+| <a href="degouw13sac.pdf" target="_top">Preprint</a>
+| <a href="degouw13sac.html">Bibtex</a> ].
+<br><br>
+
+<li>Amir Taherkordi, Frank Eliassen, and Einar Broch Johnsen<br>
+<b>Behavioural Design of Sensor Network Applications using Activity-Driven States</b><br>
+Proc. 4th International ICSE Workshop on Software Engineering for
+  Sensor Network Applications (SESENA 2013).<br>
+&copy; IEEE Computer Society Press 2013.<br>
+[ <a href="http://dx.doi.org/10.1109/SESENA.2013.6612259" target="_top">Available online</a>
+| <a href="taherkordi13sesena.pdf" target="_top">Preprint</a>
+| <a href="taherkordi13sesena.html">Bibtex</a> ].
+<br><br>
+
+  
+<li> Joakim Bj&oslash;rk, Dave Clarke, Einar Broch Johnsen, and Olaf Owe<br>
+<b>A Type-Safe Model of Adaptive Object Groups</b><br>
+Proc. 11th Intl. Workshop on Foundations of Coordination Languages and
+Self Adaptation (FOCLASA 2012).<br>
+Electronic Proceedings in Theoretical Computer Science <b>91</b>: 1-15, 2012. <br>
+[ <a href="http://dx.doi.org/ 10.4204/EPTCS.91.1" target="_top">Available online</a>
+| <a href="bjork12foclasa.pdf" target="_top">Preprint</a>
+| <a href="bjork12foclasa.html">Bibtex</a> ].
+<br><br>
+  
+<li> Ferruccio Damiani, Johan Dovland, Einar Broch Johnsen, Olaf Owe, Ina Schaefer, and Ingrid Chieh Yu<br>
+<b>A Transformational Proof System for Delta-Oriented Programming</b><br>
+Proc. 3rd Intl. Workshop on Formal Methods for Software Product Lines
+(FMSPLE 2012).<br> &copy; ACM 2012.<br>
+[ <a href="http://dx.doi.org/10.1145/2364412.2364422" target="_top">Available online</a>
+| <a href="damiani12fmsple.pdf" target="_top">Preprint</a>
+| <a href="damiani12fmsple.html">Bibtex</a> ].
+<br><br>
+ 
+<li> Johan Dovland, Einar Broch Johnsen, and Ingrid Chieh Yu<br>
+<b>Tracking Behavioral Constraints during Object-Oriented Software Evolution</b><br>
+Proc. Intl. Symposium on Leveraging Applications (ISoLA 2012).<br> LNCS 7609. &copy; Springer 2012.<br>
+[ <a href="http://dx.doi.org/10.1007/978-3-642-34026-0_19" target="_top">Available online</a>
+| <a href="dovland12isola.pdf" target="_top">Preprint</a>
+| <a href="dovland12isola.html">Bibtex</a> ].
+<br><br>
+ 
+<li> Einar Broch Johnsen, Rudolf Schlatte, and S. Lizeth Tapia Tarifa<br>
+<b>Modeling Resource-Aware Virtualized Applications for the Cloud in Real-Time ABS</b><br>
+Proc. Intl. Conf. on Formal Engineering Methods (ICFEM 2012).<br>
+LNCS 7635. &copy; Springer 2012.<br>
+[ <a href="http://dx.doi.org/10.1007/978-3-642-34281-3_8" target="_top">Available online</a>
+| <a href="johnsen12icfem.pdf" target="_top">Preprint</a>
+| <a href="johnsen12icfem.html">Bibtex</a> ].
+<br><br>
+ 
+<li> Frank S. de Boer, Reiner H&auml;hnle, Einar Broch Johnsen, Rudolf Schlatte, and Peter Y. H. Wong<br>
+<b>Formal Modeling of Resource Management for Cloud Architectures: An Industrial Case Study</b><br>
+Proc. European Conference on Service-Oriented and
+                  Cloud Computing (ESOCC 2012).<br> LNCS 7592. &copy; Springer 2012.<br>
+[ <a href="http://dx.doi.org/10.1007/978-3-642-33427-6_7" target="_top">Available online</a>
+| <a href="deboer12esocc.pdf" target="_top">Preprint</a>
+| <a href="deboer12esocc.html">Bibtex</a> ].
+<br><br>
+
+<li> Reiner H&auml;hnle, Michiel Helvensteijn, Einar Broch Johnsen,
+Michael Lienhardt, Davide Sangiorgi, Ina Schaefer, and Peter Y. H. Wong<br>
+<b>HATS Abstract Behavioral Specification: The Architectural View</b><br>
+Proc. 10th Intl. Symposium on Formal Methods for Components and Objects (FMCO 2011).<br>
+LNCS 7542. &copy; Springer 2013.<br>
+[ <a href="http://dx.doi.org/10.1007/978-3-642-35887-6_6" target="_top">Available online</a>
+| <a href="haehnle11fmco.pdf" target="_top">Preprint</a>
+| <a href="haehnle11fmco.html">Bibtex</a> ].
+<br><br>
+
+<li> Einar Broch Johnsen, Rudolf Schlatte, and S. Lizeth Tapia Tarifa<br>
+<b>Modeling Application-Level Management of Virtualized Resources in ABS</b><br>
+Proc. 10th Intl. Symposium on Formal Methods for Components and Objects (FMCO 2011).<br>
+LNCS 7542. &copy; Springer 2013.<br>
+[ <a href="http://dx.doi.org/10.1007/978-3-642-35887-6_5" target="_top">Available online</a>
+| <a href="johnsen11fmco.pdf" target="_top">Preprint</a>
+| <a href="johnsen11fmco.html">Bibtex</a> ].
+<br><br>
+  
+<li> Einar Broch Johnsen, Rudolf Schlatte, and S. Lizeth Tapia Tarifa<br>
+<b>A Formal Model of User-Defined Resources in Resource-Restricted Deployment Scenarios</b><br>
+Proc. Formal Verification of Object-Oriented Systems (FoVeOOS 2011).<br> LNCS 7421. &copy; Springer 2012.<br>
+[ <a href="http://dx.doi.org/10.1007/978-3-642-31762-0_13" target="_top">Available online</a>
+| <a href="johnsen11foveoos.pdf" target="_top">Preprint</a>
+| <a href="johnsen11foveoos.html">Bibtex</a> ].
+<br><br>
+
+<li> Einar Broch Johnsen, Rudolf Schlatte, and S. Lizeth Tapia Tarifa<br>
+<b>A Formal Model of Object Mobility in Resource-Restricted Deployment Scenarios</b><br>
+Proc. Formal Aspects of Component Software (FACS 2011).<br> LNCS 7253. &copy; Springer 2012.<br>
+[ <a href="http://dx.doi.org/10.1007/978-3-642-35743-5_12" target="_top">Available online</a>
+| <a href="johnsen11facs.pdf" target="_top">Preprint</a>
+| <a href="johnsen11facs.html">Bibtex</a> ].
+<br><br>
+
+<li> Joakim Bj&oslash;rk, Frank S. de Boer, Einar Broch Johnsen, 
+Rudolf Schlatte, and S. Lizeth Tapia Tarifa<br>
+<b>User-defined Schedulers for Real-Time Concurrent Objects</b><br>
+Innovations in Systems and Software Engineering <b>9</b>(1):29-43, 2013. &copy; Springer.<br>
+[ <a href="http://dx.doi.org/10.1007/s11334-012-0184-5" target="_top">Available online</a>
+| <a href="bjork13isse.pdf" target="_top">Preprint</a>
+| <a href="bjork13isse.html">Bibtex</a> ].
+<br><br>
+
+<li> Fatemeh Kazemeyni, Einar Broch Johnsen, Olaf Owe, and Ilangko Balasingham<br>
+<b>MULE-based Wireless Sensor Networks: Probabilistic Modeling and Quantitative Analysis</b><br>
+Proc. 12th Intl. Conf. on Integrated Formal Methods (IFM 2012).<br> LNCS 7321. &copy; Springer 2012.<br>
+[ <a href="http://dx.doi.org/10.1007/978-3-642-30729-4_11" target="_top">Available online</a>
+| <a href="kazemeyni12ifm.pdf" target="_top">Preprint</a>
+| <a href="kazemeyni12ifm.html">Bibtex</a> ].
+<br><br>
+  
+<li> Crystal Chang Din, Johan Dovland, Einar Broch Johnsen, and Olaf Owe<br>
+  <b>Observable Behavior of Distributed Systems: Component Reasoning for Concurrent Objects</b><br>
+Journal of Logic and Algebraic Programming <b>81</b> (3): 227-256, 2012. &copy; Elsevier. <br>
+[ <a href="http://dx.doi.org/10.1016/j.jlap.2012.01.003" target="_top">Available online</a>
+| <a href="din12jlap.pdf" target="_top">Preprint</a>
+| <a href="din12jlap.html">Bibtex</a> ].
+<br><br>
+  
+<li> Fatemeh Kazemeyni, Einar Broch Johnsen, Olaf Owe, and Ilangko Balasingham<br>
+  <b>Formal Modeling and Validation of a Power-Efficient Grouping Protocol for WSNs</b><br>
+Journal of Logic and Algebraic Programming <b>81</b> (3): 284-297, 2012. &copy; Elsevier. <br>
+[ <a href="http://dx.doi.org/doi:10.1016/j.jlap.2011.12.001" target="_top">Available online</a>
+| <a href="kazemeyni12jlap.pdf" target="_top">Preprint</a>
+| <a href="kazemeyni12jlap.html">Bibtex</a> ].
+<br><br>
+  
+<li> Einar Broch Johnsen, Thi Mai Thuong Tran, Olaf Owe, and Martin Steffen <br>
+<b>Safe Locking for Multi-Threaded Java with Exceptions</b><br>
+Journal of Logic and Algebraic Programming <b>81</b> (3): 257-283, 2012. &copy; Elsevier. <br>
+[ <a href="http://dx.doi.org/doi:10.1016/j.jlap.2011.11.002" target="_top">Available online</a>
+| <a href="johnsen12jlap-locks.pdf" target="_top">Preprint</a>
+| <a href="johnsen12jlap-locks.html">Bibtex</a> ].
+<br><br>
+ 
+<li> Einar Broch Johnsen, Thi Mai Thuong Tran, Olaf Owe, and Martin Steffen<br>
+<b>Safe Locking for Multi-Threaded Java</b><br>
+Proc. 4th Intl. Conf. on Fundamentals of Software Engineering (FSEN 2011). <br>
+LNCS 7141 &copy; Springer 2012. <br>
+[ <a href="http://dx.doi.org/10.1007/978-3-642-29320-7_11" target="_top">Available online</a>
+| <a href="johnsen11fsen.pdf" target="_top">Preprint</a>
+| <a href="johnsen11fsen.html">Bibtex</a> ].
+<br><br>
+
+<li> Ferruccio Damiani, Johan Dovland, Einar Broch Johnsen, and Ina Schaefer <br>
+  <b>Verifying Traits: A Proof System for Fine-Grained Reuse</b><br>
+Proc. 13th Workshop on Formal Techniques for Java-like Programs (FTfJP
+  2011).<br>
+<a href=http://dl.acm.org/citation.cfm?id=2076682" target="_top">ACM Digital Library</a>.  &copy; ACM 2011. <br>
+[ <a href="http://dx.doi.org/10.1145/2076674.2076682" target="_top">Available online</a>
+| <a href="damiani11ftfjp.pdf" target="_top">Preprint</a>
+| <a href="damiani11ftfjp.html">Bibtex</a> ].
+<br><br>
+
+<li> Einar Broch Johnsen, Reiner H&auml;hnle, Jan Sch&auml;fer, Rudolf
+  Schlatte, and Martin Steffen<br>
+<b>ABS: A Core Language for Abstract Behavioral
+  Specification</b><br>
+Proc. 9th Intl. Symp. on Formal Methods for
+  Components and Objects (FMCO 2010).<br>
+LNCS 6957.  &copy; Springer 2011. <br>
+[ <a href="http://dx.doi.org/10.1007/978-3-642-25271-6_8" target="_top">Available online</a>
+| <a href="johnsen10fmco.pdf" target="_top">Preprint</a>
+| <a href="johnsen10fmco.html">Bibtex</a> ].
+<br><br>
+
+<li> Elvira Albert, Samir Genaim, Miguel G&oacute;mez-Zamalloa, Einar Broch
+  Johnsen, Rudolf Schlatte, and S. Lizeth Tapia Tarifa<br>
+<b>Simulating Concurrent Behaviors with Worst-Case Cost Bounds</b><br>
+Proc. 17th Intl. Conf. on Formal Methods (FM 2011). <br>
+LNCS 6664. &copy; Springer 2011.<br>
+[ <a href="http://dx.doi.org/10.1007/978-3-642-21437-0_27" target="_top">Available online</a>
+| <a href="albert11fm.pdf" target="_top">Preprint</a>
+| <a href="albert11fm.html">Bibtex</a> ].
+<br><br>
+
+<li> Einar Broch Johnsen, Ivan Lanese, and Gianluigi Zavattaro<br>
+<b>Fault in the Future</b><br>
+Proc. 13th Intl. Conf. on Coordination Models and Languages (COORDINATION 2011). <br>
+LNCS 6721. &copy; Springer 2011.<br>
+[ <a href="http://dx.doi.org/10.1007/978-3-642-21464-6_1" target="_top">Available online</a>
+| <a href="johnsen11coordination.pdf" target="_top">Preprint</a>
+| <a href="johnsen11coordination.html">Bibtex</a> ].
+<br><br>
+
+<li> Dave Clarke, Nikolay Diakov, Reiner H&auml;hnle, Einar Broch Johnsen,
+  Ina Schaefer, Jan Sch&auml;fer, Rudolf Schlatte, and Peter Y. H. Wong<br>
+<b>  Modeling Spatial and Temporal Variability with the HATS Abstract
+  Behavioral Modeling Language</b><br>
+Proc. 11th Intl. School on Formal Methods for the Design of Computer, Communication and Software Systems (SFM 2011). <br>
+LNCS 6659. &copy; Springer 2011.<br>
+[ <a href="http://dx.doi.org/10.1007/978-3-642-21455-4_13" target="_top">Available online</a>
+| <a href="clarke11sfm.pdf" target="_top">Preprint</a>
+| <a href="clarke11sfm.html">Bibtex</a> ].
+<br><br>
+
+<li>Rudolf Schlatte, Einar Broch Johnsen, Fatemeh Kazemeyni, and S. Lizeth Tapia Tarifa<br>
+<b>Models of Rate Restricted Communication for Concurrent Objects</b> <br>
+Proc. 4th Intl. Workshop on Harnessing Theories
+  for Tool Support in Software (TTSS 2010) <br>
+<a href="http://dx.doi.org/10.1016/j.entcs.2011.07.007"
+target="_top">Electronic Notes in Theoretical Computer Science</a>
+<b>274</b>:67-81, 2011. &copy; Elsevier.<br>
+[ <a href="schlatte10ttss.pdf" target="_top">Preprint</a>
+| <a href="schlatte10ttss.html">Bibtex</a> ].
+<br><br>
+
+<li> Fatemeh Kazemeyni, Einar Broch Johnsen, Olaf Owe, and Ilangko Balasingham<br>
+<b>Group Selection by Nodes in Wireless Sensor Networks Using Coalitional Game Theory</b><br>
+Proc. 16th Intl. Conf. on Engineering of Complex Computer Systems (ICECCS 2011)<br>
+&copy; IEEE Computer Society Press 2011.<br>
+[ <a href="kazemeyni11iceccs.pdf" target="_top">Preprint</a>
+| <a href="kazemeyni11iceccs.html">Bibtex</a> ].
+<br><br>
+
+<li>Johan Dovland, Einar Broch Johnsen, Olaf Owe, and Martin Steffen<br>
+<b>Incremental Reasoning with Lazy Behavioral Subtyping for Multiple Inheritance</b> <br>
+Science of Computer Programming <b>76</b>(10):915-941, 2011.
+&copy; Elsevier. <br>
+[ <a href="http://dx.doi.org/doi:10.1016/j.scico.2010.09.006" target="_top">Preprint from SCP</a> |
+  <a href="dovland11scp.pdf" target="_top">Preprint</a>  | 
+  <a href="dovland11scp.html">Bibtex</a> ].
+<br><br>
+  
+<li>Einar Broch Johnsen, Olaf Owe, Rudolf Schlatte, and S. Lizeth Tapia Tarifa<br>
+<b>Validating Timed Models of Deployment Components with Parametric Concurrency</b> <br>
+Proc. Intl. Conf. on Formal Verification of Object-Oriented Software (FOVEOOS 2010). <br>
+LNCS 6528. &copy; Springer 2011.<br>
+[ <a href="johnsen10foveoos.pdf" target="_top">Preprint</a>
+| <a href="johnsen10foveoos.html">Bibtex</a> ].
+<br><br>
+
+<li>Einar Broch Johnsen, Olaf Owe, Rudolf Schlatte, and S. Lizeth Tapia Tarifa<br>
+<b>Dynamic Resource Reallocation Between Deployment Components</b> <br>
+Proc. Intl. Conf. on Formal Engineering Methods  (ICFEM 2010). <br>
+LNCS 6447. &copy; Springer 2010. <br>
+[ <a href="johnsen10icfem.pdf" target="_top">Preprint</a>
+| <a href="johnsen10icfem.html">Bibtex</a> ].
+<br><br>
+
+<li>Frank S. de Boer, Mohammad Mahdi Jaghoori, and Einar Broch Johnsen<br>
+<b>Dating Concurrent Objects: Real-Time Modeling and Schedulability Analysis</b> <br>
+Proc. 21st Intl. Conf. on Concurrency Theory (CONCUR 2010, invited paper)<br>
+LNCS 6269. &copy; Springer 2010. <br>
+[ <a href="deboer10concur.pdf" target="_top">Preprint</a>
+| <a href="deboer10concur.html">Bibtex</a> ].
+<br><br>
+
+<li>Johan Dovland, Einar Broch Johnsen, Olaf Owe, and Martin Steffen<br>
+<b>Lazy Behavioral Subtyping</b> <br>
+Journal of Logic and Algebraic Programming <b>79</b>(7): 578-607, Oct. 2010. 
+&copy; Elsevier. <br>
+[ <a href="http://dx.doi.org/doi:10.1016/j.jlap.2010.07.008"
+  target="_top">Preprint from JLAP</a> |
+  <a href="dovland10jlap.pdf" target="_top">Preprint</a>
+| <a href="dovland10jlap.html">Bibtex</a> ].
+<br><br>
+  
+<li>Joakim Bj&oslash;rk, Einar Broch Johnsen, Olaf Owe and Rudolf Schlatte<br>
+<b>Lightweight Time Modeling in Timed Creol</b> <br>
+Proc. 1st Intl. Workshop on Rewriting Techniques for Real-Time Systems (RTRTS 2010).<br>
+Electronic Proceedings in Theoretical Computer Science <b>36</b>:67-81, 2010.<br>
+[ <a href="http://arxiv.org/pdf/1009.4262v1" target="_top">Preprint</a>
+| <a href="bjork10rtrts.html">Bibtex</a> ].
+<br><br>
+
+<li>Espen H. Lian, Einar Broch Johnsen, and Arild Waaler<br>
+<b>Confluent Term Rewriting for Only-knowing Logics</b> <br>
+Proc. STAIRS 2010. Frontiers in Artificial Intelligence and
+Applications 222. <br>
+&copy; IOS Press 2010. <br>
+[ <a href="lian10stairs.pdf" target="_top">Preprint</a>
+| <a href="lian10stairs.html">Bibtex</a> ].
+<br><br>
+
+<li>Fatemeh Kazemeyni, Einar Broch Johnsen, Olaf Owe, and Ilangko Balasingham<br>
+<b>Grouping Nodes in Wireless Sensor Networks Using Coalitional Game Theory</b> <br>
+Proc. FMOODS/FORTE 2010<br>
+LNCS 6117. &copy; Springer 2010. <br>
+[ <a href="kazemeyni10forte.pdf" target="_top">Preprint</a>
+| <a href="kazemeyni10forte.html">Bibtex</a> ].
+<br><br>
+  
+<li>Dave Clarke, Einar Broch Johnsen, and Olaf Owe<br>
+<b>Concurrent Objects a la Carte</b> <br>
+Correctness, Concurrency, Compositionality:
+Essays in honor of Willem-Paul de Roever.<br>
+LNCS 5930. &copy; Springer 2010. <br>
+[ <a href="clarke10wpdr.ps.gz">Compressed postscript</a>
+| <a href="clarke10wpdr.pdf" target="_top">Preprint</a>
+| <a href="clarke10wpdr.html">Bibtex</a> ].
+<br><br>
+  
+<li>  Einar Broch Johnsen, Marcel Kyas, Ingrid Chieh Yu<br>
+<b>Dynamic Classes: Modular Asynchronous Evolution of Distributed Concurrent Objects</b><br>
+Proc. 16th Intl. Conf. on Formal Methods (FM'09).<br>
+LNCS 5423. &copy;  Springer 2009.<br>
+[ <a href="johnsen09fm.ps.gz">Compressed postscript</a>
+| <a href="johnsen09fm.pdf" target="_top">Preprint</a>
+| <a href="johnsen09fm.html">Bibtex</a> ].
+
+<br><br>
+<li>Einar Broch Johnsen, Olaf Owe, Gerardo Schneider (Eds.)<br>
+<b>The 19th Nordic Workshop on Programming Theory (NWPT 2007)</b> <br>
+ Journal of Logic and Algebraic Programming <b>78</b> (7). &copy; Elsevier
+  2009. <br>
+[
+  <a href="http://www.sciencedirect.com/science?_ob=PublicationURL&_tockey=%23TOC%236652%232009%23999219992%231483149%23FLP%23&_cdi=6652&_pubType=J&view=c&_auth=y&_acct=C000036598&_version=1&_urlVersion=0&_userid=674998&md5=114c8fc5d333753cb634855e11f8bbac"
+   target="_top">Online edition</a> ].
+<br><br>
+
+
+<li>
+Andreas Griesmayer, Bernhard Aichernig, Einar Broch Johnsen, and Rudolf Schlatte<br>
+<b>Dynamic Symbolic Execution for Testing Distributed Objects</b><br>
+Proc. 3rd Intl. Conf. on Tests And Proofs (TAP'09)<br>
+<a href="http://dx.doi.org/10.1007/978-3-642-02949-3"
+   target="_top">LNCS 5668.</a> &copy; Springer 2009.<br>
+[ <a href="griesmayer09tap.ps.gz">Compressed postscript</a>
+| <a href="griesmayer09tap.pdf" target="_top">Preprint</a>
+| <a href="griesmayer09tap.html">Bibtex</a> ].
+<br><br>
+
+<li>  Johan Dovland, Einar Broch Johnsen, Olaf Owe, and Martin Steffen<br>
+<b>Incremental Reasoning for Multiple Inheritance</b><br>
+Proc. 10th Intl. Conf. on Integrated Formal Methods (IFM'09).<br>
+<a href="http://dx.doi.org/10.1007/978-3-642-00255-7"
+   target="_top">LNCS 5423.</a> &copy;  Springer 2009.<br>
+[ <a href="dovland09ifm.ps.gz">Compressed postscript</a>
+| <a href="dovland09ifm.pdf" target="_top">Preprint</a>
+| <a href="dovland09ifm.html">Bibtex</a> ].
+
+<br><br>
+  
+<li>Marcello M. Bonsangue, Einar Broch Johnsen, Amy Murphy, and Jan Vitek (Eds.)<br>
+<b>Distributed Computing Techniques. Selected Papers from FMOODS'07 and COORDINATION'07</b> <br>
+Theoretical Computer Science <b>410</b> (2-3). &copy; Elsevier 2009. <br>
+[ <a href="http://www.sciencedirect.com/science?_ob=PublicationURL&_tockey=%23TOC%235674%232009%23995899997%23838079%23FLP%23&_cdi=5674&_pubType=J&view=c&_auth=y&_acct=C000036598&_version=1&_urlVersion=0&_userid=674998&md5=2217149b35a32ed4bfebc342e1fc5fa4"
+   target="_top">Online edition</a> ].
+<br><br>
+
+<li>Bjarne Holen, Einar Broch Johnsen, and Arild Waaler<br>
+<b>Proof Search for the First-Order Connection Calculus in Maude</b> <br>
+Proc. 7th Intl. Workshop on Rewriting Logic
+and its Applications (WRLA'08). <br>
+<a href="http://www.sciencedirect.com/science/journal/15710661"
+target="_top">Electronic Notes in Theoretical Computer Science</a>
+<b>238</b>:173-188, 2009. &copy; Elsevier.<br>
+[ <a href="holen08wrla.ps.gz">Compressed postscript</a>
+| <a href="holen08wrla.pdf" target="_top">Preprint</a>
+| <a href="holen08wrla.html">Bibtex</a> ].
+<br><br>
+
+<li>Einar Broch Johnsen, Jasmin Christian Blanchette, Marcel Kyas, and Olaf Owe<br>
+<b>Intra-Object versus Inter-Object:
+  Concurrency and Reasoning in Creol</b><br>
+Invited talk, 2nd Intl. Workshop on Harnessing Theories
+  for Tool Support in Software.<br>
+Electronic Notes in Theoretical Computer Science <b>243</b>:89-103, 2009. &copy; Elsevier.<br>
+[ <a href="johnsen08ttss.ps.gz">Compressed postscript</a>
+| <a href="johnsen08ttss.pdf" target="_top">Preprint</a>
+| <a href="johnsen08ttss.html">Bibtex</a> ].
+<br><br>
+  
+<li>Dave Clarke, Tobias Wrigstad, Johan &Ouml;stlund, and Einar Broch Johnsen <br>
+<b>Minimal Ownership for Active Objects</b> <br>
+Proc. 6th Asian Symposium on Programming Languages and Systems (APLAS'08).<br>
+<a href="http://dx.doi.org/10.1007/978-3-540-89330-1"
+   target="_top">LNCS 5356.</a> &copy; Springer 2008.  <br>
+[ <a href="clarke08aplas.ps.gz">Compressed postscript</a>
+| <a href="clarke08aplas.pdf" target="_top">Preprint</a>
+| <a href="clarke08aplas.html">Bibtex</a> ].
+<br><br>
+  
+<li>Einar Broch Johnsen, Olaf Owe, Joakim Bj&oslash;rk, and Marcel Kyas<br>
+<b>An Object-Oriented Component Model 
+for Heterogeneous Nets</b> <br>
+Proc. 6th Intl. Symp. on Formal Methods for
+  Components and Objects (FMCO 2007).<br>
+<a href="http://dx.doi.org/10.1007/978-3-540-92188-2"
+   target="_top">LNCS 5382.</a> &copy; Springer 2008. <br>
+[ <a href="johnsen07fmco.ps.gz">Compressed postscript</a>
+| <a href="johnsen07fmco.pdf" target="_top">Preprint</a>
+| <a href="johnsen07fmco.html">Bibtex</a> ].
+<br><br>
+
+<li>Rudolf Schlatte, Bernhard K. Aichernig, Frank S. de Boer,
+    Andreas Griesmayer, and Einar Broch Johnsen<br>
+<b>Testing Concurrent Objects with
+   Application-Specific Schedulers</b> <br>
+Proc. 5th International Colloquium on
+  Theoretical Aspects of Computing (ICTAC'08).<br>
+<a href="http://dx.doi.org/10.1007/978-3-540-85762-4"
+   target="_top">LNCS 5160.</a> &copy; Springer 2008. <br>
+[ <a href="schlatte08ictac.ps.gz">Compressed postscript</a>
+| <a href="schlatte08ictac.pdf" target="_top">Preprint</a>
+| <a href="schlatte08ictac.html">Bibtex</a> ].
+<br><br>
+
+<li>Johan Dovland, Einar Broch Johnsen, Olaf Owe, and Martin Steffen<br>
+<b>Lazy Behavioral Subtyping</b> <br>
+Proc. 15th Intl. Symposium on Formal Methods (FM'08).<br>
+<a href="http://dx.doi.org/10.1007/978-3-540-68237-0"
+   target="_top">LNCS 5014.</a> &copy; Springer 2008. <br>
+[ <a href="dovland08fm.ps.gz">Compressed postscript</a>
+| <a href="dovland08fm.pdf" target="_top">Preprint</a>
+| <a href="dovland08fm.html">Bibtex</a> ].
+
+<br><br>
+
+<li>Einar Broch Johnsen and Ingrid Chieh Yu<br>
+<b>Backwards Type Analysis of Asynchronous Method Calls</b> <br>
+Journal of Logic and Algebraic Programming <b>77</b> (1-2): 40-59, 2008. &copy; Elsevier.<br>
+[ <a href="johnsen08jlap.ps.gz">Compressed postscript</a>
+| <a href="johnsen08jlap.pdf" target="_top">Preprint</a>
+| <a href="johnsen08jlap.html">Bibtex</a> ] 
+<br><br>
+
+<li>Einar Broch Johnsen, Olaf Owe, and Arild B. Torjusen<br>
+<b>Validating Behavioral Component Interfaces in Rewriting Logic</b> <br>
+Fundamenta Informaticae <b>82</b> (4): 341-359, 2008. &copy; IOS Press.<br>
+[ <a href="johnsen08fundam.ps.gz">Compressed postscript</a>
+| <a href="johnsen08fundam.pdf" target="_top">Preprint</a>
+| <a href="johnsen08fundam.html">Bibtex</a> ] 
+(Extended version of the <a href="#fsen05">FSEN05</a> paper). 
+<br><br>
+
+<li>Marcello M. Bonsangue and Einar Broch Johnsen (Eds.)<br> 
+<b>Proc. 9th Intl. Conf. on Formal Methods for Open 
+   Object-Based Distributed Systems (FMOODS'07)</b> <br> 
+LNCS 4468. &copy; Springer 2007. <br>
+[ <a href="http://dx.doi.org/10.1007/978-3-540-72952-5"
+   target="_top">Online edition</a>
+| <a href="lncs4468.html">Bibtex</a> ]. 
+<br><br>
+
+<li>Johan Dovland, Einar Broch Johnsen, and Olaf Owe<br> 
+<b>Observable Behavior of Dynamic Systems: 
+   Component Reasoning for Concurrent Objects</b> <br> 
+Proc. Workshop on the Foundations of Interactive Computation (FInCo'07).<br> 
+<a href="http://www.sciencedirect.com/science/journal/15710661"
+target="_top">Electronic Notes in Theoretical Computer Science</a>
+<b>203</b>:19-34, 2008. &copy; Elsevier.<br>
+[ <a href="dovland07finco.ps.gz">Compressed postscript</a>
+| <a href="dovland07finco.pdf" target="_top">Preprint</a>
+| <a href="dovland07finco.html">Bibtex</a> ]. 
+<br><br>
+
+<li>Frank S. de Boer, Dave Clarke, and Einar Broch Johnsen<br> 
+<b>A Complete Guide to the Future</b> <br> 
+Proc. 16th European Symposium on Programming (ESOP'07).<br> 
+<a href="http://dx.doi.org/10.1007/978-3-540-71316-6"
+   target="_top">LNCS 4421.</a> &copy; Springer 2007. <br>
+[ <a href="deboer07esop.ps.gz">Compressed postscript</a>
+| <a href="deboer07esop.pdf" target="_top">Preprint</a>
+| <a href="deboer07esop.html">Bibtex</a> ]. 
+<br><br>
+
+<li>Einar Broch Johnsen and Olaf Owe<br>
+<b>An Asynchronous Communication Model for Distributed Concurrent
+Objects</b> <br>
+Software and Systems Modeling <b>6</b>(1): 39-58, 2007.
+ &copy; Springer.<br>
+[ <a href="http://dx.doi.org/10.1007/s10270-006-0011-2"
+target="_top">Available online</a> | <a
+href="johnsen07sosym.html">Bibtex</a> ]
+(Extended version of the <a href="#sefm04">SEFM04</a> paper.)
+<br><br>
+
+<li>Einar Broch Johnsen, Olaf Owe, and Ingrid Chieh Yu<br> 
+<b>Creol: A type-safe object-oriented model for distributed concurrent
+systems</b> <br> 
+Theoretical Computer Science <b>365</b>(1-2): 23-66, 2006.
+ &copy; Elsevier.<br>
+[ <a href="http://dx.doi.org/10.1016/j.tcs.2006.07.031"
+target="_top">Available online</a> | <a
+href="johnsen06tcs.html">Bibtex</a> ]. 
+<br><br>
+
+<li>Einar Broch Johnsen, Gerardo Schneider, and &Oslash;ystein Torget<br>
+<b>Runtime Validation of Communication Histories</b> <br>
+Proc. 2nd IEEE Intl. Conf. on 
+Intelligent Computer Communication and Processing (ICCP 2006).<br>
+U.T. Press, 2006.<br>
+[ <a href="johnsen06iccp-srv.ps.gz">Compressed postscript</a>] 
+| <a href="johnsen06iccp-srv.pdf" target="_top">Preprint</a> 
+| <a href="johnsen06iccp-srv.html">Bibtex</a> ]. 
+<br><br>
+
+<li>Maksym Bortin, Einar Broch Johnsen, and Christoph L&uuml;th<br>
+<b>Structured Formal Development in Isabelle</b> <br>
+Nordic Journal of Computing <b>13</b>: 2-21, 2006.<br>
+[ <a href="bortin06njc.ps.gz">Compressed postscript</a>
+| <a href="bortin06njc.pdf" target="_top">Preprint</a>
+| <a href="bortin06njc.html">Bibtex</a>]. 
+<br><br>
+
+<li>Ingrid Chieh Yu, Einar Broch Johnsen, and Olaf Owe<br>
+<b>Type-Safe Runtime Class Upgrades in Creol</b> <br>
+Proc. 8th Intl. Conf. on Formal Methods for Open Object-Based Distributed Systems (FMOODS'06).<br>
+<a href="http://dx.doi.org/10.1007/11768869"
+   target="_top">LNCS 4037</a>. &copy; Springer 2006. <br>
+[ <a href="yu06fmoods.ps.gz">Compressed postscript</a>
+| <a href="yu06fmoods.pdf" target="_top">Preprint</a>
+| <a href="yu06fmoods.html">Bibtex</a> ]. 
+<br><br>
+
+<li><a name="fsen05">Einar Broch Johnsen, Olaf Owe, and Arild B. Torjusen<br>
+<b>Validating Behavioral Component Interfaces in Rewriting Logic</b> <br>
+Proc. 1st IPM Intl. Workshop on Foundations of Software
+Engineering (FSEN 2005).<br>
+<a href="http://www.sciencedirect.com/science/journal/15710661"
+target="_top">Electronic Notes in Theoretical Computer Science</a>
+<b>159</b>:187-204, 2006. 
+&copy; Elsevier.<br>
+[ <a href="johnsen05fsen.ps.gz">Compressed postscript</a>
+| <a href="johnsen05fsen.pdf" target="_top">Preprint</a>
+| <a href="johnsen05fsen.html">Bibtex</a> ]. 
+<br><br>
+
+<li>Bjarne Holen, Einar Broch Johnsen, and Arild Waaler<br>
+<b>Representing Strategies for the Connection Calculus in Rewriting Logic</b> <br>
+Proc. 5th Intl. Workshop on First-Order Theorem Proving (<a href="http://ftp2005.uni-koblenz.de"  target="_top">FTP 2005</a>).<br>
+[ <a href="holen05ftp.ps.gz">Compressed postscript</a> 
+| <a href="holen05ftp.pdf" target="_top">Preprint</a>
+| <a href="holen05ftp.html">Bibtex</a> ]. 
+<br><br>
+
+<li>Einar Broch Johnsen and Olaf Owe<br>
+<b>A Dynamic Binding Strategy for Multiple Inheritance <br>and Asynchronously Communicating Objects</b> <br>
+Proc. 3rd Intl. Symp. on Formal Methods for Components and Objects (FMCO 2004).<br>
+<a href="http://springerlink.metapress.com/link.asp?id=8rc3qb6kl3xq" target="_top">LNCS 3657</a>. &copy; Springer, 2005.<br>
+[ <a href="johnsen05fmco.ps.gz">Compressed postscript</a> 
+| <a href="johnsen05fmco.pdf" target="_top">Preprint</a>
+| <a href="johnsen05fmco.html">Bibtex</a> ]. 
+<br><br>
+
+<li>Einar Broch Johnsen, Olaf Owe, and Isabelle Simplot-Ryl<br>
+<b>A Dynamic Class Construct for Asynchronous Concurrent Objects</b> <br>
+Proc. 7th Intl. Conf. on Formal Methods for Open Object-Based Distributed Systems (FMOODS'05).<br>
+<a href="http://springerlink.metapress.com/link.asp?id=w7ccvgc9ca6m" target="_top">LNCS 3535</a>. &copy; Springer, 2005.<br>
+[ <a href="johnsen05fmoods.ps.gz">Compressed postscript</a>
+| <a href="johnsen05fmoods.pdf" target="_top">Preprint</a>
+| <a href="johnsen05fmoods.html">Bibtex</a> ]. 
+<br><br>
+
+<li>Johan Dovland, Einar Broch Johnsen, and Olaf Owe<br>
+<b>Verification of Concurrent Objects with Asynchronous Method Calls</b> <br>
+Proc. Intl. Conf. on Software - Science, Technology & Engineering (SwSTE 2005).
+&copy; IEEE press, 2005.<br>
+[ <a href="dovland05swste.ps.gz">Compressed postscript</a>
+| <a href="dovland05swste.pdf" target="_top">Preprint</a>
+| <a href="dovland05swste.html">Bibtex</a> ]. 
+<br><br>
+
+<li>Einar Broch Johnsen and Olaf Owe<br>
+<b>Inheritance in the Presence of Asynchronous Method Calls</b> <br>
+Proc. 38th Hawaii Intl. Conf. on System Sciences (HICSS-38).
+&copy; IEEE press, 2005.<br>
+[ <a href="johnsen05hicss.ps.gz">Compressed postscript</a>
+| <a href="johnsen05hicss.pdf" target="_top">Preprint</a> 
+| <a href="johnsen05hicss.html">Bibtex</a> ]. 
+<br><br>
+
+<li>Johan Dovland, Einar Broch Johnsen, and Olaf Owe<br>
+<b>Reasoning about Asynchronous Method Calls and Inheritance</b> <br>
+Proc. Norsk Informatikkonferanse (NIK 2004). Tapir 2004.<br>
+[ <a href="dovland04nik.ps.gz">Compressed postscript</a>
+| <a href="dovland04nik.pdf" target="_top">Preprint</a>
+| <a href="dovland04nik.html">Bibtex</a> ]. 
+<br><br>
+
+<li>Eyvind W. Axelsen, Einar Broch Johnsen and Olaf Owe<br>
+<b>Toward Reflective Application Testing in Open Environments</b> <br>
+Proc. Norsk Informatikkonferanse (NIK 2004). Tapir 2004.  <br>
+[ <a href="axelsen04nik.ps.gz">Compressed postscript</a>
+| <a href="axelsen04nik.pdf" target="_top">Preprint</a>
+| <a href="axelsen04nik.html">Bibtex</a> ]. 
+<br><br>
+
+<li><a name="sefm04">Einar Broch Johnsen and Olaf Owe<br>
+<b>An Asynchronous Communication Model 
+   for Distributed Concurrent Objects</b> <br>
+Proc. 2nd Intl. Conf. on Software Engineering and Formal Methods (SEFM
+2004). &copy; IEEE press, 2004.<br>
+[ <a href="johnsen04sefm.ps.gz">Compressed postscript</a>
+| <a href="johnsen04sefm.pdf" target="_top">Preprint</a>
+| <a href="johnsen04sefm.html">Bibtex</a> ]. 
+<br><br>
+
+<li>Einar Broch Johnsen and Christoph L&uuml;th<br>
+<b>Theorem Reuse by Proof Term Transformation</b> <br>
+Proc. 17th Intl. Conf. on Theorem Proving in Higher-Order Logics (TPHOLs 2004). <br>
+<a href="http://springerlink.metapress.com/link.asp?id=ptx04bpl0tnf" target="_top">LNCS 3223</a>. &copy; Springer, 2004.<br>
+[ <a href="johnsen04tphols.ps.gz">Compressed postscript</a>
+| <a href="johnsen04tphols.pdf" target="_top">Preprint</a>
+| <a href="johnsen04tphols.html">Bibtex</a> ]. 
+<br><br>
+
+<li>Einar Broch Johnsen, Olaf Owe, and Eyvind W. Axelsen<br>
+<b>A Run-time Environment for Concurrent Objects 
+with Asynchronous Method Calls</b> <br>
+Proc. 5th Intl. Workshop on Rewriting Logic 
+and its Applications (WRLA 2004). <br>
+<a href="http://www.sciencedirect.com/science/journal/15710661"
+target="_top">Electronic Notes in Theoretical Computer Science</a>
+<b>117</b>: 375-392, 2005. 
+&copy; Elsevier.<br>
+[ <a href="johnsen04wrla.ps.gz">Compressed postscript</a>
+| <a href="johnsen04wrla.pdf" target="_top">Preprint</a>
+| <a href="johnsen04wrla.html">Bibtex</a> ]. 
+<br><br>
+
+<li>Einar Broch Johnsen and Olaf Owe <br>
+<b>Object-Oriented Specification and Open Distributed Systems</b> <br>
+in <i>From Object-Orientation to Formal Methods:
+Essays in Memory of Ole-Johan Dahl</i>,<br>
+<a href="http://springerlink.metapress.com/link.asp?id=p227374acr3t" target="_top">LNCS 2635</a>. &copy; Springer, 2004.<br>
+[ <a href="johnsen04ojd.ps.gz">Compressed postscript</a>
+| <a href="johnsen04ojd.pdf" target="_top">Preprint</a>
+| <a href="johnsen04ojd.html">Bibtex</a> ]. 
+<br><br>
+
+<li>Einar Broch Johnsen and Christoph L&uuml;th<br>
+<b>Abstracting Refinements for Transformation</b> <br>
+Nordic Journal of Computing <b>10</b>: 313-336, 2003.<br>
+[ <a href="johnsen03njc.ps.gz">Compressed postscript</a>
+| <a href="johnsen03njc.pdf" target="_top">Preprint</a>
+| <a href="johnsen03njc.html">Bibtex</a> ]. 
+<br><br>
+
+<li>Einar Broch Johnsen, Olaf Owe, and Marte Arnestad <br>
+<b>Combining Active and Reactive Behavior in Concurrent Systems</b> <br>
+Proc. Norsk Informatikkonferanse (NIK 2003). Tapir 2003. <br>
+[ <a href="johnsen03nik.ps.gz">Compressed postscript</a>
+| <a href="johnsen03nik.pdf" target="_top">Preprint</a>
+| <a href="johnsen03nik.html">Bibtex</a> ]. 
+<br><br>
+
+<li>Einar Broch Johnsen, Wenhui Zhang, Olaf Owe, and Demissie B. Aredo<br>
+<b>Combining Graphical and Formal Development of Open Distributed Systems</b> <br>
+Proc. 3rd Intl. Conf. on Integrated Formal Methods (IFM 2002).<br>
+<a href="http://springerlink.metapress.com/link.asp?id=wkrxm87ugcqn" target="_top">LNCS 2335</a>. &copy; Springer 2002. <br>
+[ <a href="johnsen02ifm.ps.gz">Compressed postscript</a>
+| <a href="johnsen02ifm.pdf" target="_top">Preprint</a>
+| <a href="johnsen02ifm.html">Bibtex</a> ]. 
+<br><br>
+
+<li>Einar Broch Johnsen and Olaf Owe <br>
+<b>Composition and Refinement for Partial Object Specifications</b> <br>
+Proc. 16th Intl. Parallel & Distributed Processing Symposium (IPDPS 2002), 
+FMPPTA workshop.<br> &copy; IEEE press 2002. <br>
+[ <a href="johnsen02fmppta.ps.gz">Compressed postscript</a>
+| <a href="johnsen02fmppta.pdf" target="_top">Preprint</a>
+| <a href="johnsen02fmppta.html">Bibtex</a> ]. 
+<br><b>
+Full version</b>: Research Report 301, Dept. of Informatics, Univ. of
+Oslo, 2002.  <br>
+[ <a href="johnsen02rr301.ps.gz">Compressed postscript</a>
+| <a href="johnsen02rr301.pdf" target="_top">Preprint</a>
+| <a href="johnsen02rr301.html">Bibtex</a> ]. 
+<br><br>
+<li>Einar Broch Johnsen and Olaf Owe <br>
+<b>A Compositional Formalism for Object Viewpoints</b> <br>
+Proc. 5th Intl. Conf. on Formal Methods for Open Object-Based 
+Distributed Systems (FMOODS'02).<br> &copy; Kluwer 2002. <br>
+[ <a href="johnsen02fmoods.ps.gz">Compressed postscript</a>
+| <a href="johnsen02fmoods.pdf" target="_top">Preprint</a>
+| <a href="johnsen02fmoods.html">Bibtex</a> ]. 
+<br><br>
+<li>Einar Broch Johnsen, Olaf Owe, Ellen Munthe-Kaas, and J&uuml;ri Vain<br>
+<b>Incremental Fault-Tolerant Design in an Object-Oriented Setting</b> <br>
+Proc. 2nd Asian Pacific Conference on Quality Software (APAQS 2001). 
+&copy; IEEE press 2001. <br>
+[ <a href="johnsen01apaqs.ps.gz">Compressed postscript</a>
+| <a href="johnsen01apaqs.pdf" target="_top">Preprint</a>
+| <a href="johnsen01apaqs.html">Bibtex</a> ]. 
+<br><br>
+<li>Einar Broch Johnsen and Olaf Owe <br>
+<b>A Proof Environment for Partial Specifications in OUN</b> <br>
+Proc. Norsk Informatikkonferanse (NIK 2001). Tapir 2001. <br>
+[ <a href="johnsen01nik.ps.gz">Compressed postscript</a>
+| <a href="johnsen01nik.pdf" target="_top">Preprint</a>
+| <a href="johnsen01nik.html">Bibtex</a> ]. 
+<br><br>
+<li>Einar Broch Johnsen, Wenhui Zhang, Olaf Owe, and Demissie B. Aredo<br>
+<b>Specification of Distributed Systems 
+with a Combination of <br>Graphical and Formal Languages</b> <br>
+Proc. 8th Asian Pacific Software Engineering Conference (APSEC 2001). 
+&copy; IEEE press 2001. <br>
+[ <a href="johnsen01apsec.ps.gz">Compressed postscript</a>
+| <a href="johnsen01apsec.pdf" target="_top">Preprint</a>
+| <a href="johnsen01apsec.html">Bibtex</a> ]. 
+</ol>
+</font>
+<br><br><br><br>
+<address>
+<FONT COLOR="#CCCCCC">Last modified <!--#echo var="LAST_MODIFIED"-->.
+</address>
+
+</body>
+

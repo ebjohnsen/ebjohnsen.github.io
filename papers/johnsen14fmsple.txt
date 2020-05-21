@@ -1,0 +1,12 @@
+@InProceedings{johnsen14fmsple,
+  author =    {Einar Broch Johnsen and Rudolf Schlatte and S.\ Lizeth {Tapia Tarifa}},
+  title =     {Deployment Variability in Delta-Oriented Models},
+  editor    = {Tiziana Margaria and Bernhard Steffen},
+  booktitle = {Proc.\ 6th Intl.\ Symposium on Leveraging Applications of 
+               Formal Methods, Verification and Validation ({ISoLA} 2014)},
+  year      = 2014,
+  series    = {Lecture Notes in Computer Science},
+  volume    = 8802,
+  pages     = {304--319},
+  publisher = {Springer-Verlag},
+}

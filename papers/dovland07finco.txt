@@ -1,0 +1,14 @@
+@InProceedings{dovland07finco,
+  author =	 {Johan Dovland and Einar Broch Johnsen and Olaf Owe},
+  title =	 {Observable Behavior of Dynamic Systems: Component
+                  Reasoning for Concurrent Objects},
+  booktitle =	 {Proc. Workshop on the Foundations of Interactive
+                  Computation ({FInCo}'07)},
+  series =	 {Electronic Notes in Theoretical Computer Science},
+  editor =	 {Dina Goldin and Farhad Arbab},
+  volume =	 203,
+  pages =	 {19--34},
+  publisher =	 {Elsevier},
+  month =	 may,
+  year =	 2008,
+}

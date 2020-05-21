@@ -1,0 +1,14 @@
+@InProceedings{johnsen08ttss,
+  author    = {Rudolf Schlatte and
+               Einar Broch Johnsen and
+               Fatemeh Kazemeyni and
+               Silvia Lizeth {Tapia Tarifa}},
+  title     = {Models of Rate Restricted Communication for Concurrent Objects},
+  booktitle = {Proc.\ 4th Intl.\ Workshop on Harnessing Theories
+               for Tool Support in Software ({TTSS}'10) },
+  series    = {Electronic Notes in Theoretical Computer Science},
+  volume    = {274},
+  year      = {2011},
+  pages     = {67--81},
+ publisher  = {Elsevier},
+}

@@ -1,0 +1,10 @@
+@TechReport{johnsen01rr295,
+  author =	 {Einar Broch Johnsen and Olaf Owe},
+  title =	 {A {PVS} proof environment for {OUN}},
+  institution =	 {Department of Informatics},
+  month =	 jun,
+  year =	 2001,
+  type =	 {Research Report},
+  number =	 295,
+  address =	 {University of Oslo},
+}

@@ -1,0 +1,10 @@
+@inproceedings{lienhardt20icse,
+  author =	 {Lienhardt, Michael and Damiamni, Ferruccio and
+                  Johnsen, Einar Broch and Mauro, Jacopo},
+  title =	 {Lazy Product Discovery in Huge Configuration Spaces},
+  booktitle =	 {Proc.\ 42nd International Conference on Software
+                  Engineering ({ICSE} 2020)},
+  publisher =	 {ACM Press},
+  year =	 2020,
+  note =	 {To appear}
+}

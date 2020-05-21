@@ -1,0 +1,9 @@
+@inproceedings{taherkordi13sesena,
+  author    = {Amir Taherkordi and Frank Eliassen and Einar Broch Johnsen},
+  title     = {Behavioural Design of Sensor Network Applications using Activity-Driven States},
+  booktitle = {Proc. 4th International Workshop on Software Engineering for
+               Sensor Network Applications ({SESENA} 2013)},
+  pages     = {13--18},
+  publisher = {IEEE Computer Society Press},
+  year      = {2013},
+}

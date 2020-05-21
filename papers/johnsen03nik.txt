@@ -1,0 +1,11 @@
+@InProceedings{johnsen03nik,
+  author =	 {Einar Broch Johnsen and Olaf Owe and Marte Arnestad},
+  title =	 {Combining Active and Reactive Behavior in Concurrent
+                  Objects},
+  editor =       {Dag Langmyhr},
+  booktitle =	 {Proc. of the Norwegian Informatics Conference (NIK'03)},
+  year =	 2003,
+  month =	 nov,
+  pages =        "193--204",
+  publisher =	 "Tapir Academic Publisher",
+}

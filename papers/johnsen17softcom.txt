@@ -1,0 +1,14 @@
+@inproceedings{johnsen17softcom,
+  author =	 {Einar Broch Johnsen and Ka I Pun and Silvia Lizeth
+                  Tapia Tarifa},
+  title =	 {A formal model of cloud-deployed software and its
+                  application to workflow processing},
+  editor =	 {Dinko Begusic and Nikola Rozic and Josko Radic and
+                  Matko Saric},
+  booktitle =	 {25th International Conference on Software,
+                  Telecommunications and Computer Networks, SoftCOM
+                  2017, Split, Croatia, September 21-23, 2017},
+  pages =	 {1--6},
+  publisher =	 {{IEEE}},
+  year =	 2017,
+}

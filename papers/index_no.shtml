@@ -1,0 +1,227 @@
+<!--#config timefmt="%d.%m.%Y"-->
+<body text="#CCCCCC" bgcolor="#000000" link="#FFCC33" vlink="#FFCC99" alink="#FFCC33" TOPMARGIN="25">
+
+
+<h2>Artikler</h2>
+<font color="#CCCCCC">
+<ol>
+<li>Maksym Bortin, Einar Broch Johnsen, and Christoph L&uuml;th<br>
+<b>Structured Formal Development in Isabelle</b> <br>
+Nordic Journal of Computing <b>13</b>: 2-21, 2006.<br>
+[<a href="bortin06njc.ps.gz">Compressed postscript</a>] 
+[<a href="bortin06njc.pdf">Pdf</a>]
+[<a href="bortin06njc.html">Bibtex</a>]. 
+<br><br>
+
+<li>Ingrid Chieh Yu, Einar Broch Johnsen, and Olaf Owe<br>
+<b>Type-Safe Runtime Class Upgrades in Creol</b> <br>
+Proc. 8th Intl. Conf. on Formal Methods for Open Object-Based Distributed Systems (FMOODS'06).<br>
+LNCS 4037. Springer-Verlag 2006. To appear.<br>
+[<a href="yu06fmoods.ps.gz">Compressed postscript</a>] 
+[<a href="yu06fmoods.pdf">Pdf</a>]
+[<a href="yu06fmoods.html">Bibtex</a>]. 
+<br><br>
+
+<li>Einar Broch Johnsen, Olaf Owe, and Arild B. Torjusen<br>
+<b>Validating Behavioral Component Interfaces in Rewriting Logic</b> <br>
+Proc. 1st IPM Intl. Workshop on Foundations of Software
+Engineering (FSEN 2005).<br>
+To appear in ENTCS, Elsevier 2006.<br>
+[<a href="johnsen05fsen.ps.gz">Compressed postscript</a>] 
+[<a href="johnsen05fsen.pdf">Pdf</a>]
+[<a href="johnsen05fsen.html">Bibtex</a>]. 
+<br><br>
+
+<li>Bjarne Holen, Einar Broch Johnsen, and Arild Waaler<br>
+<b>Representing Strategies for the Connection Calculus in Rewriting Logic</b> <br>
+Proc. 5th Intl. Workshop on First-Order Theorem Proving (<a href="http://ftp2005.uni-koblenz.de"  target="_top">FTP 2005</a>).<br>
+[<a href="holen05ftp.ps.gz">Compressed postscript</a>] 
+[<a href="holen05ftp.pdf">Pdf</a>]
+[<a href="holen05ftp.html">Bibtex</a>]. 
+<br><br>
+
+<li>Einar Broch Johnsen and Olaf Owe<br>
+<b>A Dynamic Binding Strategy for Multiple Inheritance and Asynchronously Communicating Objects</b> <br>
+Proc. 3rd Intl. Symp. on Formal Methods for Components and Objects (FMCO 2004).<br>
+<a href="http://springerlink.metapress.com/link.asp?id=8rc3qb6kl3xq" target="_top">LNCS 3657</a>. &copy; Springer-Verlag, 2005.<br>
+[<a href="johnsen05fmco.ps.gz">Compressed postscript</a>] 
+[<a href="johnsen05fmco.pdf">Pdf</a>]
+[<a href="johnsen05fmco.html">Bibtex</a>]. 
+<br><br>
+
+<li>Einar Broch Johnsen, Olaf Owe, and Isabelle Simplot-Ryl<br>
+<b>A Dynamic Class Construct for Asynchronous Concurrent Objects</b> <br>
+Proc. 7th Intl. Conf. on Formal Methods for Open Object-Based Distributed Systems (FMOODS 2005).<br>
+<a href="http://springerlink.metapress.com/link.asp?id=w7ccvgc9ca6m" target="_top">LNCS 3535</a>. &copy; Springer-Verlag, 2005.<br>
+[<a href="johnsen05fmoods.ps.gz">Compressed postscript</a>] 
+[<a href="johnsen05fmoods.pdf">Pdf</a>]
+[<a href="johnsen05fmoods.html">Bibtex</a>]. 
+<br><br>
+
+<li>Johan Dovland, Einar Broch Johnsen, and Olaf Owe<br>
+<b>Verification of Concurrent Objects with Asynchronous Method Calls</b> <br>
+Proc. Intl. Conf. on Software - Science, Technology & Engineering (SwSTE 2005).
+&copy; IEEE press, 2005.<br>
+[<a href="dovland05swste.ps.gz">Compressed postscript</a>] 
+[<a href="dovland05swste.pdf">Pdf</a>]
+[<a href="dovland05swste.html">Bibtex</a>]. 
+<br><br>
+
+<li>Einar Broch Johnsen and Olaf Owe<br>
+<b>Inheritance in the Presence of Asynchronous Method Calls</b> <br>
+Proc. 38th Hawaii Intl. Conf. on System Sciences (HICSS 2005).
+&copy; IEEE press, 2005.<br>
+[<a href="johnsen05hicss.ps.gz">Compressed postscript</a>] 
+[<a href="johnsen05hicss.pdf">Pdf</a>]
+[<a href="johnsen05hicss.html">Bibtex</a>]. 
+<br><br>
+
+<li>Johan Dovland, Einar Broch Johnsen, and Olaf Owe<br>
+<b>Reasoning about Asynchronous Method Calls and Inheritance</b> <br>
+Proc. Norsk Informatikkonferanse (NIK 2004). Tapir 2004.<br>
+[<a href="dovland04nik.ps.gz">Compressed postscript</a>] 
+[<a href="dovland04nik.pdf">Pdf</a>]
+[<a href="dovland04nik.html">Bibtex</a>]. 
+<br><br>
+
+<li>Eyvind W. Axelsen, Einar Broch Johnsen and Olaf Owe<br>
+<b>Toward Reflective Application Testing in Open Environments</b> <br>
+Proc. Norsk Informatikkonferanse (NIK 2004). Tapir 2004.  <br>
+[<a href="axelsen04nik.ps.gz">Compressed postscript</a>] 
+[<a href="axelsen04nik.pdf">Pdf</a>]
+[<a href="axelsen04nik.html">Bibtex</a>]. 
+<br><br>
+
+<li>Einar Broch Johnsen and Olaf Owe<br>
+<b>An Asynchronous Communication Model 
+   for Distributed Concurrent Objects</b> <br>
+Proc. 2nd Intl. Conf. on Software Engineering and Formal Methods (SEFM
+2004). &copy; IEEE press, 2004.<br>
+[<a href="johnsen04sefm.ps.gz">Compressed postscript</a>] 
+[<a href="johnsen04sefm.pdf">Pdf</a>]
+[<a href="johnsen04sefm.html">Bibtex</a>]. 
+<br><br>
+
+<li>Einar Broch Johnsen and Christoph L&uuml;th<br>
+<b>Theorem Reuse by Proof Term Transformation</b> <br>
+Proc. 17th Intl. Conf. on Theorem Proving in Higher-Order Logics (TPHOLs 2004). <br>
+<a href="http://springerlink.metapress.com/link.asp?id=ptx04bpl0tnf" target="_top">LNCS 3223</a>. &copy; Springer-Verlag, 2004.<br>
+[<a href="johnsen04tphols.ps.gz">Compressed postscript</a>] 
+[<a href="johnsen04tphols.pdf">Pdf</a>]
+[<a href="johnsen04tphols.html">Bibtex</a>]. 
+<br><br>
+
+<li>Einar Broch Johnsen, Olaf Owe, and Eyvind W. Axelsen<br>
+<b>A Run-time Environment for Concurrent Objects 
+with Asynchronous Method Calls</b> <br>
+Proc. 5th Intl. Workshop on Rewriting Logic 
+and its Applications (WRLA 2004). <br>
+<a href="http://www.sciencedirect.com/science/journal/15710661" target="_top">Electronic Notes in Theoretical Computer Science</a> <b>117</b>: 375-392. 
+&copy; Elsevier, 2005.<br>
+[<a href="johnsen04wrla.ps.gz">Compressed postscript</a>] 
+[<a href="johnsen04wrla.pdf">Pdf</a>]
+[<a href="johnsen04wrla.html">Bibtex</a>]. 
+<br><br>
+
+<li>Einar Broch Johnsen and Olaf Owe <br>
+<b>Object-Oriented Specification and Open Distributed Systems</b> <br>
+in <i>From Object-Orientation to Formal Methods:
+Essays in Memory of Ole-Johan Dahl</i>,<br>
+<a href="http://springerlink.metapress.com/link.asp?id=p227374acr3t" target="_top">LNCS 2635</a>. &copy; Springer-Verlag, 2004.<br>
+[<a href="johnsen04ojd.ps.gz">Compressed postscript</a>] 
+[<a href="johnsen04ojd.pdf">Pdf</a>]
+[<a href="johnsen04ojd.html">Bibtex</a>]. 
+<br><br>
+
+<li>Einar Broch Johnsen and Christoph L&uuml;th<br>
+<b>Abstracting Refinements for Transformation</b> <br>
+Nordic Journal of Computing <b>10</b>: 313-336, 2003.<br>
+[<a href="johnsen03njc.ps.gz">Compressed postscript</a>] 
+[<a href="johnsen03njc.pdf">Pdf</a>]
+[<a href="johnsen03njc.html">Bibtex</a>]. 
+<br><br>
+
+<li>Einar Broch Johnsen, Olaf Owe, and Marte Arnestad <br>
+<b>Combining Active and Reactive Behavior in Concurrent Systems</b> <br>
+Proc. Norsk Informatikkonferanse (NIK 2003). Tapir 2003. <br>
+[<a href="johnsen03nik.ps.gz">Compressed postscript</a>] 
+[<a href="johnsen03nik.pdf">Pdf</a>]
+[<a href="johnsen03nik.html">Bibtex</a>]. 
+<br><br>
+
+<li>Einar Broch Johnsen, Wenhui Zhang, Olaf Owe, and Demissie B. Aredo<br>
+<b>Combining Graphical and Formal Development of Open Distributed Systems</b> <br>
+Proc. 3rd Intl. Conf. on Integrated Formal Methods (IFM 2002).<br>
+<a href="http://springerlink.metapress.com/link.asp?id=wkrxm87ugcqn" target="_top">LNCS 2335</a>. &copy; Springer-Verlag 2002. <br>
+[<a href="johnsen02ifm.ps.gz">Compressed postscript</a>] 
+[<a href="johnsen02ifm.pdf">Pdf</a>]
+[<a href="johnsen02ifm.html">Bibtex</a>]. 
+<br><br>
+
+<li>Einar Broch Johnsen and Olaf Owe <br>
+<b>Composition and Refinement for Partial Object Specifications</b> <br>
+Proc. 16th Intl. Parallel & Distributed Processing Symposium (IPDPS 2002), 
+FMPPTA workshop. &copy; IEEE press 2002. <br>
+[<a href="johnsen02fmppta.ps.gz">Compressed postscript</a>] 
+[<a href="johnsen02fmppta.pdf">Pdf</a>] 
+[<a href="johnsen02fmppta.html">Bibtex</a>]. 
+<br><b>
+Full version</b>: Research Report 301, Dept. of Informatics, Univ. of
+Oslo, 2002.  <br>
+[<a href="johnsen02rr301.ps.gz">Compressed postscript</a>] 
+[<a href="johnsen02rr301.pdf">Pdf</a>]
+[<a href="johnsen02rr301.html">Bibtex</a>]. 
+<br><br>
+<li>Einar Broch Johnsen and Olaf Owe <br>
+<b>A Compositional Formalism for Object Viewpoints</b> <br>
+Proc. 5th Intl. Conf. on Formal Methods for Open Object-Based 
+Distributed Systems (FMOODS 2002). &copy; Kluwer 2002. <br>
+[<a href="johnsen02fmoods.ps.gz">Compressed postscript</a>] 
+[<a href="johnsen02fmoods.pdf">Pdf</a>]
+[<a href="johnsen02fmoods.html">Bibtex</a>]. 
+<br><br>
+<li>Einar Broch Johnsen, Olaf Owe, Ellen Munthe-Kaas, and J&uuml;ri Vain<br>
+<b>Incremental Fault-Tolerant Design in an Object-Oriented Setting</b> <br>
+Proc. 2nd Asian Pacific Conference on Quality Software (APAQS 2001). 
+&copy; IEEE press 2001. <br>
+[<a href="johnsen01apaqs.ps.gz">Compressed postscript</a>] 
+[<a href="johnsen01apaqs.pdf">Pdf</a>]
+[<a href="johnsen01apaqs.html">Bibtex</a>]. 
+<br><br>
+<li>Einar Broch Johnsen and Olaf Owe <br>
+<b>A Proof Environment for Partial Specifications in OUN</b> <br>
+Proc. Norsk Informatikkonferanse (NIK 2001). Tapir 2001. <br>
+[<a href="johnsen01nik.ps.gz">Compressed postscript</a>] 
+[<a href="johnsen01nik.pdf">Pdf</a>]
+[<a href="johnsen01nik.html">Bibtex</a>]. 
+<br><br>
+<li>Einar Broch Johnsen, Wenhui Zhang, Olaf Owe, and Demissie B. Aredo<br>
+<b>Specification of Distributed Systems 
+with a Combination of Graphical and Formal Languages</b> <br>
+Proc. 8th Asian Pacific Software Engineering Conference (APSEC 2001). 
+&copy; IEEE press 2001. <br>
+[<a href="johnsen01apsec.ps.gz">Compressed postscript</a>] 
+[<a href="johnsen01apsec.pdf">Pdf</a>]
+[<a href="johnsen01apsec.html">Bibtex</a>]. 
+</ol>
+</font>
+
+<br><br><br><br>
+<center>
+<font color="#CCCCCC"><</font>
+<a href="http://www.ifi.uio.no" target="_top">ifi</a> |
+<a href="http://www.ifi.uio.no/~db/" target="_top">databehandling</a> |
+<a href="http://www.ifi.uio.no/forskning/grupper/pma"target="_top">pma</a> | 
+<a href="http://www.ifi.uio.no/~creol/" target="_top">creol</a>
+<!--Denne siden-knapp-->
+<!--  | <font color="#CCCCCC"><b>denne siden</b> </font> -->
+<font color="#CCCCCC">></font>
+</center>
+
+<hr>
+<address>
+<FONT COLOR="#CCCCCC">Sist oppdatert <!--#echo var="LAST_MODIFIED"-->.
+</address>
+
+</body>
+

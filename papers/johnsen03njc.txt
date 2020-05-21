@@ -1,0 +1,8 @@
+@Article{johnsen03njc,
+  author =	 {Einar Broch Johnsen and Christoph L\"uth},
+  title =	 "Abstracting Transformations for Refinement",
+  journal =	 "Nordic Journal of Computing",
+  volume =	 10,
+  pages =	 {316--336},
+  year =	 2003
+}

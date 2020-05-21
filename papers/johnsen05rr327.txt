@@ -1,0 +1,11 @@
+@TechReport{johnsen05rr327,
+  author =	 {Einar Broch Johnsen and Olaf Owe and Ingrid Chieh Yu},
+  title =	 {Creol: A Type-Safe Object-Oriented Model for 
+                  Distributed Concurrent Systems},
+  institution =	 {Department of Informatics},
+  month =	 jun,
+  year =	 2005,
+  type =	 {Research Report},
+  number =	 327,
+  address =	 {University of Oslo}
+}

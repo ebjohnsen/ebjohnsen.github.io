@@ -1,0 +1,14 @@
+@proceedings{bernardo14sfm,
+  editor =	 {Marco Bernardo and Ferruccio Damiani and Reiner
+                  H{\"{a}}hnle and Einar Broch Johnsen and Ina
+                  Schaefer},
+  title =	 {Advanced Lectures on Formal Methods for Executable
+                  Software Models - 14th International School on
+                  Formal Methods for the Design of Computer,
+                  Communication, and Software Systems ({SFM} 2014)},
+  series =	 {Lecture Notes in Computer Science},
+  volume =	 8483,
+  publisher =	 {Springer},
+  year =	 2014,
+}
+

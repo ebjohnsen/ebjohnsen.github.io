@@ -1,0 +1,14 @@
+@inproceedings{tveito20fase,
+  author =	 {Lars Tveito and Einar Broch Johnsen and Rudolf
+                  Schlatte},
+  title =	 {Global Reproducibility through Local Control for
+                  Distributed Active Objects},
+  editor =	 {Heike Wehrheim and Jordi Cabot},
+  booktitle =	 {Proc.\ 23rd International Conference on Fundamental
+                  Approaches to Software Engineering ({FASE} 2020)},
+  pages =	 {140--160},
+  series =	 {Lecture Notes in Computer Science},
+  volume =	 12076,
+  publisher =	 {Springer},
+  year =	 2020
+}
