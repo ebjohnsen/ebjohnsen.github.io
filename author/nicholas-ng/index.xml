@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicholas Ng | Einar Broch Johnsen&#39;s Homepage</title>
+    <link>/author/nicholas-ng/</link>
+      <atom:link href="/author/nicholas-ng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nicholas Ng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Einar Broch Johnsen</copyright><lastBuildDate>Fri, 22 Jul 2016 12:07:39 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_2.png</url>
+      <title>Nicholas Ng</title>
+      <link>/author/nicholas-ng/</link>
+    </image>
+    
+    <item>
+      <title>Behavioral Types in Programming Languages</title>
+      <link>/publication/16-ftpl/</link>
+      <pubDate>Fri, 22 Jul 2016 12:07:39 +0200</pubDate>
+      <guid>/publication/16-ftpl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jacopo Mauro | Einar Broch Johnsen&#39;s Homepage</title>
+    <link>/author/jacopo-mauro/</link>
+      <atom:link href="/author/jacopo-mauro/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jacopo Mauro</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Einar Broch Johnsen</copyright><lastBuildDate>Tue, 21 Jul 2020 22:35:11 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_2.png</url>
+      <title>Jacopo Mauro</title>
+      <link>/author/jacopo-mauro/</link>
+    </image>
+    
+    <item>
+      <title>Lazy Product Discovery in Huge Configuration Spaces</title>
+      <link>/publication/20-icse/</link>
+      <pubDate>Tue, 21 Jul 2020 22:35:11 +0200</pubDate>
+      <guid>/publication/20-icse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Release the Beasts: When Formal Methods Meet Real World Data</title>
+      <link>/publication/18-farhad/</link>
+      <pubDate>Fri, 25 May 2018 22:04:12 +0100</pubDate>
+      <guid>/publication/18-farhad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zephyrus2: On the Fly Deployment Optimization Using SMT and CP Technologies</title>
+      <link>/publication/16-setta/</link>
+      <pubDate>Sat, 26 Nov 2016 00:23:39 +0200</pubDate>
+      <guid>/publication/16-setta/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

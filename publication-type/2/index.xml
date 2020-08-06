@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Einar Broch Johnsen&#39;s Homepage</title>
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Einar Broch Johnsen</copyright><lastBuildDate>Tue, 09 Jul 2019 00:23:39 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Translating active objects into colored Petri nets for communication analysis</title>
+      <link>/publication/19-scp2/</link>
+      <pubDate>Tue, 09 Jul 2019 00:23:39 +0200</pubDate>
+      <guid>/publication/19-scp2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Formal Model of Parallel Execution on Multicore Architectures with Multilevel Caches</title>
+      <link>/publication/19-scp1/</link>
+      <pubDate>Mon, 13 May 2019 00:23:39 +0200</pubDate>
+      <guid>/publication/19-scp1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Modular Reasoning System Using Uninterpreted Predicates for Code Reuse</title>
+      <link>/publication/18-jlamp2/</link>
+      <pubDate>Tue, 02 Jan 2018 22:04:12 +0100</pubDate>
+      <guid>/publication/18-jlamp2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtually timed ambients: A calculus of nested virtualization</title>
+      <link>/publication/18-jlamp1/</link>
+      <pubDate>Tue, 02 Jan 2018 22:04:12 +0100</pubDate>
+      <guid>/publication/18-jlamp1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Survey of Active Object Languages&#34;</title>
+      <link>/publication/17-csur/</link>
+      <pubDate>Sun, 22 Oct 2017 00:23:39 +0200</pubDate>
+      <guid>/publication/17-csur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proof Repositories for Compositional Verification of Evolving Software Systems - Managing Change When Proving Software Correct</title>
+      <link>/publication/16-fomac/</link>
+      <pubDate>Wed, 05 Oct 2016 22:23:11 +0200</pubDate>
+      <guid>/publication/16-fomac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Behavioral Types in Programming Languages</title>
+      <link>/publication/16-ftpl/</link>
+      <pubDate>Fri, 22 Jul 2016 12:07:39 +0200</pubDate>
+      <guid>/publication/16-ftpl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A formal model of service-oriented dynamic object groups</title>
+      <link>/publication/16-scp/</link>
+      <pubDate>Thu, 21 Jan 2016 23:06:55 +0200</pubDate>
+      <guid>/publication/16-scp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing Resource-Aware Cloud Applications</title>
+      <link>/publication/15-ieee-comp/</link>
+      <pubDate>Sun, 21 Jun 2015 23:07:21 +0200</pubDate>
+      <guid>/publication/15-ieee-comp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A proof system for adaptable class hierarchies</title>
+      <link>/publication/15-jlamp2/</link>
+      <pubDate>Wed, 21 Jan 2015 23:06:40 +0200</pubDate>
+      <guid>/publication/15-jlamp2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating deployment architectures and resource consumption in timed object-oriented models</title>
+      <link>/publication/15-jlamp1/</link>
+      <pubDate>Wed, 21 Jan 2015 23:06:37 +0200</pubDate>
+      <guid>/publication/15-jlamp1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal modeling and analysis of resource management for cloud architectures: an industrial case study using Real-Time ABS</title>
+      <link>/publication/14-soca/</link>
+      <pubDate>Sun, 21 Dec 2014 23:05:54 +0200</pubDate>
+      <guid>/publication/14-soca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verifying traits: an incremental proof system for fine-grained reuse</title>
+      <link>/publication/14-faoc/</link>
+      <pubDate>Mon, 21 Jul 2014 23:06:18 +0200</pubDate>
+      <guid>/publication/14-faoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Run-Time Assertion Checking of Data- and Protocol-Oriented Properties of Java Programs: An Industrial Case Study</title>
+      <link>/publication/14-taosd/</link>
+      <pubDate>Tue, 21 Jan 2014 23:06:06 +0200</pubDate>
+      <guid>/publication/14-taosd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User-defined Schedulers for Real-Time Concurrent Objects</title>
+      <link>/publication/13-isse/</link>
+      <pubDate>Sun, 21 Apr 2013 23:02:20 +0200</pubDate>
+      <guid>/publication/13-isse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal Modeling and Validation of a Power-Efficient Grouping Protocol for WSNs&#34;</title>
+      <link>/publication/12-jlap2/</link>
+      <pubDate>Sat, 21 Apr 2012 23:01:40 +0200</pubDate>
+      <guid>/publication/12-jlap2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safe Locking for Multi-Threaded Java with Exceptions</title>
+      <link>/publication/12-jlap1/</link>
+      <pubDate>Sat, 21 Apr 2012 23:01:36 +0200</pubDate>
+      <guid>/publication/12-jlap1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental Reasoning with Lazy Behavioral Subtyping for Multiple Inheritance</title>
+      <link>/publication/11-scp/</link>
+      <pubDate>Fri, 21 Oct 2011 22:59:19 +0200</pubDate>
+      <guid>/publication/11-scp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lazy Behavioral Subtyping</title>
+      <link>/publication/10-jlap/</link>
+      <pubDate>Tue, 21 Sep 2010 22:58:35 +0200</pubDate>
+      <guid>/publication/10-jlap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Backwards Type Analysis of Asynchronous Method Calls</title>
+      <link>/publication/08-jlap/</link>
+      <pubDate>Sun, 21 Sep 2008 22:53:29 +0200</pubDate>
+      <guid>/publication/08-jlap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Asynchronous Communication Model for Distributed Concurrent Objects</title>
+      <link>/publication/07-sosym/</link>
+      <pubDate>Sat, 21 Jul 2007 22:52:29 +0200</pubDate>
+      <guid>/publication/07-sosym/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structured Formal Development in Isabelle</title>
+      <link>/publication/06-njc/</link>
+      <pubDate>Tue, 21 Nov 2006 22:51:45 +0200</pubDate>
+      <guid>/publication/06-njc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creol: A type-safe object-oriented model for distributed concurrent systems</title>
+      <link>/publication/06-tcs/</link>
+      <pubDate>Sat, 21 Oct 2006 22:52:18 +0200</pubDate>
+      <guid>/publication/06-tcs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

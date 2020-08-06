@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Lienhardt | Einar Broch Johnsen&#39;s Homepage</title>
+    <link>/author/michael-lienhardt/</link>
+      <atom:link href="/author/michael-lienhardt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael Lienhardt</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Einar Broch Johnsen</copyright><lastBuildDate>Tue, 21 Jul 2020 22:35:11 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_2.png</url>
+      <title>Michael Lienhardt</title>
+      <link>/author/michael-lienhardt/</link>
+    </image>
+    
+    <item>
+      <title>Lazy Product Discovery in Huge Configuration Spaces</title>
+      <link>/publication/20-icse/</link>
+      <pubDate>Tue, 21 Jul 2020 22:35:11 +0200</pubDate>
+      <guid>/publication/20-icse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fault Model Design Space for Cooperative Concurrency</title>
+      <link>/publication/14-isola2/</link>
+      <pubDate>Tue, 21 Oct 2014 20:17:14 +0200</pubDate>
+      <guid>/publication/14-isola2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

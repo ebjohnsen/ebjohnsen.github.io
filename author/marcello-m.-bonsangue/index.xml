@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marcello M. Bonsangue | Einar Broch Johnsen&#39;s Homepage</title>
+    <link>/author/marcello-m.-bonsangue/</link>
+      <atom:link href="/author/marcello-m.-bonsangue/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marcello M. Bonsangue</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Einar Broch Johnsen</copyright><lastBuildDate>Mon, 07 Mar 2016 13:51:07 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_2.png</url>
+      <title>Marcello M. Bonsangue</title>
+      <link>/author/marcello-m.-bonsangue/</link>
+    </image>
+    
+    <item>
+      <title>Theory and Practice of Formal Methods - Essays Dedicated to Frank de Boer on the Occasion of His 60th Birthday</title>
+      <link>/publication/16-fdb60/</link>
+      <pubDate>Mon, 07 Mar 2016 13:51:07 +0200</pubDate>
+      <guid>/publication/16-fdb60/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Computing Techniques. Selected papers from FMOODS&#39;07 and COORDINATION&#39;07</title>
+      <link>/publication/09-tcs/</link>
+      <pubDate>Sat, 21 Feb 2009 22:55:06 +0200</pubDate>
+      <guid>/publication/09-tcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proc. 9th Intl. Conf. on Formal Methods for Open Object-Based Distributed Systems (FMOODS&#39;07).</title>
+      <link>/publication/07-fmoods/</link>
+      <pubDate>Thu, 21 Jun 2007 22:53:03 +0200</pubDate>
+      <guid>/publication/07-fmoods/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

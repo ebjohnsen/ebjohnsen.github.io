@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jasmin Christian Blanchette | Einar Broch Johnsen&#39;s Homepage</title>
+    <link>/author/jasmin-christian-blanchette/</link>
+      <atom:link href="/author/jasmin-christian-blanchette/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jasmin Christian Blanchette</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Einar Broch Johnsen</copyright><lastBuildDate>Mon, 21 Jul 2008 22:54:34 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_2.png</url>
+      <title>Jasmin Christian Blanchette</title>
+      <link>/author/jasmin-christian-blanchette/</link>
+    </image>
+    
+    <item>
+      <title>Intra-Object versus Inter-Object: Concurrency and Reasoning in Creol</title>
+      <link>/publication/08-ttss/</link>
+      <pubDate>Mon, 21 Jul 2008 22:54:34 +0200</pubDate>
+      <guid>/publication/08-ttss/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

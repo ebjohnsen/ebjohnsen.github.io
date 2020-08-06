@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lars Michael Kristensen | Einar Broch Johnsen&#39;s Homepage</title>
+    <link>/author/lars-michael-kristensen/</link>
+      <atom:link href="/author/lars-michael-kristensen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lars Michael Kristensen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Einar Broch Johnsen</copyright><lastBuildDate>Tue, 09 Jul 2019 00:23:39 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_2.png</url>
+      <title>Lars Michael Kristensen</title>
+      <link>/author/lars-michael-kristensen/</link>
+    </image>
+    
+    <item>
+      <title>Translating active objects into colored Petri nets for communication analysis</title>
+      <link>/publication/19-scp2/</link>
+      <pubDate>Tue, 09 Jul 2019 00:23:39 +0200</pubDate>
+      <guid>/publication/19-scp2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Coloured Petri Nets for Resource Analysis of Active Objects</title>
+      <link>/publication/18-facs/</link>
+      <pubDate>Tue, 09 Oct 2018 21:00:12 +0100</pubDate>
+      <guid>/publication/18-facs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

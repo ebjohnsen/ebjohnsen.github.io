@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Einar Broch Johnsen&#39;s Homepage</title>
+    <link>/publication-type/1/</link>
+      <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Einar Broch Johnsen</copyright><lastBuildDate>Tue, 21 Jul 2020 22:35:11 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Lazy Product Discovery in Huge Configuration Spaces</title>
+      <link>/publication/20-icse/</link>
+      <pubDate>Tue, 21 Jul 2020 22:35:11 +0200</pubDate>
+      <guid>/publication/20-icse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Reproducibility through Local Control for Distributed Active Objects</title>
+      <link>/publication/20-fase/</link>
+      <pubDate>Fri, 14 Feb 2020 23:08:36 +0200</pubDate>
+      <guid>/publication/20-fase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asynchronous Cooperative Contracts for Cooperative Scheduling</title>
+      <link>/publication/19-sefm/</link>
+      <pubDate>Wed, 10 Jul 2019 23:08:36 +0200</pubDate>
+      <guid>/publication/19-sefm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Godot: All the Benefits of Implicit and Explicit Futures</title>
+      <link>/publication/19-ecoop/</link>
+      <pubDate>Wed, 10 Jul 2019 23:08:36 +0200</pubDate>
+      <guid>/publication/19-ecoop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementing SOS with Active Objects: A Case Study of a Multicore Memory System</title>
+      <link>/publication/19-fase/</link>
+      <pubDate>Sat, 06 Apr 2019 23:08:36 +0200</pubDate>
+      <guid>/publication/19-fase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deployment by Construction for Multicore Architectures</title>
+      <link>/publication/18-isola/</link>
+      <pubDate>Mon, 05 Nov 2018 00:23:39 +0200</pubDate>
+      <guid>/publication/18-isola/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Checking Modal Contracts for Virtually Timed Ambients</title>
+      <link>/publication/18-ictac/</link>
+      <pubDate>Fri, 19 Oct 2018 00:23:39 +0200</pubDate>
+      <guid>/publication/18-ictac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Coloured Petri Nets for Resource Analysis of Active Objects</title>
+      <link>/publication/18-facs/</link>
+      <pubDate>Tue, 09 Oct 2018 21:00:12 +0100</pubDate>
+      <guid>/publication/18-facs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resource-Aware Virtually Timed Ambients</title>
+      <link>/publication/18-ifm/</link>
+      <pubDate>Wed, 19 Sep 2018 00:23:39 +0200</pubDate>
+      <guid>/publication/18-ifm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling and Simulation of Spark Streaming</title>
+      <link>/publication/18-aina/</link>
+      <pubDate>Thu, 17 May 2018 00:23:39 +0200</pubDate>
+      <guid>/publication/18-aina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Calculus of Virtually Timed Ambients</title>
+      <link>/publication/16-wadt/</link>
+      <pubDate>Sat, 02 Dec 2017 22:04:12 +0100</pubDate>
+      <guid>/publication/16-wadt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Formal Model of Parallel Execution on Multicore Architectures with Multilevel Caches&#34;</title>
+      <link>/publication/17-facs/</link>
+      <pubDate>Sun, 22 Oct 2017 00:23:39 +0200</pubDate>
+      <guid>/publication/17-facs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Translating Active Objects into Colored Petri Nets for Communication Analysis</title>
+      <link>/publication/17-fsen/</link>
+      <pubDate>Sun, 22 Oct 2017 00:23:39 +0200</pubDate>
+      <guid>/publication/17-fsen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Locally Abstract, Globally Concrete Semantics of Concurrent Programming Languages</title>
+      <link>/publication/17-tableaux/</link>
+      <pubDate>Fri, 22 Sep 2017 00:23:39 +0200</pubDate>
+      <guid>/publication/17-tableaux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A formal model of cloud-deployed software and its application to workflow processing</title>
+      <link>/publication/17-softcom/</link>
+      <pubDate>Thu, 21 Sep 2017 22:04:12 +0100</pubDate>
+      <guid>/publication/17-softcom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EasyInterface: A toolkit for rapid development of GUIs for research prototype tools</title>
+      <link>/publication/17-fase/</link>
+      <pubDate>Sun, 02 Apr 2017 22:04:12 +0100</pubDate>
+      <guid>/publication/17-fase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zephyrus2: On the Fly Deployment Optimization Using SMT and CP Technologies</title>
+      <link>/publication/16-setta/</link>
+      <pubDate>Sat, 26 Nov 2016 00:23:39 +0200</pubDate>
+      <guid>/publication/16-setta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Deployment Decisions for Elastic Services with ABS&#34;</title>
+      <link>/publication/16-ifmcloud/</link>
+      <pubDate>Wed, 26 Oct 2016 23:24:21 +0200</pubDate>
+      <guid>/publication/16-ifmcloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing AWS Deployments Using Model-Based Predictions</title>
+      <link>/publication/16-isola/</link>
+      <pubDate>Thu, 06 Oct 2016 21:04:13 +0200</pubDate>
+      <guid>/publication/16-isola/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ABS-YARN: A Formal Framework for Modeling Hadoop YARN Clusters</title>
+      <link>/publication/16-fase/</link>
+      <pubDate>Thu, 21 Jul 2016 23:08:36 +0200</pubDate>
+      <guid>/publication/16-fase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>16 Sac Musepat</title>
+      <link>/publication/16-sac-musepat/</link>
+      <pubDate>Thu, 21 Apr 2016 23:08:22 +0200</pubDate>
+      <guid>/publication/16-sac-musepat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Maude Framework for Cache Coherent Multicore Architectures</title>
+      <link>/publication/16-wrla/</link>
+      <pubDate>Mon, 07 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/16-wrla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Complexity of Concurrent Programs - A Technique Based on Behavioural Types&#34;</title>
+      <link>/publication/15-facs/</link>
+      <pubDate>Thu, 21 Jan 2016 23:07:58 +0200</pubDate>
+      <guid>/publication/15-facs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>History-Based Specification and Verification of Scalable Concurrent and Distributed Systems</title>
+      <link>/publication/15-icfem/</link>
+      <pubDate>Sat, 21 Nov 2015 23:07:48 +0200</pubDate>
+      <guid>/publication/15-icfem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Cost Analysis of Distributed Systems</title>
+      <link>/publication/15-sas/</link>
+      <pubDate>Mon, 21 Sep 2015 23:07:32 +0200</pubDate>
+      <guid>/publication/15-sas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preparing HPC Applications for Exascale: Challenges and Recommendations</title>
+      <link>/publication/15-nbis/</link>
+      <pubDate>Mon, 21 Sep 2015 23:07:08 +0200</pubDate>
+      <guid>/publication/15-nbis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deployment Variability in Delta-Oriented Models</title>
+      <link>/publication/14-isola1/</link>
+      <pubDate>Tue, 21 Oct 2014 23:05:38 +0200</pubDate>
+      <guid>/publication/14-isola1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fault Model Design Space for Cooperative Concurrency</title>
+      <link>/publication/14-isola2/</link>
+      <pubDate>Tue, 21 Oct 2014 20:17:14 +0200</pubDate>
+      <guid>/publication/14-isola2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erlang-Style Error Recovery for Concurrent Objects with Cooperative Scheduling</title>
+      <link>/publication/14-isola3/</link>
+      <pubDate>Wed, 01 Oct 2014 20:21:47 +0200</pubDate>
+      <guid>/publication/14-isola3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engineering Virtualized Services</title>
+      <link>/publication/13-nordicloud/</link>
+      <pubDate>Sat, 21 Sep 2013 23:05:24 +0200</pubDate>
+      <guid>/publication/13-nordicloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Behavioural Design of Sensor Network Applications using Activity-Driven States</title>
+      <link>/publication/13-sesena/</link>
+      <pubDate>Tue, 21 May 2013 23:05:03 +0200</pubDate>
+      <guid>/publication/13-sesena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Run-time checking of data- and protocol-oriented properties of Java programs: an industrial case study</title>
+      <link>/publication/13-sac/</link>
+      <pubDate>Thu, 21 Mar 2013 23:05:11 +0200</pubDate>
+      <guid>/publication/13-sac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Resource-Aware Virtualized Applications for the Cloud in Real-Time ABS</title>
+      <link>/publication/12-icfem/</link>
+      <pubDate>Wed, 21 Nov 2012 23:04:18 +0200</pubDate>
+      <guid>/publication/12-icfem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracking Behavioral Constraints during Object-Oriented Software Evolution</title>
+      <link>/publication/12-isola/</link>
+      <pubDate>Sun, 21 Oct 2012 23:04:31 +0200</pubDate>
+      <guid>/publication/12-isola/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal Modeling of Resource Management for Cloud Architectures: An Industrial Case Study</title>
+      <link>/publication/12-esocc/</link>
+      <pubDate>Fri, 21 Sep 2012 23:03:48 +0200</pubDate>
+      <guid>/publication/12-esocc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Type-Safe Model of Adaptive Object Groups</title>
+      <link>/publication/12-foclasa/</link>
+      <pubDate>Tue, 21 Aug 2012 23:04:51 +0200</pubDate>
+      <guid>/publication/12-foclasa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MULE-based Wireless Sensor Networks: Probabilistic Modeling and Quantitative Analysis</title>
+      <link>/publication/12-ifm/</link>
+      <pubDate>Mon, 18 Jun 2012 23:01:58 +0200</pubDate>
+      <guid>/publication/12-ifm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ABS: A Core Language for Abstract Behavioral Specification</title>
+      <link>/publication/10-fmco/</link>
+      <pubDate>Sat, 21 Jan 2012 23:00:48 +0200</pubDate>
+      <guid>/publication/10-fmco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Models of Rate Restricted Communication for Concurrent Objects</title>
+      <link>/publication/10-ttss/</link>
+      <pubDate>Sun, 21 Aug 2011 22:59:52 +0200</pubDate>
+      <guid>/publication/10-ttss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fault in the Future</title>
+      <link>/publication/11-coordination/</link>
+      <pubDate>Tue, 21 Jun 2011 23:00:15 +0200</pubDate>
+      <guid>/publication/11-coordination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dating Concurrent Objects: Real-Time Modeling and Schedulability Analysis</title>
+      <link>/publication/10-concur/</link>
+      <pubDate>Tue, 21 Sep 2010 22:58:46 +0200</pubDate>
+      <guid>/publication/10-concur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Symbolic Execution for Testing Distributed Objects</title>
+      <link>/publication/09-tap/</link>
+      <pubDate>Tue, 21 Jul 2009 22:55:26 +0200</pubDate>
+      <guid>/publication/09-tap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proof Search for the First-Order Connection Calculus in Maude</title>
+      <link>/publication/08-wrla/</link>
+      <pubDate>Sun, 21 Jun 2009 22:54:43 +0200</pubDate>
+      <guid>/publication/08-wrla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental Reasoning for Multiple Inheritance</title>
+      <link>/publication/09-ifm/</link>
+      <pubDate>Sat, 21 Feb 2009 22:55:15 +0200</pubDate>
+      <guid>/publication/09-ifm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing Concurrent Objects with Application-Specific Schedulers</title>
+      <link>/publication/08-ictac/</link>
+      <pubDate>Thu, 21 Aug 2008 22:53:49 +0200</pubDate>
+      <guid>/publication/08-ictac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validating Behavioral Component Interfaces in Rewriting Logic</title>
+      <link>/publication/08-funda/</link>
+      <pubDate>Mon, 21 Jul 2008 22:53:18 +0200</pubDate>
+      <guid>/publication/08-funda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lazy Behavioral Subtyping</title>
+      <link>/publication/08-fm/</link>
+      <pubDate>Wed, 21 May 2008 22:53:39 +0200</pubDate>
+      <guid>/publication/08-fm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Observable Behavior of Dynamic Systems: Component Reasoning for Concurrent Objects</title>
+      <link>/publication/07-finco/</link>
+      <pubDate>Sat, 21 Jul 2007 22:52:48 +0200</pubDate>
+      <guid>/publication/07-finco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Runtime Validation of Communication Histories</title>
+      <link>/publication/06-iccp-srv/</link>
+      <pubDate>Thu, 21 Sep 2006 22:52:03 +0200</pubDate>
+      <guid>/publication/06-iccp-srv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Type-Safe Runtime Class Upgrades in Creol</title>
+      <link>/publication/06-fmoods/</link>
+      <pubDate>Wed, 21 Jun 2006 22:51:34 +0200</pubDate>
+      <guid>/publication/06-fmoods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward Reflective Application Testing in Open Environments&#34;</title>
+      <link>/publication/04-nik1/</link>
+      <pubDate>Sun, 21 Nov 2004 22:49:32 +0200</pubDate>
+      <guid>/publication/04-nik1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Run-time Environment for Concurrent Objects with Asynchronous Method Calls</title>
+      <link>/publication/04-wrla/</link>
+      <pubDate>Wed, 21 Jul 2004 22:48:43 +0200</pubDate>
+      <guid>/publication/04-wrla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining Graphical and Formal Development of Open Distributed Systems</title>
+      <link>/publication/02-ifm/</link>
+      <pubDate>Tue, 21 May 2002 22:47:32 +0200</pubDate>
+      <guid>/publication/02-ifm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental Fault-Tolerant Design in an Object-Oriented Setting</title>
+      <link>/publication/01-apaqs/</link>
+      <pubDate>Fri, 21 Dec 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/01-apaqs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

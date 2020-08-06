@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frank de Boer | Einar Broch Johnsen&#39;s Homepage</title>
+    <link>/author/frank-de-boer/</link>
+      <atom:link href="/author/frank-de-boer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Frank de Boer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Einar Broch Johnsen</copyright><lastBuildDate>Sat, 06 Apr 2019 23:08:36 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_2.png</url>
+      <title>Frank de Boer</title>
+      <link>/author/frank-de-boer/</link>
+    </image>
+    
+    <item>
+      <title>Implementing SOS with Active Objects: A Case Study of a Multicore Memory System</title>
+      <link>/publication/19-fase/</link>
+      <pubDate>Sat, 06 Apr 2019 23:08:36 +0200</pubDate>
+      <guid>/publication/19-fase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Survey of Active Object Languages&#34;</title>
+      <link>/publication/17-csur/</link>
+      <pubDate>Sun, 22 Oct 2017 00:23:39 +0200</pubDate>
+      <guid>/publication/17-csur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal modeling and analysis of resource management for cloud architectures: an industrial case study using Real-Time ABS</title>
+      <link>/publication/14-soca/</link>
+      <pubDate>Sun, 21 Dec 2014 23:05:54 +0200</pubDate>
+      <guid>/publication/14-soca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engineering Virtualized Services</title>
+      <link>/publication/13-nordicloud/</link>
+      <pubDate>Sat, 21 Sep 2013 23:05:24 +0200</pubDate>
+      <guid>/publication/13-nordicloud/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

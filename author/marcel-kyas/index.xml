@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marcel Kyas | Einar Broch Johnsen&#39;s Homepage</title>
+    <link>/author/marcel-kyas/</link>
+      <atom:link href="/author/marcel-kyas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marcel Kyas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Einar Broch Johnsen</copyright><lastBuildDate>Sat, 21 Nov 2009 22:55:49 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_2.png</url>
+      <title>Marcel Kyas</title>
+      <link>/author/marcel-kyas/</link>
+    </image>
+    
+    <item>
+      <title>Dynamic Classes: Modular Asynchronous Evolution of Distributed Concurrent Objects</title>
+      <link>/publication/09-fm/</link>
+      <pubDate>Sat, 21 Nov 2009 22:55:49 +0200</pubDate>
+      <guid>/publication/09-fm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intra-Object versus Inter-Object: Concurrency and Reasoning in Creol</title>
+      <link>/publication/08-ttss/</link>
+      <pubDate>Mon, 21 Jul 2008 22:54:34 +0200</pubDate>
+      <guid>/publication/08-ttss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Object-Oriented Component Model for Heterogeneous Nets</title>
+      <link>/publication/07-fmco/</link>
+      <pubDate>Mon, 21 Jul 2008 22:54:06 +0200</pubDate>
+      <guid>/publication/07-fmco/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

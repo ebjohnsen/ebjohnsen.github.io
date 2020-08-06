@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ludovic Henrio | Einar Broch Johnsen&#39;s Homepage</title>
+    <link>/author/ludovic-henrio/</link>
+      <atom:link href="/author/ludovic-henrio/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ludovic Henrio</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Einar Broch Johnsen</copyright><lastBuildDate>Wed, 10 Jul 2019 23:08:36 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_2.png</url>
+      <title>Ludovic Henrio</title>
+      <link>/author/ludovic-henrio/</link>
+    </image>
+    
+    <item>
+      <title>Godot: All the Benefits of Implicit and Explicit Futures</title>
+      <link>/publication/19-ecoop/</link>
+      <pubDate>Wed, 10 Jul 2019 23:08:36 +0200</pubDate>
+      <guid>/publication/19-ecoop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Survey of Active Object Languages&#34;</title>
+      <link>/publication/17-csur/</link>
+      <pubDate>Sun, 22 Oct 2017 00:23:39 +0200</pubDate>
+      <guid>/publication/17-csur/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

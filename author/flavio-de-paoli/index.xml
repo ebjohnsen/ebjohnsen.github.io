@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flavio De Paoli | Einar Broch Johnsen&#39;s Homepage</title>
+    <link>/author/flavio-de-paoli/</link>
+      <atom:link href="/author/flavio-de-paoli/index.xml" rel="self" type="application/rss+xml" />
+    <description>Flavio De Paoli</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Einar Broch Johnsen</copyright><lastBuildDate>Thu, 07 Sep 2017 13:51:24 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_2.png</url>
+      <title>Flavio De Paoli</title>
+      <link>/author/flavio-de-paoli/</link>
+    </image>
+    
+    <item>
+      <title>Proc. 6th IFIP WG 2.14 European Conference on Service-Oriented and Cloud Computing (ESOCC 2017)</title>
+      <link>/publication/17-esocc/</link>
+      <pubDate>Thu, 07 Sep 2017 13:51:24 +0200</pubDate>
+      <guid>/publication/17-esocc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

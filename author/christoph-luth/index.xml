@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christoph Lüth | Einar Broch Johnsen&#39;s Homepage</title>
+    <link>/author/christoph-luth/</link>
+      <atom:link href="/author/christoph-luth/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christoph Lüth</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Einar Broch Johnsen</copyright><lastBuildDate>Tue, 21 Nov 2006 22:51:45 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_2.png</url>
+      <title>Christoph Lüth</title>
+      <link>/author/christoph-luth/</link>
+    </image>
+    
+    <item>
+      <title>Structured Formal Development in Isabelle</title>
+      <link>/publication/06-njc/</link>
+      <pubDate>Tue, 21 Nov 2006 22:51:45 +0200</pubDate>
+      <guid>/publication/06-njc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theorem Reuse by Proof Term Transformation&#34;</title>
+      <link>/publication/04-tphols/</link>
+      <pubDate>Sat, 21 Aug 2004 22:48:54 +0200</pubDate>
+      <guid>/publication/04-tphols/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstracting Refinements for Transformation&#34;</title>
+      <link>/publication/03-njc/</link>
+      <pubDate>Mon, 21 Jul 2003 22:47:55 +0200</pubDate>
+      <guid>/publication/03-njc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

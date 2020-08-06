@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joakim Bjørk | Einar Broch Johnsen&#39;s Homepage</title>
+    <link>/author/joakim-bj%C3%B8rk/</link>
+      <atom:link href="/author/joakim-bj%C3%B8rk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joakim Bjørk</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Einar Broch Johnsen</copyright><lastBuildDate>Thu, 21 Jan 2016 23:06:55 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_2.png</url>
+      <title>Joakim Bjørk</title>
+      <link>/author/joakim-bj%C3%B8rk/</link>
+    </image>
+    
+    <item>
+      <title>A formal model of service-oriented dynamic object groups</title>
+      <link>/publication/16-scp/</link>
+      <pubDate>Thu, 21 Jan 2016 23:06:55 +0200</pubDate>
+      <guid>/publication/16-scp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User-defined Schedulers for Real-Time Concurrent Objects</title>
+      <link>/publication/13-isse/</link>
+      <pubDate>Sun, 21 Apr 2013 23:02:20 +0200</pubDate>
+      <guid>/publication/13-isse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Type-Safe Model of Adaptive Object Groups</title>
+      <link>/publication/12-foclasa/</link>
+      <pubDate>Tue, 21 Aug 2012 23:04:51 +0200</pubDate>
+      <guid>/publication/12-foclasa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lightweight Time Modeling in Timed Creol</title>
+      <link>/publication/10-rtrts/</link>
+      <pubDate>Tue, 21 Sep 2010 22:56:54 +0200</pubDate>
+      <guid>/publication/10-rtrts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Object-Oriented Component Model for Heterogeneous Nets</title>
+      <link>/publication/07-fmco/</link>
+      <pubDate>Mon, 21 Jul 2008 22:54:06 +0200</pubDate>
+      <guid>/publication/07-fmco/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Einar Broch Johnsen (Eds) | Einar Broch Johnsen&#39;s Homepage</title>
+    <link>/author/einar-broch-johnsen-eds/</link>
+      <atom:link href="/author/einar-broch-johnsen-eds/index.xml" rel="self" type="application/rss+xml" />
+    <description>Einar Broch Johnsen (Eds)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Einar Broch Johnsen</copyright><lastBuildDate>Thu, 07 Sep 2017 13:51:24 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_2.png</url>
+      <title>Einar Broch Johnsen (Eds)</title>
+      <link>/author/einar-broch-johnsen-eds/</link>
+    </image>
+    
+    <item>
+      <title>Proc. 6th IFIP WG 2.14 European Conference on Service-Oriented and Cloud Computing (ESOCC 2017)</title>
+      <link>/publication/17-esocc/</link>
+      <pubDate>Thu, 07 Sep 2017 13:51:24 +0200</pubDate>
+      <guid>/publication/17-esocc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proc. 11th International Conference on Tests and Proofs (TAP 2017)</title>
+      <link>/publication/17-tap/</link>
+      <pubDate>Fri, 07 Jul 2017 13:51:24 +0200</pubDate>
+      <guid>/publication/17-tap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theory and Practice of Formal Methods - Essays Dedicated to Frank de Boer on the Occasion of His 60th Birthday</title>
+      <link>/publication/16-fdb60/</link>
+      <pubDate>Mon, 07 Mar 2016 13:51:07 +0200</pubDate>
+      <guid>/publication/16-fdb60/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

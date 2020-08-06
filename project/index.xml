@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Einar Broch Johnsen&#39;s Homepage</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Einar Broch Johnsen</copyright><lastBuildDate>Thu, 02 Feb 2017 22:17:32 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Cumulus: Semantics-Based Analyses for Cloud-Aware Computing</title>
+      <link>/project/cumulus/</link>
+      <pubDate>Thu, 02 Feb 2017 22:17:32 +0100</pubDate>
+      <guid>/project/cumulus/</guid>
+      <description>&lt;p&gt;Cumulus is a project funded by the Research Council of Norway 2015-2019. The main goal of Cumulus is to develop a semantic foundation for static analysis techniques for cloud-aware applications. Cloud-awareness enables the software to negotiate its own quality of service and opens for dynamic and fine-grained resource management. This introduces an element of reflection which goes beyond the state of the art in both formal semantics and static analysis. The project will develop a formal foundation for cloud-aware computing and use this foundation to enable the verification of quantitative assertions about the high-level quality of service and low-level resource requirements of cloud-aware applications. The project will develop demonstrators for the approach in terms of semantics-based tools to analyze quantitative assertions for quality of service during the design of such applications. Cumulus will enable a shift in the design of virtualized software from model simulation and monitoring deployed systems to advanced static analyses of worst-case resource requirements early in the software design&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hyvar : Scalable Hybrid Variability</title>
+      <link>/project/hyvar/</link>
+      <pubDate>Thu, 21 Jul 2016 22:16:15 +0200</pubDate>
+      <guid>/project/hyvar/</guid>
+      <description>&lt;p&gt;HyVar was an EU H2020 research project 2015-2018. The idea was to develop a framework for continuous software evolution in distributed systems which combines the description of evolution as a software product line, a scalable cloud infrastructure to monitoring and customization of software upgrades for remote devices, and over-the-air upgrade technologies&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Upscale</title>
+      <link>/project/upscale/</link>
+      <pubDate>Thu, 21 Jul 2016 22:16:06 +0200</pubDate>
+      <guid>/project/upscale/</guid>
+      <description>&lt;p&gt;UpScale was an EU FP7 research project 2014-2017. The idea was to
+design programming languages for the manycore era, when a program
+can make use of potentially millions of processors. UpScale used
+incremental type-based program annotations specifying
+deployment-related information, and for innovative type-based
+deployment optimisations both at compile- and runtime. The Encore
+language was designed in this project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Envisage: Engineering Virtualized Services</title>
+      <link>/project/envisage/</link>
+      <pubDate>Thu, 21 Jul 2016 22:15:56 +0200</pubDate>
+      <guid>/project/envisage/</guid>
+      <description>&lt;p&gt;I  coordinated this EU FP7 research project 2013-2016. The basic idea was to integrate service-level agreements (SLA) into the interfaces of an OO model and validate SLA for cloud computing at design time using formal methods. The Envisage project delivered novel methods for predicting the behavior of software deployed on the cloud, using formal models and analysis techniques.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hats: Highly Adaptable and Trustworthy Software using Formal Methods</title>
+      <link>/project/hats/</link>
+      <pubDate>Thu, 21 Jul 2016 21:55:11 +0200</pubDate>
+      <guid>/project/hats/</guid>
+      <description>&lt;p&gt;HATS was a four-year FET project funded under the EU&amp;rsquo;s FP7 programme 2010-2013.
+In the project, we propose to take an empirically successful, yet informal software development paradigm and put it on a formal basis. Specifically, in HATS we will turn software product family (SWPF) development into a rigorous approach. The technical core of the project is an Abstract Behavioral Specification language which will allow precise description of SWPF features and components and their instances. The main project outcome is a methodological and tool framework achieving not merely far-reaching automation in maintaining dynamically evolving software, but an unprecedented level of trust while informal processes are replaced with rigorous analyses based on formal semantics.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
