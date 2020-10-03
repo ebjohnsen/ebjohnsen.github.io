@@ -5,12 +5,20 @@
     <link>/author/anastasia-gkolfi/</link>
       <atom:link href="/author/anastasia-gkolfi/index.xml" rel="self" type="application/rss+xml" />
     <description>Anastasia Gkolfi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Einar Broch Johnsen</copyright><lastBuildDate>Tue, 09 Jul 2019 00:23:39 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Einar Broch Johnsen</copyright><lastBuildDate>Thu, 20 Aug 2020 00:01:48 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_2.png</url>
       <title>Anastasia Gkolfi</title>
       <link>/author/anastasia-gkolfi/</link>
     </image>
+    
+    <item>
+      <title>Model Checking Starvation for Resource-aware Active Objects with Coloured Petri Nets</title>
+      <link>/publication/20-pnse/</link>
+      <pubDate>Thu, 20 Aug 2020 00:01:48 +0200</pubDate>
+      <guid>/publication/20-pnse/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Translating active objects into colored Petri nets for communication analysis</title>

@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Einar Broch Johnsen&#39;s Homepage</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Einar Broch Johnsen</copyright><lastBuildDate>Mon, 27 Jul 2020 23:09:07 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Einar Broch Johnsen</copyright><lastBuildDate>Sat, 03 Oct 2020 10:33:05 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_2.png</url>
       <title>Einar Broch Johnsen&#39;s Homepage</title>
@@ -27,6 +27,37 @@
 &lt;p&gt;For more information, see the 
 &lt;a href=&#34;http://sirius-labs.no&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SIRIUS website&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Remaro: Reliable AI for Marine Robotics</title>
+      <link>/project/remaro/</link>
+      <pubDate>Sat, 03 Oct 2020 10:33:05 +0200</pubDate>
+      <guid>/project/remaro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart Journey Mining: Towards successful digitalisation of services</title>
+      <link>/project/sjm/</link>
+      <pubDate>Fri, 02 Oct 2020 10:32:56 +0200</pubDate>
+      <guid>/project/sjm/</guid>
+      <description>&lt;p&gt;The digitalisation of our society&amp;rsquo;s service systems has fundamentally changed the way services are delivered to, and experienced by, humans. Although digital services are supposed to simplify our lives and increase our efficiency, they often frustrate and burden customers, users, and employees.&lt;/p&gt;
+&lt;p&gt;The overall goal is to increase the quality of services and support the successful digitalisation of services by uniting research on process mining and customer journeys using new developments in logic-based analysis and artificial intelligence. The partners are SINTEF Digital, University of Oslo, and Eindhoven University of Technology.&lt;/p&gt;
+&lt;p&gt;Based on user journeys we will analyse, model, and observe how humans experience digital services, rather than taking the perspective of service providers and service systems.&lt;/p&gt;
+&lt;p&gt;The main source of data comes from two complementary service providers: GrepS, a start-up company offering software services for analysing programming skills, and Telenor, a telecom company offering a wide range of mobile-, broadband- and TV services in the Nordics and in Asia.&lt;/p&gt;
+&lt;p&gt;We will trace data left from users in various systems during repeated interactions with a service over time, on the level of individuals.
+In the first phase of the project, we will build tools for automated capture of repeated user interactions in digital channels. Based on the resulting database of user journeys and user models, we will use logic-based techniques and machine learning to expose deviations and predict possible behaviours. The accumulation of user journeys will also enable identification of patterns that optimize the user experience and service quality.&lt;/p&gt;
+&lt;p&gt;We will extend and use executable modelling languages and their associated analysis tools to describe, predict, and prescribe user journeys as concurrent processes. We will base these languages and analysis tools on formal methods and concurrency theory, which build on the foundation of theoretical computer science.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Model Checking Starvation for Resource-aware Active Objects with Coloured Petri Nets</title>
+      <link>/publication/20-pnse/</link>
+      <pubDate>Thu, 20 Aug 2020 00:01:48 +0200</pubDate>
+      <guid>/publication/20-pnse/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -696,7 +727,7 @@
     </item>
     
     <item>
-      <title>Hyvar : Scalable Hybrid Variability</title>
+      <title>HyVar : Scalable Hybrid Variability</title>
       <link>/project/hyvar/</link>
       <pubDate>Thu, 21 Jul 2016 22:16:15 +0200</pubDate>
       <guid>/project/hyvar/</guid>
@@ -705,14 +736,14 @@
     </item>
     
     <item>
-      <title>Upscale</title>
+      <title>UpScale: From Inherent Concurrency to Massive Parallelism through Type-based Optimizations</title>
       <link>/project/upscale/</link>
       <pubDate>Thu, 21 Jul 2016 22:16:06 +0200</pubDate>
       <guid>/project/upscale/</guid>
-      <description>&lt;p&gt;UpScale was an EU FP7 research project 2014-2017. The idea was to
-design programming languages for the manycore era, when a program
-can make use of potentially millions of processors. UpScale used
-incremental type-based program annotations specifying
+      <description>&lt;p&gt;UpScale was an EU FP7 FET Open-X research project 2014-2017. The idea
+was to design programming languages for the manycore era, when a
+program can make use of potentially millions of processors. UpScale
+used incremental type-based program annotations specifying
 deployment-related information, and for innovative type-based
 deployment optimisations both at compile- and runtime. The Encore
 language was designed in this project.&lt;/p&gt;
@@ -724,12 +755,12 @@ language was designed in this project.&lt;/p&gt;
       <link>/project/envisage/</link>
       <pubDate>Thu, 21 Jul 2016 22:15:56 +0200</pubDate>
       <guid>/project/envisage/</guid>
-      <description>&lt;p&gt;I  coordinated this EU FP7 research project 2013-2016. The basic idea was to integrate service-level agreements (SLA) into the interfaces of an OO model and validate SLA for cloud computing at design time using formal methods. The Envisage project delivered novel methods for predicting the behavior of software deployed on the cloud, using formal models and analysis techniques.&lt;/p&gt;
+      <description>&lt;p&gt;I  coordinated this EU FP7 research project 2013-2016. The basic idea was to integrate service-level agreements (SLA) into the interfaces of an object-oriented model and validate SLA for cloud computing at design time using formal methods. The Envisage project delivered novel methods for predicting the behavior of software deployed on the cloud, using formal models and analysis techniques.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Hats: Highly Adaptable and Trustworthy Software using Formal Methods</title>
+      <title>HATS: Highly Adaptable and Trustworthy Software using Formal Methods</title>
       <link>/project/hats/</link>
       <pubDate>Thu, 21 Jul 2016 21:55:11 +0200</pubDate>
       <guid>/project/hats/</guid>

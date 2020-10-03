@@ -9,7 +9,67 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-07-27T23:30:16+02:00</lastmod>
+    <lastmod>2020-10-03T10:33:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-10-03T10:33:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/remaro/</loc>
+    <lastmod>2020-10-03T10:33:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/sjm/</loc>
+    <lastmod>2020-10-02T10:32:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2020-08-20T00:01:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/anastasia-gkolfi/</loc>
+    <lastmod>2020-08-20T00:01:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-08-20T00:01:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/einar-broch-johnsen/</loc>
+    <lastmod>2020-08-20T00:01:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ingrid-chieh-yu/</loc>
+    <lastmod>2020-08-20T00:01:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lars-michael-kristensen/</loc>
+    <lastmod>2020-08-20T00:01:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/20-pnse/</loc>
+    <lastmod>2020-08-20T00:01:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-08-20T00:01:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-08-20T00:01:48+02:00</lastmod>
   </url>
   
   <url>
@@ -33,27 +93,12 @@
   </url>
   
   <url>
-    <loc>/publication-type/0/</loc>
+    <loc>/publication-type/2/</loc>
     <lastmod>2020-07-21T23:06:28+02:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/20-ijguc/</loc>
-    <lastmod>2020-07-21T23:06:28+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-07-21T23:06:28+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/einar-broch-johnsen/</loc>
-    <lastmod>2020-07-21T23:06:28+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/ingrid-chieh-yu/</loc>
     <lastmod>2020-07-21T23:06:28+02:00</lastmod>
   </url>
   
@@ -65,21 +110,6 @@
   <url>
     <loc>/author/ming-chang-lee/</loc>
     <lastmod>2020-07-21T23:06:28+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-07-21T23:06:28+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-07-21T23:06:28+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2020-07-21T22:35:11+02:00</lastmod>
   </url>
   
   <url>
@@ -205,21 +235,6 @@
   <url>
     <loc>/author/tobias-wrigstad/</loc>
     <lastmod>2019-07-10T23:08:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2019-07-09T00:23:39+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/anastasia-gkolfi/</loc>
-    <lastmod>2019-07-09T00:23:39+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/lars-michael-kristensen/</loc>
-    <lastmod>2019-07-09T00:23:39+02:00</lastmod>
   </url>
   
   <url>
@@ -569,11 +584,6 @@
   
   <url>
     <loc>/project/cumulus/</loc>
-    <lastmod>2017-02-02T22:17:32+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
     <lastmod>2017-02-02T22:17:32+01:00</lastmod>
   </url>
   

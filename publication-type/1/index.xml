@@ -5,12 +5,20 @@
     <link>/publication-type/1/</link>
       <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Einar Broch Johnsen</copyright><lastBuildDate>Tue, 21 Jul 2020 22:35:11 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Einar Broch Johnsen</copyright><lastBuildDate>Thu, 20 Aug 2020 00:01:48 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
       <link>/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Model Checking Starvation for Resource-aware Active Objects with Coloured Petri Nets</title>
+      <link>/publication/20-pnse/</link>
+      <pubDate>Thu, 20 Aug 2020 00:01:48 +0200</pubDate>
+      <guid>/publication/20-pnse/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Lazy Product Discovery in Huge Configuration Spaces</title>
@@ -285,6 +293,14 @@
     </item>
     
     <item>
+      <title>A Transformational Proof System for Delta-Oriented Programming</title>
+      <link>/publication/12-fmsple/</link>
+      <pubDate>Fri, 21 Sep 2012 23:04:40 +0200</pubDate>
+      <guid>/publication/12-fmsple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Formal Modeling of Resource Management for Cloud Architectures: An Industrial Case Study</title>
       <link>/publication/12-esocc/</link>
       <pubDate>Fri, 21 Sep 2012 23:03:48 +0200</pubDate>
@@ -309,6 +325,22 @@
     </item>
     
     <item>
+      <title>A Formal Model of User-Defined Resources in Resource-Restricted Deployment Scenarios</title>
+      <link>/publication/11-foveoos/</link>
+      <pubDate>Sat, 21 Jan 2012 23:02:40 +0200</pubDate>
+      <guid>/publication/11-foveoos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Formal Model of Object Mobility in Resource-Restricted Deployment Scenarios</title>
+      <link>/publication/11-facs/</link>
+      <pubDate>Sat, 21 Jan 2012 23:02:30 +0200</pubDate>
+      <guid>/publication/11-facs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ABS: A Core Language for Abstract Behavioral Specification</title>
       <link>/publication/10-fmco/</link>
       <pubDate>Sat, 21 Jan 2012 23:00:48 +0200</pubDate>
@@ -325,6 +357,14 @@
     </item>
     
     <item>
+      <title>Verifying Traits: A Proof System for Fine-Grained Reuse</title>
+      <link>/publication/11-ftfjp/</link>
+      <pubDate>Thu, 21 Jul 2011 23:01:09 +0200</pubDate>
+      <guid>/publication/11-ftfjp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Fault in the Future</title>
       <link>/publication/11-coordination/</link>
       <pubDate>Tue, 21 Jun 2011 23:00:15 +0200</pubDate>
@@ -333,10 +373,74 @@
     </item>
     
     <item>
+      <title>Safe Locking for Multi-Threaded Java</title>
+      <link>/publication/11-fsen/</link>
+      <pubDate>Thu, 21 Apr 2011 23:01:17 +0200</pubDate>
+      <guid>/publication/11-fsen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Group Selection by Nodes in Wireless Sensor Networks Using Coalitional Game Theory</title>
+      <link>/publication/11-iceccs/</link>
+      <pubDate>Thu, 21 Apr 2011 22:59:32 +0200</pubDate>
+      <guid>/publication/11-iceccs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Resource Reallocation Between Deployment Components</title>
+      <link>/publication/10-icfem/</link>
+      <pubDate>Thu, 21 Oct 2010 22:58:55 +0200</pubDate>
+      <guid>/publication/10-icfem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dating Concurrent Objects: Real-Time Modeling and Schedulability Analysis</title>
       <link>/publication/10-concur/</link>
       <pubDate>Tue, 21 Sep 2010 22:58:46 +0200</pubDate>
       <guid>/publication/10-concur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lightweight Time Modeling in Timed Creol</title>
+      <link>/publication/10-rtrts/</link>
+      <pubDate>Tue, 21 Sep 2010 22:56:54 +0200</pubDate>
+      <guid>/publication/10-rtrts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Confluent Term Rewriting for Only-knowing Logics</title>
+      <link>/publication/10-stairs/</link>
+      <pubDate>Sat, 21 Aug 2010 22:56:26 +0200</pubDate>
+      <guid>/publication/10-stairs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validating Timed Models of Deployment Components with Parametric Concurrency</title>
+      <link>/publication/10-foveoos/</link>
+      <pubDate>Wed, 21 Jul 2010 22:59:07 +0200</pubDate>
+      <guid>/publication/10-foveoos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grouping Nodes in Wireless Sensor Networks Using Coalitional Game Theory</title>
+      <link>/publication/10-forte/</link>
+      <pubDate>Mon, 21 Jun 2010 22:56:14 +0200</pubDate>
+      <guid>/publication/10-forte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Classes: Modular Asynchronous Evolution of Distributed Concurrent Objects</title>
+      <link>/publication/09-fm/</link>
+      <pubDate>Sat, 21 Nov 2009 22:55:49 +0200</pubDate>
+      <guid>/publication/09-fm/</guid>
       <description></description>
     </item>
     
@@ -365,10 +469,34 @@
     </item>
     
     <item>
+      <title>Minimal Ownership for Active Objects</title>
+      <link>/publication/08-aplas/</link>
+      <pubDate>Sun, 21 Dec 2008 22:54:17 +0200</pubDate>
+      <guid>/publication/08-aplas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Testing Concurrent Objects with Application-Specific Schedulers</title>
       <link>/publication/08-ictac/</link>
       <pubDate>Thu, 21 Aug 2008 22:53:49 +0200</pubDate>
       <guid>/publication/08-ictac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intra-Object versus Inter-Object: Concurrency and Reasoning in Creol</title>
+      <link>/publication/08-ttss/</link>
+      <pubDate>Mon, 21 Jul 2008 22:54:34 +0200</pubDate>
+      <guid>/publication/08-ttss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Object-Oriented Component Model for Heterogeneous Nets</title>
+      <link>/publication/07-fmco/</link>
+      <pubDate>Mon, 21 Jul 2008 22:54:06 +0200</pubDate>
+      <guid>/publication/07-fmco/</guid>
       <description></description>
     </item>
     
@@ -385,6 +513,14 @@
       <link>/publication/08-fm/</link>
       <pubDate>Wed, 21 May 2008 22:53:39 +0200</pubDate>
       <guid>/publication/08-fm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Complete Guide to the Future</title>
+      <link>/publication/07-esop/</link>
+      <pubDate>Fri, 21 Sep 2007 22:52:38 +0200</pubDate>
+      <guid>/publication/07-esop/</guid>
       <description></description>
     </item>
     
@@ -413,10 +549,82 @@
     </item>
     
     <item>
+      <title>Inheritance in the Presence of Asynchronous Method Calls</title>
+      <link>/publication/05-hicss/</link>
+      <pubDate>Wed, 21 Dec 2005 22:50:16 +0200</pubDate>
+      <guid>/publication/05-hicss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validating Behavioral Component Interfaces in Rewriting Logic</title>
+      <link>/publication/05-fsen/</link>
+      <pubDate>Wed, 21 Sep 2005 22:51:21 +0200</pubDate>
+      <guid>/publication/05-fsen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representing Strategies for the Connection Calculus in Rewriting Logic</title>
+      <link>/publication/05-ftp/</link>
+      <pubDate>Thu, 21 Jul 2005 22:51:12 +0200</pubDate>
+      <guid>/publication/05-ftp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Dynamic Class Construct for Asynchronous Concurrent Objects</title>
+      <link>/publication/05-fmoods/</link>
+      <pubDate>Thu, 21 Jul 2005 22:50:45 +0200</pubDate>
+      <guid>/publication/05-fmoods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verification of Concurrent Objects with Asynchronous Method Calls</title>
+      <link>/publication/05-swste/</link>
+      <pubDate>Thu, 21 Jul 2005 22:50:29 +0200</pubDate>
+      <guid>/publication/05-swste/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reasoning about Asynchronous Method Calls and Inheritance</title>
+      <link>/publication/04-nik2/</link>
+      <pubDate>Sun, 21 Nov 2004 22:49:36 +0200</pubDate>
+      <guid>/publication/04-nik2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Toward Reflective Application Testing in Open Environments&#34;</title>
       <link>/publication/04-nik1/</link>
       <pubDate>Sun, 21 Nov 2004 22:49:32 +0200</pubDate>
       <guid>/publication/04-nik1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Asynchronous Communication Model for Distributed Concurrent Objects</title>
+      <link>/publication/04-sefm/</link>
+      <pubDate>Tue, 21 Sep 2004 22:49:05 +0200</pubDate>
+      <guid>/publication/04-sefm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theorem Reuse by Proof Term Transformation&#34;</title>
+      <link>/publication/04-tphols/</link>
+      <pubDate>Sat, 21 Aug 2004 22:48:54 +0200</pubDate>
+      <guid>/publication/04-tphols/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Dynamic Binding Strategy for Multiple Inheritance and Asynchronously Communicating Objects&#34;</title>
+      <link>/publication/04-fmco/</link>
+      <pubDate>Wed, 21 Jul 2004 22:51:00 +0200</pubDate>
+      <guid>/publication/04-fmco/</guid>
       <description></description>
     </item>
     
@@ -429,10 +637,26 @@
     </item>
     
     <item>
+      <title>Combining Active and Reactive Behavior in Concurrent Systems&#34;</title>
+      <link>/publication/03-nik/</link>
+      <pubDate>Fri, 21 Nov 2003 22:47:45 +0200</pubDate>
+      <guid>/publication/03-nik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Combining Graphical and Formal Development of Open Distributed Systems</title>
       <link>/publication/02-ifm/</link>
       <pubDate>Tue, 21 May 2002 22:47:32 +0200</pubDate>
       <guid>/publication/02-ifm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Composition and Refinement for Partial Object Specifications</title>
+      <link>/publication/02-fmppta/</link>
+      <pubDate>Sun, 21 Apr 2002 22:46:45 +0200</pubDate>
+      <guid>/publication/02-fmppta/</guid>
       <description></description>
     </item>
     
