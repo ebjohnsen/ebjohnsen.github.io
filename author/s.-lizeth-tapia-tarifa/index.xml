@@ -5,12 +5,20 @@
     <link>/author/s.-lizeth-tapia-tarifa/</link>
       <atom:link href="/author/s.-lizeth-tapia-tarifa/index.xml" rel="self" type="application/rss+xml" />
     <description>S. Lizeth Tapia Tarifa</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Einar Broch Johnsen</copyright><lastBuildDate>Sat, 06 Apr 2019 23:08:36 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Einar Broch Johnsen</copyright><lastBuildDate>Thu, 20 Aug 2020 00:17:05 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_2.png</url>
       <title>S. Lizeth Tapia Tarifa</title>
       <link>/author/s.-lizeth-tapia-tarifa/</link>
     </image>
+    
+    <item>
+      <title>SymPaths: Symbolic Execution Meets Partial Order Reduction</title>
+      <link>/publication/20-dv/</link>
+      <pubDate>Thu, 20 Aug 2020 00:17:05 +0200</pubDate>
+      <guid>/publication/20-dv/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Implementing SOS with Active Objects: A Case Study of a Multicore Memory System</title>

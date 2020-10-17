@@ -29,47 +29,87 @@
   
   <url>
     <loc>/publication-type/1/</loc>
-    <lastmod>2020-08-20T00:01:48+02:00</lastmod>
+    <lastmod>2020-09-12T09:07:44+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/anastasia-gkolfi/</loc>
-    <lastmod>2020-08-20T00:01:48+02:00</lastmod>
+    <loc>/author/andrzej-wasowski/</loc>
+    <lastmod>2020-09-12T09:07:44+02:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-08-20T00:01:48+02:00</lastmod>
+    <lastmod>2020-09-12T09:07:44+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/20-sle/</loc>
+    <lastmod>2020-09-12T09:07:44+02:00</lastmod>
   </url>
   
   <url>
     <loc>/author/einar-broch-johnsen/</loc>
-    <lastmod>2020-08-20T00:01:48+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/ingrid-chieh-yu/</loc>
-    <lastmod>2020-08-20T00:01:48+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/lars-michael-kristensen/</loc>
-    <lastmod>2020-08-20T00:01:48+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/20-pnse/</loc>
-    <lastmod>2020-08-20T00:01:48+02:00</lastmod>
+    <lastmod>2020-09-12T09:07:44+02:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2020-08-20T00:01:48+02:00</lastmod>
+    <lastmod>2020-09-12T09:07:44+02:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/</loc>
-    <lastmod>2020-08-20T00:01:48+02:00</lastmod>
+    <lastmod>2020-09-12T09:07:44+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/razan-ghzouli/</loc>
+    <lastmod>2020-09-12T09:07:44+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/swaib-dragule/</loc>
+    <lastmod>2020-09-12T09:07:44+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/thorsten-berger/</loc>
+    <lastmod>2020-09-12T09:07:44+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/6/</loc>
+    <lastmod>2020-08-20T00:17:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/frank-de-boer/</loc>
+    <lastmod>2020-08-20T00:17:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lars-tveito/</loc>
+    <lastmod>2020-08-20T00:17:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/marcello-bonsangue/</loc>
+    <lastmod>2020-08-20T00:17:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/s.-lizeth-tapia-tarifa/</loc>
+    <lastmod>2020-08-20T00:17:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/20-dv/</loc>
+    <lastmod>2020-08-20T00:17:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/violet-ka-i-pun/</loc>
+    <lastmod>2020-08-20T00:17:05+02:00</lastmod>
   </url>
   
   <url>
@@ -93,26 +133,6 @@
   </url>
   
   <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2020-07-21T23:06:28+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/20-ijguc/</loc>
-    <lastmod>2020-07-21T23:06:28+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/jia-chun-lin/</loc>
-    <lastmod>2020-07-21T23:06:28+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/ming-chang-lee/</loc>
-    <lastmod>2020-07-21T23:06:28+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/ferruccio-damiani/</loc>
     <lastmod>2020-07-21T22:35:11+02:00</lastmod>
   </url>
@@ -130,6 +150,46 @@
   <url>
     <loc>/author/michael-lienhardt/</loc>
     <lastmod>2020-07-21T22:35:11+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2020-06-25T23:06:28+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/20-ijguc/</loc>
+    <lastmod>2020-06-25T23:06:28+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ingrid-chieh-yu/</loc>
+    <lastmod>2020-06-25T23:06:28+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jia-chun-lin/</loc>
+    <lastmod>2020-06-25T23:06:28+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ming-chang-lee/</loc>
+    <lastmod>2020-06-25T23:06:28+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/anastasia-gkolfi/</loc>
+    <lastmod>2020-06-20T00:01:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lars-michael-kristensen/</loc>
+    <lastmod>2020-06-20T00:01:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/20-pnse/</loc>
+    <lastmod>2020-06-20T00:01:48+02:00</lastmod>
   </url>
   
   <url>
@@ -159,11 +219,6 @@
   
   <url>
     <loc>/publication/20-fase/</loc>
-    <lastmod>2020-02-14T23:08:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/lars-tveito/</loc>
     <lastmod>2020-02-14T23:08:36+02:00</lastmod>
   </url>
   
@@ -278,11 +333,6 @@
   </url>
   
   <url>
-    <loc>/author/frank-de-boer/</loc>
-    <lastmod>2019-04-06T23:08:36+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/19-fase/</loc>
     <lastmod>2019-04-06T23:08:36+02:00</lastmod>
   </url>
@@ -290,16 +340,6 @@
   <url>
     <loc>/author/nikolaos-bezirgiannis/</loc>
     <lastmod>2019-04-06T23:08:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/s.-lizeth-tapia-tarifa/</loc>
-    <lastmod>2019-04-06T23:08:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/6/</loc>
-    <lastmod>2018-11-15T00:23:39+02:00</lastmod>
   </url>
   
   <url>
