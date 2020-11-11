@@ -5,12 +5,20 @@
     <link>/author/ferruccio-damiani/</link>
       <atom:link href="/author/ferruccio-damiani/index.xml" rel="self" type="application/rss+xml" />
     <description>Ferruccio Damiani</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Einar Broch Johnsen</copyright><lastBuildDate>Tue, 21 Jul 2020 22:35:11 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Einar Broch Johnsen</copyright><lastBuildDate>Sat, 12 Sep 2020 09:07:54 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_2.png</url>
       <title>Ferruccio Damiani</title>
       <link>/author/ferruccio-damiani/</link>
     </image>
+    
+    <item>
+      <title>A Formal Model of the Kubernetes Container Framework</title>
+      <link>/publication/20-isola2/</link>
+      <pubDate>Sat, 12 Sep 2020 09:07:54 +0200</pubDate>
+      <guid>/publication/20-isola2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Lazy Product Discovery in Huge Configuration Spaces</title>

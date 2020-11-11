@@ -29,7 +29,72 @@
   
   <url>
     <loc>/publication-type/1/</loc>
-    <lastmod>2020-09-12T09:07:44+02:00</lastmod>
+    <lastmod>2020-09-12T09:07:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/20-isola2/</loc>
+    <lastmod>2020-09-12T09:07:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/andrea-borgarelli/</loc>
+    <lastmod>2020-09-12T09:07:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-09-12T09:07:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/einar-broch-johnsen/</loc>
+    <lastmod>2020-09-12T09:07:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ferruccio-damiani/</loc>
+    <lastmod>2020-09-12T09:07:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/gianluca-turin/</loc>
+    <lastmod>2020-09-12T09:07:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-09-12T09:07:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-09-12T09:07:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/s.-lizeth-tapia-tarifa/</loc>
+    <lastmod>2020-09-12T09:07:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/simone-donetti/</loc>
+    <lastmod>2020-09-12T09:07:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/20-isola1/</loc>
+    <lastmod>2020-09-12T09:07:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/johanna-beate-stumpf/</loc>
+    <lastmod>2020-09-12T09:07:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/martin-steffen/</loc>
+    <lastmod>2020-09-12T09:07:51+02:00</lastmod>
   </url>
   
   <url>
@@ -38,27 +103,7 @@
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-09-12T09:07:44+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/20-sle/</loc>
-    <lastmod>2020-09-12T09:07:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/einar-broch-johnsen/</loc>
-    <lastmod>2020-09-12T09:07:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-09-12T09:07:44+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
     <lastmod>2020-09-12T09:07:44+02:00</lastmod>
   </url>
   
@@ -98,11 +143,6 @@
   </url>
   
   <url>
-    <loc>/author/s.-lizeth-tapia-tarifa/</loc>
-    <lastmod>2020-08-20T00:17:05+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/20-dv/</loc>
     <lastmod>2020-08-20T00:17:05+02:00</lastmod>
   </url>
@@ -130,11 +170,6 @@
   <url>
     <loc>/event/2020-ifm/</loc>
     <lastmod>2020-07-26T23:09:15+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/ferruccio-damiani/</loc>
-    <lastmod>2020-07-21T22:35:11+02:00</lastmod>
   </url>
   
   <url>
@@ -293,11 +328,6 @@
   </url>
   
   <url>
-    <loc>/author/martin-steffen/</loc>
-    <lastmod>2019-07-09T00:23:39+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/19-scp2/</loc>
     <lastmod>2019-07-09T00:23:39+02:00</lastmod>
   </url>
@@ -364,11 +394,6 @@
   
   <url>
     <loc>/publication/18-ictac/</loc>
-    <lastmod>2018-10-19T00:23:39+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/johanna-beate-stumpf/</loc>
     <lastmod>2018-10-19T00:23:39+02:00</lastmod>
   </url>
   
@@ -1520,6 +1545,11 @@
   <url>
     <loc>/author/marcel-kyas/</loc>
     <lastmod>2009-11-21T22:55:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/event/2009-facs/</loc>
+    <lastmod>2020-07-26T23:23:14+02:00</lastmod>
   </url>
   
   <url>
