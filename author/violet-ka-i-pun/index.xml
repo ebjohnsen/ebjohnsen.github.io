@@ -5,12 +5,20 @@
     <link>/author/violet-ka-i-pun/</link>
       <atom:link href="/author/violet-ka-i-pun/index.xml" rel="self" type="application/rss+xml" />
     <description>Violet Ka I Pun</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Einar Broch Johnsen</copyright><lastBuildDate>Thu, 20 Aug 2020 00:17:05 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Einar Broch Johnsen</copyright><lastBuildDate>Sat, 14 Nov 2020 09:21:51 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_2.png</url>
       <title>Violet Ka I Pun</title>
       <link>/author/violet-ka-i-pun/</link>
     </image>
+    
+    <item>
+      <title>Active Objects with Deterministic Behavior</title>
+      <link>/publication/20-ifm/</link>
+      <pubDate>Sat, 14 Nov 2020 09:21:51 +0200</pubDate>
+      <guid>/publication/20-ifm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SymPaths: Symbolic Execution Meets Partial Order Reduction</title>

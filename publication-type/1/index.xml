@@ -5,7 +5,7 @@
     <link>/publication-type/1/</link>
       <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Einar Broch Johnsen</copyright><lastBuildDate>Sat, 12 Sep 2020 09:07:54 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Einar Broch Johnsen</copyright><lastBuildDate>Sat, 14 Nov 2020 09:21:51 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
@@ -13,9 +13,25 @@
     </image>
     
     <item>
+      <title>Active Objects with Deterministic Behavior</title>
+      <link>/publication/20-ifm/</link>
+      <pubDate>Sat, 14 Nov 2020 09:21:51 +0200</pubDate>
+      <guid>/publication/20-ifm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Behavior Trees in Action: A Study of Robotics Applications</title>
+      <link>/publication/20-sle/</link>
+      <pubDate>Fri, 13 Nov 2020 09:07:44 +0200</pubDate>
+      <guid>/publication/20-sle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Formal Model of the Kubernetes Container Framework</title>
       <link>/publication/20-isola2/</link>
-      <pubDate>Sat, 12 Sep 2020 09:07:54 +0200</pubDate>
+      <pubDate>Thu, 29 Oct 2020 09:07:54 +0200</pubDate>
       <guid>/publication/20-isola2/</guid>
       <description></description>
     </item>
@@ -29,17 +45,9 @@
     </item>
     
     <item>
-      <title>Behavior Trees in Action: A Study of Robotics Applications</title>
-      <link>/publication/20-sle/</link>
-      <pubDate>Sat, 12 Sep 2020 09:07:44 +0200</pubDate>
-      <guid>/publication/20-sle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Lazy Product Discovery in Huge Configuration Spaces</title>
       <link>/publication/20-icse/</link>
-      <pubDate>Tue, 21 Jul 2020 22:35:11 +0200</pubDate>
+      <pubDate>Sun, 21 Jun 2020 22:35:11 +0200</pubDate>
       <guid>/publication/20-icse/</guid>
       <description></description>
     </item>
@@ -55,7 +63,7 @@
     <item>
       <title>Global Reproducibility through Local Control for Distributed Active Objects</title>
       <link>/publication/20-fase/</link>
-      <pubDate>Fri, 14 Feb 2020 23:08:36 +0200</pubDate>
+      <pubDate>Tue, 14 Apr 2020 23:08:36 +0200</pubDate>
       <guid>/publication/20-fase/</guid>
       <description></description>
     </item>
