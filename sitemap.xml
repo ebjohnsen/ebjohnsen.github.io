@@ -163,6 +163,21 @@
   </url>
   
   <url>
+    <loc>/publication/20-key2/</loc>
+    <lastmod>2020-08-20T00:17:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/crystal-chang-din/</loc>
+    <lastmod>2020-08-20T00:17:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/eduard-kamburjan/</loc>
+    <lastmod>2020-08-20T00:17:05+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/frank-de-boer/</loc>
     <lastmod>2020-08-20T00:17:05+02:00</lastmod>
   </url>
@@ -173,7 +188,12 @@
   </url>
   
   <url>
-    <loc>/publication/20-dv/</loc>
+    <loc>/author/reiner-hahnle/</loc>
+    <lastmod>2020-08-20T00:17:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/20-key/</loc>
     <lastmod>2020-08-20T00:17:05+02:00</lastmod>
   </url>
   
@@ -308,17 +328,7 @@
   </url>
   
   <url>
-    <loc>/author/crystal-chang-din/</loc>
-    <lastmod>2019-07-10T23:08:36+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/dave-clarke/</loc>
-    <lastmod>2019-07-10T23:08:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/eduard-kamburjan/</loc>
     <lastmod>2019-07-10T23:08:36+02:00</lastmod>
   </url>
   
@@ -329,11 +339,6 @@
   
   <url>
     <loc>/author/kiko-fernandez-reyes/</loc>
-    <lastmod>2019-07-10T23:08:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/reiner-hahnle/</loc>
     <lastmod>2019-07-10T23:08:36+02:00</lastmod>
   </url>
   

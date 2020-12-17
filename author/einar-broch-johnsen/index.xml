@@ -53,10 +53,18 @@
     </item>
     
     <item>
-      <title>SymPaths: Symbolic Execution Meets Partial Order Reduction</title>
-      <link>/publication/20-dv/</link>
+      <title>Behavioral Contracts for Cooperative Scheduling </title>
+      <link>/publication/20-key2/</link>
       <pubDate>Thu, 20 Aug 2020 00:17:05 +0200</pubDate>
-      <guid>/publication/20-dv/</guid>
+      <guid>/publication/20-key2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SymPaths: Symbolic Execution Meets Partial Order Reduction</title>
+      <link>/publication/20-key/</link>
+      <pubDate>Thu, 20 Aug 2020 00:17:05 +0200</pubDate>
+      <guid>/publication/20-key/</guid>
       <description></description>
     </item>
     
