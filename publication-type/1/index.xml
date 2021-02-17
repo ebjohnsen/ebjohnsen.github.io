@@ -5,7 +5,7 @@
     <link>/publication-type/1/</link>
       <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Einar Broch Johnsen</copyright><lastBuildDate>Sat, 14 Nov 2020 09:21:51 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Einar Broch Johnsen</copyright><lastBuildDate>Sat, 14 Nov 2020 09:21:51 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
@@ -213,7 +213,7 @@
     </item>
     
     <item>
-      <title>16 Sac Musepat</title>
+      <title>An Operational Semantics of Cache Coherent Multicore Architectures</title>
       <link>/publication/16-sac-musepat/</link>
       <pubDate>Thu, 21 Apr 2016 23:08:22 +0200</pubDate>
       <guid>/publication/16-sac-musepat/</guid>
