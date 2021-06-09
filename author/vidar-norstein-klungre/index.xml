@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vidar Norstein Klungre | Einar Broch Johnsen&#39;s Homepage</title>
+    <link>/author/vidar-norstein-klungre/</link>
+      <atom:link href="/author/vidar-norstein-klungre/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vidar Norstein Klungre</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Einar Broch Johnsen</copyright><lastBuildDate>Tue, 08 Jun 2021 09:07:44 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_2.png</url>
+      <title>Vidar Norstein Klungre</title>
+      <link>/author/vidar-norstein-klungre/</link>
+    </image>
+    
+    <item>
+      <title>Programming and Debugging with Semantically Lifted States</title>
+      <link>/publication/21_eswc/</link>
+      <pubDate>Tue, 08 Jun 2021 09:07:44 +0200</pubDate>
+      <guid>/publication/21_eswc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
