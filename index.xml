@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Einar Broch Johnsen&#39;s Homepage</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Einar Broch Johnsen</copyright><lastBuildDate>Tue, 08 Jun 2021 09:07:44 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Einar Broch Johnsen</copyright><lastBuildDate>Tue, 15 Jun 2021 09:07:44 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_2.png</url>
       <title>Einar Broch Johnsen&#39;s Homepage</title>
@@ -27,6 +27,14 @@
 &lt;p&gt;For more information, see the 
 &lt;a href=&#34;http://sirius-labs.no&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SIRIUS website&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Modeling and Analyzing Resource-Sensitive Actors: A Tutorial Introduction</title>
+      <link>/publication/21_coordination/</link>
+      <pubDate>Tue, 15 Jun 2021 09:07:44 +0200</pubDate>
+      <guid>/publication/21_coordination/</guid>
+      <description></description>
     </item>
     
     <item>
