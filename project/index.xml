@@ -17,7 +17,17 @@
       <link>/project/remaro/</link>
       <pubDate>Sat, 03 Oct 2020 10:33:05 +0200</pubDate>
       <guid>/project/remaro/</guid>
-      <description></description>
+      <description>&lt;p&gt;Remaro is a Marie Skłodowska-Curie (MSCA) European Training Network
+funded by the European Commission 2020-2024 (project no 956200). CORDIS website 
+&lt;a href=&#34;https://cordis.europa.eu/project/id/956200&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The network will educate 15 PhD research fellows on complimentary
+aspects of reliable autonomy for underwater robotic applications. The
+REMARO research fellows will develop the first ever submarine robotics
+AI methods with quantified reliability, correctness specifications,
+models, tests, and analysis &amp;amp; verification methods.&lt;/p&gt;
+&lt;p&gt;Project website 
+&lt;a href=&#34;http://www.remaro.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -25,8 +35,15 @@
       <link>/project/sjm/</link>
       <pubDate>Fri, 02 Oct 2020 10:32:56 +0200</pubDate>
       <guid>/project/sjm/</guid>
-      <description>&lt;p&gt;The digitalisation of our society&amp;rsquo;s service systems has fundamentally changed the way services are delivered to, and experienced by, humans. Although digital services are supposed to simplify our lives and increase our efficiency, they often frustrate and burden customers, users, and employees.&lt;/p&gt;
-&lt;p&gt;The overall goal is to increase the quality of services and support the successful digitalisation of services by uniting research on process mining and customer journeys using new developments in logic-based analysis and artificial intelligence. The partners are SINTEF Digital, University of Oslo, and Eindhoven University of Technology.&lt;/p&gt;
+      <description>&lt;p&gt;SJM is a project funded by the Research Council of Norway
+2021-2024. The partners are SINTEF Digital (coordinator), University
+of Oslo, and Eindhoven University of Technology.&lt;/p&gt;
+&lt;p&gt;The overall goal of SJM is to increase the quality of
+service and support the successful digitalisation of services by
+uniting research on process mining and customer journeys using new
+developments in logic-based analysis and artificial intelligence.&lt;/p&gt;
+&lt;p&gt;The digitalisation of our society&amp;rsquo;s service systems has fundamentally changed the way services are delivered to, and experienced by, humans. Although digital services are supposed to simplify our lives and increase our efficiency, they often frustrate and burden customers, users, and employees.&lt;/p&gt;
+&lt;p&gt;The overall goal is to increase the quality of services and support the successful digitalisation of services by uniting research on process mining and customer journeys using new developments in logic-based analysis and artificial intelligence.&lt;/p&gt;
 &lt;p&gt;Based on user journeys we will analyse, model, and observe how humans experience digital services, rather than taking the perspective of service providers and service systems.&lt;/p&gt;
 &lt;p&gt;The main source of data comes from two complementary service providers: GrepS, a start-up company offering software services for analysing programming skills, and Telenor, a telecom company offering a wide range of mobile-, broadband- and TV services in the Nordics and in Asia.&lt;/p&gt;
 &lt;p&gt;We will trace data left from users in various systems during repeated interactions with a service over time, on the level of individuals.
@@ -40,16 +57,22 @@ In the first phase of the project, we will build tools for automated capture of 
       <link>/project/cumulus/</link>
       <pubDate>Thu, 02 Feb 2017 22:17:32 +0100</pubDate>
       <guid>/project/cumulus/</guid>
-      <description>&lt;p&gt;Cumulus is a project funded by the Research Council of Norway 2015-2019. The main goal of Cumulus is to develop a semantic foundation for static analysis techniques for cloud-aware applications. Cloud-awareness enables the software to negotiate its own quality of service and opens for dynamic and fine-grained resource management. This introduces an element of reflection which goes beyond the state of the art in both formal semantics and static analysis. The project will develop a formal foundation for cloud-aware computing and use this foundation to enable the verification of quantitative assertions about the high-level quality of service and low-level resource requirements of cloud-aware applications. The project will develop demonstrators for the approach in terms of semantics-based tools to analyze quantitative assertions for quality of service during the design of such applications. Cumulus will enable a shift in the design of virtualized software from model simulation and monitoring deployed systems to advanced static analyses of worst-case resource requirements early in the software design&lt;/p&gt;
+      <description>&lt;p&gt;Cumulus was a FRINATEK project funded by the Research Council of
+Norway 2015-2019. I was the project leader of CUMULUS.&lt;/p&gt;
+&lt;p&gt;The main goal of Cumulus is to develop a semantic foundation for static analysis techniques for cloud-aware applications. Cloud-awareness enables the software to negotiate its own quality of service and opens for dynamic and fine-grained resource management. This introduces an element of reflection which goes beyond the state of the art in both formal semantics and static analysis. The project will develop a formal foundation for cloud-aware computing and use this foundation to enable the verification of quantitative assertions about the high-level quality of service and low-level resource requirements of cloud-aware applications. The project will develop demonstrators for the approach in terms of semantics-based tools to analyze quantitative assertions for quality of service during the design of such applications. Cumulus will enable a shift in the design of virtualized software from model simulation and monitoring deployed systems to advanced static analyses of worst-case resource requirements early in the software design&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>HyVar : Scalable Hybrid Variability</title>
+      <title>HyVar : Scalable Hybrid Variability for Distributed Evolving Software Systems</title>
       <link>/project/hyvar/</link>
       <pubDate>Thu, 21 Jul 2016 22:16:15 +0200</pubDate>
       <guid>/project/hyvar/</guid>
-      <description>&lt;p&gt;HyVar was an EU H2020 research project 2015-2018. The idea was to develop a framework for continuous software evolution in distributed systems which combines the description of evolution as a software product line, a scalable cloud infrastructure to monitoring and customization of software upgrades for remote devices, and over-the-air upgrade technologies&lt;/p&gt;
+      <description>&lt;p&gt;HyVar was an EU H2020 research project 2015-2018 (project no
+644298). I was the scientific coordinator of HyVar.
+CORDIS website 
+&lt;a href=&#34;https://cordis.europa.eu/project/id/644298&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The idea was to develop a framework for continuous software evolution in distributed systems which combines the description of evolution as a software product line, a scalable cloud infrastructure to monitoring and customization of software upgrades for remote devices, and over-the-air upgrade technologies.&lt;/p&gt;
 </description>
     </item>
     
@@ -58,13 +81,15 @@ In the first phase of the project, we will build tools for automated capture of 
       <link>/project/upscale/</link>
       <pubDate>Thu, 21 Jul 2016 22:16:06 +0200</pubDate>
       <guid>/project/upscale/</guid>
-      <description>&lt;p&gt;UpScale was an EU FP7 FET Open-X research project 2014-2017. The idea
-was to design programming languages for the manycore era, when a
-program can make use of potentially millions of processors. UpScale
-used incremental type-based program annotations specifying
-deployment-related information, and for innovative type-based
-deployment optimisations both at compile- and runtime. The Encore
-language was designed in this project.&lt;/p&gt;
+      <description>&lt;p&gt;UpScale was an EU FP7 FET Open-X research project 2014-2017 (project
+no 612985).  CORDIS website 
+&lt;a href=&#34;https://cordis.europa.eu/project/id/612985&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The idea was to design programming languages for the
+manycore era, when a program can make use of potentially millions of
+processors. UpScale used incremental type-based program annotations
+specifying deployment-related information, and for innovative
+type-based deployment optimisations both at compile- and runtime. The
+Encore language was designed in this project.&lt;/p&gt;
 </description>
     </item>
     
@@ -73,7 +98,12 @@ language was designed in this project.&lt;/p&gt;
       <link>/project/envisage/</link>
       <pubDate>Thu, 21 Jul 2016 22:15:56 +0200</pubDate>
       <guid>/project/envisage/</guid>
-      <description>&lt;p&gt;I  coordinated this EU FP7 research project 2013-2016. The basic idea was to integrate service-level agreements (SLA) into the interfaces of an object-oriented model and validate SLA for cloud computing at design time using formal methods. The Envisage project delivered novel methods for predicting the behavior of software deployed on the cloud, using formal models and analysis techniques.&lt;/p&gt;
+      <description>&lt;p&gt;Envisage was an  EU FP7 research project 2013-2016 (project no 610582).
+I was the coordinator of Envisage.  CORDIS website 
+&lt;a href=&#34;https://cordis.europa.eu/project/id/610582&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The basic idea was to integrate service-level agreements (SLA) into the interfaces of an object-oriented model and validate SLA for cloud computing at design time using formal methods. The Envisage project delivered novel methods for predicting the behavior of software deployed on the cloud, using formal models and analysis techniques.&lt;/p&gt;
+&lt;p&gt;Project website 
+&lt;a href=&#34;http://envisage-project.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -82,8 +112,33 @@ language was designed in this project.&lt;/p&gt;
       <link>/project/hats/</link>
       <pubDate>Thu, 21 Jul 2016 21:55:11 +0200</pubDate>
       <guid>/project/hats/</guid>
-      <description>&lt;p&gt;HATS was a four-year FET project funded under the EU&amp;rsquo;s FP7 programme 2010-2013.
-In the project, we propose to take an empirically successful, yet informal software development paradigm and put it on a formal basis. Specifically, in HATS we will turn software product family (SWPF) development into a rigorous approach. The technical core of the project is an Abstract Behavioral Specification language which will allow precise description of SWPF features and components and their instances. The main project outcome is a methodological and tool framework achieving not merely far-reaching automation in maintaining dynamically evolving software, but an unprecedented level of trust while informal processes are replaced with rigorous analyses based on formal semantics.&lt;/p&gt;
+      <description>&lt;p&gt;HATS was a four-year FET project funded under the EU&amp;rsquo;s FP7 programme
+2010-2013 (project no 231620).  CORDIS website 
+&lt;a href=&#34;https://cordis.europa.eu/project/id/231620&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In the project, we propose to take an
+empirically successful, yet informal software development paradigm and
+put it on a formal basis. Specifically, in HATS we will turn software
+product family (SWPF) development into a rigorous approach. The
+technical core of the project is an Abstract Behavioral Specification
+language which will allow precise description of SWPF features and
+components and their instances. The main project outcome is a
+methodological and tool framework achieving not merely far-reaching
+automation in maintaining dynamically evolving software, but an
+unprecedented level of trust while informal processes are replaced
+with rigorous analyses based on formal semantics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CREDO: Modelling and analysis of evolutionary structures for distributed services</title>
+      <link>/project/credo/</link>
+      <pubDate>Tue, 21 Jul 2015 21:55:11 +0200</pubDate>
+      <guid>/project/credo/</guid>
+      <description>&lt;p&gt;CREDO was a STREP project funded under the EU&amp;rsquo;s FP6 programme
+2010-2013 (project no 033826). CORDIS website 
+&lt;a href=&#34;https://cordis.europa.eu/project/id/033826&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In open distributed systems, the availability and requirements of components providing services vary over time. The networks need to dynamically reconfigure communication links between components at run-time in a context-aware manner. This reconfiguration includes the (dis)connection of components, but also the adaptation and updating of both components and the network. Updates may change the computation abilities of components and the coordination abilities of the network. For safety-critical systems, update should not compromise the reliability of services. Updates should be initiated and effectuated in a decentralized manner. No formal model of computation and communication exists today in which end-to-end system evolution can be expressed and validated. The use of formal models and validation techniques will significantly improve the confidence in dynamically reconfigurable systems, which are otherwise error-prone.&lt;/p&gt;
+&lt;p&gt;This project aims at a compositional modelling and validation framework for dynamically evolving software systems, separating computation, coordination, and scheduling. Exploiting this separation of concerns, we develop a uniform modelling language in which object-oriented components are combined with flexible communication and timing models. A new notion of service interface is essential, allowing separate design and validation of different components and of the network. Interface composition enables end-to-end reasoning about evolving systems. These interfaces specify services and formalize the context awareness needed for run-time coordination and reconfiguration. The framework will help developers design and maintain systems by validating reconfigurations. We focus on automatable and compositional validation techniques, including abstract simulation, synthesis, model-checking, test-generation, and verification of interface compatibility. The usefulness of the framework is assessed through case studies, and by developing an integrated tool.&lt;/p&gt;
 </description>
     </item>
     
