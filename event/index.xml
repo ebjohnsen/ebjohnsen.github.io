@@ -5,12 +5,27 @@
     <link>/event/</link>
       <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Events</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Einar Broch Johnsen</copyright><lastBuildDate>Mon, 31 May 2021 23:09:07 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Einar Broch Johnsen</copyright><lastBuildDate>Thu, 17 Feb 2022 23:09:07 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
       <title>Events</title>
       <link>/event/</link>
     </image>
+    
+    <item>
+      <title>Digital Twins: From Engineering to Science</title>
+      <link>/event/2022-uib/</link>
+      <pubDate>Thu, 17 Feb 2022 23:09:07 +0200</pubDate>
+      <guid>/event/2022-uib/</guid>
+      <description>&lt;p&gt;&lt;b&gt;Abstract&lt;/b&gt;&lt;br&gt;
+Digital twins are emerging as an engineering discipline to build virtual representations of physical objects or processes. In engineering, the use of digital twins profoundly changes the entire product lifecycle management, from design, to manufacturing to service and operations, because the digital twins adapt in response to the evolution of their physical counterpart. Digital twins can evolve continuously based on streams of observations of the physical system, for example from sensors that connect the physical system to the digital twin in near real-time.&lt;/p&gt;
+&lt;p&gt;In this talk, we move from the engineering of digital twins to the science of digital twins. We consider basic concepts of digital twins, present some examples of how we are working with them in research, and discuss scientific challenges related to digital twins.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Venue&lt;/b&gt;&lt;br&gt;
+Large auditorium, 2nd floor, Høyteknologisenteret, Bergen,  Norway, February 17, 2022&lt;br&gt;
+
+&lt;a href=&#34;https://www.uib.no/en/ii/151523/digital-twins-engineering-science&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;More information&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>FASE 2022</title>
