@@ -36,5 +36,21 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Advanced Lectures on Formal Methods for Multicore Programming</title>
+      <link>/publication/15-sfm/</link>
+      <pubDate>Sun, 07 Jun 2015 13:51:24 +0200</pubDate>
+      <guid>/publication/15-sfm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proc. 9th Intl. Conf. on Formal Methods for Open Object-Based Distributed Systems (FMOODS&#39;07).</title>
+      <link>/publication/07-fmoods/</link>
+      <pubDate>Thu, 21 Jun 2007 22:53:03 +0200</pubDate>
+      <guid>/publication/07-fmoods/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
