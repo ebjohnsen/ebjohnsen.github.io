@@ -5,12 +5,22 @@
     <link>/event/</link>
       <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Events</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Einar Broch Johnsen</copyright><lastBuildDate>Mon, 28 Mar 2022 19:09:07 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Einar Broch Johnsen</copyright><lastBuildDate>Tue, 19 Apr 2022 19:09:07 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
       <title>Events</title>
       <link>/event/</link>
     </image>
+    
+    <item>
+      <title>FASE 2023</title>
+      <link>/event/2023-fase/</link>
+      <pubDate>Tue, 19 Apr 2022 19:09:07 +0200</pubDate>
+      <guid>/event/2023-fase/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://etaps.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FASE 2023&lt;/a&gt;, Paris, France, TBD, 2023&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Digital Twins: An Emerging Paradigm for Model-Centric Engineering</title>
@@ -52,6 +62,16 @@ February 17, 2022 12:45-14:00&lt;br&gt;
 Large auditorium, 2nd floor, Høyteknologisenteret, Bergen,  Norway&lt;br&gt;
 
 &lt;a href=&#34;https://www.uib.no/en/ii/151523/digital-twins-engineering-science&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;More information here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>iFM 2022</title>
+      <link>/event/2021-ifm/</link>
+      <pubDate>Mon, 26 Jul 2021 23:09:15 +0200</pubDate>
+      <guid>/event/2021-ifm/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://ifm22.si.usi.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iFM 2022&lt;/a&gt;, Lugano, Switzerland, 7-10 June 2022&lt;/p&gt;
 </description>
     </item>
     
@@ -269,7 +289,7 @@ Large auditorium, 2nd floor, Høyteknologisenteret, Bergen,  Norway&lt;br&gt;
     </item>
     
     <item>
-      <title>2018 Fm</title>
+      <title>FM 2018</title>
       <link>/event/2018-fm/</link>
       <pubDate>Sun, 15 Jul 2018 23:13:07 +0200</pubDate>
       <guid>/event/2018-fm/</guid>

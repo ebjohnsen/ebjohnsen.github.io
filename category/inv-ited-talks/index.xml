@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inv ited talks | Einar Broch Johnsen&#39;s Homepage</title>
+    <link>/category/inv-ited-talks/</link>
+      <atom:link href="/category/inv-ited-talks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Inv ited talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Einar Broch Johnsen</copyright><lastBuildDate>Mon, 20 Jul 2015 23:17:29 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
+      <title>Inv ited talks</title>
+      <link>/category/inv-ited-talks/</link>
+    </image>
+    
+    <item>
+      <title>TAP 2015</title>
+      <link>/event/2015-tap/</link>
+      <pubDate>Mon, 20 Jul 2015 23:17:29 +0200</pubDate>
+      <guid>/event/2015-tap/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;http://tap2015.in.tum.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TAP 2015&lt;/a&gt;, L&amp;rsquo;Aquila, Italy, July 20-24, 2015 &lt;em&gt;(Invited talk)&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -32,6 +32,18 @@
     <loc>/publication/</loc>
     <lastmod>2022-08-07T21:07:45+02:00</lastmod>
   </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2022-04-19T19:09:07+02:00</lastmod>
+  </url><url>
+    <loc>/event/</loc>
+    <lastmod>2022-04-19T19:09:07+02:00</lastmod>
+  </url><url>
+    <loc>/event/2023-fase/</loc>
+    <lastmod>2022-04-19T19:09:07+02:00</lastmod>
+  </url><url>
+    <loc>/category/programme-committees/</loc>
+    <lastmod>2022-04-19T19:09:07+02:00</lastmod>
+  </url><url>
     <loc>/publication-type/7/</loc>
     <lastmod>2022-04-04T13:51:24+02:00</lastmod>
   </url><url>
@@ -44,7 +56,7 @@
     <loc>/event/2022-formalise/</loc>
     <lastmod>2022-03-28T19:09:07+02:00</lastmod>
   </url><url>
-    <loc>/event/</loc>
+    <loc>/category/invited-talks/</loc>
     <lastmod>2022-03-28T19:09:07+02:00</lastmod>
   </url><url>
     <loc>/event/2023-fm/</loc>
@@ -61,6 +73,9 @@
   </url><url>
     <loc>/event/2022-uib/</loc>
     <lastmod>2022-02-17T23:09:07+02:00</lastmod>
+  </url><url>
+    <loc>/event/2021-ifm/</loc>
+    <lastmod>2021-07-26T23:09:15+02:00</lastmod>
   </url><url>
     <loc>/author/eduard-kamburjan/</loc>
     <lastmod>2021-06-15T09:07:44+02:00</lastmod>
@@ -81,6 +96,9 @@
     <lastmod>2021-06-08T09:07:44+02:00</lastmod>
   </url><url>
     <loc>/event/2022-fase/</loc>
+    <lastmod>2021-05-31T23:09:07+02:00</lastmod>
+  </url><url>
+    <loc>/category/pc-chair/</loc>
     <lastmod>2021-05-31T23:09:07+02:00</lastmod>
   </url><url>
     <loc>/event/2021-vortex/</loc>
@@ -407,6 +425,9 @@
     <loc>/event/2017-esocc/</loc>
     <lastmod>2020-07-26T23:14:31+02:00</lastmod>
   </url><url>
+    <loc>/category/general-chair/</loc>
+    <lastmod>2020-07-26T23:14:31+02:00</lastmod>
+  </url><url>
     <loc>/publication/17-tableaux/</loc>
     <lastmod>2017-09-22T00:23:39+02:00</lastmod>
   </url><url>
@@ -667,6 +688,9 @@
   </url><url>
     <loc>/project/credo/</loc>
     <lastmod>2015-07-21T21:55:11+02:00</lastmod>
+  </url><url>
+    <loc>/category/inv-ited-talks/</loc>
+    <lastmod>2020-07-26T23:17:29+02:00</lastmod>
   </url><url>
     <loc>/event/2015-tap/</loc>
     <lastmod>2020-07-26T23:17:29+02:00</lastmod>
@@ -1103,10 +1127,10 @@
     <loc>/author/gerardo-schneider/</loc>
     <lastmod>2006-09-21T22:52:03+02:00</lastmod>
   </url><url>
-    <loc>/publication/06-iccp-srv/</loc>
+    <loc>/author/%C3%B8ystein-torget/</loc>
     <lastmod>2006-09-21T22:52:03+02:00</lastmod>
   </url><url>
-    <loc>/author/%C3%B8ystein-torget/</loc>
+    <loc>/publication/06-iccp-srv/</loc>
     <lastmod>2006-09-21T22:52:03+02:00</lastmod>
   </url><url>
     <loc>/publication/06-fmoods/</loc>
@@ -1189,8 +1213,6 @@
   </url><url>
     <loc>/publication/01-apsec/</loc>
     <lastmod>2001-12-15T22:46:33+02:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
   </url><url>
     <loc>/author/einar-broch-johnsen/</loc>
   </url><url>
