@@ -5,12 +5,41 @@
     <link>/event/</link>
       <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Events</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Einar Broch Johnsen</copyright><lastBuildDate>Tue, 19 Apr 2022 19:09:07 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Einar Broch Johnsen</copyright><lastBuildDate>Tue, 26 Apr 2022 19:09:07 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
       <title>Events</title>
       <link>/event/</link>
     </image>
+    
+    <item>
+      <title>Digital Twins as Evolving Model-Centric Systems</title>
+      <link>/event/2022-edt/</link>
+      <pubDate>Tue, 26 Apr 2022 19:09:07 +0200</pubDate>
+      <guid>/event/2022-edt/</guid>
+      <description>&lt;p&gt;Online talk, 2. May 2022 17:00 – 18:00. &lt;br&gt;
+Registration 
+&lt;a href=&#34;https://edt.community/events/event/556/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract.&lt;/strong&gt; &lt;br&gt;
+Digital twins are emerging as an engineering paradigm to build
+software centred around models of physical objects or processes, with
+very diverse application domains. The purpose of a digital twin is to
+understand, predict and act on the behaviour of these physical
+systems. In engineering, the use of digital twins profoundly changes
+the management of the entire product lifecycle, from design to
+manufacturing and operations, because the digital twins adapt in
+response to the evolution of their physical counterpart. In this talk,
+we discuss digital twins from the perspective of behavioural
+models. We share some ideas about model evolution in digital twins
+from this perspective, tell you about our current research activities
+on digital twins at the University of Oslo, and discuss some ensuing
+research challenges at the intersection of formal methods and software
+engineering.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bio.&lt;/strong&gt; &lt;br&gt;
+Einar Broch Johnsen is a professor and the head of the Formal Methods group at the Department of Informatics, University of Oslo. His research interests include programming models and methodology; system specification and modeling; and the theory and application of formal methods. He is active in formal methods for distributed and concurrent systems, including object-oriented and concurrent languages, manycore computing, cloud computing, and digital twins. He is one of the main developers of the ABS modeling language. Homepage: 
+&lt;a href=&#34;https://ebjohnsen.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ebjohnsen.org&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>FASE 2023</title>
