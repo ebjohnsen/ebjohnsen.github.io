@@ -67,6 +67,34 @@ Einar Broch Johnsen is a professor and the head of the Formal Methods group at t
     </item>
     
     <item>
+      <title>NebulOus: A Meta Operating System for Brokering Hyper-Distributed Applications on Cloud Computing Continuums</title>
+      <link>/project/nebulous/</link>
+      <pubDate>Tue, 26 Apr 2022 10:33:05 +0200</pubDate>
+      <guid>/project/nebulous/</guid>
+      <description>&lt;p&gt;NebulOus is a Horizon Europe project,
+funded by the European Commission 2022-2025 (project no 101070516).&lt;/p&gt;
+&lt;p&gt;NebulOus will accomplish substantial research contributions in the
+realms of cloud and fog computing brokerage by introducing advanced
+methods and tools for enabling secure and optimal application
+provisioning and reconfiguration over the cloud computing
+continuum. NebulOus will develop a novel Meta Operating System and
+platform for enabling transient fog brokerage ecosystems that
+seamlessly exploit edge and fog nodes, in conjunction with multi-cloud
+resources, to cope with the requirements posed by low latency
+applications. The envisaged  solution includes the following main
+directions of work:&lt;br&gt;
+i. Development of appropriate modelling methods and tools for
+describing the cloud computing continuum, application requirements,
+and data streams; these methods and tools will be used for assuring
+the QoS of the provisioned brokered services. &lt;br&gt;
+ii. Efficient comparison of available offerings, using appropriate multi-criteria decision-making methods that are able to consider all dimensions of consumer requirements. &lt;br&gt;
+iii. Intelligent applications, workflows and data streams management in the cloud computing continuum. &lt;br&gt;
+iv. Addressing in a unified manner the security aspects emerging in of transient cloud computing continuums (e.g., access control, secure network overlay etc.). &lt;br&gt;
+v. Conducting and monitoring smart contracts-based service level agreements.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>FASE 2023</title>
       <link>/event/2023-fase/</link>
       <pubDate>Tue, 19 Apr 2022 19:09:07 +0200</pubDate>
@@ -242,7 +270,7 @@ models, tests, and analysis &amp;amp; verification methods.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Smart Journey Mining: Towards successful digitalisation of services</title>
+      <title>Smart Journey Mining: Towards Successful Digitalisation of Services</title>
       <link>/project/sjm/</link>
       <pubDate>Fri, 02 Oct 2020 10:32:56 +0200</pubDate>
       <guid>/project/sjm/</guid>
