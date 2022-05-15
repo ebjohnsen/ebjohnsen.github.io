@@ -2,25 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Invited talks | Einar Broch Johnsen</title>
-    <link>/category/invited-talks/</link>
-      <atom:link href="/category/invited-talks/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ebjohnsen.org/category/invited-talks/</link>
+      <atom:link href="https://ebjohnsen.org/category/invited-talks/index.xml" rel="self" type="application/rss+xml" />
     <description>Invited talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Einar Broch Johnsen</copyright><lastBuildDate>Tue, 26 Apr 2022 19:09:07 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 May 2022 15:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
       <title>Invited talks</title>
-      <link>/category/invited-talks/</link>
+      <link>https://ebjohnsen.org/category/invited-talks/</link>
     </image>
     
     <item>
+      <title>Digital Twins: An Emerging Paradigm for Model-Centric Engineering</title>
+      <link>https://ebjohnsen.org/talk/digital-twins-an-emerging-paradigm-for-model-centric-engineering/</link>
+      <pubDate>Thu, 19 May 2022 15:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/digital-twins-an-emerging-paradigm-for-model-centric-engineering/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract.&lt;/strong&gt; &lt;br&gt;
+Digital twins are emerging as an engineering paradigm to build software centred around models of physical objects or processes. In engineering, the use of digital twins profoundly changes the entire product lifecycle management, from design to manufacturing and operations, because the digital twins adapt in response to the evolution of their physical counterpart. The purpose of the digital twin is to understand, predict and act on the behaviour of these physical systems. Digital twins can evolve continuously based on real-time streams of observations from the physical system combined with artefacts developed during the design stage. In this talk, we move from the engineering of digital twins to the science of digital twins. We consider basic concepts of digital twins, present some examples of how we can work with them in research, and discuss emerging research challenges at the intersection of formal methods and software engineering.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bio.&lt;/strong&gt; &lt;br&gt;
+Einar Broch Johnsen is a professor and the head of the Formal Methods group at the Department of Informatics, University of Oslo. His research interests include programming models and methodology; program specification and modeling; and the theory and application of formal methods. He is active in formal methods for distributed and concurrent systems, including object-oriented and concurrent languages, manycore computing, cloud computing, and digital twins. He is one of the main developers of the ABS modeling language.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Digital Twins as Evolving Model-Centric Systems</title>
-      <link>/event/2022-edt/</link>
-      <pubDate>Tue, 26 Apr 2022 19:09:07 +0200</pubDate>
-      <guid>/event/2022-edt/</guid>
-      <description>&lt;p&gt;Online talk, 2. May 2022 17:00 – 18:00. &lt;br&gt;
-Registration 
-&lt;a href=&#34;https://edt.community/events/event/556/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Abstract.&lt;/strong&gt; &lt;br&gt;
+      <link>https://ebjohnsen.org/talk/digital-twins-as-evolving-model-centric-systems/</link>
+      <pubDate>Mon, 02 May 2022 17:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/digital-twins-as-evolving-model-centric-systems/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract.&lt;/strong&gt; &lt;br&gt;
 Digital twins are emerging as an engineering paradigm to build
 software centred around models of physical objects or processes, with
 very diverse application domains. The purpose of a digital twin is to
@@ -36,91 +45,81 @@ on digital twins at the University of Oslo, and discuss some ensuing
 research challenges at the intersection of formal methods and software
 engineering.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Bio.&lt;/strong&gt; &lt;br&gt;
-Einar Broch Johnsen is a professor and the head of the Formal Methods group at the Department of Informatics, University of Oslo. His research interests include programming models and methodology; system specification and modeling; and the theory and application of formal methods. He is active in formal methods for distributed and concurrent systems, including object-oriented and concurrent languages, manycore computing, cloud computing, and digital twins. He is one of the main developers of the ABS modeling language. Homepage: 
+Einar Broch Johnsen is a professor and the head of the Formal Methods
+group at the Department of Informatics, University of Oslo. His
+research interests include programming models and methodology; system
+specification and modeling; and the theory and application of formal
+methods. He is active in formal methods for distributed and concurrent
+systems, including object-oriented and concurrent languages, manycore
+computing, cloud computing, and digital twins. He is one of the main
+developers of the ABS modeling language. Homepage:
 &lt;a href=&#34;https://ebjohnsen.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ebjohnsen.org&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Digital Twins: An Emerging Paradigm for Model-Centric Engineering</title>
-      <link>/event/2022-formalise/</link>
-      <pubDate>Mon, 28 Mar 2022 19:09:07 +0200</pubDate>
-      <guid>/event/2022-formalise/</guid>
-      <description>&lt;p&gt;
-&lt;a href=&#34;https://etaps.org/2022/fase&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FormaliSE 2022&lt;/a&gt;, co-located with
-
-&lt;a href=&#34;https://conf.researchr.org/home/icse-2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICSE 2022&lt;/a&gt;,
-Pittsburgh, PA, USA&lt;br&gt; 18-19 May 2022 (virtual) and 22 May 2022 (in-person)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Abstract.&lt;/strong&gt; &lt;br&gt;
-Digital twins are emerging as an engineering paradigm to build software centred around models of physical objects or processes. In engineering, the use of digital twins profoundly changes the entire product lifecycle management, from design to manufacturing and operations, because the digital twins adapt in response to the evolution of their physical counterpart. The purpose of the digital twin is to understand, predict and act on the behaviour of these physical systems. Digital twins can evolve continuously based on real-time streams of observations from the physical system combined with artefacts developed during the design stage. In this talk, we move from the engineering of digital twins to the science of digital twins. We consider basic concepts of digital twins, present some examples of how we can work with them in research, and discuss emerging research challenges at the intersection of formal methods and software engineering.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Bio.&lt;/strong&gt; &lt;br&gt;
-Einar Broch Johnsen is a professor and the head of the Formal Methods group at the Department of Informatics, University of Oslo. His research interests include programming models and methodology; program specification and modeling; and the theory and application of formal methods. He is active in formal methods for distributed and concurrent systems, including object-oriented and concurrent languages, manycore computing, cloud computing, and digital twins. He is one of the main developers of the ABS modeling language.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Digital Twins: From Engineering to Science</title>
-      <link>/event/2022-uib/</link>
-      <pubDate>Thu, 17 Feb 2022 23:09:07 +0200</pubDate>
-      <guid>/event/2022-uib/</guid>
-      <description>&lt;p&gt;&lt;b&gt;Abstract&lt;/b&gt;&lt;br&gt;
-Digital twins are emerging as an engineering discipline to build virtual representations of physical objects or processes. In engineering, the use of digital twins profoundly changes the entire product lifecycle management, from design, to manufacturing to service and operations, because the digital twins adapt in response to the evolution of their physical counterpart. Digital twins can evolve continuously based on streams of observations of the physical system, for example from sensors that connect the physical system to the digital twin in near real-time.&lt;/p&gt;
-&lt;p&gt;In this talk, we move from the engineering of digital twins to the science of digital twins. We consider basic concepts of digital twins, present some examples of how we are working with them in research, and discuss scientific challenges related to digital twins.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Time &amp;amp; Place&lt;/b&gt;&lt;br&gt;
-February 17, 2022 12:45-14:00&lt;br&gt;
-Large auditorium, 2nd floor, Høyteknologisenteret, Bergen,  Norway&lt;br&gt;
-
-&lt;a href=&#34;https://www.uib.no/en/ii/151523/digital-twins-engineering-science&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;More information here&lt;/a&gt;.&lt;/p&gt;
+      <link>https://ebjohnsen.org/talk/digital-twins-from-engineering-to-science/</link>
+      <pubDate>Thu, 17 Feb 2022 12:45:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/digital-twins-from-engineering-to-science/</guid>
+      <description>&lt;p&gt;&lt;b&gt;Abstract&lt;/b&gt;&lt;br&gt; Digital twins are emerging as an engineering
+discipline to build virtual representations of physical objects or
+processes. In engineering, the use of digital twins profoundly changes
+the entire product lifecycle management, from design, to manufacturing
+to service and operations, because the digital twins adapt in response
+to the evolution of their physical counterpart. Digital twins can
+evolve continuously based on streams of observations of the physical
+system, for example from sensors that connect the physical system to
+the digital twin in near real-time.&lt;/p&gt;
+&lt;p&gt;In this talk, we move from the engineering of digital twins to the
+science of digital twins. We consider basic concepts of digital twins,
+present some examples of how we are working with them in research, and
+discuss scientific challenges related to digital twins.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>PLACES 2020</title>
-      <link>/event/2020-places/</link>
-      <pubDate>Sun, 26 Apr 2020 23:09:42 +0200</pubDate>
-      <guid>/event/2020-places/</guid>
-      <description>&lt;p&gt;
-&lt;a href=&#34;http://places20.by.di.fc.ul.pt/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PLACES 2020&lt;/a&gt;, Dublin, Ireland, 26 April 2020 &lt;em&gt;(Invited talk)&lt;/em&gt;&lt;/p&gt;
+      <link>https://ebjohnsen.org/talk/places-2020/</link>
+      <pubDate>Sun, 26 Apr 2020 13:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/places-2020/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Cancelled!&lt;/strong&gt; &lt;a href=&#34;http://places20.by.di.fc.ul.pt/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PLACES 2020&lt;/a&gt;, Dublin, Ireland, 26 April 2020 &lt;em&gt;(Invited talk)&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>British Computing Society</title>
-      <link>/event/2020-bcs/</link>
-      <pubDate>Thu, 09 Apr 2020 23:09:53 +0200</pubDate>
-      <guid>/event/2020-bcs/</guid>
-      <description>&lt;p&gt;
-&lt;a href=&#34;https://www.bcs.org/events/2020/april/abs-modeling-and-analysis-with-resource-sensitive-actors-facs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;British Computing Society&lt;/a&gt;, London, UK, 9 April 2020 &lt;em&gt;(Invited talk)&lt;/em&gt;&lt;/p&gt;
+      <link>https://ebjohnsen.org/talk/british-computing-society/</link>
+      <pubDate>Thu, 09 Apr 2020 13:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/british-computing-society/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Cancelled!&lt;/strong&gt; &lt;a href=&#34;https://www.bcs.org/events/2020/april/abs-modeling-and-analysis-with-resource-sensitive-actors-facs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;British Computing Society&lt;/a&gt;, London, UK, 9 April 2020 &lt;em&gt;(Invited talk)&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>FOCLASA 2019</title>
-      <link>/event/2019-foclasa/</link>
-      <pubDate>Tue, 17 Sep 2019 23:10:44 +0200</pubDate>
-      <guid>/event/2019-foclasa/</guid>
-      <description>&lt;p&gt;
-&lt;a href=&#34;http://pages.di.unipi.it/foclasa/2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FOCLASA 2019&lt;/a&gt;, Oslo, Norway, 17 Sept 2019 &lt;em&gt;(Invited talk)&lt;/em&gt;&lt;/p&gt;
+      <link>https://ebjohnsen.org/talk/foclasa-2019/</link>
+      <pubDate>Tue, 17 Sep 2019 13:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/foclasa-2019/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://pages.di.unipi.it/foclasa/2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FOCLASA 2019&lt;/a&gt;, Oslo, Norway, 17 Sept 2019 &lt;em&gt;(Invited talk)&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>SoftCOM 2017</title>
-      <link>/event/2017-softcom/</link>
-      <pubDate>Thu, 21 Sep 2017 23:14:38 +0200</pubDate>
-      <guid>/event/2017-softcom/</guid>
-      <description>&lt;p&gt;
-&lt;a href=&#34;http://ccis.hr/home/conferences/softcom-2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SoftCOM 2017&lt;/a&gt;, Split, Croatia, 21-23 September 2017 &lt;em&gt;(Invited talk)&lt;/em&gt;&lt;/p&gt;
+      <link>https://ebjohnsen.org/talk/softcom-2017/</link>
+      <pubDate>Thu, 21 Sep 2017 13:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/softcom-2017/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://ccis.hr/home/conferences/softcom-2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SoftCOM 2017&lt;/a&gt;, Split, Croatia, 21-23 September 2017 &lt;em&gt;(Invited talk)&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ALP4IoT 2017</title>
-      <link>/event/2017-alp4iot/</link>
-      <pubDate>Mon, 18 Sep 2017 23:14:51 +0200</pubDate>
-      <guid>/event/2017-alp4iot/</guid>
-      <description>&lt;p&gt;
-&lt;a href=&#34;http://apice.unibo.it/xwiki/bin/view/ALP4IoT2016/WebHome&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ALP4IoT&lt;/a&gt;, Torino, Italy, 18 September 2017 &lt;em&gt;(Invited talk)&lt;/em&gt;&lt;/p&gt;
+      <link>https://ebjohnsen.org/talk/alp4iot-2017/</link>
+      <pubDate>Mon, 18 Sep 2017 13:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/alp4iot-2017/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://apice.unibo.it/xwiki/bin/view/ALP4IoT2016/WebHome&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ALP4IoT&lt;/a&gt;, Torino, Italy, 18 September 2017 &lt;em&gt;(Invited talk)&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     

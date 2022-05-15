@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Einar Broch Johnsen</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ebjohnsen.org/project/</link>
+      <atom:link href="https://ebjohnsen.org/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Einar Broch Johnsen</copyright><lastBuildDate>Tue, 26 Apr 2022 10:33:05 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 26 Apr 2022 10:33:05 +0200</lastBuildDate>
     <image>
-      <url>/images/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>https://ebjohnsen.org/project/</link>
     </image>
     
     <item>
       <title>NebulOus: A Meta Operating System for Brokering Hyper-Distributed Applications on Cloud Computing Continuums</title>
-      <link>/project/nebulous/</link>
+      <link>https://ebjohnsen.org/project/nebulous/</link>
       <pubDate>Tue, 26 Apr 2022 10:33:05 +0200</pubDate>
-      <guid>/project/nebulous/</guid>
+      <guid>https://ebjohnsen.org/project/nebulous/</guid>
       <description>&lt;p&gt;NebulOus is a Horizon Europe project,
 funded by the European Commission 2022-2025 (project no 101070516).&lt;/p&gt;
 &lt;p&gt;NebulOus will accomplish substantial research contributions in the
@@ -42,27 +42,25 @@ v. Conducting and monitoring smart contracts-based service level agreements.&lt;
     
     <item>
       <title>Remaro: Reliable AI for Marine Robotics</title>
-      <link>/project/remaro/</link>
+      <link>https://ebjohnsen.org/project/remaro/</link>
       <pubDate>Sat, 03 Oct 2020 10:33:05 +0200</pubDate>
-      <guid>/project/remaro/</guid>
+      <guid>https://ebjohnsen.org/project/remaro/</guid>
       <description>&lt;p&gt;Remaro is a Marie Skłodowska-Curie (MSCA) European Training Network
-funded by the European Commission 2020-2024 (project no 956200). CORDIS website 
-&lt;a href=&#34;https://cordis.europa.eu/project/id/956200&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+funded by the European Commission 2020-2024 (project no 956200). CORDIS website &lt;a href=&#34;https://cordis.europa.eu/project/id/956200&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The network will educate 15 PhD research fellows on complimentary
 aspects of reliable autonomy for underwater robotic applications. The
 REMARO research fellows will develop the first ever submarine robotics
 AI methods with quantified reliability, correctness specifications,
 models, tests, and analysis &amp;amp; verification methods.&lt;/p&gt;
-&lt;p&gt;Project website 
-&lt;a href=&#34;http://www.remaro.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Project website &lt;a href=&#34;http://www.remaro.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Smart Journey Mining: Towards Successful Digitalisation of Services</title>
-      <link>/project/sjm/</link>
+      <link>https://ebjohnsen.org/project/sjm/</link>
       <pubDate>Fri, 02 Oct 2020 10:32:56 +0200</pubDate>
-      <guid>/project/sjm/</guid>
+      <guid>https://ebjohnsen.org/project/sjm/</guid>
       <description>&lt;p&gt;SJM is a project funded by the Research Council of Norway
 2021-2024. The partners are SINTEF Digital (coordinator), University
 of Oslo, and Eindhoven University of Technology.&lt;/p&gt;
@@ -82,9 +80,9 @@ In the first phase of the project, we will build tools for automated capture of 
     
     <item>
       <title>Cumulus: Semantics-Based Analyses for Cloud-Aware Computing</title>
-      <link>/project/cumulus/</link>
+      <link>https://ebjohnsen.org/project/cumulus/</link>
       <pubDate>Thu, 02 Feb 2017 22:17:32 +0100</pubDate>
-      <guid>/project/cumulus/</guid>
+      <guid>https://ebjohnsen.org/project/cumulus/</guid>
       <description>&lt;p&gt;Cumulus was a FRINATEK project funded by the Research Council of
 Norway 2015-2019. I was the project leader of CUMULUS.&lt;/p&gt;
 &lt;p&gt;The main goal of Cumulus is to develop a semantic foundation for static analysis techniques for cloud-aware applications. Cloud-awareness enables the software to negotiate its own quality of service and opens for dynamic and fine-grained resource management. This introduces an element of reflection which goes beyond the state of the art in both formal semantics and static analysis. The project will develop a formal foundation for cloud-aware computing and use this foundation to enable the verification of quantitative assertions about the high-level quality of service and low-level resource requirements of cloud-aware applications. The project will develop demonstrators for the approach in terms of semantics-based tools to analyze quantitative assertions for quality of service during the design of such applications. Cumulus will enable a shift in the design of virtualized software from model simulation and monitoring deployed systems to advanced static analyses of worst-case resource requirements early in the software design&lt;/p&gt;
@@ -93,25 +91,23 @@ Norway 2015-2019. I was the project leader of CUMULUS.&lt;/p&gt;
     
     <item>
       <title>HyVar : Scalable Hybrid Variability for Distributed Evolving Software Systems</title>
-      <link>/project/hyvar/</link>
+      <link>https://ebjohnsen.org/project/hyvar/</link>
       <pubDate>Thu, 21 Jul 2016 22:16:15 +0200</pubDate>
-      <guid>/project/hyvar/</guid>
+      <guid>https://ebjohnsen.org/project/hyvar/</guid>
       <description>&lt;p&gt;HyVar was an EU H2020 research project 2015-2018 (project no
 644298). I was the scientific coordinator of HyVar.
-CORDIS website 
-&lt;a href=&#34;https://cordis.europa.eu/project/id/644298&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+CORDIS website &lt;a href=&#34;https://cordis.europa.eu/project/id/644298&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The idea was to develop a framework for continuous software evolution in distributed systems which combines the description of evolution as a software product line, a scalable cloud infrastructure to monitoring and customization of software upgrades for remote devices, and over-the-air upgrade technologies.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>UpScale: From Inherent Concurrency to Massive Parallelism through Type-based Optimizations</title>
-      <link>/project/upscale/</link>
+      <link>https://ebjohnsen.org/project/upscale/</link>
       <pubDate>Thu, 21 Jul 2016 22:16:06 +0200</pubDate>
-      <guid>/project/upscale/</guid>
+      <guid>https://ebjohnsen.org/project/upscale/</guid>
       <description>&lt;p&gt;UpScale was an EU FP7 FET Open-X research project 2014-2017 (project
-no 612985).  CORDIS website 
-&lt;a href=&#34;https://cordis.europa.eu/project/id/612985&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+no 612985).  CORDIS website &lt;a href=&#34;https://cordis.europa.eu/project/id/612985&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The idea was to design programming languages for the
 manycore era, when a program can make use of potentially millions of
 processors. UpScale used incremental type-based program annotations
@@ -123,26 +119,23 @@ Encore language was designed in this project.&lt;/p&gt;
     
     <item>
       <title>Envisage: Engineering Virtualized Services</title>
-      <link>/project/envisage/</link>
+      <link>https://ebjohnsen.org/project/envisage/</link>
       <pubDate>Thu, 21 Jul 2016 22:15:56 +0200</pubDate>
-      <guid>/project/envisage/</guid>
+      <guid>https://ebjohnsen.org/project/envisage/</guid>
       <description>&lt;p&gt;Envisage was an  EU FP7 research project 2013-2016 (project no 610582).
-I was the coordinator of Envisage.  CORDIS website 
-&lt;a href=&#34;https://cordis.europa.eu/project/id/610582&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+I was the coordinator of Envisage.  CORDIS website &lt;a href=&#34;https://cordis.europa.eu/project/id/610582&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The basic idea was to integrate service-level agreements (SLA) into the interfaces of an object-oriented model and validate SLA for cloud computing at design time using formal methods. The Envisage project delivered novel methods for predicting the behavior of software deployed on the cloud, using formal models and analysis techniques.&lt;/p&gt;
-&lt;p&gt;Project website 
-&lt;a href=&#34;http://envisage-project.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Project website &lt;a href=&#34;http://envisage-project.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>HATS: Highly Adaptable and Trustworthy Software using Formal Methods</title>
-      <link>/project/hats/</link>
+      <link>https://ebjohnsen.org/project/hats/</link>
       <pubDate>Thu, 21 Jul 2016 21:55:11 +0200</pubDate>
-      <guid>/project/hats/</guid>
+      <guid>https://ebjohnsen.org/project/hats/</guid>
       <description>&lt;p&gt;HATS was a four-year FET project funded under the EU&amp;rsquo;s FP7 programme
-2010-2013 (project no 231620).  CORDIS website 
-&lt;a href=&#34;https://cordis.europa.eu/project/id/231620&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+2010-2013 (project no 231620).  CORDIS website &lt;a href=&#34;https://cordis.europa.eu/project/id/231620&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;In the project, we propose to take an
 empirically successful, yet informal software development paradigm and
 put it on a formal basis. Specifically, in HATS we will turn software
@@ -158,13 +151,25 @@ with rigorous analyses based on formal semantics.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Example Project</title>
+      <link>https://ebjohnsen.org/project/example/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/project/example/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>CREDO: Modelling and analysis of evolutionary structures for distributed services</title>
-      <link>/project/credo/</link>
+      <link>https://ebjohnsen.org/project/credo/</link>
       <pubDate>Tue, 21 Jul 2015 21:55:11 +0200</pubDate>
-      <guid>/project/credo/</guid>
+      <guid>https://ebjohnsen.org/project/credo/</guid>
       <description>&lt;p&gt;CREDO was a STREP project funded under the EU&amp;rsquo;s FP6 programme
-2006-2009 (project no 033826). CORDIS website 
-&lt;a href=&#34;https://cordis.europa.eu/project/id/033826&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+2006-2009 (project no 033826). CORDIS website &lt;a href=&#34;https://cordis.europa.eu/project/id/033826&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;In open distributed systems, the availability and requirements of components providing services vary over time. The networks need to dynamically reconfigure communication links between components at run-time in a context-aware manner. This reconfiguration includes the (dis)connection of components, but also the adaptation and updating of both components and the network. Updates may change the computation abilities of components and the coordination abilities of the network. For safety-critical systems, update should not compromise the reliability of services. Updates should be initiated and effectuated in a decentralized manner. No formal model of computation and communication exists today in which end-to-end system evolution can be expressed and validated. The use of formal models and validation techniques will significantly improve the confidence in dynamically reconfigurable systems, which are otherwise error-prone.&lt;/p&gt;
 &lt;p&gt;This project aims at a compositional modelling and validation framework for dynamically evolving software systems, separating computation, coordination, and scheduling. Exploiting this separation of concerns, we develop a uniform modelling language in which object-oriented components are combined with flexible communication and timing models. A new notion of service interface is essential, allowing separate design and validation of different components and of the network. Interface composition enables end-to-end reasoning about evolving systems. These interfaces specify services and formalize the context awareness needed for run-time coordination and reconfiguration. The framework will help developers design and maintain systems by validating reconfigurations. We focus on automatable and compositional validation techniques, including abstract simulation, synthesis, model-checking, test-generation, and verification of interface compatibility. The usefulness of the framework is assessed through case studies, and by developing an integrated tool.&lt;/p&gt;
 </description>

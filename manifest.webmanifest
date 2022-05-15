@@ -2,14 +2,14 @@
   "name": "Einar Broch Johnsen",
   "short_name": "Einar Broch Johnsen",
   "lang": "en-us",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "theme_color": "#1565c0",
+  "background_color": "#1565c0",
   "icons": [{
-    "src": "/images/icon_hub341504972d314b2e9a402ad2e73d67e_181309_192x192_fill_lanczos_center_3.png",
+    "src": "/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/images/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png",
+    "src": "/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
