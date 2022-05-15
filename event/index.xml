@@ -5,32 +5,12 @@
     <link>https://ebjohnsen.org/event/</link>
       <atom:link href="https://ebjohnsen.org/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Service</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
       <title>Service</title>
       <link>https://ebjohnsen.org/event/</link>
     </image>
-    
-    <item>
-      <title>Example Talk</title>
-      <link>https://ebjohnsen.org/talk/example-talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://ebjohnsen.org/talk/example-talk/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>FM 2023</title>
@@ -215,24 +195,6 @@ discuss scientific challenges related to digital twins.&lt;/p&gt;
     </item>
     
     <item>
-      <title>PLACES 2020</title>
-      <link>https://ebjohnsen.org/talk/places-2020/</link>
-      <pubDate>Sun, 26 Apr 2020 13:00:00 +0000</pubDate>
-      <guid>https://ebjohnsen.org/talk/places-2020/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Cancelled!&lt;/strong&gt; &lt;a href=&#34;http://places20.by.di.fc.ul.pt/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PLACES 2020&lt;/a&gt;, Dublin, Ireland, 26 April 2020 &lt;em&gt;(Invited talk)&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>British Computing Society</title>
-      <link>https://ebjohnsen.org/talk/british-computing-society/</link>
-      <pubDate>Thu, 09 Apr 2020 13:00:00 +0000</pubDate>
-      <guid>https://ebjohnsen.org/talk/british-computing-society/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Cancelled!&lt;/strong&gt; &lt;a href=&#34;https://www.bcs.org/events/2020/april/abs-modeling-and-analysis-with-resource-sensitive-actors-facs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;British Computing Society&lt;/a&gt;, London, UK, 9 April 2020 &lt;em&gt;(Invited talk)&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>ESOCC 2020</title>
       <link>https://ebjohnsen.org/talk/esocc-2020/</link>
       <pubDate>Wed, 01 Apr 2020 23:10:02 +0200</pubDate>
@@ -267,15 +229,6 @@ discuss scientific challenges related to digital twins.&lt;/p&gt;
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://formalmethods2019.inesctec.pt/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FM 2019&lt;/a&gt;, Porto, Portugal, 7-11 October, 2019&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>FOCLASA 2019</title>
-      <link>https://ebjohnsen.org/talk/foclasa-2019/</link>
-      <pubDate>Tue, 17 Sep 2019 13:00:00 +0000</pubDate>
-      <guid>https://ebjohnsen.org/talk/foclasa-2019/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://pages.di.unipi.it/foclasa/2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FOCLASA 2019&lt;/a&gt;, Oslo, Norway, 17 Sept 2019 &lt;em&gt;(Invited talk)&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -425,29 +378,11 @@ discuss scientific challenges related to digital twins.&lt;/p&gt;
     </item>
     
     <item>
-      <title>SoftCOM 2017</title>
-      <link>https://ebjohnsen.org/talk/softcom-2017/</link>
-      <pubDate>Thu, 21 Sep 2017 13:00:00 +0000</pubDate>
-      <guid>https://ebjohnsen.org/talk/softcom-2017/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://ccis.hr/home/conferences/softcom-2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SoftCOM 2017&lt;/a&gt;, Split, Croatia, 21-23 September 2017 &lt;em&gt;(Invited talk)&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>iFM 2017</title>
       <link>https://ebjohnsen.org/talk/ifm-2017/</link>
       <pubDate>Mon, 18 Sep 2017 23:14:59 +0200</pubDate>
       <guid>https://ebjohnsen.org/talk/ifm-2017/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://ifm2017.di.unito.it/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iFM 2017&lt;/a&gt;, Torino, Italy, 18-22 September 2017&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ALP4IoT 2017</title>
-      <link>https://ebjohnsen.org/talk/alp4iot-2017/</link>
-      <pubDate>Mon, 18 Sep 2017 13:00:00 +0000</pubDate>
-      <guid>https://ebjohnsen.org/talk/alp4iot-2017/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://apice.unibo.it/xwiki/bin/view/ALP4IoT2016/WebHome&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ALP4IoT&lt;/a&gt;, Torino, Italy, 18 September 2017 &lt;em&gt;(Invited talk)&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -594,15 +529,6 @@ discuss scientific challenges related to digital twins.&lt;/p&gt;
       <pubDate>Wed, 21 Oct 2015 23:17:21 +0200</pubDate>
       <guid>https://ebjohnsen.org/talk/nwpt-2015/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://icetcs.ru.is/nwpt2015/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NWPT 2015&lt;/a&gt;, Reykjavik, Iceland, October 21-23, 2015&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>TAP 2015</title>
-      <link>https://ebjohnsen.org/talk/tap-2015/</link>
-      <pubDate>Mon, 20 Jul 2015 13:00:00 +0000</pubDate>
-      <guid>https://ebjohnsen.org/talk/tap-2015/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://tap2015.in.tum.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TAP 2015&lt;/a&gt;, L&amp;rsquo;Aquila, Italy, July 20-24, 2015 &lt;em&gt;(Invited talk)&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
