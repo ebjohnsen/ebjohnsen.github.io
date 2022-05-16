@@ -5,7 +5,7 @@
     <link>https://ebjohnsen.org/event/</link>
       <atom:link href="https://ebjohnsen.org/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Service</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 16 Apr 2023 12:09:51 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
       <title>Service</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>FASE 2023</title>
+      <link>https://ebjohnsen.org/talk/fase-2023/</link>
+      <pubDate>Sun, 16 Apr 2023 12:09:51 +0200</pubDate>
+      <guid>https://ebjohnsen.org/talk/fase-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>FM 2023</title>
       <link>https://ebjohnsen.org/talk/fm-2023/</link>
       <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://ebjohnsen.org/talk/fm-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FAACS 2022</title>
+      <link>https://ebjohnsen.org/talk/faacs-2022/</link>
+      <pubDate>Mon, 19 Sep 2022 11:54:09 +0200</pubDate>
+      <guid>https://ebjohnsen.org/talk/faacs-2022/</guid>
       <description></description>
     </item>
     
@@ -62,15 +78,6 @@ systems, including object-oriented and concurrent languages, manycore
 computing, cloud computing, and digital twins. He is one of the main
 developers of the ABS modeling language. Homepage:
 &lt;a href=&#34;https://ebjohnsen.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ebjohnsen.org&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>FASE 2023</title>
-      <link>https://ebjohnsen.org/talk/fase-2023/</link>
-      <pubDate>Tue, 19 Apr 2022 19:09:07 +0200</pubDate>
-      <guid>https://ebjohnsen.org/talk/fase-2023/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://etaps.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FASE 2023&lt;/a&gt;, Paris, France, TBD, 2023&lt;/p&gt;
 </description>
     </item>
     
