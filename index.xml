@@ -45,13 +45,27 @@
     </item>
     
     <item>
+      <title>Digital Twins and HPC</title>
+      <link>https://ebjohnsen.org/talk/digital-twins-and-hpc/</link>
+      <pubDate>Wed, 15 Jun 2022 12:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/digital-twins-and-hpc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Digital Twin for Land-Ocean Coupling During Intense Precipitation</title>
+      <link>https://ebjohnsen.org/talk/a-digital-twin-for-land-ocean-coupling-during-intense-precipitation/</link>
+      <pubDate>Tue, 24 May 2022 14:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/a-digital-twin-for-land-ocean-coupling-during-intense-precipitation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Digital Twins: An Emerging Paradigm for Model-Centric Engineering</title>
       <link>https://ebjohnsen.org/talk/digital-twins-an-emerging-paradigm-for-model-centric-engineering/</link>
       <pubDate>Thu, 19 May 2022 15:00:00 +0000</pubDate>
       <guid>https://ebjohnsen.org/talk/digital-twins-an-emerging-paradigm-for-model-centric-engineering/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Abstract.&lt;/strong&gt; &lt;br&gt;
-Digital twins are emerging as an engineering paradigm to build software centred around models of physical objects or processes. In engineering, the use of digital twins profoundly changes the entire product lifecycle management, from design to manufacturing and operations, because the digital twins adapt in response to the evolution of their physical counterpart. The purpose of the digital twin is to understand, predict and act on the behaviour of these physical systems. Digital twins can evolve continuously based on real-time streams of observations from the physical system combined with artefacts developed during the design stage. In this talk, we move from the engineering of digital twins to the science of digital twins. We consider basic concepts of digital twins, present some examples of how we can work with them in research, and discuss emerging research challenges at the intersection of formal methods and software engineering.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Bio.&lt;/strong&gt; &lt;br&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Bio.&lt;/strong&gt; &lt;br&gt;
 Einar Broch Johnsen is a professor and the head of the Formal Methods group at the Department of Informatics, University of Oslo. His research interests include programming models and methodology; program specification and modeling; and the theory and application of formal methods. He is active in formal methods for distributed and concurrent systems, including object-oriented and concurrent languages, manycore computing, cloud computing, and digital twins. He is one of the main developers of the ABS modeling language.&lt;/p&gt;
 </description>
     </item>
@@ -615,10 +629,10 @@ $$&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
 &lt;p&gt;Make content appear incrementally&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} One {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} **Two** {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} Three {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
 &lt;span class=&#34;fragment &#34; &gt;
   One
 &lt;/span&gt;
