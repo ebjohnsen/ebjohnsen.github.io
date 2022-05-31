@@ -4,20 +4,6 @@
   
   
   <url>
-    <loc>https://ebjohnsen.org/div/demo/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ebjohnsen.org/div/skills/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ebjohnsen.org/div/experience/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ebjohnsen.org/div/accomplishments/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ebjohnsen.org/div/posts/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ebjohnsen.org/div/featured/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ebjohnsen.org/div/tags/</loc><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/</loc><lastmod>2023-04-16T12:09:51+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/talk/fase-2023/</loc><lastmod>2023-04-16T12:09:51+02:00</lastmod><changefreq>weekly</changefreq></url>
@@ -858,6 +844,4 @@
   <url>
     <loc></loc><lastmod>2001-12-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ebjohnsen.org/publication/01-apsec/</loc><lastmod>2001-12-15T22:46:33+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ebjohnsen.org/div/</loc><changefreq>weekly</changefreq></url></urlset>
+    <loc>https://ebjohnsen.org/publication/01-apsec/</loc><lastmod>2001-12-15T22:46:33+02:00</lastmod><changefreq>weekly</changefreq></url></urlset>
