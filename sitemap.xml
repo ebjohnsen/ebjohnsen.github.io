@@ -4,35 +4,45 @@
   
   
   <url>
-    <loc>https://ebjohnsen.org/</loc><lastmod>2023-04-16T12:09:51+02:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ebjohnsen.org/div/demo/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ebjohnsen.org/div/skills/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ebjohnsen.org/div/experience/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ebjohnsen.org/div/accomplishments/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ebjohnsen.org/div/posts/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ebjohnsen.org/div/featured/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ebjohnsen.org/div/tags/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ebjohnsen.org/categories/</loc><lastmod>2023-04-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ebjohnsen.org/</loc><lastmod>2023-04-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ebjohnsen.org/talk/fsen-2023/</loc><lastmod>2023-04-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ebjohnsen.org/category/programme-committees/</loc><lastmod>2023-04-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ebjohnsen.org/tag/service/</loc><lastmod>2023-04-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ebjohnsen.org/event/</loc><lastmod>2023-04-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ebjohnsen.org/tags/</loc><lastmod>2023-04-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/talk/fase-2023/</loc><lastmod>2023-04-16T12:09:51+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ebjohnsen.org/tag/service/</loc><lastmod>2023-04-16T12:09:51+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ebjohnsen.org/event/</loc><lastmod>2023-04-16T12:09:51+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ebjohnsen.org/tags/</loc><lastmod>2023-04-16T12:09:51+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ebjohnsen.org/categories/</loc><lastmod>2023-03-06T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/talk/fm-2023/</loc><lastmod>2023-03-06T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ebjohnsen.org/category/programme-committees/</loc><lastmod>2023-03-06T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ebjohnsen.org/talk/ase-nier-2022/</loc><lastmod>2022-10-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/talk/faacs-2022/</loc><lastmod>2022-09-19T11:54:09+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2022-08-07T21:07:45+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/publication-type/1/</loc><lastmod>2022-08-07T21:07:45+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2022-08-07T21:07:45+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/publication/22-csf/</loc><lastmod>2022-08-07T21:07:45+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2022-08-07T21:07:45+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2022-08-07T21:07:45+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication_types/</loc><lastmod>2022-08-07T21:07:45+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -50,8 +60,6 @@
   <url>
     <loc>https://ebjohnsen.org/tag/digital-twins/</loc><lastmod>2022-06-01T21:28:46+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2022-06-01T21:28:46+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/publication/22-annsim/</loc><lastmod>2022-06-01T21:28:46+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/tag/smol/</loc><lastmod>2022-06-01T21:28:46+02:00</lastmod><changefreq>weekly</changefreq></url>
@@ -68,37 +76,25 @@
   <url>
     <loc>https://ebjohnsen.org/publication/22-ccpi/</loc><lastmod>2022-04-13T21:07:45+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2022-04-13T21:07:45+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2022-04-13T21:07:45+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ebjohnsen.org/talk/fsen-2023/</loc><lastmod>2022-04-10T23:10:27+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2022-04-04T13:51:24+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/publication-type/7/</loc><lastmod>2022-04-04T13:51:24+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2022-04-04T13:51:24+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/22-fase/</loc><lastmod>2022-04-04T13:51:24+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ebjohnsen.org/talk/ase-nier-2022/</loc><lastmod>2022-03-10T23:10:27+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/talk/digital-twins-from-engineering-to-science/</loc><lastmod>2022-02-17T12:45:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://ebjohnsen.org/course/</loc><lastmod>2022-02-01T10:33:05+02:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ebjohnsen.org/course/in2080/</loc><lastmod>2022-02-01T10:33:05+02:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://ebjohnsen.org/talk/tap-2022/</loc><lastmod>2022-01-26T23:09:15+02:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ebjohnsen.org/course/in5170/</loc><lastmod>2021-08-01T10:33:05+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/talk/ifm-2022/</loc><lastmod>2021-07-26T23:09:15+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/21-coordination/</loc><lastmod>2021-06-15T09:07:44+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2021-06-15T09:07:44+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2021-06-08T09:07:44+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/publication/21-eswc/</loc><lastmod>2021-06-08T09:07:44+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2021-06-08T09:07:44+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/talk/fase-2022/</loc><lastmod>2021-05-31T23:09:07+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -110,13 +106,9 @@
   <url>
     <loc>https://ebjohnsen.org/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/post/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -124,39 +116,13 @@
   <url>
     <loc>https://ebjohnsen.org/publication-type/6/</loc><lastmod>2020-11-15T08:47:43+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2020-11-15T08:47:43+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/publication/20-gabbrielli/</loc><lastmod>2020-11-15T08:47:43+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2020-11-15T08:47:43+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2020-11-15T08:47:43+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/20-ifm/</loc><lastmod>2020-11-14T09:21:51+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2020-11-14T09:21:51+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2020-11-14T09:21:51+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2020-11-13T09:07:44+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/publication/20-sle/</loc><lastmod>2020-11-13T09:07:44+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2020-11-13T09:07:44+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2020-11-13T09:07:44+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2020-11-13T09:07:44+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/publication/20-isola2/</loc><lastmod>2020-10-29T09:07:54+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2020-10-29T09:07:54+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2020-10-29T09:07:54+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2020-10-29T09:07:54+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2020-10-29T09:07:54+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/project/remaro/</loc><lastmod>2020-10-03T10:33:05+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -164,19 +130,7 @@
   <url>
     <loc>https://ebjohnsen.org/publication/20-isola1/</loc><lastmod>2020-09-12T09:07:51+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2020-09-12T09:07:51+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2020-09-12T09:07:51+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/publication/20-key2/</loc><lastmod>2020-08-20T00:17:05+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2020-08-20T00:17:05+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2020-08-20T00:17:05+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2020-08-20T00:17:05+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2020-08-20T00:17:05+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/20-key/</loc><lastmod>2020-08-20T00:17:05+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -186,17 +140,7 @@
   <url>
     <loc>https://ebjohnsen.org/talk/ifm-2020/</loc><lastmod>2020-07-26T23:09:15+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2020-06-21T22:35:11+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/publication/20-icse/</loc><lastmod>2020-06-21T22:35:11+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2020-06-21T22:35:11+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2020-06-20T00:01:48+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2020-06-20T00:01:48+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2020-06-20T00:01:48+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/20-pnse/</loc><lastmod>2020-06-20T00:01:48+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -212,10 +156,6 @@
   <url>
     <loc>https://ebjohnsen.org/publication/20-ijguc/</loc><lastmod>2020-02-03T23:06:28+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2020-02-03T23:06:28+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2020-02-03T23:06:28+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/talk/ifm-2019/</loc><lastmod>2020-07-26T23:10:19+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/talk/agere-2019/</loc><lastmod>2020-07-26T23:10:27+02:00</lastmod><changefreq>weekly</changefreq></url>
@@ -224,13 +164,7 @@
   <url>
     <loc>https://ebjohnsen.org/publication/19-sefm/</loc><lastmod>2019-07-10T23:08:36+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2019-07-10T23:08:36+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/publication/19-ecoop/</loc><lastmod>2019-07-10T23:08:36+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2019-07-10T23:08:36+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2019-07-10T23:08:36+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/19-scp2/</loc><lastmod>2019-07-09T00:23:39+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -238,31 +172,17 @@
   <url>
     <loc>https://ebjohnsen.org/publication/19-scp1/</loc><lastmod>2019-05-13T00:23:39+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2019-05-13T00:23:39+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2019-05-13T00:23:39+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/talk/sac-ngps-2019/</loc><lastmod>2020-07-26T23:12:03+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/19-fase/</loc><lastmod>2019-04-06T23:08:36+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2019-04-06T23:08:36+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2018-11-20T00:23:39+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2018-11-20T00:23:39+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2018-11-20T00:23:39+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/publication/18-tocl/</loc><lastmod>2018-11-20T00:23:39+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/18-aph/</loc><lastmod>2018-11-15T00:23:39+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2018-11-05T00:23:39+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/18-isola/</loc><lastmod>2018-11-05T00:23:39+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -288,8 +208,6 @@
   <url>
     <loc>https://ebjohnsen.org/talk/forte-2018/</loc><lastmod>2020-07-26T23:13:37+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2018-06-18T13:51:24+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/publication/18-sefm/</loc><lastmod>2018-06-18T13:51:24+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/talk/formalise-2018/</loc><lastmod>2020-07-26T23:13:44+02:00</lastmod><changefreq>weekly</changefreq></url>
@@ -301,8 +219,6 @@
     <loc>https://ebjohnsen.org/talk/fase-2018/</loc><lastmod>2020-07-26T23:13:58+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/18-jlamp2/</loc><lastmod>2018-01-02T22:04:12+01:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2018-01-02T22:04:12+01:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/18-jlamp1/</loc><lastmod>2018-01-02T22:04:12+01:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -316,19 +232,7 @@
   <url>
     <loc>https://ebjohnsen.org/publication/17-csur/</loc><lastmod>2017-10-22T00:23:39+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2017-10-22T00:23:39+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2017-10-22T00:23:39+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2017-10-22T00:23:39+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2017-10-22T00:23:39+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2017-10-22T00:23:39+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/publication/17-fsen/</loc><lastmod>2017-10-22T00:23:39+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2017-10-22T00:23:39+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/talk/facs-2017/</loc><lastmod>2020-07-26T23:14:24+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -342,11 +246,7 @@
   <url>
     <loc>https://ebjohnsen.org/talk/ifm-2017/</loc><lastmod>2020-07-26T23:14:59+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2017-09-07T13:51:24+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/publication/17-esocc/</loc><lastmod>2017-09-07T13:51:24+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2017-09-07T13:51:24+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/talk/sefm-2017/</loc><lastmod>2020-07-26T23:15:15+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -354,27 +254,13 @@
   <url>
     <loc>https://ebjohnsen.org/publication/17-tap/</loc><lastmod>2017-07-07T13:51:24+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2017-07-07T13:51:24+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/talk/fsen-2017/</loc><lastmod>2020-07-26T23:15:43+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/talk/fase-2017/</loc><lastmod>2020-07-26T23:15:37+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/17-fase/</loc><lastmod>2017-04-02T22:04:12+01:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2017-04-02T22:04:12+01:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2017-04-02T22:04:12+01:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/project/cumulus/</loc><lastmod>2017-02-02T22:17:32+01:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2016-11-26T00:23:39+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2016-11-26T00:23:39+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2016-11-26T00:23:39+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2016-11-26T00:23:39+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/16-setta/</loc><lastmod>2016-11-26T00:23:39+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -388,55 +274,11 @@
   <url>
     <loc>https://ebjohnsen.org/publication/16-fomac/</loc><lastmod>2016-10-05T22:23:11+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2016-10-05T22:23:11+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2016-09-07T13:51:24+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2016-09-07T13:51:24+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/publication/16-esocc/</loc><lastmod>2016-09-07T13:51:24+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2016-09-07T13:51:24+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/talk/esocc-2016/</loc><lastmod>2020-07-26T23:16:31+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/16-ftpl/</loc><lastmod>2016-07-22T12:07:39+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2016-07-22T12:07:39+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2016-07-22T12:07:39+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2016-07-22T12:07:39+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2016-07-22T12:07:39+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2016-07-22T12:07:39+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2016-07-22T12:07:39+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2016-07-22T12:07:39+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2016-07-22T12:07:39+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2016-07-22T12:07:39+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2016-07-22T12:07:39+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2016-07-22T12:07:39+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2016-07-22T12:07:39+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2016-07-22T12:07:39+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2016-07-22T12:07:39+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2016-07-22T12:07:39+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2016-07-22T12:07:39+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2016-07-22T12:07:39+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2016-07-22T12:07:39+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/16-fase/</loc><lastmod>2016-07-21T23:08:36+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -464,25 +306,15 @@
   <url>
     <loc>https://ebjohnsen.org/publication/16-kaisa/</loc><lastmod>2016-05-07T13:49:46+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ebjohnsen.org/tag/deep-learning/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ebjohnsen.org/project/example/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/publication/16-sac-musepat/</loc><lastmod>2016-04-21T23:08:22+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2016-03-07T13:51:07+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/16-fdb60/</loc><lastmod>2016-03-07T13:51:07+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/16-wrla/</loc><lastmod>2016-03-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2016-01-21T23:07:58+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/publication/15-facs/</loc><lastmod>2016-01-21T23:07:58+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/16-scp/</loc><lastmod>2016-01-21T23:06:55+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2016-01-21T23:06:55+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/15-icfem/</loc><lastmod>2015-11-21T23:07:48+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -492,17 +324,7 @@
   <url>
     <loc>https://ebjohnsen.org/publication/15-sas/</loc><lastmod>2015-09-21T23:07:32+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2015-09-21T23:07:08+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2015-09-21T23:07:08+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2015-09-21T23:07:08+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2015-09-21T23:07:08+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/publication/15-nbis/</loc><lastmod>2015-09-21T23:07:08+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2015-09-21T23:07:08+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/project/credo/</loc><lastmod>2015-07-21T21:55:11+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -514,13 +336,7 @@
   <url>
     <loc>https://ebjohnsen.org/publication/15-sfm/</loc><lastmod>2015-06-07T13:51:24+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2015-06-07T13:51:24+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2015-05-21T23:07:40+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/publication/15-encore/</loc><lastmod>2015-05-21T23:07:40+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2015-05-21T23:07:40+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/talk/fsen-2015/</loc><lastmod>2020-07-26T23:18:00+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -528,13 +344,9 @@
   <url>
     <loc>https://ebjohnsen.org/publication/15-jlamp2/</loc><lastmod>2015-01-21T23:06:40+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2015-01-21T23:06:40+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/publication/15-jlamp1/</loc><lastmod>2015-01-21T23:06:37+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/14-soca/</loc><lastmod>2014-12-21T23:05:54+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2014-12-21T23:05:54+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/talk/nwpt-2014/</loc><lastmod>2020-07-26T23:18:16+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -542,17 +354,9 @@
   <url>
     <loc>https://ebjohnsen.org/publication/14-isola2/</loc><lastmod>2014-10-21T20:17:14+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2014-10-21T20:17:14+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2014-10-21T20:17:14+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2014-10-21T20:17:14+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/talk/agere-2014/</loc><lastmod>2020-07-26T23:18:25+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/14-isola3/</loc><lastmod>2014-10-01T20:21:47+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2014-10-01T20:21:47+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/talk/ifm-2014/</loc><lastmod>2020-07-26T23:18:31+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -572,11 +376,7 @@
   <url>
     <loc>https://ebjohnsen.org/talk/formalise-2014/</loc><lastmod>2020-07-26T23:19:06+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2014-01-21T23:06:06+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/publication/14-taosd/</loc><lastmod>2014-01-21T23:06:06+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2014-01-21T23:06:06+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/talk/nwpt-2013/</loc><lastmod>2020-07-26T23:19:14+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -594,15 +394,9 @@
   <url>
     <loc>https://ebjohnsen.org/talk/fmdep-2013/</loc><lastmod>2020-07-26T23:19:40+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2013-06-07T13:51:24+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/publication/13-ifm/</loc><lastmod>2013-06-07T13:51:24+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2013-05-21T23:05:03+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/publication/13-sesena/</loc><lastmod>2013-05-21T23:05:03+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2013-05-21T23:05:03+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/talk/fsen-2013/</loc><lastmod>2020-07-26T23:20:29+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -628,10 +422,6 @@
   <url>
     <loc>https://ebjohnsen.org/talk/ifm-2012/</loc><lastmod>2020-07-26T23:21:17+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2012-06-18T23:01:58+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2012-06-18T23:01:58+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/publication/12-ifm/</loc><lastmod>2012-06-18T23:01:58+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/talk/fmoods/forte-2012/</loc><lastmod>2020-07-26T23:21:00+02:00</lastmod><changefreq>weekly</changefreq></url>
@@ -642,15 +432,11 @@
   <url>
     <loc>https://ebjohnsen.org/publication/12-jlap1/</loc><lastmod>2012-04-21T23:01:36+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2012-04-21T23:01:36+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/publication/11-foveoos/</loc><lastmod>2012-01-21T23:02:40+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/11-facs/</loc><lastmod>2012-01-21T23:02:30+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/10-fmco/</loc><lastmod>2012-01-21T23:00:48+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2012-01-21T23:00:48+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/11-scp/</loc><lastmod>2011-10-21T22:59:19+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -668,8 +454,6 @@
   <url>
     <loc>https://ebjohnsen.org/publication/11-sfm/</loc><lastmod>2011-06-13T23:00:04+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2011-06-13T23:00:04+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/talk/fmoods/forte-2011/</loc><lastmod>2020-07-26T23:22:06+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/11-fsen/</loc><lastmod>2011-04-21T23:01:17+02:00</lastmod><changefreq>weekly</changefreq></url>
@@ -686,8 +470,6 @@
   <url>
     <loc>https://ebjohnsen.org/publication/10-concur/</loc><lastmod>2010-09-21T22:58:46+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2010-09-21T22:58:46+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/publication/10-jlap/</loc><lastmod>2010-09-21T22:58:35+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/10-rtrts/</loc><lastmod>2010-09-21T22:56:54+02:00</lastmod><changefreq>weekly</changefreq></url>
@@ -696,11 +478,7 @@
   <url>
     <loc>https://ebjohnsen.org/talk/ttss-2011/</loc><lastmod>2020-07-26T23:21:48+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2010-08-21T22:56:26+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/publication/10-stairs/</loc><lastmod>2010-08-21T22:56:26+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2010-08-21T22:56:26+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/10-foveoos/</loc><lastmod>2010-07-21T22:59:07+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -716,23 +494,13 @@
   <url>
     <loc>https://ebjohnsen.org/publication/09-fm/</loc><lastmod>2009-11-21T22:55:49+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2009-11-21T22:55:49+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/talk/facs-2009/</loc><lastmod>2020-07-26T23:23:14+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/talk/nwpt-2009/</loc><lastmod>2020-07-26T23:23:08+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2009-08-21T22:55:39+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/publication/09-jlap/</loc><lastmod>2009-08-21T22:55:39+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2009-07-21T22:55:26+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2009-07-21T22:55:26+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/publication/09-tap/</loc><lastmod>2009-07-21T22:55:26+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2009-06-21T22:54:43+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/08-wrla/</loc><lastmod>2009-06-21T22:54:43+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -742,17 +510,11 @@
   <url>
     <loc>https://ebjohnsen.org/publication/09-ifm/</loc><lastmod>2009-02-21T22:55:15+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2009-02-21T22:55:06+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/publication/09-tcs/</loc><lastmod>2009-02-21T22:55:06+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2009-02-21T22:55:06+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/talk/ifm-2009/</loc><lastmod>2020-07-26T23:23:39+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/talk/cost-ic0701-winter-school/</loc><lastmod>2020-07-26T23:23:53+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2008-12-21T22:54:17+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/08-aplas/</loc><lastmod>2008-12-21T22:54:17+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -760,19 +522,13 @@
   <url>
     <loc>https://ebjohnsen.org/publication/08-jlap/</loc><lastmod>2008-09-21T22:53:29+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2008-08-21T22:53:49+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/publication/08-ictac/</loc><lastmod>2008-08-21T22:53:49+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/talk/discotec-2008/</loc><lastmod>2020-07-26T23:24:08+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/08-ttss/</loc><lastmod>2008-07-21T22:54:34+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2008-07-21T22:54:34+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/publication/07-fmco/</loc><lastmod>2008-07-21T22:54:06+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2008-07-21T22:53:18+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/08-funda/</loc><lastmod>2008-07-21T22:53:18+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -786,15 +542,9 @@
   <url>
     <loc>https://ebjohnsen.org/publication/07-fmoods/</loc><lastmod>2007-06-21T22:53:03+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2006-11-21T22:51:45+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2006-11-21T22:51:45+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/publication/06-njc/</loc><lastmod>2006-11-21T22:51:45+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/06-tcs/</loc><lastmod>2006-10-21T22:52:18+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2006-09-21T22:52:03+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/06-iccp-srv/</loc><lastmod>2006-09-21T22:52:03+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -808,13 +558,9 @@
   <url>
     <loc>https://ebjohnsen.org/publication/05-fmoods/</loc><lastmod>2005-07-21T22:50:45+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2005-07-21T22:50:45+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/publication/05-swste/</loc><lastmod>2005-07-21T22:50:29+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/04-nik2/</loc><lastmod>2004-11-21T22:49:36+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2004-11-21T22:49:32+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/04-nik1/</loc><lastmod>2004-11-21T22:49:32+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -830,24 +576,16 @@
   <url>
     <loc>https://ebjohnsen.org/publication/03-nik/</loc><lastmod>2003-11-21T22:47:45+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2003-11-21T22:47:45+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/publication/03-njc/</loc><lastmod>2003-07-21T22:47:55+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/02-ifm/</loc><lastmod>2002-05-21T22:47:32+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2002-05-21T22:47:32+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2002-05-21T22:47:32+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/02-fmppta/</loc><lastmod>2002-04-21T22:46:45+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/02-fmoods/</loc><lastmod>2002-03-21T22:46:45+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2001-12-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ebjohnsen.org/publication/01-apaqs/</loc><lastmod>2001-12-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2001-12-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ebjohnsen.org/publication/01-apsec/</loc><lastmod>2001-12-15T22:46:33+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ebjohnsen.org/publication/01-apsec/</loc><lastmod>2001-12-15T22:46:33+02:00</lastmod><changefreq>weekly</changefreq></url></urlset>
+    <loc>https://ebjohnsen.org/div/</loc><changefreq>weekly</changefreq></url></urlset>

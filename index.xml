@@ -5,12 +5,101 @@
     <link>https://ebjohnsen.org/</link>
       <atom:link href="https://ebjohnsen.org/index.xml" rel="self" type="application/rss+xml" />
     <description>Einar Broch Johnsen</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 16 Apr 2023 12:09:51 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
       <title>Einar Broch Johnsen</title>
       <link>https://ebjohnsen.org/</link>
     </image>
+    
+    <item>
+      <title>Academic Template</title>
+      <link>https://ebjohnsen.org/div/demo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/div/demo/</guid>
+      <description>&lt;h2 id=&#34;-welcome-to-the-academic-template&#34;&gt;👋 Welcome to the Academic Template&lt;/h2&gt;
+&lt;p&gt;The Wowchemy &lt;strong&gt;Academic Resumé Template&lt;/strong&gt; for Hugo empowers you to create your job-winning online resumé and showcase your academic publications.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.app&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the showcase&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Wowchemy&lt;/strong&gt;&lt;/a&gt; makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/docs/install/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Get Started&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View the &lt;strong&gt;documentation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-unlock-rewards-with-sponsorshiphttpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to unlock rewards with sponsorship&lt;/a&gt;&lt;/h3&gt;
+&lt;h2 id=&#34;youre-looking-at-a-wowchemy-_widget_&#34;&gt;You&amp;rsquo;re looking at a Wowchemy &lt;em&gt;widget&lt;/em&gt;&lt;/h2&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;This homepage section is an example of adding &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;elements&lt;/a&gt; to the &lt;a href=&#34;https://wowchemy.com/docs/widget/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Blank&lt;/em&gt; widget&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Backgrounds can be applied to any section. Here, the &lt;em&gt;background&lt;/em&gt; option is set give a &lt;em&gt;color gradient&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;To remove this section, delete &lt;code&gt;content/home/demo.md&lt;/code&gt;.&lt;/strong&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;get-inspired&#34;&gt;Get inspired&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/starter-academic/tree/master/exampleSite&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the Markdown files&lt;/a&gt; which power the &lt;a href=&#34;https://academic-demo.netlify.app&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic Demo&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the showcase&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://ebjohnsen.org/div/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/div/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://ebjohnsen.org/div/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/div/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accomplish&amp;shy;ments</title>
+      <link>https://ebjohnsen.org/div/accomplishments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/div/accomplishments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://ebjohnsen.org/div/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/div/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Featured Publications</title>
+      <link>https://ebjohnsen.org/div/featured/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/div/featured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Popular Topics</title>
+      <link>https://ebjohnsen.org/div/tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/div/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FSEN 2023</title>
+      <link>https://ebjohnsen.org/talk/fsen-2023/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/fsen-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>FASE 2023</title>
@@ -25,6 +114,14 @@
       <link>https://ebjohnsen.org/talk/fm-2023/</link>
       <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://ebjohnsen.org/talk/fm-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASE-NIER 2022</title>
+      <link>https://ebjohnsen.org/talk/ase-nier-2022/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/ase-nier-2022/</guid>
       <description></description>
     </item>
     
@@ -158,29 +255,11 @@ v. Conducting and monitoring smart contracts-based service level agreements.&lt;
     </item>
     
     <item>
-      <title>FSEN 2023</title>
-      <link>https://ebjohnsen.org/talk/fsen-2023/</link>
-      <pubDate>Sun, 10 Apr 2022 23:10:27 +0200</pubDate>
-      <guid>https://ebjohnsen.org/talk/fsen-2023/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://fsen.ir/2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FSEN 2023&lt;/a&gt;, Tehran, Iran, 26-28 April 2023&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Proc. 25th Intl. Conf. on Fundamental Approaches to Software Engineering (FASE 2022)</title>
       <link>https://ebjohnsen.org/publication/22-fase/</link>
       <pubDate>Mon, 04 Apr 2022 13:51:24 +0200</pubDate>
       <guid>https://ebjohnsen.org/publication/22-fase/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>ASE-NIER 2022</title>
-      <link>https://ebjohnsen.org/talk/ase-nier-2022/</link>
-      <pubDate>Thu, 10 Mar 2022 23:10:27 +0200</pubDate>
-      <guid>https://ebjohnsen.org/talk/ase-nier-2022/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://conf.researchr.org/track/ase-2022/ase-2022-nier-track&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ASE-NIER 2022&lt;/a&gt;, Ann Arbor, USA, 10-14 Oct 2022&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -205,11 +284,67 @@ discuss scientific challenges related to digital twins.&lt;/p&gt;
     </item>
     
     <item>
+      <title>IN2080: Computability and Complexity</title>
+      <link>https://ebjohnsen.org/course/in2080/</link>
+      <pubDate>Tue, 01 Feb 2022 10:33:05 +0200</pubDate>
+      <guid>https://ebjohnsen.org/course/in2080/</guid>
+      <description>&lt;p&gt;NebulOus is a Horizon Europe project,
+funded by the European Commission 2022-2025 (project no 101070516).&lt;/p&gt;
+&lt;p&gt;NebulOus will accomplish substantial research contributions in the
+realms of cloud and fog computing brokerage by introducing advanced
+methods and tools for enabling secure and optimal application
+provisioning and reconfiguration over the cloud computing
+continuum. NebulOus will develop a novel Meta Operating System and
+platform for enabling transient fog brokerage ecosystems that
+seamlessly exploit edge and fog nodes, in conjunction with multi-cloud
+resources, to cope with the requirements posed by low latency
+applications. The envisaged  solution includes the following main
+directions of work:&lt;br&gt;
+i. Development of appropriate modelling methods and tools for
+describing the cloud computing continuum, application requirements,
+and data streams; these methods and tools will be used for assuring
+the QoS of the provisioned brokered services. &lt;br&gt;
+ii. Efficient comparison of available offerings, using appropriate multi-criteria decision-making methods that are able to consider all dimensions of consumer requirements. &lt;br&gt;
+iii. Intelligent applications, workflows and data streams management in the cloud computing continuum. &lt;br&gt;
+iv. Addressing in a unified manner the security aspects emerging in of transient cloud computing continuums (e.g., access control, secure network overlay etc.). &lt;br&gt;
+v. Conducting and monitoring smart contracts-based service level agreements.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>TAP 2022</title>
       <link>https://ebjohnsen.org/talk/tap-2022/</link>
       <pubDate>Wed, 26 Jan 2022 23:09:15 +0200</pubDate>
       <guid>https://ebjohnsen.org/talk/tap-2022/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://easychair.org/smart-program/TAP22/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TAP 2022&lt;/a&gt;, Nantes, France, 5-6 July 2022&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IN5170: Models of Concurrency</title>
+      <link>https://ebjohnsen.org/course/in5170/</link>
+      <pubDate>Sun, 01 Aug 2021 10:33:05 +0200</pubDate>
+      <guid>https://ebjohnsen.org/course/in5170/</guid>
+      <description>&lt;p&gt;NebulOus is a Horizon Europe project,
+funded by the European Commission 2022-2025 (project no 101070516).&lt;/p&gt;
+&lt;p&gt;NebulOus will accomplish substantial research contributions in the
+realms of cloud and fog computing brokerage by introducing advanced
+methods and tools for enabling secure and optimal application
+provisioning and reconfiguration over the cloud computing
+continuum. NebulOus will develop a novel Meta Operating System and
+platform for enabling transient fog brokerage ecosystems that
+seamlessly exploit edge and fog nodes, in conjunction with multi-cloud
+resources, to cope with the requirements posed by low latency
+applications. The envisaged  solution includes the following main
+directions of work:&lt;br&gt;
+i. Development of appropriate modelling methods and tools for
+describing the cloud computing continuum, application requirements,
+and data streams; these methods and tools will be used for assuring
+the QoS of the provisioned brokered services. &lt;br&gt;
+ii. Efficient comparison of available offerings, using appropriate multi-criteria decision-making methods that are able to consider all dimensions of consumer requirements. &lt;br&gt;
+iii. Intelligent applications, workflows and data streams management in the cloud computing continuum. &lt;br&gt;
+iv. Addressing in a unified manner the security aspects emerging in of transient cloud computing continuums (e.g., access control, secure network overlay etc.). &lt;br&gt;
+v. Conducting and monitoring smart contracts-based service level agreements.&lt;/p&gt;
 </description>
     </item>
     
@@ -1285,19 +1420,6 @@ with rigorous analyses based on formal semantics.&lt;/p&gt;
       <pubDate>Sat, 07 May 2016 13:49:46 +0200</pubDate>
       <guid>https://ebjohnsen.org/publication/16-kaisa/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Example Project</title>
-      <link>https://ebjohnsen.org/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://ebjohnsen.org/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
     </item>
     
     <item>

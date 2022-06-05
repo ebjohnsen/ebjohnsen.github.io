@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/tag/service/</link>
       <atom:link href="https://ebjohnsen.org/tag/service/index.xml" rel="self" type="application/rss+xml" />
     <description>Service</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 16 Apr 2023 12:09:51 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
       <title>Service</title>
       <link>https://ebjohnsen.org/tag/service/</link>
     </image>
+    
+    <item>
+      <title>FSEN 2023</title>
+      <link>https://ebjohnsen.org/talk/fsen-2023/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/fsen-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>FASE 2023</title>
@@ -29,29 +37,19 @@
     </item>
     
     <item>
+      <title>ASE-NIER 2022</title>
+      <link>https://ebjohnsen.org/talk/ase-nier-2022/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/ase-nier-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>FAACS 2022</title>
       <link>https://ebjohnsen.org/talk/faacs-2022/</link>
       <pubDate>Mon, 19 Sep 2022 11:54:09 +0200</pubDate>
       <guid>https://ebjohnsen.org/talk/faacs-2022/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>FSEN 2023</title>
-      <link>https://ebjohnsen.org/talk/fsen-2023/</link>
-      <pubDate>Sun, 10 Apr 2022 23:10:27 +0200</pubDate>
-      <guid>https://ebjohnsen.org/talk/fsen-2023/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://fsen.ir/2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FSEN 2023&lt;/a&gt;, Tehran, Iran, 26-28 April 2023&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ASE-NIER 2022</title>
-      <link>https://ebjohnsen.org/talk/ase-nier-2022/</link>
-      <pubDate>Thu, 10 Mar 2022 23:10:27 +0200</pubDate>
-      <guid>https://ebjohnsen.org/talk/ase-nier-2022/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://conf.researchr.org/track/ase-2022/ase-2022-nier-track&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ASE-NIER 2022&lt;/a&gt;, Ann Arbor, USA, 10-14 Oct 2022&lt;/p&gt;
-</description>
     </item>
     
     <item>
