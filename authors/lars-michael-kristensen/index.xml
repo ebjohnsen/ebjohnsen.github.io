@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lars Michael Kristensen | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/authors/lars-michael-kristensen/</link>
+      <atom:link href="https://ebjohnsen.org/authors/lars-michael-kristensen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lars Michael Kristensen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Jun 2020 00:01:48 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
+      <title>Lars Michael Kristensen</title>
+      <link>https://ebjohnsen.org/authors/lars-michael-kristensen/</link>
+    </image>
+    
+    <item>
+      <title>Model Checking Starvation for Resource-aware Active Objects with Coloured Petri Nets</title>
+      <link>https://ebjohnsen.org/publication/20-pnse/</link>
+      <pubDate>Sat, 20 Jun 2020 00:01:48 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/20-pnse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Translating active objects into colored Petri nets for communication analysis</title>
+      <link>https://ebjohnsen.org/publication/19-scp2/</link>
+      <pubDate>Tue, 09 Jul 2019 00:23:39 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/19-scp2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Coloured Petri Nets for Resource Analysis of Active Objects</title>
+      <link>https://ebjohnsen.org/publication/18-facs/</link>
+      <pubDate>Tue, 09 Oct 2018 21:00:12 +0100</pubDate>
+      <guid>https://ebjohnsen.org/publication/18-facs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luigia Petre | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/authors/luigia-petre/</link>
+      <atom:link href="https://ebjohnsen.org/authors/luigia-petre/index.xml" rel="self" type="application/rss+xml" />
+    <description>Luigia Petre</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Jun 2013 13:51:24 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
+      <title>Luigia Petre</title>
+      <link>https://ebjohnsen.org/authors/luigia-petre/</link>
+    </image>
+    
+    <item>
+      <title>Proc. 10th International Conference on Integrated Formal Methods (IFM 2013)</title>
+      <link>https://ebjohnsen.org/publication/13-ifm/</link>
+      <pubDate>Fri, 07 Jun 2013 13:51:24 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/13-ifm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

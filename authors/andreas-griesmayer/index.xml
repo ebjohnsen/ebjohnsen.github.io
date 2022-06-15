@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andreas Griesmayer | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/authors/andreas-griesmayer/</link>
+      <atom:link href="https://ebjohnsen.org/authors/andreas-griesmayer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andreas Griesmayer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jul 2009 22:55:26 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
+      <title>Andreas Griesmayer</title>
+      <link>https://ebjohnsen.org/authors/andreas-griesmayer/</link>
+    </image>
+    
+    <item>
+      <title>Dynamic Symbolic Execution for Testing Distributed Objects</title>
+      <link>https://ebjohnsen.org/publication/09-tap/</link>
+      <pubDate>Tue, 21 Jul 2009 22:55:26 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/09-tap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing Concurrent Objects with Application-Specific Schedulers</title>
+      <link>https://ebjohnsen.org/publication/08-ictac/</link>
+      <pubDate>Thu, 21 Aug 2008 22:53:49 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/08-ictac/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

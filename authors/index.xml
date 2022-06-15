@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Einar Broch Johnsen</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
-    <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Einar Broch Johnsen</copyright><lastBuildDate>Sun, 07 Aug 2022 21:07:45 +0200</lastBuildDate>
+    <title>Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/authors/</link>
+      <atom:link href="https://ebjohnsen.org/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Einar Broch Johnsen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Aug 2022 21:07:45 +0200</lastBuildDate>
     <image>
-      <url>/images/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
-      <title>Authors</title>
-      <link>/authors/</link>
+      <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
+      <title>Einar Broch Johnsen</title>
+      <link>https://ebjohnsen.org/authors/</link>
     </image>
     
   </channel>

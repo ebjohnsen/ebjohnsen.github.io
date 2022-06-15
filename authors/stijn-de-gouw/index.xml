@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stijn de Gouw | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/authors/stijn-de-gouw/</link>
+      <atom:link href="https://ebjohnsen.org/authors/stijn-de-gouw/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stijn de Gouw</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jan 2014 23:06:06 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
+      <title>Stijn de Gouw</title>
+      <link>https://ebjohnsen.org/authors/stijn-de-gouw/</link>
+    </image>
+    
+    <item>
+      <title>Run-Time Assertion Checking of Data- and Protocol-Oriented Properties of Java Programs: An Industrial Case Study</title>
+      <link>https://ebjohnsen.org/publication/14-taosd/</link>
+      <pubDate>Tue, 21 Jan 2014 23:06:06 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/14-taosd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Run-time checking of data- and protocol-oriented properties of Java programs: an industrial case study</title>
+      <link>https://ebjohnsen.org/publication/13-sac/</link>
+      <pubDate>Thu, 21 Mar 2013 23:05:11 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/13-sac/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
