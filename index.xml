@@ -61,6 +61,14 @@
     </item>
     
     <item>
+      <title>The Logic of Software. A Tasting Menu of Formal Methods</title>
+      <link>https://ebjohnsen.org/publication/22-srh/</link>
+      <pubDate>Mon, 04 Jul 2022 13:51:24 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/22-srh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Digital Twins: An Emerging Paradigm for Model-Centric Engineering</title>
       <link>https://ebjohnsen.org/talk/digital-twins-an-emerging-paradigm-for-model-centric-engineering/</link>
       <pubDate>Mon, 20 Jun 2022 09:00:00 +0000</pubDate>
@@ -908,7 +916,7 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>A Formal Model of Parallel Execution on Multicore Architectures with Multilevel Caches&#34;</title>
+      <title>A Formal Model of Parallel Execution on Multicore Architectures with Multilevel Caches</title>
       <link>https://ebjohnsen.org/publication/17-facs/</link>
       <pubDate>Sun, 22 Oct 2017 00:23:39 +0200</pubDate>
       <guid>https://ebjohnsen.org/publication/17-facs/</guid>
@@ -1074,7 +1082,7 @@ Norway 2015-2019. I was the project leader of CUMULUS.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Modeling Deployment Decisions for Elastic Services with ABS&#34;</title>
+      <title>Modeling Deployment Decisions for Elastic Services with ABS</title>
       <link>https://ebjohnsen.org/publication/16-ifmcloud/</link>
       <pubDate>Wed, 26 Oct 2016 23:24:21 +0200</pubDate>
       <guid>https://ebjohnsen.org/publication/16-ifmcloud/</guid>

@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>The Logic of Software. A Tasting Menu of Formal Methods</title>
+      <link>https://ebjohnsen.org/publication/22-srh/</link>
+      <pubDate>Mon, 04 Jul 2022 13:51:24 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/22-srh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Knowledge Structures over Simulation Units</title>
       <link>https://ebjohnsen.org/publication/22-annsim/</link>
       <pubDate>Wed, 01 Jun 2022 21:28:46 +0200</pubDate>
@@ -285,7 +293,7 @@
     </item>
     
     <item>
-      <title>A Formal Model of Parallel Execution on Multicore Architectures with Multilevel Caches&#34;</title>
+      <title>A Formal Model of Parallel Execution on Multicore Architectures with Multilevel Caches</title>
       <link>https://ebjohnsen.org/publication/17-facs/</link>
       <pubDate>Sun, 22 Oct 2017 00:23:39 +0200</pubDate>
       <guid>https://ebjohnsen.org/publication/17-facs/</guid>
@@ -357,7 +365,7 @@
     </item>
     
     <item>
-      <title>Modeling Deployment Decisions for Elastic Services with ABS&#34;</title>
+      <title>Modeling Deployment Decisions for Elastic Services with ABS</title>
       <link>https://ebjohnsen.org/publication/16-ifmcloud/</link>
       <pubDate>Wed, 26 Oct 2016 23:24:21 +0200</pubDate>
       <guid>https://ebjohnsen.org/publication/16-ifmcloud/</guid>

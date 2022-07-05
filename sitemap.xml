@@ -42,6 +42,18 @@
   <url>
     <loc>https://ebjohnsen.org/publication/</loc><lastmod>2022-08-07T21:07:45+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://ebjohnsen.org/authors/eds/</loc><lastmod>2022-07-04T13:51:24+02:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ebjohnsen.org/publication-type/7/</loc><lastmod>2022-07-04T13:51:24+02:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ebjohnsen.org/authors/bernhard-beckert/</loc><lastmod>2022-07-04T13:51:24+02:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ebjohnsen.org/authors/richard-bubel/</loc><lastmod>2022-07-04T13:51:24+02:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ebjohnsen.org/publication/22-srh/</loc><lastmod>2022-07-04T13:51:24+02:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ebjohnsen.org/authors/wolfgang-ahrendt/</loc><lastmod>2022-07-04T13:51:24+02:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://ebjohnsen.org/talk/digital-twins-an-emerging-paradigm-for-model-centric-engineering/</loc><lastmod>2022-06-20T09:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/category/invited-talks/</loc><lastmod>2022-06-20T09:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -77,10 +89,6 @@
     <loc>https://ebjohnsen.org/authors/geir-horn/</loc><lastmod>2022-04-13T21:07:45+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/authors/rudolf-schlatte/</loc><lastmod>2022-04-13T21:07:45+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ebjohnsen.org/authors/eds/</loc><lastmod>2022-04-04T13:51:24+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ebjohnsen.org/publication-type/7/</loc><lastmod>2022-04-04T13:51:24+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/authors/manuel-wimmer/</loc><lastmod>2022-04-04T13:51:24+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -141,6 +149,8 @@
     <loc>https://ebjohnsen.org/authors/thorsten-berger/</loc><lastmod>2020-11-13T09:07:44+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/20-isola2/</loc><lastmod>2020-10-29T09:07:54+02:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ebjohnsen.org/tag/abs/</loc><lastmod>2020-10-29T09:07:54+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/authors/andrea-borgarelli/</loc><lastmod>2020-10-29T09:07:54+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -218,6 +228,8 @@
   <url>
     <loc>https://ebjohnsen.org/authors/dave-clarke/</loc><lastmod>2019-07-10T23:08:36+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://ebjohnsen.org/tag/deductive-verification/</loc><lastmod>2019-07-10T23:08:36+02:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://ebjohnsen.org/publication/19-ecoop/</loc><lastmod>2019-07-10T23:08:36+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/authors/kiko-fernandez-reyes/</loc><lastmod>2019-07-10T23:08:36+02:00</lastmod><changefreq>weekly</changefreq></url>
@@ -232,7 +244,13 @@
   <url>
     <loc>https://ebjohnsen.org/authors/ka-i-pun/</loc><lastmod>2019-05-13T00:23:39+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://ebjohnsen.org/tag/maude/</loc><lastmod>2019-05-13T00:23:39+02:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ebjohnsen.org/tag/multicore/</loc><lastmod>2019-05-13T00:23:39+02:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://ebjohnsen.org/authors/shiji-bijo/</loc><lastmod>2019-05-13T00:23:39+02:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ebjohnsen.org/tag/sos/</loc><lastmod>2019-05-13T00:23:39+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/talk/sac-ngps-2019/</loc><lastmod>2020-07-26T23:12:03+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -328,6 +346,8 @@
   <url>
     <loc>https://ebjohnsen.org/category/general-chair/</loc><lastmod>2020-07-26T23:14:31+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://ebjohnsen.org/tag/lagc/</loc><lastmod>2017-09-22T00:23:39+02:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://ebjohnsen.org/publication/17-tableaux/</loc><lastmod>2017-09-22T00:23:39+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/17-softcom/</loc><lastmod>2017-09-21T22:04:12+01:00</lastmod><changefreq>weekly</changefreq></url>
@@ -379,8 +399,6 @@
     <loc>https://ebjohnsen.org/publication/16-isola/</loc><lastmod>2016-10-06T21:04:13+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/publication/16-fomac/</loc><lastmod>2016-10-05T22:23:11+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ebjohnsen.org/authors/richard-bubel/</loc><lastmod>2016-10-05T22:23:11+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ebjohnsen.org/authors/ilche-georgievski/</loc><lastmod>2016-09-07T13:51:24+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
