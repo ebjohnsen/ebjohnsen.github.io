@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Olaf Owe | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/authors/olaf/</link>
+      <atom:link href="https://ebjohnsen.org/authors/olaf/index.xml" rel="self" type="application/rss+xml" />
+    <description>Olaf Owe</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Oct 2016 22:23:11 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/authors/olaf/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Olaf Owe</title>
+      <link>https://ebjohnsen.org/authors/olaf/</link>
+    </image>
+    
+    <item>
+      <title>Proof Repositories for Compositional Verification of Evolving Software Systems - Managing Change When Proving Software Correct</title>
+      <link>https://ebjohnsen.org/publication/16-fomac/</link>
+      <pubDate>Wed, 05 Oct 2016 22:23:11 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/16-fomac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A proof system for adaptable class hierarchies</title>
+      <link>https://ebjohnsen.org/publication/15-jlamp2/</link>
+      <pubDate>Wed, 21 Jan 2015 23:06:40 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/15-jlamp2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Resource Reallocation Between Deployment Components</title>
+      <link>https://ebjohnsen.org/publication/10-icfem/</link>
+      <pubDate>Thu, 21 Oct 2010 22:58:55 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/10-icfem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validating Timed Models of Deployment Components with Parametric Concurrency</title>
+      <link>https://ebjohnsen.org/publication/10-foveoos/</link>
+      <pubDate>Wed, 21 Jul 2010 22:59:07 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/10-foveoos/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/publication/</link>
       <atom:link href="https://ebjohnsen.org/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Aug 2022 21:07:45 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 Aug 2022 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://ebjohnsen.org/publication/</link>
     </image>
+    
+    <item>
+      <title>Weighted Games for User Journeys</title>
+      <link>https://ebjohnsen.org/publication/22-sefm/</link>
+      <pubDate>Mon, 08 Aug 2022 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/22-sefm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DPL: A Language for GDPR Enforcement</title>
@@ -197,7 +205,7 @@
     </item>
     
     <item>
-      <title>Parallel Cost Analysis.</title>
+      <title>Parallel Cost Analysis</title>
       <link>https://ebjohnsen.org/publication/18-tocl/</link>
       <pubDate>Tue, 20 Nov 2018 00:23:39 +0200</pubDate>
       <guid>https://ebjohnsen.org/publication/18-tocl/</guid>

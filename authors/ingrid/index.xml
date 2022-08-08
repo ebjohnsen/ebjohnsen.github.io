@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ingrid Chieh Yu | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/authors/ingrid/</link>
+      <atom:link href="https://ebjohnsen.org/authors/ingrid/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ingrid Chieh Yu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 May 2018 22:04:12 +0100</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/authors/ingrid/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Ingrid Chieh Yu</title>
+      <link>https://ebjohnsen.org/authors/ingrid/</link>
+    </image>
+    
+    <item>
+      <title>Release the Beasts: When Formal Methods Meet Real World Data</title>
+      <link>https://ebjohnsen.org/publication/18-farhad/</link>
+      <pubDate>Fri, 25 May 2018 22:04:12 +0100</pubDate>
+      <guid>https://ebjohnsen.org/publication/18-farhad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meeting Deadlines, Elastically. </title>
+      <link>https://ebjohnsen.org/publication/16-kaisa/</link>
+      <pubDate>Sat, 07 May 2016 13:49:46 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/16-kaisa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A proof system for adaptable class hierarchies</title>
+      <link>https://ebjohnsen.org/publication/15-jlamp2/</link>
+      <pubDate>Wed, 21 Jan 2015 23:06:40 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/15-jlamp2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paul Kobialka | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/authors/paul-kobialka/</link>
+      <atom:link href="https://ebjohnsen.org/authors/paul-kobialka/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paul Kobialka</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 Aug 2022 09:07:44 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
+      <title>Paul Kobialka</title>
+      <link>https://ebjohnsen.org/authors/paul-kobialka/</link>
+    </image>
+    
+    <item>
+      <title>Weighted Games for User Journeys</title>
+      <link>https://ebjohnsen.org/publication/22-sefm/</link>
+      <pubDate>Mon, 08 Aug 2022 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/22-sefm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

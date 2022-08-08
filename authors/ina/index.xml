@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ina Schaefer | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/authors/ina/</link>
+      <atom:link href="https://ebjohnsen.org/authors/ina/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ina Schaefer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Jun 2014 13:51:24 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/authors/ina/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Ina Schaefer</title>
+      <link>https://ebjohnsen.org/authors/ina/</link>
+    </image>
+    
+    <item>
+      <title>Advanced Lectures on Formal Methods for Executable Software Models</title>
+      <link>https://ebjohnsen.org/publication/14-sfm/</link>
+      <pubDate>Sat, 07 Jun 2014 13:51:24 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/14-sfm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Spatial and Temporal Variability with the HATS Abstract Behavioral Modeling Language</title>
+      <link>https://ebjohnsen.org/publication/11-sfm/</link>
+      <pubDate>Mon, 13 Jun 2011 23:00:04 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/11-sfm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
