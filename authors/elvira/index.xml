@@ -7,7 +7,7 @@
     <description>Elvira Albert</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Nov 2018 00:23:39 +0200</lastBuildDate>
     <image>
-      <url>https://ebjohnsen.org/authors/elvira/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://ebjohnsen.org/authors/elvira/avatar_hue95e167f63ad8f5eba96fb05f5fff99a_936581_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Elvira Albert</title>
       <link>https://ebjohnsen.org/authors/elvira/</link>
     </image>
@@ -41,6 +41,14 @@
       <link>https://ebjohnsen.org/publication/13-nordicloud/</link>
       <pubDate>Sat, 21 Sep 2013 23:05:24 +0200</pubDate>
       <guid>https://ebjohnsen.org/publication/13-nordicloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulating Concurrent Behaviors with Worst-Case Cost Bounds</title>
+      <link>https://ebjohnsen.org/publication/11-fm/</link>
+      <pubDate>Sat, 21 May 2011 23:02:30 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/11-fm/</guid>
       <description></description>
     </item>
     

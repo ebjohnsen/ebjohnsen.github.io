@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miguel Gömez-Zamalloa | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/authors/miguel-gomez-zamalloa/</link>
+      <atom:link href="https://ebjohnsen.org/authors/miguel-gomez-zamalloa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Miguel Gömez-Zamalloa</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 May 2011 23:02:30 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
+      <title>Miguel Gömez-Zamalloa</title>
+      <link>https://ebjohnsen.org/authors/miguel-gomez-zamalloa/</link>
+    </image>
+    
+    <item>
+      <title>Simulating Concurrent Behaviors with Worst-Case Cost Bounds</title>
+      <link>https://ebjohnsen.org/publication/11-fm/</link>
+      <pubDate>Sat, 21 May 2011 23:02:30 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/11-fm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
