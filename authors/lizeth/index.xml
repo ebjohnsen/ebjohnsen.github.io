@@ -7,7 +7,7 @@
     <description>Silvia Lizeth Tapia Tarifa</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 Aug 2022 09:07:44 +0200</lastBuildDate>
     <image>
-      <url>https://ebjohnsen.org/authors/lizeth/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://ebjohnsen.org/authors/lizeth/avatar_hu78439dd2ecbedbd7c851f79ec2e2160e_79321_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Silvia Lizeth Tapia Tarifa</title>
       <link>https://ebjohnsen.org/authors/lizeth/</link>
     </image>
@@ -42,6 +42,44 @@
       <pubDate>Thu, 29 Oct 2020 09:07:54 +0200</pubDate>
       <guid>https://ebjohnsen.org/publication/20-isola2/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Remaro: Reliable AI for Marine Robotics</title>
+      <link>https://ebjohnsen.org/project/remaro/</link>
+      <pubDate>Sat, 03 Oct 2020 10:33:05 +0200</pubDate>
+      <guid>https://ebjohnsen.org/project/remaro/</guid>
+      <description>&lt;p&gt;Remaro is a Marie Skłodowska-Curie (MSCA) European Training Network
+funded by the European Commission 2020-2024 (project no 956200). CORDIS website &lt;a href=&#34;https://cordis.europa.eu/project/id/956200&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The network will educate 15 PhD research fellows on complimentary
+aspects of reliable autonomy for underwater robotic applications. The
+REMARO research fellows will develop the first ever submarine robotics
+AI methods with quantified reliability, correctness specifications,
+models, tests, and analysis &amp;amp; verification methods.&lt;/p&gt;
+&lt;p&gt;Project website &lt;a href=&#34;http://www.remaro.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Smart Journey Mining: Towards Successful Digitalisation of Services</title>
+      <link>https://ebjohnsen.org/project/sjm/</link>
+      <pubDate>Fri, 02 Oct 2020 10:32:56 +0200</pubDate>
+      <guid>https://ebjohnsen.org/project/sjm/</guid>
+      <description>&lt;p&gt;SJM is a project funded by the Research Council of Norway
+2021-2024. The partners are SINTEF Digital (coordinator), University
+of Oslo, and Eindhoven University of Technology.&lt;/p&gt;
+&lt;p&gt;The overall goal of SJM is to increase the quality of
+service and support the successful digitalisation of services by
+uniting research on process mining and customer journeys using new
+developments in logic-based analysis and artificial intelligence.&lt;/p&gt;
+&lt;p&gt;The digitalisation of our society&amp;rsquo;s service systems has fundamentally changed the way services are delivered to, and experienced by, humans. Although digital services are supposed to simplify our lives and increase our efficiency, they often frustrate and burden customers, users, and employees.&lt;/p&gt;
+&lt;p&gt;The overall goal is to increase the quality of services and support the successful digitalisation of services by uniting research on process mining and customer journeys using new developments in logic-based analysis and artificial intelligence.&lt;/p&gt;
+&lt;p&gt;Based on user journeys we will analyse, model, and observe how humans experience digital services, rather than taking the perspective of service providers and service systems.&lt;/p&gt;
+&lt;p&gt;The main source of data comes from two complementary service providers: GrepS, a start-up company offering software services for analysing programming skills, and Telenor, a telecom company offering a wide range of mobile-, broadband- and TV services in the Nordics and in Asia.&lt;/p&gt;
+&lt;p&gt;We will trace data left from users in various systems during repeated interactions with a service over time, on the level of individuals.
+In the first phase of the project, we will build tools for automated capture of repeated user interactions in digital channels. Based on the resulting database of user journeys and user models, we will use logic-based techniques and machine learning to expose deviations and predict possible behaviours. The accumulation of user journeys will also enable identification of patterns that optimize the user experience and service quality.&lt;/p&gt;
+&lt;p&gt;We will extend and use executable modelling languages and their associated analysis tools to describe, predict, and prescribe user journeys as concurrent processes. We will base these languages and analysis tools on formal methods and concurrency theory, which build on the foundation of theoretical computer science.&lt;/p&gt;
+</description>
     </item>
     
     <item>
