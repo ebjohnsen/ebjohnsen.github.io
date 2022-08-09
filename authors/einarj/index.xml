@@ -61,6 +61,14 @@
     </item>
     
     <item>
+      <title>Smart Journey Mining for Improved Service Quality</title>
+      <link>https://ebjohnsen.org/publication/21-scc/</link>
+      <pubDate>Sat, 07 Aug 2021 21:07:45 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/21-scc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Modeling and Analyzing Resource-Sensitive Actors: A Tutorial Introduction</title>
       <link>https://ebjohnsen.org/publication/21-coordination/</link>
       <pubDate>Tue, 15 Jun 2021 09:07:44 +0200</pubDate>
@@ -403,6 +411,14 @@ In the first phase of the project, we will build tools for automated capture of 
     </item>
     
     <item>
+      <title>Zephyrus2: On the Fly Deployment Optimization Using SMT and CP Technologies</title>
+      <link>https://ebjohnsen.org/publication/16-setta/</link>
+      <pubDate>Sat, 26 Nov 2016 00:23:39 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/16-setta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Modeling Deployment Decisions for Elastic Services with ABS</title>
       <link>https://ebjohnsen.org/publication/16-ifmcloud/</link>
       <pubDate>Wed, 26 Oct 2016 23:24:21 +0200</pubDate>
@@ -495,6 +511,14 @@ CORDIS website &lt;a href=&#34;https://cordis.europa.eu/project/id/644298&#34; t
     </item>
     
     <item>
+      <title>Time Complexity of Concurrent Programs - A Technique Based on Behavioural Types&#34;</title>
+      <link>https://ebjohnsen.org/publication/15-facs/</link>
+      <pubDate>Thu, 21 Jan 2016 23:07:58 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/15-facs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A formal model of service-oriented dynamic object groups</title>
       <link>https://ebjohnsen.org/publication/16-scp/</link>
       <pubDate>Thu, 21 Jan 2016 23:06:55 +0200</pubDate>
@@ -515,6 +539,14 @@ CORDIS website &lt;a href=&#34;https://cordis.europa.eu/project/id/644298&#34; t
       <link>https://ebjohnsen.org/publication/15-sas/</link>
       <pubDate>Mon, 21 Sep 2015 23:07:32 +0200</pubDate>
       <guid>https://ebjohnsen.org/publication/15-sas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preparing HPC Applications for Exascale: Challenges and Recommendations</title>
+      <link>https://ebjohnsen.org/publication/15-nbis/</link>
+      <pubDate>Mon, 21 Sep 2015 23:07:08 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/15-nbis/</guid>
       <description></description>
     </item>
     
@@ -575,6 +607,22 @@ CORDIS website &lt;a href=&#34;https://cordis.europa.eu/project/id/644298&#34; t
     </item>
     
     <item>
+      <title>Fault Model Design Space for Cooperative Concurrency</title>
+      <link>https://ebjohnsen.org/publication/14-isola2/</link>
+      <pubDate>Tue, 21 Oct 2014 20:17:14 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/14-isola2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erlang-Style Error Recovery for Concurrent Objects with Cooperative Scheduling</title>
+      <link>https://ebjohnsen.org/publication/14-isola3/</link>
+      <pubDate>Wed, 01 Oct 2014 20:21:47 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/14-isola3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Verifying traits: an incremental proof system for fine-grained reuse</title>
       <link>https://ebjohnsen.org/publication/14-faoc/</link>
       <pubDate>Mon, 21 Jul 2014 23:06:18 +0200</pubDate>
@@ -611,6 +659,14 @@ CORDIS website &lt;a href=&#34;https://cordis.europa.eu/project/id/644298&#34; t
       <link>https://ebjohnsen.org/publication/13-ifm/</link>
       <pubDate>Fri, 07 Jun 2013 13:51:24 +0200</pubDate>
       <guid>https://ebjohnsen.org/publication/13-ifm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Behavioural Design of Sensor Network Applications using Activity-Driven States</title>
+      <link>https://ebjohnsen.org/publication/13-sesena/</link>
+      <pubDate>Tue, 21 May 2013 23:05:03 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/13-sesena/</guid>
       <description></description>
     </item>
     
@@ -751,6 +807,14 @@ CORDIS website &lt;a href=&#34;https://cordis.europa.eu/project/id/644298&#34; t
     </item>
     
     <item>
+      <title>Fault in the Future</title>
+      <link>https://ebjohnsen.org/publication/11-coordination/</link>
+      <pubDate>Tue, 21 Jun 2011 23:00:15 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/11-coordination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Modeling Spatial and Temporal Variability with the HATS Abstract Behavioral Modeling Language</title>
       <link>https://ebjohnsen.org/publication/11-sfm/</link>
       <pubDate>Mon, 13 Jun 2011 23:00:04 +0200</pubDate>
@@ -823,6 +887,14 @@ CORDIS website &lt;a href=&#34;https://cordis.europa.eu/project/id/644298&#34; t
     </item>
     
     <item>
+      <title>Confluent Term Rewriting for Only-knowing Logics</title>
+      <link>https://ebjohnsen.org/publication/10-stairs/</link>
+      <pubDate>Sat, 21 Aug 2010 22:56:26 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/10-stairs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Validating Timed Models of Deployment Components with Parametric Concurrency</title>
       <link>https://ebjohnsen.org/publication/10-foveoos/</link>
       <pubDate>Wed, 21 Jul 2010 22:59:07 +0200</pubDate>
@@ -855,6 +927,22 @@ CORDIS website &lt;a href=&#34;https://cordis.europa.eu/project/id/644298&#34; t
     </item>
     
     <item>
+      <title>Dynamic Symbolic Execution for Testing Distributed Objects</title>
+      <link>https://ebjohnsen.org/publication/09-tap/</link>
+      <pubDate>Tue, 21 Jul 2009 22:55:26 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/09-tap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proof Search for the First-Order Connection Calculus in Maude</title>
+      <link>https://ebjohnsen.org/publication/08-wrla/</link>
+      <pubDate>Sun, 21 Jun 2009 22:54:43 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/08-wrla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Incremental Reasoning for Multiple Inheritance</title>
       <link>https://ebjohnsen.org/publication/09-ifm/</link>
       <pubDate>Sat, 21 Feb 2009 22:55:15 +0200</pubDate>
@@ -867,6 +955,14 @@ CORDIS website &lt;a href=&#34;https://cordis.europa.eu/project/id/644298&#34; t
       <link>https://ebjohnsen.org/publication/09-tcs/</link>
       <pubDate>Sat, 21 Feb 2009 22:55:06 +0200</pubDate>
       <guid>https://ebjohnsen.org/publication/09-tcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimal Ownership for Active Objects</title>
+      <link>https://ebjohnsen.org/publication/08-aplas/</link>
+      <pubDate>Sun, 21 Dec 2008 22:54:17 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/08-aplas/</guid>
       <description></description>
     </item>
     
@@ -951,10 +1047,26 @@ CORDIS website &lt;a href=&#34;https://cordis.europa.eu/project/id/644298&#34; t
     </item>
     
     <item>
+      <title>Structured Formal Development in Isabelle</title>
+      <link>https://ebjohnsen.org/publication/06-njc/</link>
+      <pubDate>Tue, 21 Nov 2006 22:51:45 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/06-njc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Creol: A type-safe object-oriented model for distributed concurrent systems</title>
       <link>https://ebjohnsen.org/publication/06-tcs/</link>
       <pubDate>Sat, 21 Oct 2006 22:52:18 +0200</pubDate>
       <guid>https://ebjohnsen.org/publication/06-tcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Runtime Validation of Communication Histories</title>
+      <link>https://ebjohnsen.org/publication/06-iccp-srv/</link>
+      <pubDate>Thu, 21 Sep 2006 22:52:03 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/06-iccp-srv/</guid>
       <description></description>
     </item>
     
@@ -979,6 +1091,14 @@ CORDIS website &lt;a href=&#34;https://cordis.europa.eu/project/id/644298&#34; t
       <link>https://ebjohnsen.org/publication/05-fsen/</link>
       <pubDate>Wed, 21 Sep 2005 22:51:21 +0200</pubDate>
       <guid>https://ebjohnsen.org/publication/05-fsen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representing Strategies for the Connection Calculus in Rewriting Logic</title>
+      <link>https://ebjohnsen.org/publication/05-ftp/</link>
+      <pubDate>Thu, 21 Jul 2005 22:51:12 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/05-ftp/</guid>
       <description></description>
     </item>
     
@@ -1023,6 +1143,14 @@ CORDIS website &lt;a href=&#34;https://cordis.europa.eu/project/id/644298&#34; t
     </item>
     
     <item>
+      <title>Theorem Reuse by Proof Term Transformation&#34;</title>
+      <link>https://ebjohnsen.org/publication/04-tphols/</link>
+      <pubDate>Sat, 21 Aug 2004 22:48:54 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/04-tphols/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Dynamic Binding Strategy for Multiple Inheritance and Asynchronously Communicating Objects&#34;</title>
       <link>https://ebjohnsen.org/publication/04-fmco/</link>
       <pubDate>Wed, 21 Jul 2004 22:51:00 +0200</pubDate>
@@ -1051,6 +1179,14 @@ CORDIS website &lt;a href=&#34;https://cordis.europa.eu/project/id/644298&#34; t
       <link>https://ebjohnsen.org/publication/03-nik/</link>
       <pubDate>Fri, 21 Nov 2003 22:47:45 +0200</pubDate>
       <guid>https://ebjohnsen.org/publication/03-nik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstracting Refinements for Transformation&#34;</title>
+      <link>https://ebjohnsen.org/publication/03-njc/</link>
+      <pubDate>Mon, 21 Jul 2003 22:47:55 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/03-njc/</guid>
       <description></description>
     </item>
     

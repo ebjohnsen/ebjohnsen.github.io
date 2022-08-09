@@ -7,7 +7,7 @@
     <description>Ina Schaefer</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Jun 2018 13:51:24 +0200</lastBuildDate>
     <image>
-      <url>https://ebjohnsen.org/authors/ina/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://ebjohnsen.org/authors/ina/avatar_hu536f55ee35ee642d24d5a5b692f8549a_55780_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Ina Schaefer</title>
       <link>https://ebjohnsen.org/authors/ina/</link>
     </image>
@@ -17,6 +17,14 @@
       <link>https://ebjohnsen.org/publication/18-sefm/</link>
       <pubDate>Mon, 18 Jun 2018 13:51:24 +0200</pubDate>
       <guid>https://ebjohnsen.org/publication/18-sefm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proof Repositories for Compositional Verification of Evolving Software Systems - Managing Change When Proving Software Correct</title>
+      <link>https://ebjohnsen.org/publication/16-fomac/</link>
+      <pubDate>Wed, 05 Oct 2016 22:23:11 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/16-fomac/</guid>
       <description></description>
     </item>
     
