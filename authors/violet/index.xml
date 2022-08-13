@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Violet Ka I Pun | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/authors/violet/</link>
+      <atom:link href="https://ebjohnsen.org/authors/violet/index.xml" rel="self" type="application/rss+xml" />
+    <description>Violet Ka I Pun</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 Nov 2020 09:21:51 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/authors/violet/avatar_hu98525853120a07c41ae6e733b994e410_126291_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Violet Ka I Pun</title>
+      <link>https://ebjohnsen.org/authors/violet/</link>
+    </image>
+    
+    <item>
+      <title>Active Objects with Deterministic Behavior</title>
+      <link>https://ebjohnsen.org/publication/20-ifm/</link>
+      <pubDate>Sat, 14 Nov 2020 09:21:51 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/20-ifm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SymPaths: Symbolic Execution Meets Partial Order Reduction</title>
+      <link>https://ebjohnsen.org/publication/20-key/</link>
+      <pubDate>Thu, 20 Aug 2020 00:17:05 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/20-key/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Formal Model of Parallel Execution on Multicore Architectures with Multilevel Caches</title>
+      <link>https://ebjohnsen.org/publication/19-scp1/</link>
+      <pubDate>Mon, 13 May 2019 00:23:39 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/19-scp1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementing SOS with Active Objects: A Case Study of a Multicore Memory System</title>
+      <link>https://ebjohnsen.org/publication/19-fase/</link>
+      <pubDate>Sat, 06 Apr 2019 23:08:36 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/19-fase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Cost Analysis</title>
+      <link>https://ebjohnsen.org/publication/18-tocl/</link>
+      <pubDate>Tue, 20 Nov 2018 00:23:39 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/18-tocl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deployment by Construction for Multicore Architectures</title>
+      <link>https://ebjohnsen.org/publication/18-isola/</link>
+      <pubDate>Mon, 05 Nov 2018 00:23:39 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/18-isola/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Formal Model of Parallel Execution on Multicore Architectures with Multilevel Caches</title>
+      <link>https://ebjohnsen.org/publication/17-facs/</link>
+      <pubDate>Sun, 22 Oct 2017 00:23:39 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/17-facs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Locally Abstract, Globally Concrete Semantics of Concurrent Programming Languages</title>
+      <link>https://ebjohnsen.org/publication/17-tableaux/</link>
+      <pubDate>Fri, 22 Sep 2017 00:23:39 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/17-tableaux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A formal model of cloud-deployed software and its application to workflow processing</title>
+      <link>https://ebjohnsen.org/publication/17-softcom/</link>
+      <pubDate>Thu, 21 Sep 2017 22:04:12 +0100</pubDate>
+      <guid>https://ebjohnsen.org/publication/17-softcom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Deployment Decisions for Elastic Services with ABS</title>
+      <link>https://ebjohnsen.org/publication/16-ifmcloud/</link>
+      <pubDate>Wed, 26 Oct 2016 23:24:21 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/16-ifmcloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meeting Deadlines, Elastically. </title>
+      <link>https://ebjohnsen.org/publication/16-kaisa/</link>
+      <pubDate>Sat, 07 May 2016 13:49:46 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/16-kaisa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Operational Semantics of Cache Coherent Multicore Architectures</title>
+      <link>https://ebjohnsen.org/publication/16-sac-musepat/</link>
+      <pubDate>Thu, 21 Apr 2016 23:08:22 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/16-sac-musepat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Maude Framework for Cache Coherent Multicore Architectures</title>
+      <link>https://ebjohnsen.org/publication/16-wrla/</link>
+      <pubDate>Mon, 07 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/publication/16-wrla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Complexity of Concurrent Programs - A Technique Based on Behavioural Types&#34;</title>
+      <link>https://ebjohnsen.org/publication/15-facs/</link>
+      <pubDate>Thu, 21 Jan 2016 23:07:58 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/15-facs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Objects for Multicores: A Glimpse at the Parallel Language Encore</title>
+      <link>https://ebjohnsen.org/publication/15-encore/</link>
+      <pubDate>Thu, 21 May 2015 23:07:40 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/15-encore/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
