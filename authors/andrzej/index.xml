@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrzej Wasowski | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/authors/andrzej/</link>
+      <atom:link href="https://ebjohnsen.org/authors/andrzej/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrzej Wasowski</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 Nov 2020 09:07:44 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/authors/andrzej/avatar_hu629ecc0e5c167c985d0631fcf704a11a_27964_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Andrzej Wasowski</title>
+      <link>https://ebjohnsen.org/authors/andrzej/</link>
+    </image>
+    
+    <item>
+      <title>Behavior Trees in Action: A Study of Robotics Applications</title>
+      <link>https://ebjohnsen.org/publication/20-sle/</link>
+      <pubDate>Fri, 13 Nov 2020 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/20-sle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remaro: Reliable AI for Marine Robotics</title>
+      <link>https://ebjohnsen.org/project/remaro/</link>
+      <pubDate>Sat, 03 Oct 2020 10:33:05 +0200</pubDate>
+      <guid>https://ebjohnsen.org/project/remaro/</guid>
+      <description>&lt;p&gt;Remaro is a Marie Skłodowska-Curie (MSCA) European Training Network
+funded by the European Commission 2020-2024 (project no 956200). CORDIS website &lt;a href=&#34;https://cordis.europa.eu/project/id/956200&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The network will educate 15 PhD research fellows on complimentary
+aspects of reliable autonomy for underwater robotic applications. The
+REMARO research fellows will develop the first ever submarine robotics
+AI methods with quantified reliability, correctness specifications,
+models, tests, and analysis &amp;amp; verification methods.&lt;/p&gt;
+&lt;p&gt;Project website &lt;a href=&#34;http://www.remaro.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
