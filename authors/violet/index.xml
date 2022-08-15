@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ka I Pun | Einar Broch Johnsen</title>
-    <link>https://ebjohnsen.org/authors/ka-i-pun/</link>
-      <atom:link href="https://ebjohnsen.org/authors/ka-i-pun/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ka I Pun</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 May 2019 00:23:39 +0200</lastBuildDate>
+    <title>Violet Ka I Pun | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/authors/violet/</link>
+      <atom:link href="https://ebjohnsen.org/authors/violet/index.xml" rel="self" type="application/rss+xml" />
+    <description>Violet Ka I Pun</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 Nov 2020 09:21:51 +0200</lastBuildDate>
     <image>
-      <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
-      <title>Ka I Pun</title>
-      <link>https://ebjohnsen.org/authors/ka-i-pun/</link>
+      <url>https://ebjohnsen.org/authors/violet/avatar_hu98525853120a07c41ae6e733b994e410_126291_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Violet Ka I Pun</title>
+      <link>https://ebjohnsen.org/authors/violet/</link>
     </image>
+    
+    <item>
+      <title>Active Objects with Deterministic Behavior</title>
+      <link>https://ebjohnsen.org/publication/20-ifm/</link>
+      <pubDate>Sat, 14 Nov 2020 09:21:51 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/20-ifm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SymPaths: Symbolic Execution Meets Partial Order Reduction</title>
+      <link>https://ebjohnsen.org/publication/20-key/</link>
+      <pubDate>Thu, 20 Aug 2020 00:17:05 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/20-key/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Formal Model of Parallel Execution on Multicore Architectures with Multilevel Caches</title>
@@ -25,6 +41,14 @@
       <link>https://ebjohnsen.org/publication/19-fase/</link>
       <pubDate>Sat, 06 Apr 2019 23:08:36 +0200</pubDate>
       <guid>https://ebjohnsen.org/publication/19-fase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Cost Analysis</title>
+      <link>https://ebjohnsen.org/publication/18-tocl/</link>
+      <pubDate>Tue, 20 Nov 2018 00:23:39 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/18-tocl/</guid>
       <description></description>
     </item>
     
@@ -93,7 +117,7 @@
     </item>
     
     <item>
-      <title>Time Complexity of Concurrent Programs - A Technique Based on Behavioural Types&#34;</title>
+      <title>Time Complexity of Concurrent Programs - A Technique Based on Behavioural Types</title>
       <link>https://ebjohnsen.org/publication/15-facs/</link>
       <pubDate>Thu, 21 Jan 2016 23:07:58 +0200</pubDate>
       <guid>https://ebjohnsen.org/publication/15-facs/</guid>
