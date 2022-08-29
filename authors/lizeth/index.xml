@@ -5,12 +5,36 @@
     <link>https://ebjohnsen.org/authors/lizeth/</link>
       <atom:link href="https://ebjohnsen.org/authors/lizeth/index.xml" rel="self" type="application/rss+xml" />
     <description>Silvia Lizeth Tapia Tarifa</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 Aug 2022 09:07:44 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Aug 2022 06:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/authors/lizeth/avatar_hu78439dd2ecbedbd7c851f79ec2e2160e_79321_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Silvia Lizeth Tapia Tarifa</title>
       <link>https://ebjohnsen.org/authors/lizeth/</link>
     </image>
+    
+    <item>
+      <title>A Formal Model of Metacontrol in Maude</title>
+      <link>https://ebjohnsen.org/publication/22-isola3/</link>
+      <pubDate>Thu, 18 Aug 2022 06:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/22-isola3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital Twin Reconfiguration Using Asset Models</title>
+      <link>https://ebjohnsen.org/publication/22-isola2/</link>
+      <pubDate>Thu, 18 Aug 2022 06:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/22-isola2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twinning-by-Construction: Ensuring Correctness for Self-Adaptive Digital Twins</title>
+      <link>https://ebjohnsen.org/publication/22-isola1/</link>
+      <pubDate>Thu, 18 Aug 2022 06:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/22-isola1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Weighted Games for User Journeys</title>

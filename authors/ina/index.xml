@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/authors/ina/</link>
       <atom:link href="https://ebjohnsen.org/authors/ina/index.xml" rel="self" type="application/rss+xml" />
     <description>Ina Schaefer</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Jun 2018 13:51:24 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Aug 2022 07:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/authors/ina/avatar_hu536f55ee35ee642d24d5a5b692f8549a_55780_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Ina Schaefer</title>
       <link>https://ebjohnsen.org/authors/ina/</link>
     </image>
+    
+    <item>
+      <title>A Specification Logic for Programs in the Probabilistic Guarded Command Language</title>
+      <link>https://ebjohnsen.org/publication/22-ictac/</link>
+      <pubDate>Thu, 18 Aug 2022 07:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/22-ictac/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Proc. 16th Intl. Conf. on Software Engineering and Formal Methods (SEFM 2018)</title>
