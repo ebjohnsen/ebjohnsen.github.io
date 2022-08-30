@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/authors/einarj/</link>
       <atom:link href="https://ebjohnsen.org/authors/einarj/index.xml" rel="self" type="application/rss+xml" />
     <description>Einar Broch Johnsen</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Aug 2022 07:07:44 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 26 Sep 2022 11:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/authors/einarj/avatar_huce72f0f23c04305e87c81821320fcdf8_67668_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Einar Broch Johnsen</title>
       <link>https://ebjohnsen.org/authors/einarj/</link>
     </image>
+    
+    <item>
+      <title>The Semantically Reflected Digital Twin</title>
+      <link>https://ebjohnsen.org/talk/the-semantically-reflected-digital-twin/</link>
+      <pubDate>Mon, 26 Sep 2022 11:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/the-semantically-reflected-digital-twin/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Specification Logic for Programs in the Probabilistic Guarded Command Language</title>
