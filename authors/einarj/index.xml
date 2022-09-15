@@ -165,6 +165,22 @@
     </item>
     
     <item>
+      <title>Assumption-Commitment Types for Resource Management in Virtually Timed Ambients</title>
+      <link>https://ebjohnsen.org/publication/20-isola1/</link>
+      <pubDate>Mon, 12 Oct 2020 09:07:51 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/20-isola1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing Distributed Control with Hybrid Active Objects.</title>
+      <link>https://ebjohnsen.org/publication/20-isola3/</link>
+      <pubDate>Mon, 12 Oct 2020 09:07:51 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/20-isola3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Remaro: Reliable AI for Marine Robotics</title>
       <link>https://ebjohnsen.org/project/remaro/</link>
       <pubDate>Sat, 03 Oct 2020 10:33:05 +0200</pubDate>
@@ -200,14 +216,6 @@ developments in logic-based analysis and artificial intelligence.&lt;/p&gt;
 In the first phase of the project, we will build tools for automated capture of repeated user interactions in digital channels. Based on the resulting database of user journeys and user models, we will use logic-based techniques and machine learning to expose deviations and predict possible behaviours. The accumulation of user journeys will also enable identification of patterns that optimize the user experience and service quality.&lt;/p&gt;
 &lt;p&gt;We will extend and use executable modelling languages and their associated analysis tools to describe, predict, and prescribe user journeys as concurrent processes. We will base these languages and analysis tools on formal methods and concurrency theory, which build on the foundation of theoretical computer science.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Assumption-Commitment Types for Resource Management in Virtually Timed Ambients</title>
-      <link>https://ebjohnsen.org/publication/20-isola1/</link>
-      <pubDate>Sat, 12 Sep 2020 09:07:51 +0200</pubDate>
-      <guid>https://ebjohnsen.org/publication/20-isola1/</guid>
-      <description></description>
     </item>
     
     <item>
