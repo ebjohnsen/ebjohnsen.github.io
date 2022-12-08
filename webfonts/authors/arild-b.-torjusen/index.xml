@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arild B. Torjusen | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/authors/arild-b.-torjusen/</link>
+      <atom:link href="https://ebjohnsen.org/authors/arild-b.-torjusen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Arild B. Torjusen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Jul 2008 22:53:18 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
+      <title>Arild B. Torjusen</title>
+      <link>https://ebjohnsen.org/authors/arild-b.-torjusen/</link>
+    </image>
+    
+    <item>
+      <title>Validating Behavioral Component Interfaces in Rewriting Logic</title>
+      <link>https://ebjohnsen.org/publication/08-funda/</link>
+      <pubDate>Mon, 21 Jul 2008 22:53:18 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/08-funda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validating Behavioral Component Interfaces in Rewriting Logic</title>
+      <link>https://ebjohnsen.org/publication/05-fsen/</link>
+      <pubDate>Wed, 21 Sep 2005 22:51:21 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/05-fsen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

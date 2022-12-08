@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ragnhild Halvorsrud | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/authors/ragnhild-halvorsrud/</link>
+      <atom:link href="https://ebjohnsen.org/authors/ragnhild-halvorsrud/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ragnhild Halvorsrud</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Aug 2021 21:07:45 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
+      <title>Ragnhild Halvorsrud</title>
+      <link>https://ebjohnsen.org/authors/ragnhild-halvorsrud/</link>
+    </image>
+    
+    <item>
+      <title>Smart Journey Mining for Improved Service Quality</title>
+      <link>https://ebjohnsen.org/publication/21-scc/</link>
+      <pubDate>Sat, 07 Aug 2021 21:07:45 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/21-scc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

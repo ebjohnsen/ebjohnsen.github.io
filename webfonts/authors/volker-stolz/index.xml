@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Volker Stolz | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/authors/volker-stolz/</link>
+      <atom:link href="https://ebjohnsen.org/authors/volker-stolz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Volker Stolz</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Oct 2014 20:17:14 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
+      <title>Volker Stolz</title>
+      <link>https://ebjohnsen.org/authors/volker-stolz/</link>
+    </image>
+    
+    <item>
+      <title>Fault Model Design Space for Cooperative Concurrency</title>
+      <link>https://ebjohnsen.org/publication/14-isola2/</link>
+      <pubDate>Tue, 21 Oct 2014 20:17:14 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/14-isola2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erlang-Style Error Recovery for Concurrent Objects with Cooperative Scheduling</title>
+      <link>https://ebjohnsen.org/publication/14-isola3/</link>
+      <pubDate>Wed, 01 Oct 2014 20:21:47 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/14-isola3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

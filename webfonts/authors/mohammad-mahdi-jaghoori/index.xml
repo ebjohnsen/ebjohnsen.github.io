@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mohammad Mahdi Jaghoori | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/authors/mohammad-mahdi-jaghoori/</link>
+      <atom:link href="https://ebjohnsen.org/authors/mohammad-mahdi-jaghoori/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mohammad Mahdi Jaghoori</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Sep 2010 22:58:46 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
+      <title>Mohammad Mahdi Jaghoori</title>
+      <link>https://ebjohnsen.org/authors/mohammad-mahdi-jaghoori/</link>
+    </image>
+    
+    <item>
+      <title>Dating Concurrent Objects: Real-Time Modeling and Schedulability Analysis</title>
+      <link>https://ebjohnsen.org/publication/10-concur/</link>
+      <pubDate>Tue, 21 Sep 2010 22:58:46 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/10-concur/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

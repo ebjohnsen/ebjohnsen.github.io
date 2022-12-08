@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guillermo Román-Díez | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/authors/guillermo-roman-diez/</link>
+      <atom:link href="https://ebjohnsen.org/authors/guillermo-roman-diez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guillermo Román-Díez</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Nov 2018 00:23:39 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
+      <title>Guillermo Román-Díez</title>
+      <link>https://ebjohnsen.org/authors/guillermo-roman-diez/</link>
+    </image>
+    
+    <item>
+      <title>Parallel Cost Analysis</title>
+      <link>https://ebjohnsen.org/publication/18-tocl/</link>
+      <pubDate>Tue, 20 Nov 2018 00:23:39 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/18-tocl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Cost Analysis of Distributed Systems</title>
+      <link>https://ebjohnsen.org/publication/15-sas/</link>
+      <pubDate>Mon, 21 Sep 2015 23:07:32 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/15-sas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
