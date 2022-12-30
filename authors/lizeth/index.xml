@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/authors/lizeth/</link>
       <atom:link href="https://ebjohnsen.org/authors/lizeth/index.xml" rel="self" type="application/rss+xml" />
     <description>Silvia Lizeth Tapia Tarifa</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 26 Sep 2022 11:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Dec 2022 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/authors/lizeth/avatar_hu78439dd2ecbedbd7c851f79ec2e2160e_79321_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Silvia Lizeth Tapia Tarifa</title>
       <link>https://ebjohnsen.org/authors/lizeth/</link>
     </image>
+    
+    <item>
+      <title>Building User Journey Games from Multi-Party Event Logs</title>
+      <link>https://ebjohnsen.org/publication/22-edba/</link>
+      <pubDate>Fri, 30 Dec 2022 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/22-edba/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Semantically Reflected Digital Twin</title>

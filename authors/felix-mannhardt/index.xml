@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/authors/felix-mannhardt/</link>
       <atom:link href="https://ebjohnsen.org/authors/felix-mannhardt/index.xml" rel="self" type="application/rss+xml" />
     <description>Felix Mannhardt</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Aug 2021 21:07:45 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Dec 2022 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
       <title>Felix Mannhardt</title>
       <link>https://ebjohnsen.org/authors/felix-mannhardt/</link>
     </image>
+    
+    <item>
+      <title>Building User Journey Games from Multi-Party Event Logs</title>
+      <link>https://ebjohnsen.org/publication/22-edba/</link>
+      <pubDate>Fri, 30 Dec 2022 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/22-edba/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Smart Journey Mining for Improved Service Quality</title>
