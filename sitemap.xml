@@ -3,27 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ebjohnsen.org/categories/</loc>
-    <lastmod>2023-07-18T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/</loc>
-    <lastmod>2023-07-18T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/talk/ifm-2023/</loc>
+    <lastmod>2023-11-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/category/programme-committees/</loc>
-    <lastmod>2023-07-18T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/tag/service/</loc>
-    <lastmod>2023-07-18T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/event/</loc>
-    <lastmod>2023-07-18T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/tags/</loc>
-    <lastmod>2023-07-18T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/talk/tap-2023/</loc>
@@ -36,6 +40,18 @@
   </url><url>
     <loc>https://ebjohnsen.org/talk/fase-2023/</loc>
     <lastmod>2023-04-16T12:09:51+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/talk/en-digital-tvilling-som-et-klimabarometer-for-oslofjorden/</loc>
+    <lastmod>2023-03-09T12:45:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/category/invited-talks/</loc>
+    <lastmod>2023-03-09T12:45:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/tag/talks/</loc>
+    <lastmod>2023-03-09T12:45:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/talk/fm-2023/</loc>
@@ -155,14 +171,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/talk/digital-twins-an-emerging-paradigm-for-model-centric-engineering/</loc>
-    <lastmod>2022-11-21T11:15:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/category/invited-talks/</loc>
-    <lastmod>2022-11-21T11:15:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/tag/talks/</loc>
     <lastmod>2022-11-21T11:15:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

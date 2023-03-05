@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/tag/service/</link>
       <atom:link href="https://ebjohnsen.org/tag/service/index.xml" rel="self" type="application/rss+xml" />
     <description>Service</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
       <title>Service</title>
       <link>https://ebjohnsen.org/tag/service/</link>
     </image>
+    
+    <item>
+      <title>iFM 2023</title>
+      <link>https://ebjohnsen.org/talk/ifm-2023/</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/ifm-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>TAP 2023</title>
