@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/authors/einarj/</link>
       <atom:link href="https://ebjohnsen.org/authors/einarj/index.xml" rel="self" type="application/rss+xml" />
     <description>Einar Broch Johnsen</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Mar 2023 09:07:44 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 May 2023 07:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/authors/einarj/avatar_huce72f0f23c04305e87c81821320fcdf8_67668_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Einar Broch Johnsen</title>
       <link>https://ebjohnsen.org/authors/einarj/</link>
     </image>
+    
+    <item>
+      <title>Predicting Resource Consumption of Kubernetes Container Systems using Resource Models</title>
+      <link>https://ebjohnsen.org/publication/23-jss/</link>
+      <pubDate>Thu, 11 May 2023 07:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/23-jss/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SUAVE: An Exemplar for Self-Adaptive Underwater Vehicles</title>
