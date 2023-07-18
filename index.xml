@@ -21,6 +21,30 @@
     </item>
     
     <item>
+      <title>Behavior Trees and State Machines in Robotics Applications</title>
+      <link>https://ebjohnsen.org/publication/23-tse/</link>
+      <pubDate>Sun, 10 Sep 2023 07:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/23-tse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compositional Correctness and Completeness for Symbolic Partial Order Reduction</title>
+      <link>https://ebjohnsen.org/publication/23-concur/</link>
+      <pubDate>Sun, 03 Sep 2023 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/23-concur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Symbolic Semantics for Probabilistic Programs</title>
+      <link>https://ebjohnsen.org/publication/23-qest/</link>
+      <pubDate>Sun, 03 Sep 2023 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/23-qest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Predicting Resource Consumption of Kubernetes Container Systems using Resource Models</title>
       <link>https://ebjohnsen.org/publication/23-jss/</link>
       <pubDate>Fri, 01 Sep 2023 07:07:44 +0200</pubDate>
@@ -85,7 +109,7 @@
     </item>
     
     <item>
-      <title>How to avoid a local epidemic becoming a global pandemic</title>
+      <title>How to Avoid a Local Epidemic Becoming a Global Pandemic</title>
       <link>https://ebjohnsen.org/publication/23-pnas/</link>
       <pubDate>Tue, 28 Feb 2023 07:07:44 +0200</pubDate>
       <guid>https://ebjohnsen.org/publication/23-pnas/</guid>
