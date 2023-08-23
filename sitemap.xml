@@ -31,7 +31,39 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/authors/</loc>
-    <lastmod>2023-09-10T07:07:44+02:00</lastmod>
+    <lastmod>2023-09-30T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/publication-type/1/</loc>
+    <lastmod>2023-09-30T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/andrzej/</loc>
+    <lastmod>2023-09-30T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/einarj/</loc>
+    <lastmod>2023-09-30T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/publication/23-icfp/</loc>
+    <lastmod>2023-09-30T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/mahsa-varshosaz/</loc>
+    <lastmod>2023-09-30T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/mohsen-ghaffari/</loc>
+    <lastmod>2023-09-30T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/publication_types/</loc>
+    <lastmod>2023-09-30T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/publication/</loc>
+    <lastmod>2023-09-30T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/publication-type/2/</loc>
@@ -42,27 +74,11 @@
     <lastmod>2023-09-10T07:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/authors/andrzej/</loc>
-    <lastmod>2023-09-10T07:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ebjohnsen.org/publication/23-tse/</loc>
     <lastmod>2023-09-10T07:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/tag/cloud/</loc>
-    <lastmod>2023-09-10T07:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/authors/einarj/</loc>
-    <lastmod>2023-09-10T07:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/publication_types/</loc>
-    <lastmod>2023-09-10T07:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/publication/</loc>
     <lastmod>2023-09-10T07:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -76,10 +92,6 @@
   </url><url>
     <loc>https://ebjohnsen.org/authors/thorsten-berger/</loc>
     <lastmod>2023-09-10T07:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/publication-type/1/</loc>
-    <lastmod>2023-09-03T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/authors/alexandra-silva/</loc>
