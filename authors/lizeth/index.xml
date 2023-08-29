@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/authors/lizeth/</link>
       <atom:link href="https://ebjohnsen.org/authors/lizeth/index.xml" rel="self" type="application/rss+xml" />
     <description>Silvia Lizeth Tapia Tarifa</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 07:07:44 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Nov 2023 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/authors/lizeth/avatar_hu78439dd2ecbedbd7c851f79ec2e2160e_79321_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Silvia Lizeth Tapia Tarifa</title>
       <link>https://ebjohnsen.org/authors/lizeth/</link>
     </image>
+    
+    <item>
+      <title>Formal Modelling and Analysis of a Self-Adaptive Robotic System</title>
+      <link>https://ebjohnsen.org/publication/23-ifm/</link>
+      <pubDate>Sat, 04 Nov 2023 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/23-ifm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Predicting Resource Consumption of Kubernetes Container Systems using Resource Models</title>

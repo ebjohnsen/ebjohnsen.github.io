@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/publication-type/1/</link>
       <atom:link href="https://ebjohnsen.org/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 30 Sep 2023 09:07:44 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Nov 2023 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://ebjohnsen.org/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Formal Modelling and Analysis of a Self-Adaptive Robotic System</title>
+      <link>https://ebjohnsen.org/publication/23-ifm/</link>
+      <pubDate>Sat, 04 Nov 2023 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/23-ifm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Formal Specification and Testing for Reinforcement Learning</title>

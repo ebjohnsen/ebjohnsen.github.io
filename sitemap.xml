@@ -31,18 +31,54 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/authors/</loc>
-    <lastmod>2023-09-30T09:07:44+02:00</lastmod>
+    <lastmod>2023-11-04T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/publication-type/1/</loc>
-    <lastmod>2023-09-30T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/authors/andrzej/</loc>
-    <lastmod>2023-09-30T09:07:44+02:00</lastmod>
+    <lastmod>2023-11-04T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/authors/einarj/</loc>
+    <lastmod>2023-11-04T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/ferruccio/</loc>
+    <lastmod>2023-11-04T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/publication/23-ifm/</loc>
+    <lastmod>2023-11-04T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/juliane-pa%C3%9Fler/</loc>
+    <lastmod>2023-11-04T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/maurice-h.-ter-beek/</loc>
+    <lastmod>2023-11-04T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/publication_types/</loc>
+    <lastmod>2023-11-04T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/publication/</loc>
+    <lastmod>2023-11-04T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/category/robotics/</loc>
+    <lastmod>2023-11-04T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/category/self-adaptive-systems/</loc>
+    <lastmod>2023-11-04T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/lizeth/</loc>
+    <lastmod>2023-11-04T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/andrzej/</loc>
     <lastmod>2023-09-30T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -58,27 +94,11 @@
     <lastmod>2023-09-30T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/publication_types/</loc>
-    <lastmod>2023-09-30T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/publication/</loc>
-    <lastmod>2023-09-30T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ebjohnsen.org/publication-type/2/</loc>
     <lastmod>2023-09-10T07:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/tag/abs/</loc>
-    <lastmod>2023-09-10T07:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ebjohnsen.org/publication/23-tse/</loc>
-    <lastmod>2023-09-10T07:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/tag/cloud/</loc>
     <lastmod>2023-09-10T07:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -122,11 +142,15 @@
     <lastmod>2023-09-03T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://ebjohnsen.org/tag/abs/</loc>
+    <lastmod>2023-09-01T07:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ebjohnsen.org/authors/andrea-borgarelli/</loc>
     <lastmod>2023-09-01T07:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/authors/ferruccio/</loc>
+    <loc>https://ebjohnsen.org/tag/cloud/</loc>
     <lastmod>2023-09-01T07:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -135,10 +159,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/publication/23-jss/</loc>
-    <lastmod>2023-09-01T07:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/authors/lizeth/</loc>
     <lastmod>2023-09-01T07:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -187,10 +207,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/authors/jeroen-zwanepol/</loc>
-    <lastmod>2023-03-16T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/authors/juliane-pa%C3%9Fler/</loc>
     <lastmod>2023-03-16T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

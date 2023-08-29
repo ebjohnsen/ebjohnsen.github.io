@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/authors/einarj/</link>
       <atom:link href="https://ebjohnsen.org/authors/einarj/index.xml" rel="self" type="application/rss+xml" />
     <description>Einar Broch Johnsen</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 30 Sep 2023 09:07:44 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Nov 2023 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/authors/einarj/avatar_huce72f0f23c04305e87c81821320fcdf8_67668_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Einar Broch Johnsen</title>
       <link>https://ebjohnsen.org/authors/einarj/</link>
     </image>
+    
+    <item>
+      <title>Formal Modelling and Analysis of a Self-Adaptive Robotic System</title>
+      <link>https://ebjohnsen.org/publication/23-ifm/</link>
+      <pubDate>Sat, 04 Nov 2023 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/23-ifm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Formal Specification and Testing for Reinforcement Learning</title>
