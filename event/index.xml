@@ -5,7 +5,7 @@
     <link>https://ebjohnsen.org/event/</link>
       <atom:link href="https://ebjohnsen.org/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Service</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
       <title>Service</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>FM 2024</title>
+      <link>https://ebjohnsen.org/talk/fm-2024/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/fm-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FASE 2024</title>
+      <link>https://ebjohnsen.org/talk/fase-2024/</link>
+      <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/fase-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>iFM 2023</title>
       <link>https://ebjohnsen.org/talk/ifm-2023/</link>
       <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://ebjohnsen.org/talk/ifm-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Klimabarometer for Oslofjorden (Faglig-pedagogisk dag)</title>
+      <link>https://ebjohnsen.org/talk/klimabarometer-for-oslofjorden-faglig-pedagogisk-dag/</link>
+      <pubDate>Thu, 02 Nov 2023 11:15:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/klimabarometer-for-oslofjorden-faglig-pedagogisk-dag/</guid>
       <description></description>
     </item>
     
