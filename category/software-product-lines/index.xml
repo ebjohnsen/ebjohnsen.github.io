@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software product lines | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/category/software-product-lines/</link>
+      <atom:link href="https://ebjohnsen.org/category/software-product-lines/index.xml" rel="self" type="application/rss+xml" />
+    <description>Software product lines</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Nov 2023 09:07:44 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
+      <title>Software product lines</title>
+      <link>https://ebjohnsen.org/category/software-product-lines/</link>
+    </image>
+    
+    <item>
+      <title>Formal Modelling and Analysis of a Self-Adaptive Robotic System</title>
+      <link>https://ebjohnsen.org/publication/23-ifm/</link>
+      <pubDate>Sat, 04 Nov 2023 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/23-ifm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lazy Product Discovery in Huge Configuration Spaces</title>
+      <link>https://ebjohnsen.org/publication/20-icse/</link>
+      <pubDate>Sun, 21 Jun 2020 22:35:11 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/20-icse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Transformational Proof System for Delta-Oriented Programming</title>
+      <link>https://ebjohnsen.org/publication/12-fmsple/</link>
+      <pubDate>Fri, 21 Sep 2012 23:04:40 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/12-fmsple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Spatial and Temporal Variability with the HATS Abstract Behavioral Modeling Language</title>
+      <link>https://ebjohnsen.org/publication/11-sfm/</link>
+      <pubDate>Mon, 13 Jun 2011 23:00:04 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/11-sfm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
