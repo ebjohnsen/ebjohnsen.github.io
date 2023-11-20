@@ -35,7 +35,39 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/authors/</loc>
-    <lastmod>2023-12-01T09:07:44+02:00</lastmod>
+    <lastmod>2023-12-04T11:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/tag/digital-twins/</loc>
+    <lastmod>2023-12-04T11:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/eduard/</loc>
+    <lastmod>2023-12-04T11:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/einarj/</loc>
+    <lastmod>2023-12-04T11:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/rudi/</loc>
+    <lastmod>2023-12-04T11:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/lizeth/</loc>
+    <lastmod>2023-12-04T11:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/tag/talks/</loc>
+    <lastmod>2023-12-04T11:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/talk/the-semantically-reflected-digital-twin/</loc>
+    <lastmod>2023-12-04T11:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/category/tutorials/</loc>
+    <lastmod>2023-12-04T11:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/publication-type/1/</loc>
@@ -51,10 +83,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/publication/23-ictac/</loc>
-    <lastmod>2023-12-01T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/authors/einarj/</loc>
     <lastmod>2023-12-01T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -102,10 +130,6 @@
     <lastmod>2023-11-04T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/authors/lizeth/</loc>
-    <lastmod>2023-11-04T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ebjohnsen.org/category/software-product-lines/</loc>
     <lastmod>2023-11-04T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -115,10 +139,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/talk/klimabarometer-for-oslofjorden-faglig-pedagogisk-dag/</loc>
-    <lastmod>2023-11-02T11:15:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/tag/talks/</loc>
     <lastmod>2023-11-02T11:15:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -135,10 +155,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/authors/dabo-guan/</loc>
-    <lastmod>2023-09-29T07:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/tag/digital-twins/</loc>
     <lastmod>2023-09-29T07:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -171,10 +187,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/authors/roger-pielke-jr/</loc>
-    <lastmod>2023-09-29T07:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/authors/rudi/</loc>
     <lastmod>2023-09-29T07:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -215,10 +227,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/publication/23-concur/</loc>
-    <lastmod>2023-09-03T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/authors/eduard/</loc>
     <lastmod>2023-09-03T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -358,11 +366,7 @@
     <lastmod>2022-10-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/the-semantically-reflected-digital-twin/</loc>
-    <lastmod>2022-09-26T11:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/category/tutorials/</loc>
+    <loc>https://ebjohnsen.org/talk/a-semantically-reflected-digital-twin/</loc>
     <lastmod>2022-09-26T11:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
