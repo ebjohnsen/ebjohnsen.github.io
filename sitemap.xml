@@ -246,6 +246,14 @@
     <lastmod>2023-09-01T07:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://ebjohnsen.org/course/</loc>
+    <lastmod>2023-08-01T10:33:05+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/course/in5170/</loc>
+    <lastmod>2023-08-01T10:33:05+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ebjohnsen.org/talk/tap-2023/</loc>
     <lastmod>2023-07-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -316,6 +324,10 @@
   </url><url>
     <loc>https://ebjohnsen.org/authors/yuqi-bai/</loc>
     <lastmod>2023-02-28T07:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/course/in2080/</loc>
+    <lastmod>2023-02-01T10:33:05+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/publication/22-edba/</loc>
@@ -498,14 +510,6 @@
     <lastmod>2022-02-17T12:45:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/course/</loc>
-    <lastmod>2022-02-01T10:33:05+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/course/in2080/</loc>
-    <lastmod>2022-02-01T10:33:05+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ebjohnsen.org/talk/tap-2022/</loc>
     <lastmod>2022-01-26T23:09:15+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -516,10 +520,6 @@
   </url><url>
     <loc>https://ebjohnsen.org/publication/21-scc/</loc>
     <lastmod>2021-08-07T21:07:45+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/course/in5170/</loc>
-    <lastmod>2021-08-01T10:33:05+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/talk/ifm-2022/</loc>

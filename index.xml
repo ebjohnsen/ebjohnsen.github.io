@@ -101,6 +101,34 @@
     </item>
     
     <item>
+      <title>IN5170: Models of Concurrency</title>
+      <link>https://ebjohnsen.org/course/in5170/</link>
+      <pubDate>Tue, 01 Aug 2023 10:33:05 +0200</pubDate>
+      <guid>https://ebjohnsen.org/course/in5170/</guid>
+      <description>&lt;p&gt;NebulOus is a Horizon Europe project,
+funded by the European Commission 2022-2025 (project no 101070516).&lt;/p&gt;
+&lt;p&gt;NebulOus will accomplish substantial research contributions in the
+realms of cloud and fog computing brokerage by introducing advanced
+methods and tools for enabling secure and optimal application
+provisioning and reconfiguration over the cloud computing
+continuum. NebulOus will develop a novel Meta Operating System and
+platform for enabling transient fog brokerage ecosystems that
+seamlessly exploit edge and fog nodes, in conjunction with multi-cloud
+resources, to cope with the requirements posed by low latency
+applications. The envisaged  solution includes the following main
+directions of work:&lt;br&gt;
+i. Development of appropriate modelling methods and tools for
+describing the cloud computing continuum, application requirements,
+and data streams; these methods and tools will be used for assuring
+the QoS of the provisioned brokered services. &lt;br&gt;
+ii. Efficient comparison of available offerings, using appropriate multi-criteria decision-making methods that are able to consider all dimensions of consumer requirements. &lt;br&gt;
+iii. Intelligent applications, workflows and data streams management in the cloud computing continuum. &lt;br&gt;
+iv. Addressing in a unified manner the security aspects emerging in of transient cloud computing continuums (e.g., access control, secure network overlay etc.). &lt;br&gt;
+v. Conducting and monitoring smart contracts-based service level agreements.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>TAP 2023</title>
       <link>https://ebjohnsen.org/talk/tap-2023/</link>
       <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
@@ -162,6 +190,34 @@
       <pubDate>Tue, 28 Feb 2023 07:07:44 +0200</pubDate>
       <guid>https://ebjohnsen.org/publication/23-pnas/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>IN2080: Computability and Complexity</title>
+      <link>https://ebjohnsen.org/course/in2080/</link>
+      <pubDate>Wed, 01 Feb 2023 10:33:05 +0200</pubDate>
+      <guid>https://ebjohnsen.org/course/in2080/</guid>
+      <description>&lt;p&gt;NebulOus is a Horizon Europe project,
+funded by the European Commission 2022-2025 (project no 101070516).&lt;/p&gt;
+&lt;p&gt;NebulOus will accomplish substantial research contributions in the
+realms of cloud and fog computing brokerage by introducing advanced
+methods and tools for enabling secure and optimal application
+provisioning and reconfiguration over the cloud computing
+continuum. NebulOus will develop a novel Meta Operating System and
+platform for enabling transient fog brokerage ecosystems that
+seamlessly exploit edge and fog nodes, in conjunction with multi-cloud
+resources, to cope with the requirements posed by low latency
+applications. The envisaged  solution includes the following main
+directions of work:&lt;br&gt;
+i. Development of appropriate modelling methods and tools for
+describing the cloud computing continuum, application requirements,
+and data streams; these methods and tools will be used for assuring
+the QoS of the provisioned brokered services. &lt;br&gt;
+ii. Efficient comparison of available offerings, using appropriate multi-criteria decision-making methods that are able to consider all dimensions of consumer requirements. &lt;br&gt;
+iii. Intelligent applications, workflows and data streams management in the cloud computing continuum. &lt;br&gt;
+iv. Addressing in a unified manner the security aspects emerging in of transient cloud computing continuums (e.g., access control, secure network overlay etc.). &lt;br&gt;
+v. Conducting and monitoring smart contracts-based service level agreements.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -413,34 +469,6 @@ discuss scientific challenges related to digital twins.&lt;/p&gt;
     </item>
     
     <item>
-      <title>IN2080: Computability and Complexity</title>
-      <link>https://ebjohnsen.org/course/in2080/</link>
-      <pubDate>Tue, 01 Feb 2022 10:33:05 +0200</pubDate>
-      <guid>https://ebjohnsen.org/course/in2080/</guid>
-      <description>&lt;p&gt;NebulOus is a Horizon Europe project,
-funded by the European Commission 2022-2025 (project no 101070516).&lt;/p&gt;
-&lt;p&gt;NebulOus will accomplish substantial research contributions in the
-realms of cloud and fog computing brokerage by introducing advanced
-methods and tools for enabling secure and optimal application
-provisioning and reconfiguration over the cloud computing
-continuum. NebulOus will develop a novel Meta Operating System and
-platform for enabling transient fog brokerage ecosystems that
-seamlessly exploit edge and fog nodes, in conjunction with multi-cloud
-resources, to cope with the requirements posed by low latency
-applications. The envisaged  solution includes the following main
-directions of work:&lt;br&gt;
-i. Development of appropriate modelling methods and tools for
-describing the cloud computing continuum, application requirements,
-and data streams; these methods and tools will be used for assuring
-the QoS of the provisioned brokered services. &lt;br&gt;
-ii. Efficient comparison of available offerings, using appropriate multi-criteria decision-making methods that are able to consider all dimensions of consumer requirements. &lt;br&gt;
-iii. Intelligent applications, workflows and data streams management in the cloud computing continuum. &lt;br&gt;
-iv. Addressing in a unified manner the security aspects emerging in of transient cloud computing continuums (e.g., access control, secure network overlay etc.). &lt;br&gt;
-v. Conducting and monitoring smart contracts-based service level agreements.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>TAP 2022</title>
       <link>https://ebjohnsen.org/talk/tap-2022/</link>
       <pubDate>Wed, 26 Jan 2022 23:09:15 +0200</pubDate>
@@ -455,34 +483,6 @@ v. Conducting and monitoring smart contracts-based service level agreements.&lt;
       <pubDate>Sat, 07 Aug 2021 21:07:45 +0200</pubDate>
       <guid>https://ebjohnsen.org/publication/21-scc/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>IN5170: Models of Concurrency</title>
-      <link>https://ebjohnsen.org/course/in5170/</link>
-      <pubDate>Sun, 01 Aug 2021 10:33:05 +0200</pubDate>
-      <guid>https://ebjohnsen.org/course/in5170/</guid>
-      <description>&lt;p&gt;NebulOus is a Horizon Europe project,
-funded by the European Commission 2022-2025 (project no 101070516).&lt;/p&gt;
-&lt;p&gt;NebulOus will accomplish substantial research contributions in the
-realms of cloud and fog computing brokerage by introducing advanced
-methods and tools for enabling secure and optimal application
-provisioning and reconfiguration over the cloud computing
-continuum. NebulOus will develop a novel Meta Operating System and
-platform for enabling transient fog brokerage ecosystems that
-seamlessly exploit edge and fog nodes, in conjunction with multi-cloud
-resources, to cope with the requirements posed by low latency
-applications. The envisaged  solution includes the following main
-directions of work:&lt;br&gt;
-i. Development of appropriate modelling methods and tools for
-describing the cloud computing continuum, application requirements,
-and data streams; these methods and tools will be used for assuring
-the QoS of the provisioned brokered services. &lt;br&gt;
-ii. Efficient comparison of available offerings, using appropriate multi-criteria decision-making methods that are able to consider all dimensions of consumer requirements. &lt;br&gt;
-iii. Intelligent applications, workflows and data streams management in the cloud computing continuum. &lt;br&gt;
-iv. Addressing in a unified manner the security aspects emerging in of transient cloud computing continuums (e.g., access control, secure network overlay etc.). &lt;br&gt;
-v. Conducting and monitoring smart contracts-based service level agreements.&lt;/p&gt;
-</description>
     </item>
     
     <item>
