@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/authors/einarj/</link>
       <atom:link href="https://ebjohnsen.org/authors/einarj/index.xml" rel="self" type="application/rss+xml" />
     <description>Einar Broch Johnsen</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Nov 2023 09:07:44 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/authors/einarj/avatar_huce72f0f23c04305e87c81821320fcdf8_67668_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Einar Broch Johnsen</title>
       <link>https://ebjohnsen.org/authors/einarj/</link>
     </image>
+    
+    <item>
+      <title>Denotational Semantics for Symbolic Execution</title>
+      <link>https://ebjohnsen.org/publication/23-ictac/</link>
+      <pubDate>Fri, 01 Dec 2023 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/23-ictac/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Formal Modelling and Analysis of a Self-Adaptive Robotic System</title>
@@ -21,7 +29,7 @@
     </item>
     
     <item>
-      <title>Reply to Ekström and Ottersen: Real- time access to data during outbreaks is a key to avoid a local epidemic becoming a global pandemic</title>
+      <title>Reply to Ekström and Ottersen: Real-time access to data during outbreaks is a key to avoid a local epidemic becoming a global pandemic</title>
       <link>https://ebjohnsen.org/publication/23-pnas2/</link>
       <pubDate>Fri, 29 Sep 2023 07:07:44 +0200</pubDate>
       <guid>https://ebjohnsen.org/publication/23-pnas2/</guid>
