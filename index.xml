@@ -53,6 +53,14 @@
     </item>
     
     <item>
+      <title>Simulating User Journeys with Active Objects</title>
+      <link>https://ebjohnsen.org/publication/24-aol/</link>
+      <pubDate>Mon, 01 Jan 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-aol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Semantically Reflected Digital Twin</title>
       <link>https://ebjohnsen.org/talk/the-semantically-reflected-digital-twin/</link>
       <pubDate>Tue, 05 Dec 2023 09:00:00 +0000</pubDate>
@@ -444,30 +452,36 @@ developers of the ABS modeling language. Homepage:
     </item>
     
     <item>
-      <title>NebulOus: A Meta Operating System for Brokering Hyper-Distributed Applications on Cloud Computing Continuums</title>
+      <title>NebulOuS: A Meta Operating System for Brokering Hyper-Distributed Applications on Cloud Computing Continuums</title>
       <link>https://ebjohnsen.org/project/nebulous/</link>
       <pubDate>Tue, 26 Apr 2022 10:33:05 +0200</pubDate>
       <guid>https://ebjohnsen.org/project/nebulous/</guid>
-      <description>&lt;p&gt;NebulOus is a Horizon Europe project,
+      <description>&lt;p&gt;NebulOuS is a Horizon Europe project,
 funded by the European Commission 2022-2025 (project no 101070516).&lt;/p&gt;
-&lt;p&gt;NebulOus will accomplish substantial research contributions in the
+&lt;p&gt;NebulOuS will accomplish substantial research contributions in the
 realms of cloud and fog computing brokerage by introducing advanced
 methods and tools for enabling secure and optimal application
 provisioning and reconfiguration over the cloud computing
-continuum. NebulOus will develop a novel Meta Operating System and
+continuum. NebulOuS will develop a novel Meta Operating System and
 platform for enabling transient fog brokerage ecosystems that
 seamlessly exploit edge and fog nodes, in conjunction with multi-cloud
 resources, to cope with the requirements posed by low latency
-applications. The envisaged  solution includes the following main
+applications. The envisaged solution includes the following main
 directions of work:&lt;br&gt;
 i. Development of appropriate modelling methods and tools for
 describing the cloud computing continuum, application requirements,
 and data streams; these methods and tools will be used for assuring
 the QoS of the provisioned brokered services. &lt;br&gt;
-ii. Efficient comparison of available offerings, using appropriate multi-criteria decision-making methods that are able to consider all dimensions of consumer requirements. &lt;br&gt;
-iii. Intelligent applications, workflows and data streams management in the cloud computing continuum. &lt;br&gt;
-iv. Addressing in a unified manner the security aspects emerging in of transient cloud computing continuums (e.g., access control, secure network overlay etc.). &lt;br&gt;
-v. Conducting and monitoring smart contracts-based service level agreements.&lt;/p&gt;
+ii. Efficient comparison of available offerings, using appropriate
+multi-criteria decision-making methods that are able to consider all
+dimensions of consumer requirements. &lt;br&gt;
+iii. Intelligent applications, workflows and data streams management
+in the cloud computing continuum. &lt;br&gt;
+iv. Addressing in a unified manner the security aspects emerging in of
+transient cloud computing continuums (e.g., access control, secure
+network overlay etc.). &lt;br&gt;
+v. Conducting and monitoring smart contracts-based service level
+agreements.&lt;/p&gt;
 </description>
     </item>
     
