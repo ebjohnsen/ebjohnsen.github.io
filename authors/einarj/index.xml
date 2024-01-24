@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/authors/einarj/</link>
       <atom:link href="https://ebjohnsen.org/authors/einarj/index.xml" rel="self" type="application/rss+xml" />
     <description>Einar Broch Johnsen</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Feb 2024 20:15:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 Feb 2024 11:15:00 +0000</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/authors/einarj/avatar_huce72f0f23c04305e87c81821320fcdf8_67668_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Einar Broch Johnsen</title>
       <link>https://ebjohnsen.org/authors/einarj/</link>
     </image>
+    
+    <item>
+      <title>A Digital Twin for Pandemic Monitoring and Prevention</title>
+      <link>https://ebjohnsen.org/talk/a-digital-twin-for-pandemic-monitoring-and-prevention/</link>
+      <pubDate>Tue, 13 Feb 2024 11:15:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/a-digital-twin-for-pandemic-monitoring-and-prevention/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>En digital tvilling for Oslofjorden</title>
