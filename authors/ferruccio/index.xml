@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/authors/ferruccio/</link>
       <atom:link href="https://ebjohnsen.org/authors/ferruccio/index.xml" rel="self" type="application/rss+xml" />
     <description>Ferruccio Damiani</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Nov 2023 09:07:44 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Jan 2024 13:51:24 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/authors/ferruccio/avatar_hu978bfd922769b173739e471b2919c62f_22315_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Ferruccio Damiani</title>
       <link>https://ebjohnsen.org/authors/ferruccio/</link>
     </image>
+    
+    <item>
+      <title>Active Object Languages: Current Research Trends</title>
+      <link>https://ebjohnsen.org/publication/24-aolbook/</link>
+      <pubDate>Sat, 27 Jan 2024 13:51:24 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-aolbook/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Formal Modelling and Analysis of a Self-Adaptive Robotic System</title>

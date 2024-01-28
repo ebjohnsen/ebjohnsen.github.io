@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/authors/eduard/</link>
       <atom:link href="https://ebjohnsen.org/authors/eduard/index.xml" rel="self" type="application/rss+xml" />
     <description>Eduard Kamburjan</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Dec 2023 09:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Jan 2024 13:51:24 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/authors/eduard/avatar_hu0076aa56518b11c705bbb77126cfa410_311979_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Eduard Kamburjan</title>
       <link>https://ebjohnsen.org/authors/eduard/</link>
     </image>
+    
+    <item>
+      <title>Active Object Languages: Current Research Trends</title>
+      <link>https://ebjohnsen.org/publication/24-aolbook/</link>
+      <pubDate>Sat, 27 Jan 2024 13:51:24 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-aolbook/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Semantically Reflected Digital Twin</title>
