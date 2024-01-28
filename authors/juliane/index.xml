@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juliane Päßler | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/authors/juliane/</link>
+      <atom:link href="https://ebjohnsen.org/authors/juliane/index.xml" rel="self" type="application/rss+xml" />
+    <description>Juliane Päßler</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Nov 2023 09:07:44 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/authors/juliane/avatar_hud49f0691e033779e4c8740dd2d309e49_4087707_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Juliane Päßler</title>
+      <link>https://ebjohnsen.org/authors/juliane/</link>
+    </image>
+    
+    <item>
+      <title>Formal Modelling and Analysis of a Self-Adaptive Robotic System</title>
+      <link>https://ebjohnsen.org/publication/23-ifm/</link>
+      <pubDate>Sat, 04 Nov 2023 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/23-ifm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SUAVE: An Exemplar for Self-Adaptive Underwater Vehicles</title>
+      <link>https://ebjohnsen.org/publication/23-seams/</link>
+      <pubDate>Thu, 16 Mar 2023 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/23-seams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Formal Model of Metacontrol in Maude</title>
+      <link>https://ebjohnsen.org/publication/22-isola3/</link>
+      <pubDate>Thu, 18 Aug 2022 06:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/22-isola3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

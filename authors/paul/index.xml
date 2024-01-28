@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paul Kobialka | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/authors/paul/</link>
+      <atom:link href="https://ebjohnsen.org/authors/paul/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paul Kobialka</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 09:07:44 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/authors/paul/avatar_hueb1444fe883fff78a1a89252a2596f6d_29432_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Paul Kobialka</title>
+      <link>https://ebjohnsen.org/authors/paul/</link>
+    </image>
+    
+    <item>
+      <title>Simulating User Journeys with Active Objects</title>
+      <link>https://ebjohnsen.org/publication/24-aol/</link>
+      <pubDate>Mon, 01 Jan 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-aol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building User Journey Games from Multi-Party Event Logs</title>
+      <link>https://ebjohnsen.org/publication/22-edba/</link>
+      <pubDate>Fri, 30 Dec 2022 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/22-edba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weighted Games for User Journeys</title>
+      <link>https://ebjohnsen.org/publication/22-sefm/</link>
+      <pubDate>Mon, 08 Aug 2022 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/22-sefm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

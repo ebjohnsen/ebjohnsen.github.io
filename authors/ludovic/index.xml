@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ludovic Henrio | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/authors/ludovic/</link>
+      <atom:link href="https://ebjohnsen.org/authors/ludovic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ludovic Henrio</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 Nov 2020 09:21:51 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/authors/ludovic/avatar_hu1a69e998f34bc830a93e52fe1a2856d8_10389_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Ludovic Henrio</title>
+      <link>https://ebjohnsen.org/authors/ludovic/</link>
+    </image>
+    
+    <item>
+      <title>Active Objects with Deterministic Behavior</title>
+      <link>https://ebjohnsen.org/publication/20-ifm/</link>
+      <pubDate>Sat, 14 Nov 2020 09:21:51 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/20-ifm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Godot: All the Benefits of Implicit and Explicit Futures</title>
+      <link>https://ebjohnsen.org/publication/19-ecoop/</link>
+      <pubDate>Wed, 10 Jul 2019 23:08:36 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/19-ecoop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Survey of Active Object Languages</title>
+      <link>https://ebjohnsen.org/publication/17-csur/</link>
+      <pubDate>Sun, 22 Oct 2017 00:23:39 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/17-csur/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
