@@ -118,7 +118,7 @@ manycore era, when a program can make use of potentially millions of
 processors. UpScale used incremental type-based program annotations
 specifying deployment-related information, and for innovative
 type-based deployment optimisations both at compile- and runtime. The
-Encore language was designed in this project.&lt;/p&gt;
+Encore programming language was designed in this project.&lt;/p&gt;
 </description>
     </item>
     

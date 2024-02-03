@@ -221,6 +221,22 @@
     </item>
     
     <item>
+      <title>UpScale: From Inherent Concurrency to Massive Parallelism through Type-based Optimizations</title>
+      <link>https://ebjohnsen.org/project/upscale/</link>
+      <pubDate>Thu, 21 Jul 2016 22:16:06 +0200</pubDate>
+      <guid>https://ebjohnsen.org/project/upscale/</guid>
+      <description>&lt;p&gt;UpScale was an EU FP7 FET Open-X research project 2014-2017 (project
+no 612985).  CORDIS website &lt;a href=&#34;https://cordis.europa.eu/project/id/612985&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The idea was to design programming languages for the
+manycore era, when a program can make use of potentially millions of
+processors. UpScale used incremental type-based program annotations
+specifying deployment-related information, and for innovative
+type-based deployment optimisations both at compile- and runtime. The
+Encore programming language was designed in this project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Meeting Deadlines, Elastically. </title>
       <link>https://ebjohnsen.org/publication/16-kaisa/</link>
       <pubDate>Sat, 07 May 2016 13:49:46 +0200</pubDate>
