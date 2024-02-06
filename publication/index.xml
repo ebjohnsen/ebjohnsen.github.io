@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/publication/</link>
       <atom:link href="https://ebjohnsen.org/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Jan 2024 13:51:24 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Apr 2024 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://ebjohnsen.org/publication/</link>
     </image>
+    
+    <item>
+      <title>GreenhouseDT: An Exemplar for Digital Twins</title>
+      <link>https://ebjohnsen.org/publication/24-seams/</link>
+      <pubDate>Mon, 15 Apr 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-seams/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Active Object Languages: Current Research Trends</title>

@@ -50,12 +50,60 @@
     <lastmod>2024-05-13T20:15:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://ebjohnsen.org/category/invited-talks/</loc>
+    <lastmod>2024-05-13T20:15:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ebjohnsen.org/tag/talks/</loc>
     <lastmod>2024-05-13T20:15:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/category/tutorials/</loc>
-    <lastmod>2024-05-13T20:15:00+00:00</lastmod>
+    <loc>https://ebjohnsen.org/publication-type/1/</loc>
+    <lastmod>2024-04-15T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/chinmayi-prabhu-baramashetru/</loc>
+    <lastmod>2024-04-15T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/category/digital-twins/</loc>
+    <lastmod>2024-04-15T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/eduard/</loc>
+    <lastmod>2024-04-15T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/eduard-occhipinti/</loc>
+    <lastmod>2024-04-15T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/gianluca-barmina/</loc>
+    <lastmod>2024-04-15T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/publication/24-seams/</loc>
+    <lastmod>2024-04-15T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/marco-amato/</loc>
+    <lastmod>2024-04-15T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/publication_types/</loc>
+    <lastmod>2024-04-15T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/publication/</loc>
+    <lastmod>2024-04-15T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/riccardo-sieve/</loc>
+    <lastmod>2024-04-15T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/category/smol/</loc>
+    <lastmod>2024-04-15T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/talk/fase-2024/</loc>
@@ -86,23 +134,11 @@
     <lastmod>2024-01-27T13:51:24+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/authors/eduard/</loc>
-    <lastmod>2024-01-27T13:51:24+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ebjohnsen.org/authors/ferruccio/</loc>
     <lastmod>2024-01-27T13:51:24+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/authors/frank/</loc>
-    <lastmod>2024-01-27T13:51:24+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/publication_types/</loc>
-    <lastmod>2024-01-27T13:51:24+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/publication/</loc>
     <lastmod>2024-01-27T13:51:24+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -114,7 +150,7 @@
     <lastmod>2024-01-26T14:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/publication-type/1/</loc>
+    <loc>https://ebjohnsen.org/publication-type/6/</loc>
     <lastmod>2024-01-01T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -147,6 +183,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/talk/the-semantically-reflected-digital-twin/</loc>
+    <lastmod>2023-12-05T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/category/tutorials/</loc>
     <lastmod>2023-12-05T09:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -196,10 +236,6 @@
   </url><url>
     <loc>https://ebjohnsen.org/category/software-product-lines/</loc>
     <lastmod>2023-11-04T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/category/invited-talks/</loc>
-    <lastmod>2023-11-02T11:15:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/talk/klimabarometer-for-oslofjorden-faglig-pedagogisk-dag/</loc>
@@ -608,10 +644,6 @@
   </url><url>
     <loc>https://ebjohnsen.org/talk/vortex-2021/</loc>
     <lastmod>2021-03-31T23:09:07+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/publication-type/6/</loc>
-    <lastmod>2020-11-15T08:47:43+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/publication/20-gabbrielli/</loc>

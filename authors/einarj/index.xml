@@ -7,7 +7,7 @@
     <description>Einar Broch Johnsen</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 May 2024 20:15:00 +0000</lastBuildDate>
     <image>
-      <url>https://ebjohnsen.org/authors/einarj/avatar_huce72f0f23c04305e87c81821320fcdf8_67668_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://ebjohnsen.org/authors/einarj/avatar-old_huce72f0f23c04305e87c81821320fcdf8_67668_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Einar Broch Johnsen</title>
       <link>https://ebjohnsen.org/authors/einarj/</link>
     </image>
@@ -17,6 +17,14 @@
       <link>https://ebjohnsen.org/talk/a-digital-twin-of-the-oslo-fjord/</link>
       <pubDate>Mon, 13 May 2024 20:15:00 +0000</pubDate>
       <guid>https://ebjohnsen.org/talk/a-digital-twin-of-the-oslo-fjord/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GreenhouseDT: An Exemplar for Digital Twins</title>
+      <link>https://ebjohnsen.org/publication/24-seams/</link>
+      <pubDate>Mon, 15 Apr 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-seams/</guid>
       <description></description>
     </item>
     
