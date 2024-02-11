@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deductive verification | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/tag/deductive-verification/</link>
+      <atom:link href="https://ebjohnsen.org/tag/deductive-verification/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deductive verification</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jul 2019 23:08:36 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
+      <title>Deductive verification</title>
+      <link>https://ebjohnsen.org/tag/deductive-verification/</link>
+    </image>
+    
+    <item>
+      <title>Asynchronous Cooperative Contracts for Cooperative Scheduling</title>
+      <link>https://ebjohnsen.org/publication/19-sefm/</link>
+      <pubDate>Wed, 10 Jul 2019 23:08:36 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/19-sefm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Modular Reasoning System Using Uninterpreted Predicates for Code Reuse</title>
+      <link>https://ebjohnsen.org/publication/18-jlamp2/</link>
+      <pubDate>Tue, 02 Jan 2018 22:04:12 +0100</pubDate>
+      <guid>https://ebjohnsen.org/publication/18-jlamp2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proof Repositories for Compositional Verification of Evolving Software Systems - Managing Change When Proving Software Correct</title>
+      <link>https://ebjohnsen.org/publication/16-fomac/</link>
+      <pubDate>Wed, 05 Oct 2016 22:23:11 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/16-fomac/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

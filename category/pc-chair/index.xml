@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PC chair | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/category/pc-chair/</link>
+      <atom:link href="https://ebjohnsen.org/category/pc-chair/index.xml" rel="self" type="application/rss+xml" />
+    <description>PC chair</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 31 May 2021 23:09:07 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
+      <title>PC chair</title>
+      <link>https://ebjohnsen.org/category/pc-chair/</link>
+    </image>
+    
+    <item>
+      <title>FASE 2022</title>
+      <link>https://ebjohnsen.org/talk/fase-2022/</link>
+      <pubDate>Mon, 31 May 2021 23:09:07 +0200</pubDate>
+      <guid>https://ebjohnsen.org/talk/fase-2022/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://etaps.org/2022/fase&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FASE 2022&lt;/a&gt;, Munich, Germany, April 2-7, 2022&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2018 Nik</title>
+      <link>https://ebjohnsen.org/talk/2018-nik/</link>
+      <pubDate>Tue, 18 Sep 2018 23:12:34 +0200</pubDate>
+      <guid>https://ebjohnsen.org/talk/2018-nik/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://nikt2018.ifi.uio.no/index_en.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NIK 2018&lt;/a&gt;, Spitsbergen,&lt;/p&gt;
+&lt;h1 id=&#34;norway-18-20-sept-2018-pc-chair&#34;&gt;Norway, 18-20 Sept 2018 (PC chair)&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SEFM 2018</title>
+      <link>https://ebjohnsen.org/talk/sefm-2018/</link>
+      <pubDate>Mon, 25 Jun 2018 23:13:18 +0200</pubDate>
+      <guid>https://ebjohnsen.org/talk/sefm-2018/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.isf.cs.tu-bs.de/cms/events/sefm2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SEFM 2018&lt;/a&gt;, Toulouse, France, 25-29 June 2018 &lt;em&gt;(PC chair)&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TAP 2017</title>
+      <link>https://ebjohnsen.org/talk/tap-2017/</link>
+      <pubDate>Mon, 17 Jul 2017 23:15:27 +0200</pubDate>
+      <guid>https://ebjohnsen.org/talk/tap-2017/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.seceng.informatik.tu-darmstadt.de/tap2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TAP 2017&lt;/a&gt;, Marburg, Germany, 17-21 July 2017 &lt;em&gt;(PC chair)&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ESOCC 2016</title>
+      <link>https://ebjohnsen.org/talk/esocc-2016/</link>
+      <pubDate>Mon, 05 Sep 2016 23:16:31 +0200</pubDate>
+      <guid>https://ebjohnsen.org/talk/esocc-2016/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://esocc2016.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESOCC 2016&lt;/a&gt;, Vienna, Austria, September 5-7, 2016 &lt;em&gt;(PC chair)&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WING 2014</title>
+      <link>https://ebjohnsen.org/talk/wing-2014/</link>
+      <pubDate>Wed, 23 Jul 2014 23:18:51 +0200</pubDate>
+      <guid>https://ebjohnsen.org/talk/wing-2014/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.easychair.org/smart-program/VSL2014/WING-cfp.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WING 2014&lt;/a&gt;, Vienna, Austria, July 23, 2014&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>iFM 2013</title>
+      <link>https://ebjohnsen.org/talk/ifm-2013/</link>
+      <pubDate>Wed, 12 Jun 2013 23:20:07 +0200</pubDate>
+      <guid>https://ebjohnsen.org/talk/ifm-2013/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.it.abo.fi/iFM2013/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iFM 2013&lt;/a&gt;, Turku, Finland, June 12-14, 2013 (PC chair)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

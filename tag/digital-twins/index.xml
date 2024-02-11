@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>digital twins | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/tag/digital-twins/</link>
+      <atom:link href="https://ebjohnsen.org/tag/digital-twins/index.xml" rel="self" type="application/rss+xml" />
+    <description>digital twins</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 May 2024 20:15:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
+      <title>digital twins</title>
+      <link>https://ebjohnsen.org/tag/digital-twins/</link>
+    </image>
+    
+    <item>
+      <title>A Digital Twin of the Oslo Fjord</title>
+      <link>https://ebjohnsen.org/talk/a-digital-twin-of-the-oslo-fjord/</link>
+      <pubDate>Mon, 13 May 2024 20:15:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/a-digital-twin-of-the-oslo-fjord/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Digital Twin for Pandemic Monitoring and Prevention</title>
+      <link>https://ebjohnsen.org/talk/a-digital-twin-for-pandemic-monitoring-and-prevention/</link>
+      <pubDate>Tue, 13 Feb 2024 11:15:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/a-digital-twin-for-pandemic-monitoring-and-prevention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>En digital tvilling for Oslofjorden</title>
+      <link>https://ebjohnsen.org/talk/en-digital-tvilling-for-oslofjorden/</link>
+      <pubDate>Thu, 08 Feb 2024 20:15:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/en-digital-tvilling-for-oslofjorden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital Twins: An Emerging Paradigm for Self-Adaptive Model-Centric Systems</title>
+      <link>https://ebjohnsen.org/talk/digital-twins-an-emerging-paradigm-for-self-adaptive-model-centric-systems/</link>
+      <pubDate>Fri, 26 Jan 2024 14:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/digital-twins-an-emerging-paradigm-for-self-adaptive-model-centric-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Semantically Reflected Digital Twin</title>
+      <link>https://ebjohnsen.org/talk/the-semantically-reflected-digital-twin/</link>
+      <pubDate>Tue, 05 Dec 2023 09:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/the-semantically-reflected-digital-twin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reply to Ekström and Ottersen: Real-time access to data during outbreaks is a key to avoid a local epidemic becoming a global pandemic</title>
+      <link>https://ebjohnsen.org/publication/23-pnas2/</link>
+      <pubDate>Fri, 29 Sep 2023 07:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/23-pnas2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Avoid a Local Epidemic Becoming a Global Pandemic</title>
+      <link>https://ebjohnsen.org/publication/23-pnas/</link>
+      <pubDate>Tue, 28 Feb 2023 07:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/23-pnas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital Twins: An Emerging Paradigm for Model-Centric Engineering </title>
+      <link>https://ebjohnsen.org/talk/digital-twins-an-emerging-paradigm-for-model-centric-engineering/</link>
+      <pubDate>Mon, 21 Nov 2022 11:15:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/digital-twins-an-emerging-paradigm-for-model-centric-engineering/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Bio.&lt;/strong&gt; &lt;br&gt;
+Einar Broch Johnsen is a professor and the head of the Formal Methods group at the Department of Informatics, University of Oslo. His research interests include programming models and methodology; program specification and modeling; and the theory and application of formal methods. He is active in formal methods for distributed and concurrent systems, including object-oriented and concurrent languages, manycore computing, cloud computing, and digital twins. He is one of the main developers of the ABS modeling language.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Semantically Reflected Digital Twin</title>
+      <link>https://ebjohnsen.org/talk/a-semantically-reflected-digital-twin/</link>
+      <pubDate>Mon, 26 Sep 2022 11:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/a-semantically-reflected-digital-twin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital Twin Reconfiguration Using Asset Models</title>
+      <link>https://ebjohnsen.org/publication/22-isola2/</link>
+      <pubDate>Thu, 18 Aug 2022 06:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/22-isola2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twinning-by-Construction: Ensuring Correctness for Self-Adaptive Digital Twins</title>
+      <link>https://ebjohnsen.org/publication/22-isola1/</link>
+      <pubDate>Thu, 18 Aug 2022 06:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/22-isola1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge Structures over Simulation Units</title>
+      <link>https://ebjohnsen.org/publication/22-annsim/</link>
+      <pubDate>Wed, 01 Jun 2022 21:28:46 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/22-annsim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital Twins for Autonomic Cloud Application Management</title>
+      <link>https://ebjohnsen.org/publication/22-ccpi/</link>
+      <pubDate>Wed, 13 Apr 2022 21:07:45 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/22-ccpi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing Distributed Control with Hybrid Active Objects.</title>
+      <link>https://ebjohnsen.org/publication/20-isola3/</link>
+      <pubDate>Mon, 12 Oct 2020 09:07:51 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/20-isola3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

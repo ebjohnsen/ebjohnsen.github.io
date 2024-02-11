@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorials | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/category/tutorials/</link>
+      <atom:link href="https://ebjohnsen.org/category/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tutorials</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Dec 2023 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
+      <title>Tutorials</title>
+      <link>https://ebjohnsen.org/category/tutorials/</link>
+    </image>
+    
+    <item>
+      <title>The Semantically Reflected Digital Twin</title>
+      <link>https://ebjohnsen.org/talk/the-semantically-reflected-digital-twin/</link>
+      <pubDate>Tue, 05 Dec 2023 09:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/the-semantically-reflected-digital-twin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Semantically Reflected Digital Twin</title>
+      <link>https://ebjohnsen.org/talk/a-semantically-reflected-digital-twin/</link>
+      <pubDate>Mon, 26 Sep 2022 11:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/a-semantically-reflected-digital-twin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

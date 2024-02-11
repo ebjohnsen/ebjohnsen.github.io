@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rudolf Schlatte | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/authors/rudi/</link>
+      <atom:link href="https://ebjohnsen.org/authors/rudi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rudolf Schlatte</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 09:07:44 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/authors/rudi/avatar_huc97efa3572074a15b535e778b18e898f_52642_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Rudolf Schlatte</title>
+      <link>https://ebjohnsen.org/authors/rudi/</link>
+    </image>
+    
+    <item>
+      <title>Simulating User Journeys with Active Objects</title>
+      <link>https://ebjohnsen.org/publication/24-aol/</link>
+      <pubDate>Mon, 01 Jan 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-aol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Semantically Reflected Digital Twin</title>
+      <link>https://ebjohnsen.org/talk/the-semantically-reflected-digital-twin/</link>
+      <pubDate>Tue, 05 Dec 2023 09:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/the-semantically-reflected-digital-twin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reply to Ekström and Ottersen: Real-time access to data during outbreaks is a key to avoid a local epidemic becoming a global pandemic</title>
+      <link>https://ebjohnsen.org/publication/23-pnas2/</link>
+      <pubDate>Fri, 29 Sep 2023 07:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/23-pnas2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Avoid a Local Epidemic Becoming a Global Pandemic</title>
+      <link>https://ebjohnsen.org/publication/23-pnas/</link>
+      <pubDate>Tue, 28 Feb 2023 07:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/23-pnas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Semantically Reflected Digital Twin</title>
+      <link>https://ebjohnsen.org/talk/a-semantically-reflected-digital-twin/</link>
+      <pubDate>Mon, 26 Sep 2022 11:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/a-semantically-reflected-digital-twin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The ABS Simulator Toolchain</title>
+      <link>https://ebjohnsen.org/publication/22-scp/</link>
+      <pubDate>Fri, 09 Sep 2022 07:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/22-scp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital Twin Reconfiguration Using Asset Models</title>
+      <link>https://ebjohnsen.org/publication/22-isola2/</link>
+      <pubDate>Thu, 18 Aug 2022 06:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/22-isola2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twinning-by-Construction: Ensuring Correctness for Self-Adaptive Digital Twins</title>
+      <link>https://ebjohnsen.org/publication/22-isola1/</link>
+      <pubDate>Thu, 18 Aug 2022 06:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/22-isola1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital Twins for Autonomic Cloud Application Management</title>
+      <link>https://ebjohnsen.org/publication/22-ccpi/</link>
+      <pubDate>Wed, 13 Apr 2022 21:07:45 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/22-ccpi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling and Analyzing Resource-Sensitive Actors: A Tutorial Introduction</title>
+      <link>https://ebjohnsen.org/publication/21-coordination/</link>
+      <pubDate>Tue, 15 Jun 2021 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/21-coordination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming and Debugging with Semantically Lifted States</title>
+      <link>https://ebjohnsen.org/publication/21-eswc/</link>
+      <pubDate>Tue, 08 Jun 2021 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/21-eswc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inseguendo Fagiani Selvatici: Partial Order Reduction for Guarded Command Languages</title>
+      <link>https://ebjohnsen.org/publication/20-gabbrielli/</link>
+      <pubDate>Sun, 15 Nov 2020 08:47:43 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/20-gabbrielli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing Distributed Control with Hybrid Active Objects.</title>
+      <link>https://ebjohnsen.org/publication/20-isola3/</link>
+      <pubDate>Mon, 12 Oct 2020 09:07:51 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/20-isola3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Reproducibility through Local Control for Distributed Active Objects</title>
+      <link>https://ebjohnsen.org/publication/20-fase/</link>
+      <pubDate>Tue, 14 Apr 2020 23:08:36 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/20-fase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Release the Beasts: When Formal Methods Meet Real World Data</title>
+      <link>https://ebjohnsen.org/publication/18-farhad/</link>
+      <pubDate>Fri, 25 May 2018 22:04:12 +0100</pubDate>
+      <guid>https://ebjohnsen.org/publication/18-farhad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EasyInterface: A toolkit for rapid development of GUIs for research prototype tools</title>
+      <link>https://ebjohnsen.org/publication/17-fase/</link>
+      <pubDate>Sun, 02 Apr 2017 22:04:12 +0100</pubDate>
+      <guid>https://ebjohnsen.org/publication/17-fase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating deployment architectures and resource consumption in timed object-oriented models</title>
+      <link>https://ebjohnsen.org/publication/15-jlamp1/</link>
+      <pubDate>Wed, 21 Jan 2015 23:06:37 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/15-jlamp1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal modeling and analysis of resource management for cloud architectures: an industrial case study using Real-Time ABS</title>
+      <link>https://ebjohnsen.org/publication/14-soca/</link>
+      <pubDate>Sun, 21 Dec 2014 23:05:54 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/14-soca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deployment Variability in Delta-Oriented Models</title>
+      <link>https://ebjohnsen.org/publication/14-isola1/</link>
+      <pubDate>Tue, 21 Oct 2014 23:05:38 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/14-isola1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fault Model Design Space for Cooperative Concurrency</title>
+      <link>https://ebjohnsen.org/publication/14-isola2/</link>
+      <pubDate>Tue, 21 Oct 2014 20:17:14 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/14-isola2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erlang-Style Error Recovery for Concurrent Objects with Cooperative Scheduling</title>
+      <link>https://ebjohnsen.org/publication/14-isola3/</link>
+      <pubDate>Wed, 01 Oct 2014 20:21:47 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/14-isola3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User-defined Schedulers for Real-Time Concurrent Objects</title>
+      <link>https://ebjohnsen.org/publication/13-isse/</link>
+      <pubDate>Sun, 21 Apr 2013 23:02:20 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/13-isse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Resource-Aware Virtualized Applications for the Cloud in Real-Time ABS</title>
+      <link>https://ebjohnsen.org/publication/12-icfem/</link>
+      <pubDate>Wed, 21 Nov 2012 23:04:18 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/12-icfem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal Modeling of Resource Management for Cloud Architectures: An Industrial Case Study</title>
+      <link>https://ebjohnsen.org/publication/12-esocc/</link>
+      <pubDate>Fri, 21 Sep 2012 23:03:48 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/12-esocc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Formal Model of User-Defined Resources in Resource-Restricted Deployment Scenarios</title>
+      <link>https://ebjohnsen.org/publication/11-foveoos/</link>
+      <pubDate>Sat, 21 Jan 2012 23:02:40 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/11-foveoos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Formal Model of Object Mobility in Resource-Restricted Deployment Scenarios</title>
+      <link>https://ebjohnsen.org/publication/11-facs/</link>
+      <pubDate>Sat, 21 Jan 2012 23:02:30 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/11-facs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ABS: A Core Language for Abstract Behavioral Specification</title>
+      <link>https://ebjohnsen.org/publication/10-fmco/</link>
+      <pubDate>Sat, 21 Jan 2012 23:00:48 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/10-fmco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Models of Rate Restricted Communication for Concurrent Objects</title>
+      <link>https://ebjohnsen.org/publication/10-ttss/</link>
+      <pubDate>Sun, 21 Aug 2011 22:59:52 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/10-ttss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Spatial and Temporal Variability with the HATS Abstract Behavioral Modeling Language</title>
+      <link>https://ebjohnsen.org/publication/11-sfm/</link>
+      <pubDate>Mon, 13 Jun 2011 23:00:04 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/11-sfm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulating Concurrent Behaviors with Worst-Case Cost Bounds</title>
+      <link>https://ebjohnsen.org/publication/11-fm/</link>
+      <pubDate>Sat, 21 May 2011 23:02:30 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/11-fm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Resource Reallocation Between Deployment Components</title>
+      <link>https://ebjohnsen.org/publication/10-icfem/</link>
+      <pubDate>Thu, 21 Oct 2010 22:58:55 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/10-icfem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lightweight Time Modeling in Timed Creol</title>
+      <link>https://ebjohnsen.org/publication/10-rtrts/</link>
+      <pubDate>Tue, 21 Sep 2010 22:56:54 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/10-rtrts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validating Timed Models of Deployment Components with Parametric Concurrency</title>
+      <link>https://ebjohnsen.org/publication/10-foveoos/</link>
+      <pubDate>Wed, 21 Jul 2010 22:59:07 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/10-foveoos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Symbolic Execution for Testing Distributed Objects</title>
+      <link>https://ebjohnsen.org/publication/09-tap/</link>
+      <pubDate>Tue, 21 Jul 2009 22:55:26 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/09-tap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing Concurrent Objects with Application-Specific Schedulers</title>
+      <link>https://ebjohnsen.org/publication/08-ictac/</link>
+      <pubDate>Thu, 21 Aug 2008 22:53:49 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/08-ictac/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

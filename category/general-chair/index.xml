@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General chair | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/category/general-chair/</link>
+      <atom:link href="https://ebjohnsen.org/category/general-chair/index.xml" rel="self" type="application/rss+xml" />
+    <description>General chair</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Sep 2017 23:14:31 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
+      <title>General chair</title>
+      <link>https://ebjohnsen.org/category/general-chair/</link>
+    </image>
+    
+    <item>
+      <title>ESOCC 2017</title>
+      <link>https://ebjohnsen.org/talk/esocc-2017/</link>
+      <pubDate>Wed, 27 Sep 2017 23:14:31 +0200</pubDate>
+      <guid>https://ebjohnsen.org/talk/esocc-2017/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://esocc2017.ifi.uio.no/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESOCC 2017&lt;/a&gt;, Oslo, Norway, 27-29 September 2017&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
