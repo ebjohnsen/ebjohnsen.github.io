@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/publication-type/article-journal/</link>
       <atom:link href="https://ebjohnsen.org/publication-type/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>article-journal</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 Sep 2023 07:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 May 2024 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
       <title>article-journal</title>
       <link>https://ebjohnsen.org/publication-type/article-journal/</link>
     </image>
+    
+    <item>
+      <title>Locally Abstract, Globally Concrete Semantics of Concurrent Programming Languages</title>
+      <link>https://ebjohnsen.org/publication/24-toplas1/</link>
+      <pubDate>Wed, 15 May 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-toplas1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Reply to Ekström and Ottersen: Real-time access to data during outbreaks is a key to avoid a local epidemic becoming a global pandemic</title>
