@@ -526,6 +526,10 @@
     <lastmod>2022-08-18T07:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://ebjohnsen.org/authors/ina-schaefer/</loc>
+    <lastmod>2022-08-18T07:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ebjohnsen.org/authors/raul-pardo/</loc>
     <lastmod>2022-08-18T07:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -798,6 +802,10 @@
     <lastmod>2020-06-20T00:01:48+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://ebjohnsen.org/authors/ingrid-chieh-yu/</loc>
+    <lastmod>2020-06-20T00:01:48+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ebjohnsen.org/authors/lars-michael-kristensen/</loc>
     <lastmod>2020-06-20T00:01:48+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -986,6 +994,10 @@
     <lastmod>2020-07-26T23:13:07+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://ebjohnsen.org/category/programme-committees/</loc>
+    <lastmod>2020-07-26T23:13:07+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ebjohnsen.org/service/2018-sefm/</loc>
     <lastmod>2020-07-26T23:13:18+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1019,6 +1031,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/authors/olaf/</loc>
+    <lastmod>2018-01-02T22:04:12+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/olaf-owe/</loc>
     <lastmod>2018-01-02T22:04:12+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -2104,6 +2120,9 @@
   </url><url>
     <loc>https://ebjohnsen.org/publication/01-apsec/</loc>
     <lastmod>2001-12-15T22:46:33+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/ludo/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

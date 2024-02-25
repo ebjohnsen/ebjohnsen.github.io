@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>periodical | Einar Broch Johnsen</title>
+    <title>Periodical | Einar Broch Johnsen</title>
     <link>https://ebjohnsen.org/publication-type/periodical/</link>
       <atom:link href="https://ebjohnsen.org/publication-type/periodical/index.xml" rel="self" type="application/rss+xml" />
-    <description>periodical</description>
+    <description>Periodical</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Aug 2009 22:55:39 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
-      <title>periodical</title>
+      <title>Periodical</title>
       <link>https://ebjohnsen.org/publication-type/periodical/</link>
     </image>
     

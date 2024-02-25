@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deductive verification | Einar Broch Johnsen</title>
+    <title>Deductive Verification | Einar Broch Johnsen</title>
     <link>https://ebjohnsen.org/tag/deductive-verification/</link>
       <atom:link href="https://ebjohnsen.org/tag/deductive-verification/index.xml" rel="self" type="application/rss+xml" />
-    <description>Deductive verification</description>
+    <description>Deductive Verification</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jul 2019 23:08:36 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
-      <title>Deductive verification</title>
+      <title>Deductive Verification</title>
       <link>https://ebjohnsen.org/tag/deductive-verification/</link>
     </image>
     

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>admin | Einar Broch Johnsen</title>
+    <title>Admin | Einar Broch Johnsen</title>
     <link>https://ebjohnsen.org/authors/admin/</link>
       <atom:link href="https://ebjohnsen.org/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    <description>admin</description>
+    <description>Admin</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
-      <title>admin</title>
+      <title>Admin</title>
       <link>https://ebjohnsen.org/authors/admin/</link>
     </image>
     
