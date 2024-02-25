@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/tag/cloud/</link>
+      <atom:link href="https://ebjohnsen.org/tag/cloud/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cloud</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 07:07:44 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
+      <title>Cloud</title>
+      <link>https://ebjohnsen.org/tag/cloud/</link>
+    </image>
+    
+    <item>
+      <title>Predicting Resource Consumption of Kubernetes Container Systems using Resource Models</title>
+      <link>https://ebjohnsen.org/publication/23-jss/</link>
+      <pubDate>Fri, 01 Sep 2023 07:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/23-jss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital Twins for Autonomic Cloud Application Management</title>
+      <link>https://ebjohnsen.org/publication/22-ccpi/</link>
+      <pubDate>Wed, 13 Apr 2022 21:07:45 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/22-ccpi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Formal Model of the Kubernetes Container Framework</title>
+      <link>https://ebjohnsen.org/publication/20-isola2/</link>
+      <pubDate>Thu, 29 Oct 2020 09:07:54 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/20-isola2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assumption-Commitment Types for Resource Management in Virtually Timed Ambients</title>
+      <link>https://ebjohnsen.org/publication/20-isola1/</link>
+      <pubDate>Mon, 12 Oct 2020 09:07:51 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/20-isola1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A configurable and executable model of Spark Streaming on Apache YARN</title>
+      <link>https://ebjohnsen.org/publication/20-ijguc/</link>
+      <pubDate>Mon, 03 Feb 2020 23:06:28 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/20-ijguc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Checking Modal Contracts for Virtually Timed Ambients</title>
+      <link>https://ebjohnsen.org/publication/18-ictac/</link>
+      <pubDate>Fri, 19 Oct 2018 00:23:39 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/18-ictac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resource-Aware Virtually Timed Ambients</title>
+      <link>https://ebjohnsen.org/publication/18-ifm/</link>
+      <pubDate>Wed, 19 Sep 2018 00:23:39 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/18-ifm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling and Simulation of Spark Streaming</title>
+      <link>https://ebjohnsen.org/publication/18-aina/</link>
+      <pubDate>Thu, 17 May 2018 00:23:39 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/18-aina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtually timed ambients: A calculus of nested virtualization</title>
+      <link>https://ebjohnsen.org/publication/18-jlamp1/</link>
+      <pubDate>Tue, 02 Jan 2018 22:04:12 +0100</pubDate>
+      <guid>https://ebjohnsen.org/publication/18-jlamp1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A formal model of cloud-deployed software and its application to workflow processing</title>
+      <link>https://ebjohnsen.org/publication/17-softcom/</link>
+      <pubDate>Thu, 21 Sep 2017 22:04:12 +0100</pubDate>
+      <guid>https://ebjohnsen.org/publication/17-softcom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zephyrus2: On the Fly Deployment Optimization Using SMT and CP Technologies</title>
+      <link>https://ebjohnsen.org/publication/16-setta/</link>
+      <pubDate>Sat, 26 Nov 2016 00:23:39 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/16-setta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Deployment Decisions for Elastic Services with ABS</title>
+      <link>https://ebjohnsen.org/publication/16-ifmcloud/</link>
+      <pubDate>Wed, 26 Oct 2016 23:24:21 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/16-ifmcloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing AWS Deployments Using Model-Based Predictions</title>
+      <link>https://ebjohnsen.org/publication/16-isola/</link>
+      <pubDate>Thu, 06 Oct 2016 21:04:13 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/16-isola/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ABS-YARN: A Formal Framework for Modeling Hadoop YARN Clusters</title>
+      <link>https://ebjohnsen.org/publication/16-fase/</link>
+      <pubDate>Thu, 21 Jul 2016 23:08:36 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/16-fase/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

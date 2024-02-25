@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geir Horn | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/authors/geir-horn/</link>
+      <atom:link href="https://ebjohnsen.org/authors/geir-horn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Geir Horn</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Apr 2022 21:07:45 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
+      <title>Geir Horn</title>
+      <link>https://ebjohnsen.org/authors/geir-horn/</link>
+    </image>
+    
+    <item>
+      <title>Digital Twins for Autonomic Cloud Application Management</title>
+      <link>https://ebjohnsen.org/publication/22-ccpi/</link>
+      <pubDate>Wed, 13 Apr 2022 21:07:45 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/22-ccpi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

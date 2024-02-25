@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bernhard Beckert | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/authors/bernhard-beckert/</link>
+      <atom:link href="https://ebjohnsen.org/authors/bernhard-beckert/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bernhard Beckert</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Jul 2022 13:51:24 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
+      <title>Bernhard Beckert</title>
+      <link>https://ebjohnsen.org/authors/bernhard-beckert/</link>
+    </image>
+    
+    <item>
+      <title>The Logic of Software. A Tasting Menu of Formal Methods</title>
+      <link>https://ebjohnsen.org/publication/22-srh/</link>
+      <pubDate>Mon, 04 Jul 2022 13:51:24 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/22-srh/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
