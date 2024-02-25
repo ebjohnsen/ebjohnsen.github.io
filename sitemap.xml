@@ -2,19 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ebjohnsen.org/talk/example-talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ebjohnsen.org/categories/</loc>
     <lastmod>2024-09-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/fm-2024/</loc>
+    <loc>https://ebjohnsen.org/service/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/service/2024-fm/</loc>
     <lastmod>2024-09-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -30,7 +26,7 @@
     <lastmod>2024-09-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/ecmfa-2024/</loc>
+    <loc>https://ebjohnsen.org/service/2024-ecmfa/</loc>
     <lastmod>2024-07-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -86,7 +82,7 @@
     <lastmod>2024-05-15T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/a-digital-twin-of-the-oslo-fjord/</loc>
+    <loc>https://ebjohnsen.org/talk/24-sustainability/</loc>
     <lastmod>2024-05-13T20:15:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -99,6 +95,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/tag/talks/</loc>
+    <lastmod>2024-05-13T20:15:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/talk/</loc>
     <lastmod>2024-05-13T20:15:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -142,19 +142,19 @@
     <lastmod>2024-04-15T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/fase-2024/</loc>
+    <loc>https://ebjohnsen.org/service/2024-fase/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/remaro-2024/</loc>
+    <loc>https://ebjohnsen.org/service/2024-remaro/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/a-digital-twin-for-pandemic-monitoring-and-prevention/</loc>
+    <loc>https://ebjohnsen.org/talk/24-norwaylifescience/</loc>
     <lastmod>2024-02-13T11:15:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/en-digital-tvilling-for-oslofjorden/</loc>
+    <loc>https://ebjohnsen.org/talk/24-oslofjord-citizenscience/</loc>
     <lastmod>2024-02-08T20:15:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -186,7 +186,7 @@
     <lastmod>2024-01-27T13:51:24+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/digital-twins-an-emerging-paradigm-for-self-adaptive-model-centric-systems/</loc>
+    <loc>https://ebjohnsen.org/talk/24-oxford/</loc>
     <lastmod>2024-01-26T14:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -214,7 +214,7 @@
     <lastmod>2024-01-01T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/the-semantically-reflected-digital-twin/</loc>
+    <loc>https://ebjohnsen.org/talk/23-ictac/</loc>
     <lastmod>2023-12-05T09:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -242,7 +242,7 @@
     <lastmod>2023-12-01T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/ifm-2023/</loc>
+    <loc>https://ebjohnsen.org/service/2023-ifm/</loc>
     <lastmod>2023-11-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -278,7 +278,7 @@
     <lastmod>2023-11-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/klimabarometer-for-oslofjorden-faglig-pedagogisk-dag/</loc>
+    <loc>https://ebjohnsen.org/talk/23-uio-fagped/</loc>
     <lastmod>2023-11-02T11:15:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -402,19 +402,19 @@
     <lastmod>2023-08-01T10:33:05+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/tap-2023/</loc>
+    <loc>https://ebjohnsen.org/service/2023-tap/</loc>
     <lastmod>2023-07-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/digital-twins-an-emerging-paradigm-for-model-centric-systems/</loc>
+    <loc>https://ebjohnsen.org/talk/23-radboud/</loc>
     <lastmod>2023-05-02T12:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/fsen-2023/</loc>
+    <loc>https://ebjohnsen.org/service/2023-fsen/</loc>
     <lastmod>2023-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/fase-2023/</loc>
+    <loc>https://ebjohnsen.org/service/2023-fase/</loc>
     <lastmod>2023-04-16T12:09:51+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -442,11 +442,11 @@
     <lastmod>2023-03-16T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/klimabarometer-for-oslofjorden/</loc>
+    <loc>https://ebjohnsen.org/talk/23-uio-open-day/</loc>
     <lastmod>2023-03-09T12:45:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/fm-2023/</loc>
+    <loc>https://ebjohnsen.org/service/2023-fm/</loc>
     <lastmod>2023-03-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -494,7 +494,7 @@
     <lastmod>2022-12-30T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/digital-twins-an-emerging-paradigm-for-model-centric-engineering/</loc>
+    <loc>https://ebjohnsen.org/talk/22-ifi/</loc>
     <lastmod>2022-11-21T11:15:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -502,15 +502,15 @@
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/ase-nier-2022/</loc>
+    <loc>https://ebjohnsen.org/service/2022-ase/</loc>
     <lastmod>2022-10-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/a-semantically-reflected-digital-twin/</loc>
+    <loc>https://ebjohnsen.org/talk/22-ictac/</loc>
     <lastmod>2022-09-26T11:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/faacs-2022/</loc>
+    <loc>https://ebjohnsen.org/service/2022-faacs/</loc>
     <lastmod>2022-09-19T11:54:09+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -586,7 +586,7 @@
     <lastmod>2022-07-04T13:51:24+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/digital-twins-an-emerging-paradigm-for-model-centric-engineering-pnse-2022/</loc>
+    <loc>https://ebjohnsen.org/talk/22-pnse/</loc>
     <lastmod>2022-06-20T09:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -594,7 +594,7 @@
     <lastmod>2022-06-20T09:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/digital-twins-and-hpc/</loc>
+    <loc>https://ebjohnsen.org/talk/22-data_at_uio/</loc>
     <lastmod>2022-06-15T12:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -606,15 +606,15 @@
     <lastmod>2022-06-01T21:28:46+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/a-digital-twin-for-land-ocean-coupling-during-intense-precipitation/</loc>
+    <loc>https://ebjohnsen.org/talk/22-sustainability/</loc>
     <lastmod>2022-05-24T14:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/digital-twins-an-emerging-paradigm-for-model-centric-engineering-formalise-2022/</loc>
+    <loc>https://ebjohnsen.org/talk/22-formalise/</loc>
     <lastmod>2022-05-19T15:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/digital-twins-as-evolving-model-centric-systems/</loc>
+    <loc>https://ebjohnsen.org/talk/2022-edt/</loc>
     <lastmod>2022-05-02T17:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -638,11 +638,11 @@
     <lastmod>2022-04-04T13:51:24+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/digital-twins-from-engineering-to-science/</loc>
+    <loc>https://ebjohnsen.org/talk/22-uib/</loc>
     <lastmod>2022-02-17T12:45:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/tap-2022/</loc>
+    <loc>https://ebjohnsen.org/service/2022-tap/</loc>
     <lastmod>2022-01-26T23:09:15+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -654,7 +654,7 @@
     <lastmod>2021-08-07T21:07:45+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/ifm-2022/</loc>
+    <loc>https://ebjohnsen.org/service/2022-ifm/</loc>
     <lastmod>2021-07-26T23:09:15+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -670,7 +670,7 @@
     <lastmod>2021-06-08T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/fase-2022/</loc>
+    <loc>https://ebjohnsen.org/service/2022-fase/</loc>
     <lastmod>2021-05-31T23:09:07+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -678,7 +678,7 @@
     <lastmod>2021-05-31T23:09:07+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/vortex-2021/</loc>
+    <loc>https://ebjohnsen.org/service/2021-vortex/</loc>
     <lastmod>2021-03-31T23:09:07+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -766,15 +766,15 @@
     <lastmod>2020-08-20T00:17:05+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/fm-2021/</loc>
+    <loc>https://ebjohnsen.org/service/2021-fm/</loc>
     <lastmod>2020-07-26T23:09:07+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/agere-2020/</loc>
+    <loc>https://ebjohnsen.org/service/2020-agere/</loc>
     <lastmod>2020-07-26T23:09:07+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/ifm-2020/</loc>
+    <loc>https://ebjohnsen.org/service/2020-ifm/</loc>
     <lastmod>2020-07-26T23:09:15+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -806,11 +806,11 @@
     <lastmod>2020-06-20T00:01:48+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/formalise-2020/</loc>
+    <loc>https://ebjohnsen.org/service/2020-formalise/</loc>
     <lastmod>2020-07-26T23:09:34+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/fase-2020/</loc>
+    <loc>https://ebjohnsen.org/service/2020-fase/</loc>
     <lastmod>2020-07-27T23:30:16+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -818,7 +818,7 @@
     <lastmod>2020-04-14T23:08:36+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/esocc-2020/</loc>
+    <loc>https://ebjohnsen.org/service/2020-esocc/</loc>
     <lastmod>2020-07-26T23:10:02+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -834,15 +834,15 @@
     <lastmod>2020-02-03T23:06:28+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/ifm-2019/</loc>
+    <loc>https://ebjohnsen.org/service/2019-ifm/</loc>
     <lastmod>2020-07-26T23:10:19+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/agere-2019/</loc>
+    <loc>https://ebjohnsen.org/service/2019-agere/</loc>
     <lastmod>2020-07-26T23:10:27+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/fm-2019/</loc>
+    <loc>https://ebjohnsen.org/service/2019-fm/</loc>
     <lastmod>2020-07-26T23:10:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -878,7 +878,7 @@
     <lastmod>2019-07-09T00:23:39+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/formalise-2019/</loc>
+    <loc>https://ebjohnsen.org/service/2019-formalise/</loc>
     <lastmod>2020-07-26T23:11:26+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -902,7 +902,7 @@
     <lastmod>2019-05-13T00:23:39+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/sac-ngps-2019/</loc>
+    <loc>https://ebjohnsen.org/service/2019-sac-ngps/</loc>
     <lastmod>2020-07-26T23:12:03+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -950,7 +950,7 @@
     <lastmod>2018-11-05T00:23:39+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/nwpt-2018/</loc>
+    <loc>https://ebjohnsen.org/service/2018-nwpt/</loc>
     <lastmod>2020-07-26T23:12:20+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -966,31 +966,31 @@
     <lastmod>2018-09-19T00:23:39+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/2018-nik/</loc>
+    <loc>https://ebjohnsen.org/service/2018-nik/</loc>
     <lastmod>2020-07-26T23:12:34+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/esocc-2018/</loc>
+    <loc>https://ebjohnsen.org/service/2018-esocc/</loc>
     <lastmod>2020-07-26T23:12:53+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/ifm-2018/</loc>
+    <loc>https://ebjohnsen.org/service/2018-ifm/</loc>
     <lastmod>2020-07-26T23:12:27+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/setta-2018/</loc>
+    <loc>https://ebjohnsen.org/service/2018-setta/</loc>
     <lastmod>2020-07-26T23:13:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/fm-2018/</loc>
+    <loc>https://ebjohnsen.org/service/2018-fm/</loc>
     <lastmod>2020-07-26T23:13:07+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/sefm-2018/</loc>
+    <loc>https://ebjohnsen.org/service/2018-sefm/</loc>
     <lastmod>2020-07-26T23:13:18+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/forte-2018/</loc>
+    <loc>https://ebjohnsen.org/service/2018-forte/</loc>
     <lastmod>2020-07-26T23:13:37+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -998,7 +998,7 @@
     <lastmod>2018-06-18T13:51:24+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/formalise-2018/</loc>
+    <loc>https://ebjohnsen.org/service/2018-formalise/</loc>
     <lastmod>2020-07-26T23:13:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1010,7 +1010,7 @@
     <lastmod>2018-05-17T00:23:39+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/fase-2018/</loc>
+    <loc>https://ebjohnsen.org/service/2018-fase/</loc>
     <lastmod>2020-07-26T23:13:58+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1030,11 +1030,11 @@
     <lastmod>2017-12-02T22:04:12+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/nwpt-2017/</loc>
+    <loc>https://ebjohnsen.org/service/2017-nwpt/</loc>
     <lastmod>2020-07-26T23:14:06+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/microservices-2017/</loc>
+    <loc>https://ebjohnsen.org/service/2017-microservices/</loc>
     <lastmod>2020-07-26T23:14:16+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1070,11 +1070,11 @@
     <lastmod>2017-10-22T00:23:39+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/facs-2017/</loc>
+    <loc>https://ebjohnsen.org/service/2017-facs/</loc>
     <lastmod>2020-07-26T23:14:24+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/esocc-2017/</loc>
+    <loc>https://ebjohnsen.org/service/2017-esocc/</loc>
     <lastmod>2020-07-26T23:14:31+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1094,7 +1094,7 @@
     <lastmod>2017-09-21T22:04:12+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/ifm-2017/</loc>
+    <loc>https://ebjohnsen.org/service/2017-ifm/</loc>
     <lastmod>2020-07-26T23:14:59+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1110,11 +1110,11 @@
     <lastmod>2017-09-07T13:51:24+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/sefm-2017/</loc>
+    <loc>https://ebjohnsen.org/service/2017-sefm/</loc>
     <lastmod>2020-07-26T23:15:15+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/tap-2017/</loc>
+    <loc>https://ebjohnsen.org/service/2017-tap/</loc>
     <lastmod>2020-07-26T23:15:27+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1126,11 +1126,11 @@
     <lastmod>2017-07-07T13:51:24+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/fsen-2017/</loc>
+    <loc>https://ebjohnsen.org/service/2017-fsen/</loc>
     <lastmod>2020-07-26T23:15:43+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/fase-2017/</loc>
+    <loc>https://ebjohnsen.org/service/2017-fase/</loc>
     <lastmod>2020-07-26T23:15:37+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1166,11 +1166,11 @@
     <lastmod>2016-11-26T00:23:39+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/fm-2016/</loc>
+    <loc>https://ebjohnsen.org/service/2016-fm/</loc>
     <lastmod>2020-07-26T23:16:07+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/nwpt-2016/</loc>
+    <loc>https://ebjohnsen.org/service/2016-nwpt/</loc>
     <lastmod>2020-07-26T23:16:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1202,7 +1202,7 @@
     <lastmod>2016-09-07T13:51:24+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/esocc-2016/</loc>
+    <loc>https://ebjohnsen.org/service/2016-esocc/</loc>
     <lastmod>2020-07-26T23:16:31+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1302,31 +1302,31 @@
     <lastmod>2016-07-21T21:55:11+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/tase-2016/</loc>
+    <loc>https://ebjohnsen.org/service/2016-tase/</loc>
     <lastmod>2020-07-26T23:16:36+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/sefm-2016/</loc>
+    <loc>https://ebjohnsen.org/service/2016-sefm/</loc>
     <lastmod>2020-07-26T23:16:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/e-mucocos-2016/</loc>
+    <loc>https://ebjohnsen.org/service/2016-e-mucocos/</loc>
     <lastmod>2020-07-26T23:16:21+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/coordination-2016/</loc>
+    <loc>https://ebjohnsen.org/service/2016-coordination/</loc>
     <lastmod>2020-07-26T23:16:58+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/forte-2016/</loc>
+    <loc>https://ebjohnsen.org/service/2016-forte/</loc>
     <lastmod>2020-07-26T23:16:49+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/ifm-2016/</loc>
+    <loc>https://ebjohnsen.org/service/2016-ifm/</loc>
     <lastmod>2020-07-26T23:17:05+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/score@icse-2016/</loc>
+    <loc>https://ebjohnsen.org/service/2016-score/</loc>
     <lastmod>2020-07-26T23:17:13+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1366,11 +1366,11 @@
     <lastmod>2015-11-21T23:07:48+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/ictac-2015/</loc>
+    <loc>https://ebjohnsen.org/service/2015-ictac/</loc>
     <lastmod>2020-07-26T23:17:46+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/nwpt-2015/</loc>
+    <loc>https://ebjohnsen.org/service/2015-nwpt/</loc>
     <lastmod>2020-07-26T23:17:21+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1406,11 +1406,11 @@
     <lastmod>2015-07-21T21:55:11+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/ecoop-2015/</loc>
+    <loc>https://ebjohnsen.org/service/2015-ecoop/</loc>
     <lastmod>2020-07-26T23:17:54+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/fm-2015/</loc>
+    <loc>https://ebjohnsen.org/service/2015-fm/</loc>
     <lastmod>2020-07-26T23:17:36+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1438,11 +1438,11 @@
     <lastmod>2015-05-21T23:07:40+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/fsen-2015/</loc>
+    <loc>https://ebjohnsen.org/service/2015-fsen/</loc>
     <lastmod>2020-07-26T23:18:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/fase-2015/</loc>
+    <loc>https://ebjohnsen.org/service/2015-fase/</loc>
     <lastmod>2020-07-26T23:18:09+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1466,7 +1466,7 @@
     <lastmod>2014-12-21T23:05:54+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/nwpt-2014/</loc>
+    <loc>https://ebjohnsen.org/service/2014-nwpt/</loc>
     <lastmod>2020-07-26T23:18:16+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1490,7 +1490,7 @@
     <lastmod>2014-10-21T20:17:14+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/agere-2014/</loc>
+    <loc>https://ebjohnsen.org/service/2014-agere/</loc>
     <lastmod>2020-07-26T23:18:25+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1502,19 +1502,19 @@
     <lastmod>2014-10-01T20:21:47+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/ifm-2014/</loc>
+    <loc>https://ebjohnsen.org/service/2014-ifm/</loc>
     <lastmod>2020-07-26T23:18:31+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/beat-2014/</loc>
+    <loc>https://ebjohnsen.org/service/2014-beat/</loc>
     <lastmod>2020-07-26T23:18:37+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/ecoop-2014/</loc>
+    <loc>https://ebjohnsen.org/service/2014-ecoop/</loc>
     <lastmod>2020-07-26T23:18:59+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/wing-2014/</loc>
+    <loc>https://ebjohnsen.org/service/2014-wing/</loc>
     <lastmod>2020-07-26T23:18:51+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1526,7 +1526,7 @@
     <lastmod>2020-07-26T23:23:53+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/sfm-2014-envisage-summer-school/</loc>
+    <loc>https://ebjohnsen.org/service/2014-sfm/</loc>
     <lastmod>2020-07-26T23:18:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1534,7 +1534,7 @@
     <lastmod>2014-06-07T13:51:24+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/formalise-2014/</loc>
+    <loc>https://ebjohnsen.org/service/2014-formalise/</loc>
     <lastmod>2020-07-26T23:19:06+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1550,15 +1550,15 @@
     <lastmod>2014-01-21T23:06:06+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/nwpt-2013/</loc>
+    <loc>https://ebjohnsen.org/service/2013-nwpt/</loc>
     <lastmod>2020-07-26T23:19:14+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/sefm-2013/</loc>
+    <loc>https://ebjohnsen.org/service/2013-sefm/</loc>
     <lastmod>2020-07-26T23:19:48+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/beat-2013/</loc>
+    <loc>https://ebjohnsen.org/service/2013-beat/</loc>
     <lastmod>2020-07-26T23:19:24+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1566,19 +1566,19 @@
     <lastmod>2013-09-21T23:05:24+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/pppj-2013/</loc>
+    <loc>https://ebjohnsen.org/service/2013-pppj/</loc>
     <lastmod>2020-07-26T23:19:33+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/calco-tools-2013/</loc>
+    <loc>https://ebjohnsen.org/service/2013-calco-tools/</loc>
     <lastmod>2020-07-26T23:20:20+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/ifm-2013/</loc>
+    <loc>https://ebjohnsen.org/service/2013-ifm/</loc>
     <lastmod>2020-07-26T23:20:07+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/fmdep-2013/</loc>
+    <loc>https://ebjohnsen.org/service/2013-fmdep/</loc>
     <lastmod>2020-07-26T23:19:40+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1602,7 +1602,7 @@
     <lastmod>2013-05-21T23:05:03+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/fsen-2013/</loc>
+    <loc>https://ebjohnsen.org/service/2013-fsen/</loc>
     <lastmod>2020-07-26T23:20:29+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1618,11 +1618,11 @@
     <lastmod>2012-11-21T23:04:18+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/nwpt-2012/</loc>
+    <loc>https://ebjohnsen.org/service/2012-nwpt/</loc>
     <lastmod>2020-07-26T23:20:37+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/agere-2012/</loc>
+    <loc>https://ebjohnsen.org/service/2012-agere/</loc>
     <lastmod>2020-07-26T23:20:45+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1642,11 +1642,11 @@
     <lastmod>2012-08-21T23:04:51+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/lfsa-2012/</loc>
+    <loc>https://ebjohnsen.org/service/2012-lfsa/</loc>
     <lastmod>2020-07-26T23:20:53+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/ifm-2012/</loc>
+    <loc>https://ebjohnsen.org/service/2012-ifm/</loc>
     <lastmod>2020-07-26T23:21:17+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1662,7 +1662,7 @@
     <lastmod>2012-06-18T23:01:58+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/fmoods/forte-2012/</loc>
+    <loc>https://ebjohnsen.org/service/2012-fmoods/</loc>
     <lastmod>2020-07-26T23:21:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1702,11 +1702,11 @@
     <lastmod>2011-10-21T22:59:19+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/foveoos-2011/</loc>
+    <loc>https://ebjohnsen.org/service/2011-foveoos/</loc>
     <lastmod>2020-07-26T23:21:34+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/tase-2011/</loc>
+    <loc>https://ebjohnsen.org/service/2011-tase/</loc>
     <lastmod>2020-07-26T23:21:59+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1722,7 +1722,7 @@
     <lastmod>2011-06-21T23:00:15+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/fm-2011/</loc>
+    <loc>https://ebjohnsen.org/service/2011-fm/</loc>
     <lastmod>2020-07-26T23:22:12+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1734,7 +1734,7 @@
     <lastmod>2011-06-13T23:00:04+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/fmoods/forte-2011/</loc>
+    <loc>https://ebjohnsen.org/service/2011-fmoods/</loc>
     <lastmod>2020-07-26T23:22:06+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1754,11 +1754,11 @@
     <lastmod>2011-04-21T22:59:32+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/fsen-2011/</loc>
+    <loc>https://ebjohnsen.org/service/2011-fsen/</loc>
     <lastmod>2020-07-26T23:22:19+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/nwpt-2010/</loc>
+    <loc>https://ebjohnsen.org/service/2011-nwpt/</loc>
     <lastmod>2020-07-26T23:21:26+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1766,7 +1766,7 @@
     <lastmod>2010-10-21T22:58:55+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/facs-2010/</loc>
+    <loc>https://ebjohnsen.org/service/2010-facs/</loc>
     <lastmod>2020-07-26T23:22:36+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1790,7 +1790,7 @@
     <lastmod>2010-09-21T22:56:03+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/ttss-2011/</loc>
+    <loc>https://ebjohnsen.org/service/2011-ttss/</loc>
     <lastmod>2020-07-26T23:21:48+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1810,15 +1810,15 @@
     <lastmod>2010-07-21T22:59:07+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/lfsa-2010/</loc>
+    <loc>https://ebjohnsen.org/service/2010-lfsa/</loc>
     <lastmod>2020-07-26T23:22:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/nwpt-2010/</loc>
+    <loc>https://ebjohnsen.org/service/2010-nwpt/</loc>
     <lastmod>2020-07-26T23:22:29+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/foveoos-2010/</loc>
+    <loc>https://ebjohnsen.org/service/2010-foveoos/</loc>
     <lastmod>2020-07-26T23:22:50+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1826,7 +1826,7 @@
     <lastmod>2010-06-21T22:56:14+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/fmoods/forte-2010/</loc>
+    <loc>https://ebjohnsen.org/service/2010-fmoods/</loc>
     <lastmod>2020-07-26T23:22:59+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1838,11 +1838,11 @@
     <lastmod>2009-11-21T22:55:49+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/facs-2009/</loc>
+    <loc>https://ebjohnsen.org/service/2009-facs/</loc>
     <lastmod>2020-07-26T23:23:14+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/nwpt-2009/</loc>
+    <loc>https://ebjohnsen.org/service/2009-nwpt/</loc>
     <lastmod>2020-07-26T23:23:08+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1878,11 +1878,11 @@
     <lastmod>2009-06-21T22:54:43+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/fmoods/forte-2009/</loc>
+    <loc>https://ebjohnsen.org/service/2009-fmoods/</loc>
     <lastmod>2020-07-26T23:23:22+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/2009-fsen/</loc>
+    <loc>https://ebjohnsen.org/service/2009-fsen/</loc>
     <lastmod>2020-07-26T23:23:29+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1902,11 +1902,11 @@
     <lastmod>2009-02-21T22:55:06+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/ifm-2009/</loc>
+    <loc>https://ebjohnsen.org/service/2009-ifm/</loc>
     <lastmod>2020-07-26T23:23:39+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/cost-ic0701-winter-school/</loc>
+    <loc>https://ebjohnsen.org/service/2009-cost/</loc>
     <lastmod>2020-07-26T23:23:53+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1918,7 +1918,7 @@
     <lastmod>2008-12-21T22:54:17+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/nwpt-2008/</loc>
+    <loc>https://ebjohnsen.org/service/2008-nwpt/</loc>
     <lastmod>2020-07-26T23:24:01+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1930,7 +1930,7 @@
     <lastmod>2008-08-21T22:53:49+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/discotec-2008/</loc>
+    <loc>https://ebjohnsen.org/service/2008-discotec/</loc>
     <lastmod>2020-07-26T23:24:08+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
