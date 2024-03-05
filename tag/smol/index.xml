@@ -1,16 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Smol | Einar Broch Johnsen</title>
+    <title>SMOL | Einar Broch Johnsen</title>
     <link>https://ebjohnsen.org/tag/smol/</link>
       <atom:link href="https://ebjohnsen.org/tag/smol/index.xml" rel="self" type="application/rss+xml" />
-    <description>Smol</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 21:28:46 +0200</lastBuildDate>
+    <description>SMOL</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Apr 2024 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
-      <title>Smol</title>
+      <title>SMOL</title>
       <link>https://ebjohnsen.org/tag/smol/</link>
     </image>
+    
+    <item>
+      <title>GreenhouseDT: An Exemplar for Digital Twins</title>
+      <link>https://ebjohnsen.org/publication/24-seams/</link>
+      <pubDate>Mon, 15 Apr 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-seams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Semantically Reflected Digital Twin</title>
+      <link>https://ebjohnsen.org/talk/the-semantically-reflected-digital-twin/</link>
+      <pubDate>Tue, 05 Dec 2023 09:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/the-semantically-reflected-digital-twin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Semantically Reflected Digital Twin</title>
+      <link>https://ebjohnsen.org/talk/a-semantically-reflected-digital-twin/</link>
+      <pubDate>Mon, 26 Sep 2022 11:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/a-semantically-reflected-digital-twin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital Twin Reconfiguration Using Asset Models</title>
+      <link>https://ebjohnsen.org/publication/22-isola2/</link>
+      <pubDate>Thu, 18 Aug 2022 06:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/22-isola2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Knowledge Structures over Simulation Units</title>
