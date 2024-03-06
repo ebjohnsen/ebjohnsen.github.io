@@ -34,6 +34,10 @@
     <lastmod>2024-05-15T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://ebjohnsen.org/tag/abs/</loc>
+    <lastmod>2024-05-15T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ebjohnsen.org/category/abs/</loc>
     <lastmod>2024-05-15T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -43,6 +47,14 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/authors/crystal/</loc>
+    <lastmod>2024-05-15T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/tag/denotational-semantics/</loc>
+    <lastmod>2024-05-15T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/category/denotational-semantics/</loc>
     <lastmod>2024-05-15T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -67,6 +79,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/authors/reiner/</loc>
+    <lastmod>2024-05-15T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/tag/semantics/</loc>
     <lastmod>2024-05-15T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -230,10 +246,6 @@
     <lastmod>2023-12-01T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/tag/denotational-semantics/</loc>
-    <lastmod>2023-12-01T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ebjohnsen.org/publication/23-ictac/</loc>
     <lastmod>2023-12-01T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -243,6 +255,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/tag/symbolic-execution/</loc>
+    <lastmod>2023-12-01T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/category/symbolic-execution/</loc>
     <lastmod>2023-12-01T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -376,10 +392,6 @@
   </url><url>
     <loc>https://ebjohnsen.org/authors/zachary-j.-susag/</loc>
     <lastmod>2023-09-03T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/tag/abs/</loc>
-    <lastmod>2023-09-01T07:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/authors/andrea-borgarelli/</loc>
