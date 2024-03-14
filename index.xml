@@ -45,6 +45,14 @@
     </item>
     
     <item>
+      <title>User Journey Games: Automating User-Centric Analysis</title>
+      <link>https://ebjohnsen.org/publication/24-sosym/</link>
+      <pubDate>Wed, 15 May 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-sosym/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Digital Twin of the Oslo Fjord</title>
       <link>https://ebjohnsen.org/talk/a-digital-twin-of-the-oslo-fjord/</link>
       <pubDate>Mon, 13 May 2024 20:15:00 +0000</pubDate>
@@ -1137,7 +1145,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-879516234&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-691254783&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -1147,7 +1155,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-879516234&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-691254783&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
