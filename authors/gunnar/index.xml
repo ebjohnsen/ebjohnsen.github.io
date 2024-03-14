@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gunnar Rye Bergersen | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/authors/gunnar/</link>
+      <atom:link href="https://ebjohnsen.org/authors/gunnar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gunnar Rye Bergersen</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 May 2024 09:07:44 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/authors/gunnar/avatar_hua894396a917590697702b3136de53ad6_20942_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Gunnar Rye Bergersen</title>
+      <link>https://ebjohnsen.org/authors/gunnar/</link>
+    </image>
+    
+    <item>
+      <title>User Journey Games: Automating User-Centric Analysis</title>
+      <link>https://ebjohnsen.org/publication/24-sosym/</link>
+      <pubDate>Wed, 15 May 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-sosym/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulating User Journeys with Active Objects</title>
+      <link>https://ebjohnsen.org/publication/24-aol/</link>
+      <pubDate>Mon, 01 Jan 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-aol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weighted Games for User Journeys</title>
+      <link>https://ebjohnsen.org/publication/22-sefm/</link>
+      <pubDate>Mon, 08 Aug 2022 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/22-sefm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
