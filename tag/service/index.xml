@@ -5,7 +5,7 @@
     <link>https://ebjohnsen.org/tag/service/</link>
       <atom:link href="https://ebjohnsen.org/tag/service/index.xml" rel="self" type="application/rss+xml" />
     <description>Service</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
       <title>Service</title>
@@ -13,196 +13,204 @@
     </image>
     
     <item>
+      <title>iFM 2024</title>
+      <link>https://ebjohnsen.org/talk/ifm-2024/</link>
+      <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/ifm-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>EDTconf 2024</title>
-      <link>https://ebjohnsen.org/service/2024-edt/</link>
+      <link>https://ebjohnsen.org/talk/edtconf-2024/</link>
       <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://ebjohnsen.org/service/2024-edt/</guid>
+      <guid>https://ebjohnsen.org/talk/edtconf-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FM 2024</title>
-      <link>https://ebjohnsen.org/service/2024-fm/</link>
+      <link>https://ebjohnsen.org/talk/fm-2024/</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://ebjohnsen.org/service/2024-fm/</guid>
+      <guid>https://ebjohnsen.org/talk/fm-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ECMFA 2024</title>
-      <link>https://ebjohnsen.org/service/2024-ecmfa/</link>
+      <link>https://ebjohnsen.org/talk/ecmfa-2024/</link>
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://ebjohnsen.org/service/2024-ecmfa/</guid>
+      <guid>https://ebjohnsen.org/talk/ecmfa-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FASE 2024</title>
-      <link>https://ebjohnsen.org/service/2024-fase/</link>
+      <link>https://ebjohnsen.org/talk/fase-2024/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://ebjohnsen.org/service/2024-fase/</guid>
+      <guid>https://ebjohnsen.org/talk/fase-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>REMARO 2024</title>
-      <link>https://ebjohnsen.org/service/2024-remaro/</link>
+      <link>https://ebjohnsen.org/talk/remaro-2024/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://ebjohnsen.org/service/2024-remaro/</guid>
+      <guid>https://ebjohnsen.org/talk/remaro-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>iFM 2023</title>
-      <link>https://ebjohnsen.org/service/2023-ifm/</link>
+      <link>https://ebjohnsen.org/talk/ifm-2023/</link>
       <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://ebjohnsen.org/service/2023-ifm/</guid>
+      <guid>https://ebjohnsen.org/talk/ifm-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TAP 2023</title>
-      <link>https://ebjohnsen.org/service/2023-tap/</link>
+      <link>https://ebjohnsen.org/talk/tap-2023/</link>
       <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://ebjohnsen.org/service/2023-tap/</guid>
+      <guid>https://ebjohnsen.org/talk/tap-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FSEN 2023</title>
-      <link>https://ebjohnsen.org/service/2023-fsen/</link>
+      <link>https://ebjohnsen.org/talk/fsen-2023/</link>
       <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://ebjohnsen.org/service/2023-fsen/</guid>
+      <guid>https://ebjohnsen.org/talk/fsen-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FASE 2023</title>
-      <link>https://ebjohnsen.org/service/2023-fase/</link>
+      <link>https://ebjohnsen.org/talk/fase-2023/</link>
       <pubDate>Sun, 16 Apr 2023 12:09:51 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2023-fase/</guid>
+      <guid>https://ebjohnsen.org/talk/fase-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FM 2023</title>
-      <link>https://ebjohnsen.org/service/2023-fm/</link>
+      <link>https://ebjohnsen.org/talk/fm-2023/</link>
       <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://ebjohnsen.org/service/2023-fm/</guid>
+      <guid>https://ebjohnsen.org/talk/fm-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ASE-NIER 2022</title>
-      <link>https://ebjohnsen.org/service/2022-ase/</link>
+      <link>https://ebjohnsen.org/talk/ase-nier-2022/</link>
       <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://ebjohnsen.org/service/2022-ase/</guid>
+      <guid>https://ebjohnsen.org/talk/ase-nier-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FAACS 2022</title>
-      <link>https://ebjohnsen.org/service/2022-faacs/</link>
+      <link>https://ebjohnsen.org/talk/faacs-2022/</link>
       <pubDate>Mon, 19 Sep 2022 11:54:09 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2022-faacs/</guid>
+      <guid>https://ebjohnsen.org/talk/faacs-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>iFM 2022</title>
-      <link>https://ebjohnsen.org/service/2022-ifm/</link>
+      <link>https://ebjohnsen.org/talk/ifm-2022/</link>
       <pubDate>Mon, 26 Jul 2021 23:09:15 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2022-ifm/</guid>
+      <guid>https://ebjohnsen.org/talk/ifm-2022/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://ifm22.si.usi.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iFM 2022&lt;/a&gt;, Lugano, Switzerland, 7-10 June 2022&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>FASE 2022</title>
-      <link>https://ebjohnsen.org/service/2022-fase/</link>
+      <link>https://ebjohnsen.org/talk/fase-2022/</link>
       <pubDate>Mon, 31 May 2021 23:09:07 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2022-fase/</guid>
+      <guid>https://ebjohnsen.org/talk/fase-2022/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://etaps.org/2022/fase&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FASE 2022&lt;/a&gt;, Munich, Germany, April 2-7, 2022&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>VORTEX 2021</title>
-      <link>https://ebjohnsen.org/service/2021-vortex/</link>
+      <link>https://ebjohnsen.org/talk/vortex-2021/</link>
       <pubDate>Wed, 31 Mar 2021 23:09:07 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2021-vortex/</guid>
+      <guid>https://ebjohnsen.org/talk/vortex-2021/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://conf.researchr.org/track/ecoop-issta-2021/ecoop-issta-2021-vortex&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VORTEX 2021&lt;/a&gt;, Virtual Aarhus, Denmark July 12, 2021&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>FM 2021</title>
-      <link>https://ebjohnsen.org/service/2021-fm/</link>
+      <link>https://ebjohnsen.org/talk/fm-2021/</link>
       <pubDate>Mon, 27 Jul 2020 23:09:07 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2021-fm/</guid>
+      <guid>https://ebjohnsen.org/talk/fm-2021/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://formalmethods2021.csp.escience.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FM 2021&lt;/a&gt;, Beijing, China Nov 20, 2021 - Nov 26, 2021&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AGERE 2020</title>
-      <link>https://ebjohnsen.org/service/2020-agere/</link>
+      <link>https://ebjohnsen.org/talk/agere-2020/</link>
       <pubDate>Sun, 26 Jul 2020 23:19:07 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2020-agere/</guid>
+      <guid>https://ebjohnsen.org/talk/agere-2020/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://2020.splashcon.org/home/agere-2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AGERE 2020&lt;/a&gt;, Chicago, US, 20 November 2020&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>iFM 2020</title>
-      <link>https://ebjohnsen.org/service/2020-ifm/</link>
+      <link>https://ebjohnsen.org/talk/ifm-2020/</link>
       <pubDate>Sun, 26 Jul 2020 23:09:15 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2020-ifm/</guid>
+      <guid>https://ebjohnsen.org/talk/ifm-2020/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://ifm20.si.usi.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iFM 2020&lt;/a&gt;, Lugano, Switzerland, 16-20 November 2020&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>FormaliSE 2020</title>
-      <link>https://ebjohnsen.org/service/2020-formalise/</link>
+      <link>https://ebjohnsen.org/talk/formalise-2020/</link>
       <pubDate>Mon, 25 May 2020 23:09:34 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2020-formalise/</guid>
+      <guid>https://ebjohnsen.org/talk/formalise-2020/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.formalise.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FormaliSE 2020&lt;/a&gt;, Seoul, Korea, 25-26 May 2020&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ESOCC 2020</title>
-      <link>https://ebjohnsen.org/service/2020-esocc/</link>
+      <link>https://ebjohnsen.org/talk/esocc-2020/</link>
       <pubDate>Wed, 01 Apr 2020 23:10:02 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2020-esocc/</guid>
+      <guid>https://ebjohnsen.org/talk/esocc-2020/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://esocc-conf.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESOCC 2020&lt;/a&gt;, Heraklion, Crete, 1-3 April 2020&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>iFM 2019</title>
-      <link>https://ebjohnsen.org/service/2019-ifm/</link>
+      <link>https://ebjohnsen.org/talk/ifm-2019/</link>
       <pubDate>Mon, 02 Dec 2019 23:10:19 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2019-ifm/</guid>
+      <guid>https://ebjohnsen.org/talk/ifm-2019/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://ifm2019.hvl.no/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iFM 2019&lt;/a&gt;, Bergen, Norway, 2-6 December 2019&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AGERE 2019</title>
-      <link>https://ebjohnsen.org/service/2019-agere/</link>
+      <link>https://ebjohnsen.org/talk/agere-2019/</link>
       <pubDate>Sun, 20 Oct 2019 23:10:27 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2019-agere/</guid>
+      <guid>https://ebjohnsen.org/talk/agere-2019/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://2019.splashcon.org/home/agere-2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AGERE 2019&lt;/a&gt;, Athens, Greece, 20-25 Oct 2019&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>FM 2019</title>
-      <link>https://ebjohnsen.org/service/2019-fm/</link>
+      <link>https://ebjohnsen.org/talk/fm-2019/</link>
       <pubDate>Mon, 07 Oct 2019 23:10:44 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2019-fm/</guid>
+      <guid>https://ebjohnsen.org/talk/fm-2019/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://formalmethods2019.inesctec.pt/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FM 2019&lt;/a&gt;, Porto, Portugal, 7-11 October, 2019&lt;/li&gt;
 &lt;/ul&gt;
@@ -211,36 +219,36 @@
     
     <item>
       <title>FormaliSE 2019</title>
-      <link>https://ebjohnsen.org/service/2019-formalise/</link>
+      <link>https://ebjohnsen.org/talk/formalise-2019/</link>
       <pubDate>Mon, 27 May 2019 23:11:26 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2019-formalise/</guid>
+      <guid>https://ebjohnsen.org/talk/formalise-2019/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.formalise.org/content/formalise-2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FormaliSE 2019&lt;/a&gt;, Montreal, Canada, 27 May 2019&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>SAC-NGPS 2019</title>
-      <link>https://ebjohnsen.org/service/2019-sac-ngps/</link>
+      <link>https://ebjohnsen.org/talk/sac-ngps-2019/</link>
       <pubDate>Mon, 08 Apr 2019 23:12:03 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2019-sac-ngps/</guid>
+      <guid>https://ebjohnsen.org/talk/sac-ngps-2019/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://ngps2019.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SAC-NGPS 2019&lt;/a&gt;, Limassol, Cyprus, 8-12  April, 2019&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>NWPT 2018</title>
-      <link>https://ebjohnsen.org/service/2018-nwpt/</link>
+      <link>https://ebjohnsen.org/talk/nwpt-2018/</link>
       <pubDate>Wed, 24 Oct 2018 23:12:20 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2018-nwpt/</guid>
+      <guid>https://ebjohnsen.org/talk/nwpt-2018/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://nwpt2018.ifi.uio.no/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NWPT 2018&lt;/a&gt;, Oslo, Norway, 24-26 Oct 2018&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>2018 Nik</title>
-      <link>https://ebjohnsen.org/service/2018-nik/</link>
+      <link>https://ebjohnsen.org/talk/2018-nik/</link>
       <pubDate>Tue, 18 Sep 2018 23:12:34 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2018-nik/</guid>
+      <guid>https://ebjohnsen.org/talk/2018-nik/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://nikt2018.ifi.uio.no/index_en.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NIK 2018&lt;/a&gt;, Spitsbergen,&lt;/p&gt;
 &lt;h1 id=&#34;norway-18-20-sept-2018-pc-chair&#34;&gt;Norway, 18-20 Sept 2018 (PC chair)&lt;/h1&gt;
 </description>
@@ -248,153 +256,153 @@
     
     <item>
       <title>ESOCC 2018</title>
-      <link>https://ebjohnsen.org/service/2018-esocc/</link>
+      <link>https://ebjohnsen.org/talk/esocc-2018/</link>
       <pubDate>Wed, 12 Sep 2018 23:12:53 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2018-esocc/</guid>
+      <guid>https://ebjohnsen.org/talk/esocc-2018/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://esocc2018.disco.unimib.it/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESOCC 2018&lt;/a&gt;, Como, Italy, 12-14 September 2018&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>iFM 2018</title>
-      <link>https://ebjohnsen.org/service/2018-ifm/</link>
+      <link>https://ebjohnsen.org/talk/ifm-2018/</link>
       <pubDate>Wed, 05 Sep 2018 23:12:27 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2018-ifm/</guid>
+      <guid>https://ebjohnsen.org/talk/ifm-2018/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://ifm2018.cs.nuim.ie/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iFM 2018&lt;/a&gt;, Maynooth, Ireland, 5-7 September 2018&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>SETTA 2018</title>
-      <link>https://ebjohnsen.org/service/2018-setta/</link>
+      <link>https://ebjohnsen.org/talk/setta-2018/</link>
       <pubDate>Tue, 04 Sep 2018 23:13:00 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2018-setta/</guid>
+      <guid>https://ebjohnsen.org/talk/setta-2018/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://lcs.ios.ac.cn/setta2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SETTA 2018&lt;/a&gt;, Beijing, China, 4-6 Sept 2018&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>FM 2018</title>
-      <link>https://ebjohnsen.org/service/2018-fm/</link>
+      <link>https://ebjohnsen.org/talk/fm-2018/</link>
       <pubDate>Sun, 15 Jul 2018 23:13:07 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2018-fm/</guid>
+      <guid>https://ebjohnsen.org/talk/fm-2018/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.fm2018.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FM 2018&lt;/a&gt;, Oxford, UK, 15-17 July 2018&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>SEFM 2018</title>
-      <link>https://ebjohnsen.org/service/2018-sefm/</link>
+      <link>https://ebjohnsen.org/talk/sefm-2018/</link>
       <pubDate>Mon, 25 Jun 2018 23:13:18 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2018-sefm/</guid>
+      <guid>https://ebjohnsen.org/talk/sefm-2018/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.isf.cs.tu-bs.de/cms/events/sefm2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SEFM 2018&lt;/a&gt;, Toulouse, France, 25-29 June 2018 &lt;em&gt;(PC chair)&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>FORTE 2018</title>
-      <link>https://ebjohnsen.org/service/2018-forte/</link>
+      <link>https://ebjohnsen.org/talk/forte-2018/</link>
       <pubDate>Mon, 18 Jun 2018 23:13:37 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2018-forte/</guid>
+      <guid>https://ebjohnsen.org/talk/forte-2018/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://2018.discotec.org/cfp_forte.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FORTE 2018&lt;/a&gt;, Madrid, Spain, 18 - 21 June, 2018&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>FormaliSE 2018</title>
-      <link>https://ebjohnsen.org/service/2018-formalise/</link>
+      <link>https://ebjohnsen.org/talk/formalise-2018/</link>
       <pubDate>Sat, 02 Jun 2018 23:13:44 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2018-formalise/</guid>
+      <guid>https://ebjohnsen.org/talk/formalise-2018/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.formalise.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FormaliSE 2018&lt;/a&gt;, Gothenburg, Sweden, 2 June 2018&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>FASE 2018</title>
-      <link>https://ebjohnsen.org/service/2018-fase/</link>
+      <link>https://ebjohnsen.org/talk/fase-2018/</link>
       <pubDate>Sat, 14 Apr 2018 23:13:58 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2018-fase/</guid>
+      <guid>https://ebjohnsen.org/talk/fase-2018/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.etaps.org/index.php/2018/fase&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FASE 2018&lt;/a&gt;, Thessaloniki, Greece, 14-21 April 2018&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>NWPT 2017</title>
-      <link>https://ebjohnsen.org/service/2017-nwpt/</link>
+      <link>https://ebjohnsen.org/talk/nwpt-2017/</link>
       <pubDate>Wed, 01 Nov 2017 23:14:06 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2017-nwpt/</guid>
+      <guid>https://ebjohnsen.org/talk/nwpt-2017/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://research.it.abo.fi/nwpt17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NWPT 2017&lt;/a&gt;, Turku, Finland, 1-3 November 2017&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Microservices 2017</title>
-      <link>https://ebjohnsen.org/service/2017-microservices/</link>
+      <link>https://ebjohnsen.org/talk/microservices-2017/</link>
       <pubDate>Mon, 23 Oct 2017 23:14:16 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2017-microservices/</guid>
+      <guid>https://ebjohnsen.org/talk/microservices-2017/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://conf-micro.services/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Microservices 2017&lt;/a&gt;, Odense, DK, 23-27 Oct 2017&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>FACS 2017</title>
-      <link>https://ebjohnsen.org/service/2017-facs/</link>
+      <link>https://ebjohnsen.org/talk/facs-2017/</link>
       <pubDate>Tue, 10 Oct 2017 23:14:24 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2017-facs/</guid>
+      <guid>https://ebjohnsen.org/talk/facs-2017/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://facs2017.di.uminho.pt/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FACS 2017&lt;/a&gt;, Braga, Portugal, 10-13 Oct 2017&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ESOCC 2017</title>
-      <link>https://ebjohnsen.org/service/2017-esocc/</link>
+      <link>https://ebjohnsen.org/talk/esocc-2017/</link>
       <pubDate>Wed, 27 Sep 2017 23:14:31 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2017-esocc/</guid>
+      <guid>https://ebjohnsen.org/talk/esocc-2017/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://esocc2017.ifi.uio.no/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESOCC 2017&lt;/a&gt;, Oslo, Norway, 27-29 September 2017&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>iFM 2017</title>
-      <link>https://ebjohnsen.org/service/2017-ifm/</link>
+      <link>https://ebjohnsen.org/talk/ifm-2017/</link>
       <pubDate>Mon, 18 Sep 2017 23:14:59 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2017-ifm/</guid>
+      <guid>https://ebjohnsen.org/talk/ifm-2017/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://ifm2017.di.unito.it/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iFM 2017&lt;/a&gt;, Torino, Italy, 18-22 September 2017&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>SEFM 2017</title>
-      <link>https://ebjohnsen.org/service/2017-sefm/</link>
+      <link>https://ebjohnsen.org/talk/sefm-2017/</link>
       <pubDate>Wed, 06 Sep 2017 23:15:15 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2017-sefm/</guid>
+      <guid>https://ebjohnsen.org/talk/sefm-2017/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://sefm17.fbk.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SEFM 2017&lt;/a&gt;, Trento, Italy, 6-10 September 2017&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>TAP 2017</title>
-      <link>https://ebjohnsen.org/service/2017-tap/</link>
+      <link>https://ebjohnsen.org/talk/tap-2017/</link>
       <pubDate>Mon, 17 Jul 2017 23:15:27 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2017-tap/</guid>
+      <guid>https://ebjohnsen.org/talk/tap-2017/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.seceng.informatik.tu-darmstadt.de/tap2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TAP 2017&lt;/a&gt;, Marburg, Germany, 17-21 July 2017 &lt;em&gt;(PC chair)&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>FSEN 2017</title>
-      <link>https://ebjohnsen.org/service/2017-fsen/</link>
+      <link>https://ebjohnsen.org/talk/fsen-2017/</link>
       <pubDate>Wed, 26 Apr 2017 23:15:43 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2017-fsen/</guid>
+      <guid>https://ebjohnsen.org/talk/fsen-2017/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://fsen.ir/2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FSEN 2017&lt;/a&gt;, Tehran, Iran, 26 - 28 April 2017&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>FASE 2017</title>
-      <link>https://ebjohnsen.org/service/2017-fase/</link>
+      <link>https://ebjohnsen.org/talk/fase-2017/</link>
       <pubDate>Sat, 22 Apr 2017 23:15:37 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2017-fase/</guid>
+      <guid>https://ebjohnsen.org/talk/fase-2017/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.etaps.org/index.php/2017/fase&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FASE 2017&lt;/a&gt;, Uppsala, Sweden, 22-29 April 2017&lt;/li&gt;
 &lt;/ul&gt;
@@ -403,504 +411,504 @@
     
     <item>
       <title>FM 2016</title>
-      <link>https://ebjohnsen.org/service/2016-fm/</link>
+      <link>https://ebjohnsen.org/talk/fm-2016/</link>
       <pubDate>Mon, 07 Nov 2016 23:16:07 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2016-fm/</guid>
+      <guid>https://ebjohnsen.org/talk/fm-2016/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://fm2016.cs.ucy.ac.cy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FM 2016&lt;/a&gt;, Limassol, Cyprus, 7-11 November 2016&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>NWPT 2016</title>
-      <link>https://ebjohnsen.org/service/2016-nwpt/</link>
+      <link>https://ebjohnsen.org/talk/nwpt-2016/</link>
       <pubDate>Mon, 31 Oct 2016 23:16:00 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2016-nwpt/</guid>
+      <guid>https://ebjohnsen.org/talk/nwpt-2016/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://nwpt2016.cs.aau.dk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NWPT 2016&lt;/a&gt;, North Jutland, Denmark, 31 October - 2 November 2016&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ESOCC 2016</title>
-      <link>https://ebjohnsen.org/service/2016-esocc/</link>
+      <link>https://ebjohnsen.org/talk/esocc-2016/</link>
       <pubDate>Mon, 05 Sep 2016 23:16:31 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2016-esocc/</guid>
+      <guid>https://ebjohnsen.org/talk/esocc-2016/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://esocc2016.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESOCC 2016&lt;/a&gt;, Vienna, Austria, September 5-7, 2016 &lt;em&gt;(PC chair)&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>TASE 2016</title>
-      <link>https://ebjohnsen.org/service/2016-tase/</link>
+      <link>https://ebjohnsen.org/talk/tase-2016/</link>
       <pubDate>Sun, 17 Jul 2016 23:16:36 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2016-tase/</guid>
+      <guid>https://ebjohnsen.org/talk/tase-2016/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://tase2016.ecnu.edu.cn/index.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TASE 2016&lt;/a&gt;, Shanghai, China, July 17-19, 2016&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>SEFM 2016</title>
-      <link>https://ebjohnsen.org/service/2016-sefm/</link>
+      <link>https://ebjohnsen.org/talk/sefm-2016/</link>
       <pubDate>Mon, 04 Jul 2016 23:16:44 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2016-sefm/</guid>
+      <guid>https://ebjohnsen.org/talk/sefm-2016/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://staf2016.conf.tuwien.ac.at/sefm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SEFM 2016&lt;/a&gt;, Vienna, Austria, July 4-8, 2016&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>E-MuCoCoS 2016</title>
-      <link>https://ebjohnsen.org/service/2016-e-mucocos/</link>
+      <link>https://ebjohnsen.org/talk/e-mucocos-2016/</link>
       <pubDate>Thu, 23 Jun 2016 23:16:21 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2016-e-mucocos/</guid>
+      <guid>https://ebjohnsen.org/talk/e-mucocos-2016/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://homepage.lnu.se/staff/saplaa/e-mucocos16/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;E-MuCoCoS 2016&lt;/a&gt;, Frankfurt, Germany, 23 June 2016&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Coordination 2016</title>
-      <link>https://ebjohnsen.org/service/2016-coordination/</link>
+      <link>https://ebjohnsen.org/talk/coordination-2016/</link>
       <pubDate>Mon, 06 Jun 2016 23:16:58 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2016-coordination/</guid>
+      <guid>https://ebjohnsen.org/talk/coordination-2016/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://2016.discotec.org/index.php?MG=20&amp;amp;Mid=5&amp;amp;sub1=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Coordination 2016&lt;/a&gt;, Heraklion, Greece, June 6-9, 2016&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>FORTE 2016</title>
-      <link>https://ebjohnsen.org/service/2016-forte/</link>
+      <link>https://ebjohnsen.org/talk/forte-2016/</link>
       <pubDate>Mon, 06 Jun 2016 23:16:49 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2016-forte/</guid>
+      <guid>https://ebjohnsen.org/talk/forte-2016/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://2016.discotec.org/index.php?MG=20&amp;amp;Mid=9&amp;amp;sub1=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FORTE 2016&lt;/a&gt;, Heraklion, Greece, June 6-9, 2016&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>IFM 2016</title>
-      <link>https://ebjohnsen.org/service/2016-ifm/</link>
+      <link>https://ebjohnsen.org/talk/ifm-2016/</link>
       <pubDate>Wed, 01 Jun 2016 23:17:05 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2016-ifm/</guid>
+      <guid>https://ebjohnsen.org/talk/ifm-2016/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://en.ru.is/ifm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IFM 2016&lt;/a&gt;, Reykjavik, Iceland, June 1-4, 2016&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>SCORE@ICSE 2016</title>
-      <link>https://ebjohnsen.org/service/2016-score/</link>
+      <link>https://ebjohnsen.org/talk/score@icse-2016/</link>
       <pubDate>Sat, 14 May 2016 23:17:13 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2016-score/</guid>
+      <guid>https://ebjohnsen.org/talk/score@icse-2016/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://score-contest.org/2016/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SCORE@ICSE 2016&lt;/a&gt;, Austin, Texas, May 14-22, 2016&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ICTAC 2015</title>
-      <link>https://ebjohnsen.org/service/2015-ictac/</link>
+      <link>https://ebjohnsen.org/talk/ictac-2015/</link>
       <pubDate>Thu, 29 Oct 2015 23:17:46 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2015-ictac/</guid>
+      <guid>https://ebjohnsen.org/talk/ictac-2015/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.ictac2015.co/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICTAC 2015&lt;/a&gt;, Cali, Colombia, October 29-31, 2015&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>NWPT 2015</title>
-      <link>https://ebjohnsen.org/service/2015-nwpt/</link>
+      <link>https://ebjohnsen.org/talk/nwpt-2015/</link>
       <pubDate>Wed, 21 Oct 2015 23:17:21 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2015-nwpt/</guid>
+      <guid>https://ebjohnsen.org/talk/nwpt-2015/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://icetcs.ru.is/nwpt2015/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NWPT 2015&lt;/a&gt;, Reykjavik, Iceland, October 21-23, 2015&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ECOOP 2015</title>
-      <link>https://ebjohnsen.org/service/2015-ecoop/</link>
+      <link>https://ebjohnsen.org/talk/ecoop-2015/</link>
       <pubDate>Mon, 06 Jul 2015 23:17:54 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2015-ecoop/</guid>
+      <guid>https://ebjohnsen.org/talk/ecoop-2015/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://2015.ecoop.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ECOOP 2015&lt;/a&gt;, Prague, Czech republic, July 6-10, 2015&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>FM 2015</title>
-      <link>https://ebjohnsen.org/service/2015-fm/</link>
+      <link>https://ebjohnsen.org/talk/fm-2015/</link>
       <pubDate>Mon, 22 Jun 2015 23:17:36 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2015-fm/</guid>
+      <guid>https://ebjohnsen.org/talk/fm-2015/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://fm2015.ifi.uio.no/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FM 2015&lt;/a&gt;, Oslo, Norway, June 22-26, 2015  &lt;em&gt;(General chair)&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>FASE 2015</title>
-      <link>https://ebjohnsen.org/service/2015-fase/</link>
+      <link>https://ebjohnsen.org/talk/fase-2015/</link>
       <pubDate>Sat, 11 Apr 2015 23:18:09 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2015-fase/</guid>
+      <guid>https://ebjohnsen.org/talk/fase-2015/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.etaps.org/index.php/2015/fase&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FASE 2015&lt;/a&gt;, London, UK, April 11-19, 2015&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>NWPT 2014</title>
-      <link>https://ebjohnsen.org/service/2014-nwpt/</link>
+      <link>https://ebjohnsen.org/talk/nwpt-2014/</link>
       <pubDate>Sat, 29 Nov 2014 23:18:16 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2014-nwpt/</guid>
+      <guid>https://ebjohnsen.org/talk/nwpt-2014/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://ceres.hh.se/mediawiki/index.php/NWPT_2014&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NWPT 2014&lt;/a&gt;, Halmstad, Sweden, Nov 29-31, 2014&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AGERE 2014</title>
-      <link>https://ebjohnsen.org/service/2014-agere/</link>
+      <link>https://ebjohnsen.org/talk/agere-2014/</link>
       <pubDate>Mon, 20 Oct 2014 23:18:25 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2014-agere/</guid>
+      <guid>https://ebjohnsen.org/talk/agere-2014/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://soft.vub.ac.be/AGERE14/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AGERE 2014&lt;/a&gt;, Portland, USA, Oct 20, 2014&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>iFM 2014</title>
-      <link>https://ebjohnsen.org/service/2014-ifm/</link>
+      <link>https://ebjohnsen.org/talk/ifm-2014/</link>
       <pubDate>Tue, 09 Sep 2014 23:18:31 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2014-ifm/</guid>
+      <guid>https://ebjohnsen.org/talk/ifm-2014/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://ifm2014.cs.unibo.it/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iFM 2014&lt;/a&gt;, Bertinoro, Italy, Sep. 9-11, 2014&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>BEAT 2014</title>
-      <link>https://ebjohnsen.org/service/2014-beat/</link>
+      <link>https://ebjohnsen.org/talk/beat-2014/</link>
       <pubDate>Mon, 01 Sep 2014 23:18:37 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2014-beat/</guid>
+      <guid>https://ebjohnsen.org/talk/beat-2014/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://beat2014.behavioural-types.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BEAT 2014&lt;/a&gt;, Rome, Italy, Sep. 1, 2014&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ECOOP 2014</title>
-      <link>https://ebjohnsen.org/service/2014-ecoop/</link>
+      <link>https://ebjohnsen.org/talk/ecoop-2014/</link>
       <pubDate>Mon, 28 Jul 2014 23:18:59 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2014-ecoop/</guid>
+      <guid>https://ebjohnsen.org/talk/ecoop-2014/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://ecoop14.it.uu.se/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ECOOP 2014&lt;/a&gt;, Uppsala, Sweden, July 28-Aug 1, 2014&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>WING 2014</title>
-      <link>https://ebjohnsen.org/service/2014-wing/</link>
+      <link>https://ebjohnsen.org/talk/wing-2014/</link>
       <pubDate>Wed, 23 Jul 2014 23:18:51 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2014-wing/</guid>
+      <guid>https://ebjohnsen.org/talk/wing-2014/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.easychair.org/smart-program/VSL2014/WING-cfp.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WING 2014&lt;/a&gt;, Vienna, Austria, July 23, 2014&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>SFM 2014, Envisage Summer School</title>
-      <link>https://ebjohnsen.org/service/2014-sfm/</link>
+      <link>https://ebjohnsen.org/talk/sfm-2014-envisage-summer-school/</link>
       <pubDate>Mon, 16 Jun 2014 23:18:44 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2014-sfm/</guid>
+      <guid>https://ebjohnsen.org/talk/sfm-2014-envisage-summer-school/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.sti.uniurb.it/events/sfm14esm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SFM 2014&lt;/a&gt;, Envisage Summer School in Bertinoro, Italy, June 16-20, 2014&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>FormaliSE 2014</title>
-      <link>https://ebjohnsen.org/service/2014-formalise/</link>
+      <link>https://ebjohnsen.org/talk/formalise-2014/</link>
       <pubDate>Sat, 31 May 2014 23:19:06 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2014-formalise/</guid>
+      <guid>https://ebjohnsen.org/talk/formalise-2014/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.formalise.org/edition/formalise2014&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FormaliSE 2014&lt;/a&gt;, Hyderabad, India, May 31-June 7, 2014&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>NWPT 2013</title>
-      <link>https://ebjohnsen.org/service/2013-nwpt/</link>
+      <link>https://ebjohnsen.org/talk/nwpt-2013/</link>
       <pubDate>Wed, 20 Nov 2013 23:19:14 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2013-nwpt/</guid>
+      <guid>https://ebjohnsen.org/talk/nwpt-2013/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://cs.ioc.ee/nwpt13/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NWPT 2013&lt;/a&gt;, Tallinn, Estonia, Nov 20-22, 2013&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>SEFM 2013</title>
-      <link>https://ebjohnsen.org/service/2013-sefm/</link>
+      <link>https://ebjohnsen.org/talk/sefm-2013/</link>
       <pubDate>Wed, 25 Sep 2013 23:19:48 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2013-sefm/</guid>
+      <guid>https://ebjohnsen.org/talk/sefm-2013/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://antares.sip.ucm.es/sefm2013/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SEFM 2013&lt;/a&gt;, Madrid, Spain, Sep 25-27, 2013&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>BEAT  2013</title>
-      <link>https://ebjohnsen.org/service/2013-beat/</link>
+      <link>https://ebjohnsen.org/talk/beat-2013/</link>
       <pubDate>Mon, 23 Sep 2013 23:19:24 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2013-beat/</guid>
+      <guid>https://ebjohnsen.org/talk/beat-2013/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://beat2.behavioural-types.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BEAT 2&lt;/a&gt;, Madrid, Spain, Sep 23-24, 2013&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>PPPJ 2013</title>
-      <link>https://ebjohnsen.org/service/2013-pppj/</link>
+      <link>https://ebjohnsen.org/talk/pppj-2013/</link>
       <pubDate>Wed, 11 Sep 2013 23:19:33 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2013-pppj/</guid>
+      <guid>https://ebjohnsen.org/talk/pppj-2013/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://pppj2013.dhbw.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PPPJ 2013&lt;/a&gt;, Stuttgart, Germany, Sep 11-13, 2013&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>CALCO Tools 2013</title>
-      <link>https://ebjohnsen.org/service/2013-calco-tools/</link>
+      <link>https://ebjohnsen.org/talk/calco-tools-2013/</link>
       <pubDate>Tue, 03 Sep 2013 23:20:20 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2013-calco-tools/</guid>
+      <guid>https://ebjohnsen.org/talk/calco-tools-2013/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://coalg.org/calco13/calco-tools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CALCO Tools 2013&lt;/a&gt;, Warsaw, Poland, Sep. 3-6, 2013&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>iFM 2013</title>
-      <link>https://ebjohnsen.org/service/2013-ifm/</link>
+      <link>https://ebjohnsen.org/talk/ifm-2013/</link>
       <pubDate>Wed, 12 Jun 2013 23:20:07 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2013-ifm/</guid>
+      <guid>https://ebjohnsen.org/talk/ifm-2013/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.it.abo.fi/iFM2013/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iFM 2013&lt;/a&gt;, Turku, Finland, June 12-14, 2013 (PC chair)&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>FMDEP 2013</title>
-      <link>https://ebjohnsen.org/service/2013-fmdep/</link>
+      <link>https://ebjohnsen.org/talk/fmdep-2013/</link>
       <pubDate>Mon, 10 Jun 2013 23:19:40 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2013-fmdep/</guid>
+      <guid>https://ebjohnsen.org/talk/fmdep-2013/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.it.abo.fi/iFM2013/fmdep2013.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FMDEP 2013&lt;/a&gt;, Turku, Finland, June 10, 2013&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>FSEN 2013</title>
-      <link>https://ebjohnsen.org/service/2013-fsen/</link>
+      <link>https://ebjohnsen.org/talk/fsen-2013/</link>
       <pubDate>Wed, 24 Apr 2013 23:20:29 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2013-fsen/</guid>
+      <guid>https://ebjohnsen.org/talk/fsen-2013/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://fsen.ir/2013/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FSEN 2013&lt;/a&gt;, Tehran, Iran, April 24-26, 2013&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>NWPT 2012</title>
-      <link>https://ebjohnsen.org/service/2012-nwpt/</link>
+      <link>https://ebjohnsen.org/talk/nwpt-2012/</link>
       <pubDate>Wed, 31 Oct 2012 23:20:37 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2012-nwpt/</guid>
+      <guid>https://ebjohnsen.org/talk/nwpt-2012/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://nwpt12.ii.uib.no/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NWPT 2012&lt;/a&gt;, Bergen, Norway, Oct 31- Nov 02 2012.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Agere 2012</title>
-      <link>https://ebjohnsen.org/service/2012-agere/</link>
+      <link>https://ebjohnsen.org/talk/agere-2012/</link>
       <pubDate>Sun, 21 Oct 2012 23:20:45 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2012-agere/</guid>
+      <guid>https://ebjohnsen.org/talk/agere-2012/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://apice.unibo.it/xwiki/bin/view/AGERE2012/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Agere 2012&lt;/a&gt;, Tuczon, USA, Oct 21-22, 2012&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>LfSA 2012</title>
-      <link>https://ebjohnsen.org/service/2012-lfsa/</link>
+      <link>https://ebjohnsen.org/talk/lfsa-2012/</link>
       <pubDate>Sat, 07 Jul 2012 23:20:53 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2012-lfsa/</guid>
+      <guid>https://ebjohnsen.org/talk/lfsa-2012/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.ls.cs.cmu.edu/LfSA12&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LfSA 2012&lt;/a&gt;, Berkeley, USA, July 7, 2012&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>IFM 2012</title>
-      <link>https://ebjohnsen.org/service/2012-ifm/</link>
+      <link>https://ebjohnsen.org/talk/ifm-2012/</link>
       <pubDate>Mon, 18 Jun 2012 23:21:17 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2012-ifm/</guid>
+      <guid>https://ebjohnsen.org/talk/ifm-2012/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://ifm.isti.cnr.it/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IFM 2012&lt;/a&gt;, Pisa, Italy, June 18-22, 2012&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>FMOODS/FORTE 2012</title>
-      <link>https://ebjohnsen.org/service/2012-fmoods/</link>
+      <link>https://ebjohnsen.org/talk/fmoods/forte-2012/</link>
       <pubDate>Wed, 13 Jun 2012 23:21:00 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2012-fmoods/</guid>
+      <guid>https://ebjohnsen.org/talk/fmoods/forte-2012/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://lucan.sics.se/discotec&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FMOODS/FORTE 2012&lt;/a&gt;, Stockholm, Sweden, June 13-16, 2012&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>FOVEOOS 2011</title>
-      <link>https://ebjohnsen.org/service/2011-foveoos/</link>
+      <link>https://ebjohnsen.org/talk/foveoos-2011/</link>
       <pubDate>Wed, 05 Oct 2011 23:21:34 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2011-foveoos/</guid>
+      <guid>https://ebjohnsen.org/talk/foveoos-2011/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://foveoos2011.cost-ic0701.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FOVEOOS 2011&lt;/a&gt;, Torino, Italy, October 5-7, 2011&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>TASE 2011</title>
-      <link>https://ebjohnsen.org/service/2011-tase/</link>
+      <link>https://ebjohnsen.org/talk/tase-2011/</link>
       <pubDate>Mon, 29 Aug 2011 23:21:59 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2011-tase/</guid>
+      <guid>https://ebjohnsen.org/talk/tase-2011/</guid>
       <description>&lt;p&gt;TASE 2011, Xi’an, China, August 29-31, 2011&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>FM 2011</title>
-      <link>https://ebjohnsen.org/service/2011-fm/</link>
+      <link>https://ebjohnsen.org/talk/fm-2011/</link>
       <pubDate>Mon, 20 Jun 2011 23:22:12 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2011-fm/</guid>
+      <guid>https://ebjohnsen.org/talk/fm-2011/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.lero.ie/fm2011&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FM 2011&lt;/a&gt;, Limerick, Ireland, June 20-24, 2011&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>FMOODS/FORTE 2011</title>
-      <link>https://ebjohnsen.org/service/2011-fmoods/</link>
+      <link>https://ebjohnsen.org/talk/fmoods/forte-2011/</link>
       <pubDate>Mon, 06 Jun 2011 23:22:06 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2011-fmoods/</guid>
+      <guid>https://ebjohnsen.org/talk/fmoods/forte-2011/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://discotec.ru.is/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FMOODS/FORTE 2011&lt;/a&gt;, Reykjavik, Iceland, June 6-9, 2011&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>FSEN 2011</title>
-      <link>https://ebjohnsen.org/service/2011-fsen/</link>
+      <link>https://ebjohnsen.org/talk/fsen-2011/</link>
       <pubDate>Wed, 20 Apr 2011 23:22:19 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2011-fsen/</guid>
+      <guid>https://ebjohnsen.org/talk/fsen-2011/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://fsen.ir/2011&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FSEN 2011&lt;/a&gt;, Tehran, Iran, April 20-22, 2011&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>NWPT 2010</title>
-      <link>https://ebjohnsen.org/service/2011-nwpt/</link>
+      <link>https://ebjohnsen.org/talk/nwpt-2010/</link>
       <pubDate>Wed, 10 Nov 2010 23:21:26 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2011-nwpt/</guid>
+      <guid>https://ebjohnsen.org/talk/nwpt-2010/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://research.it.abo.fi/nwpt10/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NWPT 2010&lt;/a&gt;, Turku, Finland, November 10-12 2010&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>FACS 2010</title>
-      <link>https://ebjohnsen.org/service/2010-facs/</link>
+      <link>https://ebjohnsen.org/talk/facs-2010/</link>
       <pubDate>Thu, 14 Oct 2010 23:22:36 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2010-facs/</guid>
+      <guid>https://ebjohnsen.org/talk/facs-2010/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.di.uminho.pt/facs2010/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FACS 2010&lt;/a&gt;, Guimaraes, Portugal, October 14-16 2010.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>TTSS 2011</title>
-      <link>https://ebjohnsen.org/service/2011-ttss/</link>
+      <link>https://ebjohnsen.org/talk/ttss-2011/</link>
       <pubDate>Mon, 13 Sep 2010 23:21:48 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2011-ttss/</guid>
+      <guid>https://ebjohnsen.org/talk/ttss-2011/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://facs2011.ifi.uio.no/index.php?n=TTSS.TTSS2011&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TTSS 2011&lt;/a&gt;, Oslo, Norway, September 13, 2011&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>LfSA 2010</title>
-      <link>https://ebjohnsen.org/service/2010-lfsa/</link>
+      <link>https://ebjohnsen.org/talk/lfsa-2010/</link>
       <pubDate>Thu, 15 Jul 2010 23:22:44 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2010-lfsa/</guid>
+      <guid>https://ebjohnsen.org/talk/lfsa-2010/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.ls.cs.cmu.edu/LfSA10/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LfSA 2010&lt;/a&gt;, Edinburgh, UK, July 15, 2010&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>NWPT 2010</title>
-      <link>https://ebjohnsen.org/service/2010-nwpt/</link>
+      <link>https://ebjohnsen.org/talk/nwpt-2010/</link>
       <pubDate>Sat, 10 Jul 2010 23:22:29 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2010-nwpt/</guid>
+      <guid>https://ebjohnsen.org/talk/nwpt-2010/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://research.it.abo.fi/nwpt10/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NWPT 2010&lt;/a&gt;, Turku, Finland, November 10-12 2010&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>FOVEOOS 2010</title>
-      <link>https://ebjohnsen.org/service/2010-foveoos/</link>
+      <link>https://ebjohnsen.org/talk/foveoos-2010/</link>
       <pubDate>Mon, 28 Jun 2010 23:22:50 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2010-foveoos/</guid>
+      <guid>https://ebjohnsen.org/talk/foveoos-2010/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://foveoos2010.cost-ic0701.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FOVEOOS 2010&lt;/a&gt;, Paris, France, June 28-30, 2010&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>FMOODS/FORTE 2010</title>
-      <link>https://ebjohnsen.org/service/2010-fmoods/</link>
+      <link>https://ebjohnsen.org/talk/fmoods/forte-2010/</link>
       <pubDate>Mon, 07 Jun 2010 23:22:59 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2010-fmoods/</guid>
+      <guid>https://ebjohnsen.org/talk/fmoods/forte-2010/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://discotec.project.cwi.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FMOODS/FORTE 2010&lt;/a&gt;, Amsterdam, the Netherlands, June 7-10, 2010&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>FACS 2009</title>
-      <link>https://ebjohnsen.org/service/2009-facs/</link>
+      <link>https://ebjohnsen.org/talk/facs-2009/</link>
       <pubDate>Fri, 30 Oct 2009 23:23:14 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2009-facs/</guid>
+      <guid>https://ebjohnsen.org/talk/facs-2009/</guid>
       <description>&lt;p&gt;FACS 2009, Eindhoven, the Netherlands, October 30-31, 2009&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>NWPT 2009</title>
-      <link>https://ebjohnsen.org/service/2009-nwpt/</link>
+      <link>https://ebjohnsen.org/talk/nwpt-2009/</link>
       <pubDate>Wed, 14 Oct 2009 23:23:08 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2009-nwpt/</guid>
+      <guid>https://ebjohnsen.org/talk/nwpt-2009/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www2.imm.dtu.dk/projects/nwpt09&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NWPT 2009&lt;/a&gt;, Lyngby, Denmark, October 14-16 2009.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>FMOODS/FORTE 2009</title>
-      <link>https://ebjohnsen.org/service/2009-fmoods/</link>
+      <link>https://ebjohnsen.org/talk/fmoods/forte-2009/</link>
       <pubDate>Tue, 09 Jun 2009 23:23:22 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2009-fmoods/</guid>
+      <guid>https://ebjohnsen.org/talk/fmoods/forte-2009/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://discotec09.di.fc.ul.pt/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FMOODS/FORTE 2009&lt;/a&gt;, Lisbon, Portugal, June 9-11, 2009&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>2009 Fsen</title>
-      <link>https://ebjohnsen.org/service/2009-fsen/</link>
+      <link>https://ebjohnsen.org/talk/2009-fsen/</link>
       <pubDate>Wed, 15 Apr 2009 23:23:29 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2009-fsen/</guid>
+      <guid>https://ebjohnsen.org/talk/2009-fsen/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://fsen.ir/2009/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FSEN 2009&lt;/a&gt;, Kish, Persian Gulf, Iran, April 15-17, 2009&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>IFM 2009</title>
-      <link>https://ebjohnsen.org/service/2009-ifm/</link>
+      <link>https://ebjohnsen.org/talk/ifm-2009/</link>
       <pubDate>Mon, 16 Feb 2009 23:23:39 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2009-ifm/</guid>
+      <guid>https://ebjohnsen.org/talk/ifm-2009/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.formal-methods.de/ifm09&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IFM 2009&lt;/a&gt;, Düsseldorf, Germany, February 16-19 2009&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>COST IC0701 Winter School</title>
-      <link>https://ebjohnsen.org/service/2009-cost/</link>
+      <link>https://ebjohnsen.org/talk/cost-ic0701-winter-school/</link>
       <pubDate>Sun, 25 Jan 2009 23:23:53 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2009-cost/</guid>
+      <guid>https://ebjohnsen.org/talk/cost-ic0701-winter-school/</guid>
       <description>&lt;p&gt;COST Action IC0701 &lt;a href=&#34;http://viinistu.cost-ic0701.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Winter School&lt;/a&gt; on Verification of Object-Oriented Programs, Viinistu, Estonia, 25-29 January, 2009&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>NWPT 2008</title>
-      <link>https://ebjohnsen.org/service/2008-nwpt/</link>
+      <link>https://ebjohnsen.org/talk/nwpt-2008/</link>
       <pubDate>Wed, 19 Nov 2008 23:24:01 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2008-nwpt/</guid>
+      <guid>https://ebjohnsen.org/talk/nwpt-2008/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://cs.ioc.ee/nwpt08&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NWPT 2008&lt;/a&gt;, Tallinn, Estonia, November 19-21 2008.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>DisCoTec 2008</title>
-      <link>https://ebjohnsen.org/service/2008-discotec/</link>
+      <link>https://ebjohnsen.org/talk/discotec-2008/</link>
       <pubDate>Sat, 26 Jul 2008 23:24:08 +0200</pubDate>
-      <guid>https://ebjohnsen.org/service/2008-discotec/</guid>
+      <guid>https://ebjohnsen.org/talk/discotec-2008/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://discotec08.ifi.uio.no/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DisCoTec 2008&lt;/a&gt;, Oslo, Norway, June 4-6 2008, including FMOODS 2008 (General chair)&lt;/p&gt;
 </description>
     </item>

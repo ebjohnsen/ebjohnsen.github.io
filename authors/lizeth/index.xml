@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Locally Abstract, Globally Concrete Semantics of Concurrent Programming Languages</title>
-      <link>https://ebjohnsen.org/publication/24-toplas1/</link>
-      <pubDate>Wed, 15 May 2024 09:07:44 +0200</pubDate>
-      <guid>https://ebjohnsen.org/publication/24-toplas1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>User Journey Games: Automating User-Centric Analysis</title>
       <link>https://ebjohnsen.org/publication/24-sosym/</link>
       <pubDate>Wed, 15 May 2024 09:07:44 +0200</pubDate>
       <guid>https://ebjohnsen.org/publication/24-sosym/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Locally Abstract, Globally Concrete Semantics of Concurrent Programming Languages</title>
+      <link>https://ebjohnsen.org/publication/24-toplas1/</link>
+      <pubDate>Fri, 15 Mar 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-toplas1/</guid>
       <description></description>
     </item>
     
