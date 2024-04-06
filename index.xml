@@ -69,6 +69,14 @@
     </item>
     
     <item>
+      <title>Programming and reasoning about autonomous software with semantic reflection</title>
+      <link>https://ebjohnsen.org/talk/programming-and-reasoning-about-autonomous-software-with-semantic-reflection/</link>
+      <pubDate>Sat, 06 Apr 2024 14:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/programming-and-reasoning-about-autonomous-software-with-semantic-reflection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>FASE 2024</title>
       <link>https://ebjohnsen.org/talk/fase-2024/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
@@ -1153,7 +1161,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-821975436&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-825794163&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -1163,7 +1171,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-821975436&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-825794163&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
