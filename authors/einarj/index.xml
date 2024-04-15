@@ -5,20 +5,12 @@
     <link>https://ebjohnsen.org/authors/einarj/</link>
       <atom:link href="https://ebjohnsen.org/authors/einarj/index.xml" rel="self" type="application/rss+xml" />
     <description>Einar Broch Johnsen</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 May 2024 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 May 2024 20:15:00 +0000</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/authors/einarj/avatar-old_huce72f0f23c04305e87c81821320fcdf8_67668_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Einar Broch Johnsen</title>
       <link>https://ebjohnsen.org/authors/einarj/</link>
     </image>
-    
-    <item>
-      <title>User Journey Games: Automating User-Centric Analysis</title>
-      <link>https://ebjohnsen.org/publication/24-sosym/</link>
-      <pubDate>Wed, 15 May 2024 09:07:44 +0200</pubDate>
-      <guid>https://ebjohnsen.org/publication/24-sosym/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>A Digital Twin of the Oslo Fjord</title>
@@ -29,18 +21,26 @@
     </item>
     
     <item>
+      <title>Programming and reasoning about autonomous software with semantic reflection</title>
+      <link>https://ebjohnsen.org/talk/programming-and-reasoning-about-autonomous-software-with-semantic-reflection/</link>
+      <pubDate>Sat, 06 Apr 2024 14:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/programming-and-reasoning-about-autonomous-software-with-semantic-reflection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GreenhouseDT: An Exemplar for Digital Twins</title>
       <link>https://ebjohnsen.org/publication/24-seams/</link>
-      <pubDate>Mon, 15 Apr 2024 09:07:44 +0200</pubDate>
+      <pubDate>Tue, 02 Apr 2024 09:07:44 +0200</pubDate>
       <guid>https://ebjohnsen.org/publication/24-seams/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Programming and reasoning about autonomous software with semantic reflection</title>
-      <link>https://ebjohnsen.org/talk/programming-and-reasoning-about-autonomous-software-with-semantic-reflection/</link>
-      <pubDate>Sat, 06 Apr 2024 14:00:00 +0000</pubDate>
-      <guid>https://ebjohnsen.org/talk/programming-and-reasoning-about-autonomous-software-with-semantic-reflection/</guid>
+      <title>User Journey Games: Automating User-Centric Analysis</title>
+      <link>https://ebjohnsen.org/publication/24-sosym/</link>
+      <pubDate>Mon, 25 Mar 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-sosym/</guid>
       <description></description>
     </item>
     
