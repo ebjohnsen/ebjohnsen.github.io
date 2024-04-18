@@ -1,30 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Programme Committees | Einar Broch Johnsen</title>
+    <title>Programme Committees[] | Einar Broch Johnsen</title>
     <link>https://ebjohnsen.org/category/programme-committees/</link>
       <atom:link href="https://ebjohnsen.org/category/programme-committees/index.xml" rel="self" type="application/rss+xml" />
-    <description>Programme Committees</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <description>Programme Committees[]</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Jul 2018 23:13:07 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
-      <title>Programme Committees</title>
+      <title>Programme Committees[]</title>
       <link>https://ebjohnsen.org/category/programme-committees/</link>
     </image>
     
     <item>
-      <title>iFM 2024</title>
-      <link>https://ebjohnsen.org/talk/ifm-2024/</link>
-      <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://ebjohnsen.org/talk/ifm-2024/</guid>
-      <description></description>
+      <title>FM 2018</title>
+      <link>https://ebjohnsen.org/talk/fm-2018/</link>
+      <pubDate>Sun, 15 Jul 2018 23:13:07 +0200</pubDate>
+      <guid>https://ebjohnsen.org/talk/fm-2018/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.fm2018.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FM 2018&lt;/a&gt;, Oxford, UK, 15-17 July 2018&lt;/p&gt;
+</description>
     </item>
     
-    <item>
-      <title>EDTconf 2024</title>
-      <link>https://ebjohnsen.org/talk/edtconf-2024/</link>
-      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://ebjohnsen.org/talk/edtconf-2024/</guid>
+  </channel>
+</rss>
+bjohnsen.org/talk/edtconf-2024/</guid>
       <description></description>
     </item>
     
