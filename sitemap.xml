@@ -70,6 +70,14 @@
     <lastmod>2024-04-16T14:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://ebjohnsen.org/project/pandemics/</loc>
+    <lastmod>2024-04-15T10:33:05+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/project/</loc>
+    <lastmod>2024-04-15T10:33:05+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ebjohnsen.org/talk/programming-and-reasoning-about-autonomous-software-with-semantic-reflection/</loc>
     <lastmod>2024-04-06T14:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -240,6 +248,10 @@
   </url><url>
     <loc>https://ebjohnsen.org/talk/digital-twins-an-emerging-paradigm-for-self-adaptive-model-centric-systems/</loc>
     <lastmod>2024-01-26T14:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/project/oslofjord/</loc>
+    <lastmod>2024-01-26T10:33:05+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/publication-type/chapter/</loc>
@@ -508,14 +520,6 @@
   </url><url>
     <loc>https://ebjohnsen.org/authors/yuqi-bai/</loc>
     <lastmod>2023-02-28T07:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/project/oslofjord/</loc>
-    <lastmod>2023-01-26T10:33:05+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/project/</loc>
-    <lastmod>2023-01-26T10:33:05+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/publication/22-edba/</loc>

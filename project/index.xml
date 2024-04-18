@@ -5,7 +5,7 @@
     <link>https://ebjohnsen.org/project/</link>
       <atom:link href="https://ebjohnsen.org/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Jan 2023 10:33:05 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Apr 2024 10:33:05 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -13,9 +13,51 @@
     </image>
     
     <item>
+      <title>A Digital Twin for Vaccination Strategies at Geographic Scales</title>
+      <link>https://ebjohnsen.org/project/pandemics/</link>
+      <pubDate>Mon, 15 Apr 2024 10:33:05 +0200</pubDate>
+      <guid>https://ebjohnsen.org/project/pandemics/</guid>
+      <description>&lt;p&gt;The &lt;em&gt;Digital Twin for Vaccination Strategies at Geographic Scales&lt;/em&gt; project is
+the first  internal research project of UiO&amp;rsquo;s Centre for Pandemics and One-Health Research (&lt;a href=&#34;https://www.med.uio.no/sustainit/english/centres/p1h/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CP1H&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Main objective:&lt;/strong&gt; To develop a digital twin model that enables predictions of transmission given varying levels of efficacies against current and future viruses.&lt;/p&gt;
+&lt;p&gt;We want to demonstrate the potential of digital twins to understand
+the effects of different vaccine strategies for &amp;ldquo;Pandemic X&amp;rdquo;, the next
+pandemic with an unknown pathogen. We will explore the effects of
+different strategies through “what-if” experiments using digital twin
+technology. A &lt;a href=&#34;https://en.wikipedia.org/wiki/Digital_twin&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;digital
+twin&lt;/a&gt; is a modelling
+framework that integrates real-time sensor data with model-based
+predictions.&lt;/p&gt;
+&lt;p&gt;In this project, we will devise digital twin models to study likely
+future pandemic scenarios, combining in silico models with real-world
+data to make experiments as realistic as possible. The digital twin
+technology will enable us to explore many different scenarios, by
+means of “what if” experiments with a highly configurable model. Our
+starting point is a digital twin framework which models a pandemic
+emergence at the global scale (see our previous work [&lt;a href=&#34;https://ebjohnsen.org/publication/23-pnas&#34;&gt;PNAS 2023&lt;/a&gt;]).&lt;/p&gt;
+&lt;p&gt;For this project, we have composed an interdisciplinary team including
+leading experts on vaccine development, epidemiology, digital twins
+and philosophy of science, from the Departments of Immunology,
+Biosciences, Informatics and Philosophy at UiO. The team further
+includes renowned international experts in epidemiology and economy
+for consideration of various strategies of vaccine distribution
+locally and globally. A focus is on training early-stage researchers
+towards preparedness for the next pandemics and endemics.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Principal Investigators&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ebjohnsen.org/&#34;&gt;Einar Broch Johnsen&lt;/a&gt; (Department of Informatics, project leader)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.med.uio.no/klinmed/english/people/aca/gunnveig/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gunnveig Grødeland&lt;/a&gt; (Department of Immunology, Faculty of Medicine)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.hf.uio.no/ifikk/english/people/aca/philosophy/temporary/anderstr/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anders Strand&lt;/a&gt; (CPS/IFIKK, Faculty of
+Humanities)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mn.uio.no/english/people/adm/fac/research/nilsst/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nils Chr. Stenseth&lt;/a&gt; (P1H &amp;amp; IBV/MN)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A Digital Twin of the Oslo Fjord</title>
       <link>https://ebjohnsen.org/project/oslofjord/</link>
-      <pubDate>Thu, 26 Jan 2023 10:33:05 +0200</pubDate>
+      <pubDate>Fri, 26 Jan 2024 10:33:05 +0200</pubDate>
       <guid>https://ebjohnsen.org/project/oslofjord/</guid>
       <description>&lt;p&gt;The Digital Twin of the Oslo Fjord is a project funded by the
 &lt;em&gt;Sustainable development&lt;/em&gt; initiative of the Faculty of Mathematics and Natural
