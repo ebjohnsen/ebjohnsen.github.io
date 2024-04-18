@@ -100,6 +100,10 @@ towards preparedness for the next pandemics and endemics.&lt;/p&gt;
 Humanities)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.mn.uio.no/english/people/adm/fac/research/nilsst/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nils Chr. Stenseth&lt;/a&gt; (P1H &amp;amp; IBV/MN)&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;The project further involves a very strong international network,
+including collaborators from Penn State University (US), King&amp;rsquo;s
+College London (UK), University of Oxford (UK), Tsinghua University
+(CN).&lt;/p&gt;
 </description>
     </item>
     
@@ -1212,7 +1216,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-675218349&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-816753294&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -1222,7 +1226,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-675218349&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-816753294&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
