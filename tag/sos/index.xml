@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/tag/sos/</link>
       <atom:link href="https://ebjohnsen.org/tag/sos/index.xml" rel="self" type="application/rss+xml" />
     <description>SOS</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 May 2019 00:23:39 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 Apr 2024 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
       <title>SOS</title>
       <link>https://ebjohnsen.org/tag/sos/</link>
     </image>
+    
+    <item>
+      <title>Proving Correctness of Parallel Implementations of Transition System Models</title>
+      <link>https://ebjohnsen.org/publication/24-toplas2/</link>
+      <pubDate>Fri, 19 Apr 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-toplas2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Formal Model of Parallel Execution on Multicore Architectures with Multilevel Caches</title>
