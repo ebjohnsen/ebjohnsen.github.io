@@ -73,7 +73,7 @@ instrument to monitor these climatic stressors in near real time, and
 to explore thresholds in the ecosystem for the effect of climatic
 stressors through “what-if” experiments using digital twin
 technology. A &lt;a href=&#34;https://en.wikipedia.org/wiki/Digital_twin&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;digital
-twin&lt;/a&gt; is a modelling
+twin&lt;/a&gt; is a modeling
 framework that integrates real-time sensor data with model-based
 predictions.&lt;/p&gt;
 &lt;p&gt;We collaborate with &lt;a href=&#34;https://friskoslofjord.no&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Frisk Oslofjord&lt;/a&gt;, a
@@ -85,11 +85,28 @@ activities at UiO and the &lt;a href=&#34;https://uio.no/dscience&#34; target=&#
 center. The digital twin will ultimately enable semantic analysis and,
 building on that, data visualization by oceanographers and other
 interested members of the public.&lt;/p&gt;
+&lt;h3 id=&#34;system-architecture&#34;&gt;System Architecture&lt;/h3&gt;
 &lt;p&gt;The digital twin architecture is currently being developed using
 &lt;a href=&#34;https://smolang.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SMOL&lt;/a&gt;, a language developed at UiO specifically
 for digital twins. SMOL integrates simulators of physical systems with
-semantic web technologies and databases.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Master students involved in the Oslofjord Digital Twin project:&lt;/em&gt;&lt;/p&gt;
+semantic web technologies and time-series databases. The system
+architecture will be released as ooeb source.&lt;/p&gt;
+&lt;h3 id=&#34;what-if-scenarios-for-ecosystem-stressors&#34;&gt;What-If Scenarios for Ecosystem Stressors&lt;/h3&gt;
+&lt;p&gt;Our aim to use the Digital Twin of the Oslo Fjord as a laboratory to
+explore hypothetical &amp;ldquo;what-if&amp;rdquo; experiments, describing scenarios that
+capture human and climatic stressors on the ecosystems of the
+fjord. The twin combines physical and biological models of the fjord
+and its ecosystems. Experts in computer scientists, marine biology,
+oceanography and physics to capture both the physical and biological
+effects of such stressors. As an example of ongoing research, we study
+the effect of extreme weather events on the circulation model of the
+fjord.&lt;/p&gt;
+&lt;p&gt;The Digital Twin of the Oslo Fjord is also part of the project
+&lt;a href=&#34;https://www.mn.uio.no/ibv/english/research/sections/aqua/research-projects/coastal-ecosystems&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Coastal Ecosystems Dynamics Under Anthropogenic
+Pressures&lt;/a&gt;,
+which aims to improve marine sustainability and our understanding of
+the dynamics in the coastal zone where land and open sea meet.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Master students involved in the Oslo Fjord Digital Twin project:&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;André Finstad&lt;/li&gt;
 &lt;li&gt;Vebjørn Olsen Leihne&lt;/li&gt;
@@ -98,15 +115,21 @@ semantic web technologies and databases.&lt;/p&gt;
 &lt;li&gt;Sander Sigmundstad&lt;/li&gt;
 &lt;li&gt;Ingvild Emilie Øvsthus&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;Researchers involved in the Oslofjord Digital Twin project&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Researchers involved in the Oslo Fjord Digital Twin project&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Einar Broch Johnsen&lt;/li&gt;
-&lt;li&gt;Eduard Kamburjan&lt;/li&gt;
-&lt;li&gt;Andrea Pferscher&lt;/li&gt;
-&lt;li&gt;Rudolf Schlatte&lt;/li&gt;
-&lt;li&gt;Riccardo Sieve&lt;/li&gt;
-&lt;li&gt;Laura Ann Slaughter (dScience)&lt;/li&gt;
-&lt;li&gt;Silvia Lizeth Tapia Tarifa&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ebjohnsen.org/&#34;&gt;Einar Broch Johnsen&lt;/a&gt; (computer science, Dept. of Informatics, UiO)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mn.uio.no/english/people/adm/fac/research/nilsst/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nils Chr Stenseth&lt;/a&gt; (marine ecology, Dept. of Biosciences, UiO))&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mn.uio.no/ibv/english/people/aca/alexaei/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alexander Eiler&lt;/a&gt; (marine ecology, Dept. of Biosciences, UiO))&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mn.uio.no/math/english/people/aca/atlej/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Atle Jensen&lt;/a&gt; (fluid mechanics, Dept. of Mathematics, UiO)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mn.uio.no/geo/english/people/aca/metos/kaihc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kai Håkon Christensen&lt;/a&gt; (oceanograhy, Norwegian Meteorological Institute)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.fr/citations?user=RWVXUdYAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jean Raubault&lt;/a&gt; (oceanograhy, Norwegian Meteorological Institute)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mn.uio.no/cees/english/people/researcher-postdoc/jentoft/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sissel Jentoft&lt;/a&gt; (marine ecology, Dept. of Biosciences, UiO))&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://edkamb.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eduard Kamburjan&lt;/a&gt; (computer science, Dept. of Informatics, UiO)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://apferscher.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrea Pferscher&lt;/a&gt;  (computer science, Dept. of Informatics, UiO)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mn.uio.no/ifi/english/people/aca/rudi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rudolf Schlatte&lt;/a&gt;  (computer science, Dept. of Informatics, UiO)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mn.uio.no/ifi/?vrtx=person-view&amp;amp;uid=riccasi&amp;amp;lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Riccardo Sieve&lt;/a&gt; (computer science, Dept. of Informatics, UiO)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.uio.no/dscience/english/people/administration/laura-slaughter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laura Ann Slaughter&lt;/a&gt; (dScience Center, UiO)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mn.uio.no/ifi/english/people/aca/sltarifa/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Silvia Lizeth Tapia Tarifa&lt;/a&gt; (computer science, Dept. of Informatics, UiO)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
