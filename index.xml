@@ -292,6 +292,7 @@ the dynamics in the coastal zone where land and open sea meet.&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;https://edkamb.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eduard Kamburjan&lt;/a&gt; (computer science, Dept. of Informatics, UiO)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://apferscher.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrea Pferscher&lt;/a&gt;  (computer science, Dept. of Informatics, UiO)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.mn.uio.no/ifi/english/people/aca/rudi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rudolf Schlatte&lt;/a&gt;  (computer science, Dept. of Informatics, UiO)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mn.uio.no/math/english/people/aca/larswd/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lars Willas Dreyer&lt;/a&gt; (fluid mechanics, Dept. of Mathematics, UiO)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.mn.uio.no/ifi/?vrtx=person-view&amp;amp;uid=riccasi&amp;amp;lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Riccardo Sieve&lt;/a&gt; (computer science, Dept. of Informatics, UiO)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.uio.no/dscience/english/people/administration/laura-slaughter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laura Ann Slaughter&lt;/a&gt; (dScience Center, UiO)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.mn.uio.no/ifi/english/people/aca/sltarifa/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Silvia Lizeth Tapia Tarifa&lt;/a&gt; (computer science, Dept. of Informatics, UiO)&lt;/li&gt;
@@ -1248,7 +1249,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-396782415&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-591476238&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -1258,7 +1259,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-396782415&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-591476238&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
