@@ -5,12 +5,24 @@
     <link>https://ebjohnsen.org/authors/lars-tveito/</link>
       <atom:link href="https://ebjohnsen.org/authors/lars-tveito/index.xml" rel="self" type="application/rss+xml" />
     <description>Lars Tveito</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Nov 2020 08:47:43 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 May 2024 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
       <title>Lars Tveito</title>
       <link>https://ebjohnsen.org/authors/lars-tveito/</link>
     </image>
+    
+    <item>
+      <title>Roger Antonsen fanget publikum med sitt smittende engasjement</title>
+      <link>https://ebjohnsen.org/publication/24-roger-antonsen/</link>
+      <pubDate>Mon, 06 May 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-roger-antonsen/</guid>
+      <description>&lt;center&gt;
+&lt;img src=&#34;roger.jpg&#34; width=&#34;400&#34; alt=&#34;Roger Antonsen&#34;&gt;
+Roger Antonsen (1976 - 2024).&lt;br&gt;  (Photo © Sam Willard 2017)
+&lt;/center&gt;
+</description>
+    </item>
     
     <item>
       <title>Inseguendo Fagiani Selvatici: Partial Order Reduction for Guarded Command Languages</title>

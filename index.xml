@@ -61,6 +61,18 @@
     </item>
     
     <item>
+      <title>Roger Antonsen fanget publikum med sitt smittende engasjement</title>
+      <link>https://ebjohnsen.org/publication/24-roger-antonsen/</link>
+      <pubDate>Mon, 06 May 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-roger-antonsen/</guid>
+      <description>&lt;center&gt;
+&lt;img src=&#34;roger.jpg&#34; width=&#34;400&#34; alt=&#34;Roger Antonsen&#34;&gt;
+Roger Antonsen (1976 - 2024).&lt;br&gt;  (Photo © Sam Willard 2017)
+&lt;/center&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Proving Correctness of Parallel Implementations of Transition System Models</title>
       <link>https://ebjohnsen.org/publication/24-toplas2/</link>
       <pubDate>Fri, 19 Apr 2024 09:07:44 +0200</pubDate>
@@ -1257,7 +1269,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-169785324&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-463729815&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -1267,7 +1279,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-169785324&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-463729815&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
