@@ -5,7 +5,7 @@
     <link>https://ebjohnsen.org/authors/eduard/</link>
       <atom:link href="https://ebjohnsen.org/authors/eduard/index.xml" rel="self" type="application/rss+xml" />
     <description>Eduard Kamburjan</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Apr 2024 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 22 Sep 2024 20:15:00 +0000</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/authors/eduard/avatar_hu0076aa56518b11c705bbb77126cfa410_311979_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Eduard Kamburjan</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Eduard Kamburjan</title>
       <link>https://ebjohnsen.org/authors/eduard/</link>
-      <pubDate>Tue, 02 Apr 2024 09:07:44 +0200</pubDate>
+      <pubDate>Sun, 22 Sep 2024 20:15:00 +0000</pubDate>
       <guid>https://ebjohnsen.org/authors/eduard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Semantically Reflected Digital Twin</title>
+      <link>https://ebjohnsen.org/talk/the-semantically-reflected-digital-twin/</link>
+      <pubDate>Sun, 22 Sep 2024 20:15:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/the-semantically-reflected-digital-twin/</guid>
       <description></description>
     </item>
     
