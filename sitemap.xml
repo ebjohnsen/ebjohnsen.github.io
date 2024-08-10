@@ -26,6 +26,10 @@
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://ebjohnsen.org/publication/</loc>
+    <lastmod>2024-10-17T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ebjohnsen.org/talk/edtconf-2024/</loc>
     <lastmod>2024-09-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -64,10 +68,6 @@
   </url><url>
     <loc>https://ebjohnsen.org/talk/fm-2024/</loc>
     <lastmod>2024-09-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/publication/</loc>
-    <lastmod>2024-07-17T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/talk/ecmfa-2024/</loc>
@@ -206,7 +206,7 @@
     <lastmod>2024-04-02T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/authors/riccardo-sieve/</loc>
+    <loc>https://ebjohnsen.org/authors/riccardo/</loc>
     <lastmod>2024-04-02T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -2190,7 +2190,13 @@
     <lastmod>2001-12-15T22:46:33+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://ebjohnsen.org/authors/andrea/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ebjohnsen.org/authors/ludo/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/tobias/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

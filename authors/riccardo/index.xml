@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Riccardo Sieve | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/authors/riccardo/</link>
+      <atom:link href="https://ebjohnsen.org/authors/riccardo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Riccardo Sieve</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Apr 2024 09:07:44 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/authors/riccardo/avatar_hu8780808362851517950.jpg</url>
+      <title>Riccardo Sieve</title>
+      <link>https://ebjohnsen.org/authors/riccardo/</link>
+    </image>
+    
+    <item>
+      <title>GreenhouseDT: An Exemplar for Digital Twins</title>
+      <link>https://ebjohnsen.org/publication/24-seams/</link>
+      <pubDate>Tue, 02 Apr 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-seams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Riccardo Sieve</title>
+      <link>https://ebjohnsen.org/authors/riccardo/</link>
+      <pubDate>Tue, 02 Apr 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/authors/riccardo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
