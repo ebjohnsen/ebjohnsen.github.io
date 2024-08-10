@@ -200,6 +200,14 @@ University of Oxford (UK), Tsinghua University (CN).&lt;/p&gt;
     </item>
     
     <item>
+      <title>Preface for the Formal Methods in System Design special issue on ‘FASE 2022’</title>
+      <link>https://ebjohnsen.org/publication/24-fmsd/</link>
+      <pubDate>Fri, 01 Mar 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-fmsd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Digital Twin for Pandemic Monitoring and Prevention</title>
       <link>https://ebjohnsen.org/talk/a-digital-twin-for-pandemic-monitoring-and-prevention/</link>
       <pubDate>Tue, 13 Feb 2024 11:15:00 +0000</pubDate>
@@ -333,6 +341,14 @@ the dynamics in the coastal zone where land and open sea meet.&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.mn.uio.no/ifi/english/people/aca/sltarifa/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Silvia Lizeth Tapia Tarifa&lt;/a&gt; (computer science, Dept. of Informatics, UiO)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Preface for the special issue on &#39;Fundamental Approaches to Software Engineering (FASE 2022)&#39;</title>
+      <link>https://ebjohnsen.org/publication/24-scp/</link>
+      <pubDate>Mon, 15 Jan 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-scp/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -1284,7 +1300,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-257849361&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-683514927&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -1294,7 +1310,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-257849361&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-683514927&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

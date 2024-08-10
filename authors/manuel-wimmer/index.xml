@@ -5,12 +5,28 @@
     <link>https://ebjohnsen.org/authors/manuel-wimmer/</link>
       <atom:link href="https://ebjohnsen.org/authors/manuel-wimmer/index.xml" rel="self" type="application/rss+xml" />
     <description>Manuel Wimmer</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Apr 2022 13:51:24 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
       <title>Manuel Wimmer</title>
       <link>https://ebjohnsen.org/authors/manuel-wimmer/</link>
     </image>
+    
+    <item>
+      <title>Preface for the Formal Methods in System Design special issue on ‘FASE 2022’</title>
+      <link>https://ebjohnsen.org/publication/24-fmsd/</link>
+      <pubDate>Fri, 01 Mar 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-fmsd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preface for the special issue on &#39;Fundamental Approaches to Software Engineering (FASE 2022)&#39;</title>
+      <link>https://ebjohnsen.org/publication/24-scp/</link>
+      <pubDate>Mon, 15 Jan 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-scp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Proc. 25th Intl. Conf. on Fundamental Approaches to Software Engineering (FASE 2022)</title>
