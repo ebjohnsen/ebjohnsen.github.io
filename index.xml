@@ -31,7 +31,7 @@
     <item>
       <title>The Semantically Reflected Digital Twin</title>
       <link>https://ebjohnsen.org/talk/the-semantically-reflected-digital-twin/</link>
-      <pubDate>Sun, 22 Sep 2024 20:15:00 +0000</pubDate>
+      <pubDate>Sun, 22 Sep 2024 14:00:00 +0000</pubDate>
       <guid>https://ebjohnsen.org/talk/the-semantically-reflected-digital-twin/</guid>
       <description></description>
     </item>
@@ -1300,7 +1300,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-683514927&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-367948251&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -1310,7 +1310,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-683514927&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-367948251&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
