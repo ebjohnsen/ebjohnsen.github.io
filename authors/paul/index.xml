@@ -5,7 +5,7 @@
     <link>https://ebjohnsen.org/authors/paul/</link>
       <atom:link href="https://ebjohnsen.org/authors/paul/index.xml" rel="self" type="application/rss+xml" />
     <description>Paul Kobialka</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Mar 2024 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Jul 2024 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/authors/paul/avatar_hu1816340660552018106.jpg</url>
       <title>Paul Kobialka</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Paul Kobialka</title>
       <link>https://ebjohnsen.org/authors/paul/</link>
-      <pubDate>Mon, 25 Mar 2024 09:07:44 +0200</pubDate>
+      <pubDate>Wed, 17 Jul 2024 09:07:44 +0200</pubDate>
       <guid>https://ebjohnsen.org/authors/paul/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Games for User Journeys</title>
+      <link>https://ebjohnsen.org/publication/24-fm/</link>
+      <pubDate>Wed, 17 Jul 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-fm/</guid>
       <description></description>
     </item>
     

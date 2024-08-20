@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/publication/</link>
       <atom:link href="https://ebjohnsen.org/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Oct 2024 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Oct 2024 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
       <title>Publications</title>
       <link>https://ebjohnsen.org/publication/</link>
     </image>
+    
+    <item>
+      <title>Stochastic Games for User Journeys</title>
+      <link>https://ebjohnsen.org/publication/24-fm/</link>
+      <pubDate>Wed, 17 Jul 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-fm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Roger Antonsen fanget publikum med sitt smittende engasjement</title>
