@@ -5,7 +5,7 @@
     <link>https://ebjohnsen.org/authors/lizeth/</link>
       <atom:link href="https://ebjohnsen.org/authors/lizeth/index.xml" rel="self" type="application/rss+xml" />
     <description>Silvia Lizeth Tapia Tarifa</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 22 Sep 2024 14:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Oct 2024 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/authors/lizeth/avatar_hu2330211903792633808.jpg</url>
       <title>Silvia Lizeth Tapia Tarifa</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Declarative Lifecycle Management in Digital Twins</title>
+      <link>https://ebjohnsen.org/publication/24-edt/</link>
+      <pubDate>Tue, 22 Oct 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-edt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Silvia Lizeth Tapia Tarifa</title>
       <link>https://ebjohnsen.org/authors/lizeth/</link>
-      <pubDate>Sun, 22 Sep 2024 14:00:00 +0000</pubDate>
+      <pubDate>Tue, 22 Oct 2024 09:07:44 +0200</pubDate>
       <guid>https://ebjohnsen.org/authors/lizeth/</guid>
       <description></description>
     </item>

@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/category/semantic-reflection/</link>
       <atom:link href="https://ebjohnsen.org/category/semantic-reflection/index.xml" rel="self" type="application/rss+xml" />
     <description>Semantic Reflection</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Aug 2022 06:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Oct 2024 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
       <title>Semantic Reflection</title>
       <link>https://ebjohnsen.org/category/semantic-reflection/</link>
     </image>
+    
+    <item>
+      <title>Declarative Lifecycle Management in Digital Twins</title>
+      <link>https://ebjohnsen.org/publication/24-edt/</link>
+      <pubDate>Tue, 22 Oct 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-edt/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Digital Twin Reconfiguration Using Asset Models</title>
