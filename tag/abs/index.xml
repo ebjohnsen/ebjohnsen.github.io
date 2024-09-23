@@ -5,7 +5,7 @@
     <link>https://ebjohnsen.org/tag/abs/</link>
       <atom:link href="https://ebjohnsen.org/tag/abs/index.xml" rel="self" type="application/rss+xml" />
     <description>ABS</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 Apr 2024 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Sep 2024 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
       <title>ABS</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Proving Correctness of Parallel Implementations of Transition System Models</title>
       <link>https://ebjohnsen.org/publication/24-toplas2/</link>
-      <pubDate>Fri, 19 Apr 2024 09:07:44 +0200</pubDate>
+      <pubDate>Tue, 17 Sep 2024 09:07:44 +0200</pubDate>
       <guid>https://ebjohnsen.org/publication/24-toplas2/</guid>
       <description></description>
     </item>
