@@ -5,12 +5,28 @@
     <link>https://ebjohnsen.org/category/self-adaptive-systems/</link>
       <atom:link href="https://ebjohnsen.org/category/self-adaptive-systems/index.xml" rel="self" type="application/rss+xml" />
     <description>Self-Adaptive Systems</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Nov 2023 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Oct 2024 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
       <title>Self-Adaptive Systems</title>
       <link>https://ebjohnsen.org/category/self-adaptive-systems/</link>
     </image>
+    
+    <item>
+      <title>Declarative Lifecycle Management in Digital Twins</title>
+      <link>https://ebjohnsen.org/publication/24-edt/</link>
+      <pubDate>Tue, 22 Oct 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-edt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GreenhouseDT: An Exemplar for Digital Twins</title>
+      <link>https://ebjohnsen.org/publication/24-seams/</link>
+      <pubDate>Tue, 02 Apr 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-seams/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Formal Modelling and Analysis of a Self-Adaptive Robotic System</title>
