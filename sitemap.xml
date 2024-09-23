@@ -31,7 +31,55 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/authors/</loc>
-    <lastmod>2024-10-22T09:07:44+02:00</lastmod>
+    <lastmod>2024-10-23T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/andrzej/</loc>
+    <lastmod>2024-10-23T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/einarj/</loc>
+    <lastmod>2024-10-23T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/jeremy-p.-coffelt/</loc>
+    <lastmod>2024-10-23T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/mahya-mohammadi-kashani/</loc>
+    <lastmod>2024-10-23T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/publication-type/paper-conference/</loc>
+    <lastmod>2024-10-23T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/publication_types/</loc>
+    <lastmod>2024-10-23T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/tag/remaro/</loc>
+    <lastmod>2024-10-23T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/category/remaro/</loc>
+    <lastmod>2024-10-23T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/publication/24-iros/</loc>
+    <lastmod>2024-10-23T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/tag/robotics/</loc>
+    <lastmod>2024-10-23T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/category/robotics/</loc>
+    <lastmod>2024-10-23T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/tobias/</loc>
+    <lastmod>2024-10-23T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/publication/24-edt/</loc>
@@ -50,19 +98,7 @@
     <lastmod>2024-10-22T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/authors/einarj/</loc>
-    <lastmod>2024-10-22T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ebjohnsen.org/authors/nelly-bencomo/</loc>
-    <lastmod>2024-10-22T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/publication-type/paper-conference/</loc>
-    <lastmod>2024-10-22T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/publication_types/</loc>
     <lastmod>2024-10-22T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -422,10 +458,6 @@
     <lastmod>2023-11-04T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/category/robotics/</loc>
-    <lastmod>2023-11-04T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ebjohnsen.org/category/self-adaptive-systems/</loc>
     <lastmod>2023-11-04T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -488,10 +520,6 @@
   </url><url>
     <loc>https://ebjohnsen.org/authors/roger-pielke-jr/</loc>
     <lastmod>2023-09-29T07:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/authors/andrzej/</loc>
-    <lastmod>2023-09-20T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/publication/23-icfp/</loc>
@@ -2243,9 +2271,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/authors/ludo/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/authors/tobias/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
