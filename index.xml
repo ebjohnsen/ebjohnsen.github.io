@@ -61,73 +61,6 @@
     </item>
     
     <item>
-      <title>DART: Digital Arctic Twins</title>
-      <link>https://ebjohnsen.org/project/dart/</link>
-      <pubDate>Wed, 02 Oct 2024 10:32:56 +0200</pubDate>
-      <guid>https://ebjohnsen.org/project/dart/</guid>
-      <description>&lt;p&gt;DART (Digital ARctic Twins) is a network funded by
-&lt;a href=&#34;https://www.uarctic.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UArctic&lt;/a&gt; 2024-2026.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Partners:&lt;/strong&gt;
-&lt;a href=&#34;https://www.uio.no/english/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Oslo&lt;/a&gt; (NO),
-The &lt;a href=&#34;https://en.uit.no&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arctic University of Norway&lt;/a&gt; (NO),
-&lt;a href=&#34;https://www.abdn.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Aberdeen&lt;/a&gt; (UK),
-&lt;a href=&#34;https://www.durham.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Durham University&lt;/a&gt; (UK),
-&lt;a href=&#34;https://www.gcu.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Glasgow Caledonian University&lt;/a&gt; (UK),
-&lt;a href=&#34;https://en.itu.dk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IT University of Copenhagen&lt;/a&gt; (DK),
-&lt;a href=&#34;https://www.ltu.se/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Luleå Technological University&lt;/a&gt; (SE),
-&lt;a href=&#34;https://www.washington.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Washington&lt;/a&gt; (USA) and
-&lt;a href=&#34;https://international.au.dk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aarhus University&lt;/a&gt; (DK).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Coordinator:&lt;/strong&gt; Einar Broch Johnsen, University of Oslo (&lt;a href=&#34;mailto:einarj@ifi.uio.no?subject=DART&#34;&gt;contact&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Synopsis:&lt;/strong&gt; DART is a network spanning five circumpolar countries
-(NOR, SWE, DNK, GBR, USA). We will develop digital twins to study
-just transitions to net zero under the aegis of the UArctic
-‘&lt;a href=&#34;https://www.uarctic.org/activities/thematic-networks/climate-justice-in-the-arctic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Climate
-Justice&lt;/a&gt;’
-thematic network.&lt;/p&gt;
-&lt;p&gt;The principles for global co-operation towards net zero are described
-in Article 6 of the Paris Agreement, which offers a primary directive
-to encourage markets to move towards net zero through bilateral and/or
-multilateral treaties between participating States. The creation of
-these bilateral treaties is, however, fraught with problems. A major
-bottleneck lies in understanding the interconnected feedback loops
-through which their context-sensitive market-based instruments will
-affect, and be affected by, changing environmental and economic
-systems.&lt;/p&gt;
-&lt;p&gt;A promising approach to describe and understand those feedback loops –
-and to quantify the uncertainty involved in bilateral treaty
-implementation - lies in the creation of digital twins: digital
-representations of places and processes that can be used to simulate
-the likelihood of given outcomes from bilateral agreements.
-Importantly, digital twins can be co-ordinated with a range of
-AI-enabled technologies (including Bayesian inference) to quantify
-uncertainties in less tangible parameters, such as cultural and legal
-values, allowing consideration of the policy and legal frameworks that
-must accompany market-based instruments to set the right incentives
-and provide oversight. Given the speed with which the Arctic climate
-is changing, the insights provided by simulation of the various places
-and peoples of the Arctic must be seen as a priority in any move
-towards just transitions in northern countries. The creation of
-digital twin methodologies to support such simulations is a key
-enabler.&lt;/p&gt;
-&lt;p&gt;The DART network project will do just that: our interdisciplinary team
-(biodiversity, health, environment, culture, economy) will inform the
-creation of digital twin infrastructures for modelling responses to
-complex climate legislation and – critically - quantify the
-uncertainties associated with Paris Agreement tools (see, e.g., the
-paper &lt;a href=&#34;https://www.nature.com/articles/ncomms15748&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Understanding the origin of Paris Agreement emission
-uncertainties&lt;/a&gt;) to
-support cost-efficient Arctic transitions to net zero. The project
-builds on world-leading interdisciplinary research into digital twin
-creation at UiO and Aarhus (e.g. to model vaccination strategies, to
-model the Oslo Fjord). It will be informed by circumpolar and
-transnational expertise in legal (Durham, Glasgow Caledonian, UiT),
-economic (Durham, Luleå), environmental (Luleå, Glasgow Caledonian),
-and health (Aberdeen, Washington) infrastructures across countries and
-places.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>EDTconf 2024</title>
       <link>https://ebjohnsen.org/talk/edtconf-2024/</link>
       <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
@@ -1379,7 +1312,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-493178526&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-175236849&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -1389,7 +1322,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-493178526&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-175236849&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
