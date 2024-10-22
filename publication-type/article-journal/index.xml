@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/publication-type/article-journal/</link>
       <atom:link href="https://ebjohnsen.org/publication-type/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Sep 2024 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Feb 2025 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
       <title>Article-Journal</title>
       <link>https://ebjohnsen.org/publication-type/article-journal/</link>
     </image>
+    
+    <item>
+      <title>A Configurable Software Model of a Self-Adaptive Robotic System</title>
+      <link>https://ebjohnsen.org/publication/25-scp/</link>
+      <pubDate>Thu, 20 Feb 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-scp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Proving Correctness of Parallel Implementations of Transition System Models</title>

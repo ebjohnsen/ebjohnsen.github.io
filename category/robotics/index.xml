@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/category/robotics/</link>
       <atom:link href="https://ebjohnsen.org/category/robotics/index.xml" rel="self" type="application/rss+xml" />
     <description>Robotics</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Oct 2024 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Feb 2025 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
       <title>Robotics</title>
       <link>https://ebjohnsen.org/category/robotics/</link>
     </image>
+    
+    <item>
+      <title>A Configurable Software Model of a Self-Adaptive Robotic System</title>
+      <link>https://ebjohnsen.org/publication/25-scp/</link>
+      <pubDate>Thu, 20 Feb 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-scp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mutation-Based Integration Testing of Knowledge Graph Applications</title>
