@@ -5,7 +5,7 @@
     <link>https://ebjohnsen.org/authors/riccardo/</link>
       <atom:link href="https://ebjohnsen.org/authors/riccardo/index.xml" rel="self" type="application/rss+xml" />
     <description>Riccardo Sieve</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Apr 2024 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Oct 2024 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/authors/riccardo/avatar_hu8780808362851517950.jpg</url>
       <title>Riccardo Sieve</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>GreenhouseDT: An Exemplar for Digital Twins</title>
-      <link>https://ebjohnsen.org/publication/24-seams/</link>
-      <pubDate>Tue, 02 Apr 2024 09:07:44 +0200</pubDate>
-      <guid>https://ebjohnsen.org/publication/24-seams/</guid>
+      <title>Riccardo Sieve</title>
+      <link>https://ebjohnsen.org/authors/riccardo/</link>
+      <pubDate>Wed, 23 Oct 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/authors/riccardo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Riccardo Sieve</title>
-      <link>https://ebjohnsen.org/authors/riccardo/</link>
+      <title>Semantic Reflection and Digital Twins: A Comprehensive Overview</title>
+      <link>https://ebjohnsen.org/publication/24-tiziana/</link>
+      <pubDate>Wed, 23 Oct 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-tiziana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GreenhouseDT: An Exemplar for Digital Twins</title>
+      <link>https://ebjohnsen.org/publication/24-seams/</link>
       <pubDate>Tue, 02 Apr 2024 09:07:44 +0200</pubDate>
-      <guid>https://ebjohnsen.org/authors/riccardo/</guid>
+      <guid>https://ebjohnsen.org/publication/24-seams/</guid>
       <description></description>
     </item>
     

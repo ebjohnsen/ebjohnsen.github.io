@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/tag/user-journeys/</link>
       <atom:link href="https://ebjohnsen.org/tag/user-journeys/index.xml" rel="self" type="application/rss+xml" />
     <description>User Journeys</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Jul 2024 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Oct 2024 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
       <title>User Journeys</title>
       <link>https://ebjohnsen.org/tag/user-journeys/</link>
     </image>
+    
+    <item>
+      <title>Nudging Strategies for User Journeys: Take a Path on the Wild Side</title>
+      <link>https://ebjohnsen.org/publication/24-wang/</link>
+      <pubDate>Wed, 23 Oct 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-wang/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Stochastic Games for User Journeys</title>

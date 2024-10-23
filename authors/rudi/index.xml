@@ -5,7 +5,7 @@
     <link>https://ebjohnsen.org/authors/rudi/</link>
       <atom:link href="https://ebjohnsen.org/authors/rudi/index.xml" rel="self" type="application/rss+xml" />
     <description>Rudolf Schlatte</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Oct 2024 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/authors/rudi/avatar_hu12780066004560717246.jpg</url>
       <title>Rudolf Schlatte</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Rudolf Schlatte</title>
       <link>https://ebjohnsen.org/authors/rudi/</link>
-      <pubDate>Mon, 01 Jan 2024 09:07:44 +0200</pubDate>
+      <pubDate>Wed, 23 Oct 2024 09:07:44 +0200</pubDate>
       <guid>https://ebjohnsen.org/authors/rudi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Reflection and Digital Twins: A Comprehensive Overview</title>
+      <link>https://ebjohnsen.org/publication/24-tiziana/</link>
+      <pubDate>Wed, 23 Oct 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-tiziana/</guid>
       <description></description>
     </item>
     
