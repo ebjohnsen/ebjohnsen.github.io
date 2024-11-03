@@ -5,7 +5,7 @@
     <link>https://ebjohnsen.org/authors/erik/</link>
       <atom:link href="https://ebjohnsen.org/authors/erik/index.xml" rel="self" type="application/rss+xml" />
     <description>Erik Voogd</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 17 Nov 2024 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/authors/erik/avatar_hu979294172980220135.jpg</url>
       <title>Erik Voogd</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Denotational Semantics for Symbolic Execution</title>
-      <link>https://ebjohnsen.org/publication/23-ictac/</link>
-      <pubDate>Fri, 01 Dec 2023 09:07:44 +0200</pubDate>
-      <guid>https://ebjohnsen.org/publication/23-ictac/</guid>
+      <title>Correct and Complete Symbolic Execution for Free</title>
+      <link>https://ebjohnsen.org/publication/24-ifm/</link>
+      <pubDate>Sun, 17 Nov 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-ifm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Erik Voogd</title>
       <link>https://ebjohnsen.org/authors/erik/</link>
-      <pubDate>Fri, 01 Dec 2023 09:07:44 +0200</pubDate>
+      <pubDate>Sun, 17 Nov 2024 09:07:44 +0200</pubDate>
       <guid>https://ebjohnsen.org/authors/erik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Denotational Semantics for Symbolic Execution</title>
+      <link>https://ebjohnsen.org/publication/23-ictac/</link>
+      <pubDate>Fri, 01 Dec 2023 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/23-ictac/</guid>
       <description></description>
     </item>
     

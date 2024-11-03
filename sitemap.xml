@@ -102,6 +102,50 @@
     <lastmod>2024-11-28T12:15:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://ebjohnsen.org/authors/alexandra-silva/</loc>
+    <lastmod>2024-11-17T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/aasmund/</loc>
+    <lastmod>2024-11-17T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/publication/24-ifm/</loc>
+    <lastmod>2024-11-17T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/erik/</loc>
+    <lastmod>2024-11-17T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/jurriaan-rot/</loc>
+    <lastmod>2024-11-17T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/tag/operational-semantics/</loc>
+    <lastmod>2024-11-17T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/category/operational-semantics/</loc>
+    <lastmod>2024-11-17T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/publication-type/paper-conference/</loc>
+    <lastmod>2024-11-17T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/tag/semantics/</loc>
+    <lastmod>2024-11-17T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/tag/symbolic-execution/</loc>
+    <lastmod>2024-11-17T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/category/symbolic-execution/</loc>
+    <lastmod>2024-11-17T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ebjohnsen.org/talk/ifm-2024/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -111,10 +155,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/publication/24-issre/</loc>
-    <lastmod>2024-10-28T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/publication-type/paper-conference/</loc>
     <lastmod>2024-10-28T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -394,10 +434,6 @@
     <lastmod>2024-03-15T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/tag/semantics/</loc>
-    <lastmod>2024-03-15T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ebjohnsen.org/category/semantics/</loc>
     <lastmod>2024-03-15T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -466,23 +502,7 @@
     <lastmod>2023-12-05T09:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/authors/aasmund/</loc>
-    <lastmod>2023-12-01T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ebjohnsen.org/publication/23-ictac/</loc>
-    <lastmod>2023-12-01T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/authors/erik/</loc>
-    <lastmod>2023-12-01T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/tag/symbolic-execution/</loc>
-    <lastmod>2023-12-01T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/category/symbolic-execution/</loc>
     <lastmod>2023-12-01T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -576,10 +596,6 @@
   </url><url>
     <loc>https://ebjohnsen.org/authors/thorsten-berger/</loc>
     <lastmod>2023-09-10T07:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/authors/alexandra-silva/</loc>
-    <lastmod>2023-09-03T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/publication/23-concur/</loc>

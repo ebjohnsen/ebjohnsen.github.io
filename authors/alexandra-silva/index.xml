@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/authors/alexandra-silva/</link>
       <atom:link href="https://ebjohnsen.org/authors/alexandra-silva/index.xml" rel="self" type="application/rss+xml" />
     <description>Alexandra Silva</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 03 Sep 2023 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 17 Nov 2024 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
       <title>Alexandra Silva</title>
       <link>https://ebjohnsen.org/authors/alexandra-silva/</link>
     </image>
+    
+    <item>
+      <title>Correct and Complete Symbolic Execution for Free</title>
+      <link>https://ebjohnsen.org/publication/24-ifm/</link>
+      <pubDate>Sun, 17 Nov 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-ifm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Symbolic Semantics for Probabilistic Programs</title>
