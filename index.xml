@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>ECOOP 2025</title>
+      <link>https://ebjohnsen.org/talk/ecoop-2025/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/ecoop-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ASQAP 2025</title>
       <link>https://ebjohnsen.org/talk/asqap-2025/</link>
       <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
@@ -1474,7 +1482,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-198635472&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-684173295&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -1484,7 +1492,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-198635472&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-684173295&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
