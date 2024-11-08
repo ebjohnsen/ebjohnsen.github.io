@@ -5,7 +5,7 @@
     <link>https://ebjohnsen.org/authors/andrzej/</link>
       <atom:link href="https://ebjohnsen.org/authors/andrzej/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrzej Wasowski</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Oct 2024 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Nov 2024 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/authors/andrzej/avatar_hu15621984548017561942.jpg</url>
       <title>Andrzej Wasowski</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Andrzej Wasowski</title>
       <link>https://ebjohnsen.org/authors/andrzej/</link>
-      <pubDate>Wed, 23 Oct 2024 09:07:44 +0200</pubDate>
+      <pubDate>Wed, 06 Nov 2024 09:07:44 +0200</pubDate>
       <guid>https://ebjohnsen.org/authors/andrzej/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Proof System for Probabilistic Dynamic Logic</title>
+      <link>https://ebjohnsen.org/publication/24-jpk/</link>
+      <pubDate>Wed, 06 Nov 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-jpk/</guid>
       <description></description>
     </item>
     

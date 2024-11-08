@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/category/user-journeys/</link>
       <atom:link href="https://ebjohnsen.org/category/user-journeys/index.xml" rel="self" type="application/rss+xml" />
     <description>User Journeys</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Oct 2024 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Nov 2024 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
       <title>User Journeys</title>
       <link>https://ebjohnsen.org/category/user-journeys/</link>
     </image>
+    
+    <item>
+      <title>Towards a Proof System for Probabilistic Dynamic Logic</title>
+      <link>https://ebjohnsen.org/publication/24-jpk/</link>
+      <pubDate>Wed, 06 Nov 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-jpk/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Nudging Strategies for User Journeys: Take a Path on the Wild Side</title>

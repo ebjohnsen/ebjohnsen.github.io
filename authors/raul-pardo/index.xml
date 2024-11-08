@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/authors/raul-pardo/</link>
       <atom:link href="https://ebjohnsen.org/authors/raul-pardo/index.xml" rel="self" type="application/rss+xml" />
     <description>Raúl Pardo</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Aug 2022 07:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Nov 2024 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
       <title>Raúl Pardo</title>
       <link>https://ebjohnsen.org/authors/raul-pardo/</link>
     </image>
+    
+    <item>
+      <title>Towards a Proof System for Probabilistic Dynamic Logic</title>
+      <link>https://ebjohnsen.org/publication/24-jpk/</link>
+      <pubDate>Wed, 06 Nov 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-jpk/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Specification Logic for Programs in the Probabilistic Guarded Command Language</title>
