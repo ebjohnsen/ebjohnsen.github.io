@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cláudio Gomes | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/authors/claudio-gomes/</link>
+      <atom:link href="https://ebjohnsen.org/authors/claudio-gomes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cláudio Gomes</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Nov 2024 09:07:44 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
+      <title>Cláudio Gomes</title>
+      <link>https://ebjohnsen.org/authors/claudio-gomes/</link>
+    </image>
+    
+    <item>
+      <title>Digital Twin Engineering</title>
+      <link>https://ebjohnsen.org/publication/24-isola/</link>
+      <pubDate>Tue, 19 Nov 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-isola/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
