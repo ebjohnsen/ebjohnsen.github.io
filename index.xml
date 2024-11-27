@@ -201,6 +201,7 @@ places.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://ebjohnsen.org/&#34;&gt;Einar Broch Johnsen&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.mn.uio.no/english/people/adm/fac/research/nilsst/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nils Christian Stenseth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mn.uio.no/math/english/people/aca/atlej/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Atle Jensen&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.mn.uio.no/ifi/english/people/aca/sltarifa/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Silvia Lizeth Tapia Tarifa&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://apferscher.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrea Pferscher&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://edkamb.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eduard Kamburjan&lt;/a&gt;&lt;/li&gt;
@@ -1498,7 +1499,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-419726385&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-163952784&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -1508,7 +1509,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-419726385&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-163952784&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
