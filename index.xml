@@ -211,6 +211,7 @@ places.&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.cs.uit.no/~aa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anders Andersen&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://ekozyri.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Elisavet Kozyri&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.cs.uit.no/~issam/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Issam Raïs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.uit.no/ansatte/person?p_document_id=731447&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Loïc Guégan&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;University of Aberdeen (UK)&lt;/p&gt;
 &lt;ul&gt;
@@ -1501,7 +1502,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-367498512&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-354671289&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -1511,7 +1512,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-367498512&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-354671289&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
