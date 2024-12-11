@@ -204,12 +204,13 @@ places.&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.mn.uio.no/math/english/people/aca/atlej/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Atle Jensen&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.mn.uio.no/ifi/english/people/aca/sltarifa/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Silvia Lizeth Tapia Tarifa&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://apferscher.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrea Pferscher&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://edkamb.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eduard Kamburjan&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.mn.uio.no/ifi/english/people/aca/rudi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rudi Schlatte&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The Arctic University of Norway (NO)&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.cs.uit.no/~aa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anders Andersen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ekozyri.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Elisavet Kozyri&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cs.uit.no/~issam/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Issam Raïs&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;University of Aberdeen (UK)&lt;/p&gt;
 &lt;ul&gt;
@@ -229,6 +230,7 @@ places.&lt;/p&gt;
 &lt;p&gt;IT University of Copenhagen (DK)&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.itu.dk/people/wasowski/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrzej Wasowski&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://edkamb.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eduard Kamburjan&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Luleå Technological University (SE)&lt;/p&gt;
 &lt;ul&gt;
@@ -1499,7 +1501,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-983765214&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-367498512&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -1509,7 +1511,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-983765214&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-367498512&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
