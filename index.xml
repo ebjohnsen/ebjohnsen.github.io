@@ -37,18 +37,26 @@
     </item>
     
     <item>
-      <title>A Configurable Software Model of a Self-Adaptive Robotic System</title>
-      <link>https://ebjohnsen.org/publication/25-scp/</link>
-      <pubDate>Thu, 20 Feb 2025 09:07:44 +0200</pubDate>
-      <guid>https://ebjohnsen.org/publication/25-scp/</guid>
+      <title>Feature-Oriented Modelling and Analysis of a Self-Adaptive Robotic System</title>
+      <link>https://ebjohnsen.org/publication/25-fac/</link>
+      <pubDate>Sun, 05 Jan 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-fac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysing Self-Adaptive Systems as Software Product Lines</title>
       <link>https://ebjohnsen.org/publication/25-jss/</link>
-      <pubDate>Wed, 25 Dec 2024 09:07:44 +0200</pubDate>
+      <pubDate>Thu, 02 Jan 2025 09:07:44 +0200</pubDate>
       <guid>https://ebjohnsen.org/publication/25-jss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Configurable Software Model of a Self-Adaptive Robotic System</title>
+      <link>https://ebjohnsen.org/publication/25-scp/</link>
+      <pubDate>Wed, 01 Jan 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-scp/</guid>
       <description></description>
     </item>
     
@@ -1519,7 +1527,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-623981547&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-628579314&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -1529,7 +1537,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-623981547&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-628579314&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

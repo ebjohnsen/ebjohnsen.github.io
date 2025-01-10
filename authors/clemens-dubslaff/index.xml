@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clemens Dubslaff | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/authors/clemens-dubslaff/</link>
+      <atom:link href="https://ebjohnsen.org/authors/clemens-dubslaff/index.xml" rel="self" type="application/rss+xml" />
+    <description>Clemens Dubslaff</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jan 2025 09:07:44 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
+      <title>Clemens Dubslaff</title>
+      <link>https://ebjohnsen.org/authors/clemens-dubslaff/</link>
+    </image>
+    
+    <item>
+      <title>Feature-Oriented Modelling and Analysis of a Self-Adaptive Robotic System</title>
+      <link>https://ebjohnsen.org/publication/25-fac/</link>
+      <pubDate>Sun, 05 Jan 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-fac/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
