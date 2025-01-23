@@ -35,7 +35,31 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/authors/</loc>
-    <lastmod>2025-01-05T09:07:44+02:00</lastmod>
+    <lastmod>2025-02-19T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/tag/digital-twins/</loc>
+    <lastmod>2025-02-19T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/talk/digital-twins-what-does-it-mean/</loc>
+    <lastmod>2025-02-19T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/einarj/</loc>
+    <lastmod>2025-02-19T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/category/invited-talks/</loc>
+    <lastmod>2025-02-19T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/tag/talks/</loc>
+    <lastmod>2025-02-19T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/talk/environmental-digital-twins/</loc>
+    <lastmod>2025-02-06T12:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/publication-type/article-journal/</loc>
@@ -43,10 +67,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/authors/clemens-dubslaff/</loc>
-    <lastmod>2025-01-05T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/authors/einarj/</loc>
     <lastmod>2025-01-05T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -106,19 +126,7 @@
     <lastmod>2025-01-01T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/tag/digital-twins/</loc>
-    <lastmod>2024-11-28T12:15:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ebjohnsen.org/talk/environmental-digital-twins/</loc>
-    <lastmod>2024-11-28T12:15:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/category/invited-talks/</loc>
-    <lastmod>2024-11-28T12:15:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/tag/talks/</loc>
     <lastmod>2024-11-28T12:15:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

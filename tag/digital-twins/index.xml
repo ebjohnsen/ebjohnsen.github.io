@@ -5,12 +5,28 @@
     <link>https://ebjohnsen.org/tag/digital-twins/</link>
       <atom:link href="https://ebjohnsen.org/tag/digital-twins/index.xml" rel="self" type="application/rss+xml" />
     <description>Digital Twins</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Nov 2024 12:15:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Feb 2025 12:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
       <title>Digital Twins</title>
       <link>https://ebjohnsen.org/tag/digital-twins/</link>
     </image>
+    
+    <item>
+      <title>Digital Twins - what does it mean?</title>
+      <link>https://ebjohnsen.org/talk/digital-twins-what-does-it-mean/</link>
+      <pubDate>Wed, 19 Feb 2025 12:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/digital-twins-what-does-it-mean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environmental Digital Twins</title>
+      <link>https://ebjohnsen.org/talk/environmental-digital-twins/</link>
+      <pubDate>Thu, 06 Feb 2025 12:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/environmental-digital-twins/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Environmental Digital Twins</title>
