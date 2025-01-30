@@ -236,7 +236,9 @@ transnational expertise in legal (Durham, Glasgow Caledonian, UiT),
 economic (Durham, Luleå), environmental (Luleå, Glasgow Caledonian),
 and health (Aberdeen, Washington) infrastructures across countries and
 places.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Principal Investigators&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Workshop 1:&lt;/strong&gt; Oslo, 11-13 February 2025&lt;br&gt;
+More information &lt;a href=&#34;https://www.uio.no/dscience/english/news-and-events/events/dart-workshop.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Principal Investigators&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;University of Oslo (NO)&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://ebjohnsen.org/&#34;&gt;Einar Broch Johnsen&lt;/a&gt;&lt;/li&gt;
@@ -1543,7 +1545,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-273194685&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-749136852&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -1553,7 +1555,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-273194685&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-749136852&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
