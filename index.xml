@@ -77,10 +77,10 @@
     </item>
     
     <item>
-      <title>Environmental Digital Twins</title>
-      <link>https://ebjohnsen.org/talk/environmental-digital-twins/</link>
+      <title>Environmental Digital Twins.</title>
+      <link>https://ebjohnsen.org/talk/environmental-digital-twins./</link>
       <pubDate>Thu, 28 Nov 2024 12:15:00 +0000</pubDate>
-      <guid>https://ebjohnsen.org/talk/environmental-digital-twins/</guid>
+      <guid>https://ebjohnsen.org/talk/environmental-digital-twins./</guid>
       <description></description>
     </item>
     
@@ -1545,7 +1545,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-749136852&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-352647918&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -1555,7 +1555,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-749136852&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-352647918&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
