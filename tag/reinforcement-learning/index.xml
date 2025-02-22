@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reinforcement Learning | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/tag/reinforcement-learning/</link>
+      <atom:link href="https://ebjohnsen.org/tag/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reinforcement Learning</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 09:07:44 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
+      <title>Reinforcement Learning</title>
+      <link>https://ebjohnsen.org/tag/reinforcement-learning/</link>
+    </image>
+    
+    <item>
+      <title>Symbolic State Partitioning for Reinforcement Learning</title>
+      <link>https://ebjohnsen.org/publication/25-fase/</link>
+      <pubDate>Thu, 01 May 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-fase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Symbolic State Seeding Improves Coverage of Reinforcement Learning</title>
+      <link>https://ebjohnsen.org/publication/25-seams/</link>
+      <pubDate>Sun, 20 Apr 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-seams/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

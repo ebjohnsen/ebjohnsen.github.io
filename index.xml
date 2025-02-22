@@ -37,6 +37,22 @@
     </item>
     
     <item>
+      <title>Symbolic State Partitioning for Reinforcement Learning</title>
+      <link>https://ebjohnsen.org/publication/25-fase/</link>
+      <pubDate>Thu, 01 May 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-fase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Symbolic State Seeding Improves Coverage of Reinforcement Learning</title>
+      <link>https://ebjohnsen.org/publication/25-seams/</link>
+      <pubDate>Sun, 20 Apr 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-seams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Digital Twins - what does it mean?</title>
       <link>https://ebjohnsen.org/talk/digital-twins-what-does-it-mean/</link>
       <pubDate>Wed, 19 Feb 2025 12:00:00 +0000</pubDate>
@@ -1545,7 +1561,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-869172543&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-579436182&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -1555,7 +1571,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-869172543&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-579436182&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

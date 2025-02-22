@@ -5,12 +5,28 @@
     <link>https://ebjohnsen.org/authors/mohsen-ghaffari/</link>
       <atom:link href="https://ebjohnsen.org/authors/mohsen-ghaffari/index.xml" rel="self" type="application/rss+xml" />
     <description>Mohsen Ghaffari</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Sep 2023 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
       <title>Mohsen Ghaffari</title>
       <link>https://ebjohnsen.org/authors/mohsen-ghaffari/</link>
     </image>
+    
+    <item>
+      <title>Symbolic State Partitioning for Reinforcement Learning</title>
+      <link>https://ebjohnsen.org/publication/25-fase/</link>
+      <pubDate>Thu, 01 May 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-fase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Symbolic State Seeding Improves Coverage of Reinforcement Learning</title>
+      <link>https://ebjohnsen.org/publication/25-seams/</link>
+      <pubDate>Sun, 20 Apr 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-seams/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Formal Specification and Testing for Reinforcement Learning</title>

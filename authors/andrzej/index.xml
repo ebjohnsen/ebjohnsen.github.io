@@ -5,7 +5,7 @@
     <link>https://ebjohnsen.org/authors/andrzej/</link>
       <atom:link href="https://ebjohnsen.org/authors/andrzej/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrzej Wasowski</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Nov 2024 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/authors/andrzej/avatar_hu15621984548017561942.jpg</url>
       <title>Andrzej Wasowski</title>
@@ -15,8 +15,24 @@
     <item>
       <title>Andrzej Wasowski</title>
       <link>https://ebjohnsen.org/authors/andrzej/</link>
-      <pubDate>Wed, 06 Nov 2024 09:07:44 +0200</pubDate>
+      <pubDate>Thu, 01 May 2025 09:07:44 +0200</pubDate>
       <guid>https://ebjohnsen.org/authors/andrzej/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Symbolic State Partitioning for Reinforcement Learning</title>
+      <link>https://ebjohnsen.org/publication/25-fase/</link>
+      <pubDate>Thu, 01 May 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-fase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Symbolic State Seeding Improves Coverage of Reinforcement Learning</title>
+      <link>https://ebjohnsen.org/publication/25-seams/</link>
+      <pubDate>Sun, 20 Apr 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-seams/</guid>
       <description></description>
     </item>
     
