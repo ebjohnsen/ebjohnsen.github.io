@@ -5,7 +5,7 @@
     <link>https://ebjohnsen.org/authors/rudi/</link>
       <atom:link href="https://ebjohnsen.org/authors/rudi/index.xml" rel="self" type="application/rss+xml" />
     <description>Rudolf Schlatte</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Oct 2024 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 04 May 2025 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/authors/rudi/avatar_hu12780066004560717246.jpg</url>
       <title>Rudolf Schlatte</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>BedreFlyt: Improving Patient Flows through Hospital Wards with Digital Twins</title>
+      <link>https://ebjohnsen.org/publication/25-asqap/</link>
+      <pubDate>Sun, 04 May 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-asqap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Rudolf Schlatte</title>
       <link>https://ebjohnsen.org/authors/rudi/</link>
-      <pubDate>Wed, 23 Oct 2024 09:07:44 +0200</pubDate>
+      <pubDate>Sun, 04 May 2025 09:07:44 +0200</pubDate>
       <guid>https://ebjohnsen.org/authors/rudi/</guid>
       <description></description>
     </item>

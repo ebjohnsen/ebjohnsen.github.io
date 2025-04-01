@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/tag/digital-twins/</link>
       <atom:link href="https://ebjohnsen.org/tag/digital-twins/index.xml" rel="self" type="application/rss+xml" />
     <description>Digital Twins</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Feb 2025 12:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 04 May 2025 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
       <title>Digital Twins</title>
       <link>https://ebjohnsen.org/tag/digital-twins/</link>
     </image>
+    
+    <item>
+      <title>BedreFlyt: Improving Patient Flows through Hospital Wards with Digital Twins</title>
+      <link>https://ebjohnsen.org/publication/25-asqap/</link>
+      <pubDate>Sun, 04 May 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-asqap/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Digital Twins - what does it mean?</title>

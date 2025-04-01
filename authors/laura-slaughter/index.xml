@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laura Slaughter | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/authors/laura-slaughter/</link>
+      <atom:link href="https://ebjohnsen.org/authors/laura-slaughter/index.xml" rel="self" type="application/rss+xml" />
+    <description>Laura Slaughter</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 04 May 2025 09:07:44 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
+      <title>Laura Slaughter</title>
+      <link>https://ebjohnsen.org/authors/laura-slaughter/</link>
+    </image>
+    
+    <item>
+      <title>BedreFlyt: Improving Patient Flows through Hospital Wards with Digital Twins</title>
+      <link>https://ebjohnsen.org/publication/25-asqap/</link>
+      <pubDate>Sun, 04 May 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-asqap/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

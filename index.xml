@@ -29,6 +29,14 @@
     </item>
     
     <item>
+      <title>BedreFlyt: Improving Patient Flows through Hospital Wards with Digital Twins</title>
+      <link>https://ebjohnsen.org/publication/25-asqap/</link>
+      <pubDate>Sun, 04 May 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-asqap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ASQAP 2025</title>
       <link>https://ebjohnsen.org/talk/asqap-2025/</link>
       <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
@@ -1561,7 +1569,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-579436182&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-829415637&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -1571,7 +1579,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-579436182&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-829415637&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

@@ -5,7 +5,7 @@
     <link>https://ebjohnsen.org/authors/lizeth/</link>
       <atom:link href="https://ebjohnsen.org/authors/lizeth/index.xml" rel="self" type="application/rss+xml" />
     <description>Silvia Lizeth Tapia Tarifa</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jan 2025 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 04 May 2025 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/authors/lizeth/avatar_hu2330211903792633808.jpg</url>
       <title>Silvia Lizeth Tapia Tarifa</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Feature-Oriented Modelling and Analysis of a Self-Adaptive Robotic System</title>
-      <link>https://ebjohnsen.org/publication/25-fac/</link>
-      <pubDate>Sun, 05 Jan 2025 09:07:44 +0200</pubDate>
-      <guid>https://ebjohnsen.org/publication/25-fac/</guid>
+      <title>BedreFlyt: Improving Patient Flows through Hospital Wards with Digital Twins</title>
+      <link>https://ebjohnsen.org/publication/25-asqap/</link>
+      <pubDate>Sun, 04 May 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-asqap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Silvia Lizeth Tapia Tarifa</title>
       <link>https://ebjohnsen.org/authors/lizeth/</link>
-      <pubDate>Sun, 05 Jan 2025 09:07:44 +0200</pubDate>
+      <pubDate>Sun, 04 May 2025 09:07:44 +0200</pubDate>
       <guid>https://ebjohnsen.org/authors/lizeth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature-Oriented Modelling and Analysis of a Self-Adaptive Robotic System</title>
+      <link>https://ebjohnsen.org/publication/25-fac/</link>
+      <pubDate>Sun, 05 Jan 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-fac/</guid>
       <description></description>
     </item>
     
