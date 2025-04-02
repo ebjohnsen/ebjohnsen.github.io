@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Actors | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/tag/actors/</link>
+      <atom:link href="https://ebjohnsen.org/tag/actors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Actors</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Apr 2025 09:07:44 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
+      <title>Actors</title>
+      <link>https://ebjohnsen.org/tag/actors/</link>
+    </image>
+    
+    <item>
+      <title>An LAGC Semantics for Timed Rebeca</title>
+      <link>https://ebjohnsen.org/publication/25-marjan2/</link>
+      <pubDate>Wed, 09 Apr 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-marjan2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inside Every Multithreaded Program There Are Active Objects Struggling To Get Out</title>
+      <link>https://ebjohnsen.org/publication/25-marjan1/</link>
+      <pubDate>Wed, 09 Apr 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-marjan1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

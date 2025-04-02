@@ -5,7 +5,7 @@
     <link>https://ebjohnsen.org/authors/reiner/</link>
       <atom:link href="https://ebjohnsen.org/authors/reiner/index.xml" rel="self" type="application/rss+xml" />
     <description>Reiner Hähnle</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Mar 2024 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Apr 2025 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/authors/reiner/avatar_hu10234209248068991145.jpg</url>
       <title>Reiner Hähnle</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Locally Abstract, Globally Concrete Semantics of Concurrent Programming Languages</title>
-      <link>https://ebjohnsen.org/publication/24-toplas1/</link>
-      <pubDate>Fri, 15 Mar 2024 09:07:44 +0200</pubDate>
-      <guid>https://ebjohnsen.org/publication/24-toplas1/</guid>
+      <title>An LAGC Semantics for Timed Rebeca</title>
+      <link>https://ebjohnsen.org/publication/25-marjan2/</link>
+      <pubDate>Wed, 09 Apr 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-marjan2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reiner Hähnle</title>
       <link>https://ebjohnsen.org/authors/reiner/</link>
-      <pubDate>Fri, 15 Mar 2024 09:07:44 +0200</pubDate>
+      <pubDate>Wed, 09 Apr 2025 09:07:44 +0200</pubDate>
       <guid>https://ebjohnsen.org/authors/reiner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Locally Abstract, Globally Concrete Semantics of Concurrent Programming Languages</title>
+      <link>https://ebjohnsen.org/publication/24-toplas1/</link>
+      <pubDate>Fri, 15 Mar 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-toplas1/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>https://ebjohnsen.org/authors/tobias/</link>
       <atom:link href="https://ebjohnsen.org/authors/tobias/index.xml" rel="self" type="application/rss+xml" />
     <description>Tobias John</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Oct 2024 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2025 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/authors/tobias/avatar_hu12532050145393560984.jpg</url>
       <title>Tobias John</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Mutation-Based Integration Testing of Knowledge Graph Applications</title>
-      <link>https://ebjohnsen.org/publication/24-issre/</link>
-      <pubDate>Mon, 28 Oct 2024 09:07:44 +0200</pubDate>
-      <guid>https://ebjohnsen.org/publication/24-issre/</guid>
+      <title>Language-Based Testing for Knowledge Graphs</title>
+      <link>https://ebjohnsen.org/publication/25-eswc/</link>
+      <pubDate>Sun, 01 Jun 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-eswc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tobias John</title>
       <link>https://ebjohnsen.org/authors/tobias/</link>
-      <pubDate>Mon, 28 Oct 2024 09:07:44 +0200</pubDate>
+      <pubDate>Sun, 01 Jun 2025 09:07:44 +0200</pubDate>
       <guid>https://ebjohnsen.org/authors/tobias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mutation-Based Integration Testing of Knowledge Graph Applications</title>
+      <link>https://ebjohnsen.org/publication/24-issre/</link>
+      <pubDate>Mon, 28 Oct 2024 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/24-issre/</guid>
       <description></description>
     </item>
     

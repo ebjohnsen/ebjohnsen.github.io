@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dominic Steinhöfel | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/authors/dominic-steinhofel/</link>
+      <atom:link href="https://ebjohnsen.org/authors/dominic-steinhofel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dominic Steinhöfel</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2025 09:07:44 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
+      <title>Dominic Steinhöfel</title>
+      <link>https://ebjohnsen.org/authors/dominic-steinhofel/</link>
+    </image>
+    
+    <item>
+      <title>Language-Based Testing for Knowledge Graphs</title>
+      <link>https://ebjohnsen.org/publication/25-eswc/</link>
+      <pubDate>Sun, 01 Jun 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-eswc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
