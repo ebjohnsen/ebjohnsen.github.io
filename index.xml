@@ -13,6 +13,30 @@
     </image>
     
     <item>
+      <title>FM 2026</title>
+      <link>https://ebjohnsen.org/talk/fm-2026/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/fm-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iFM 2025</title>
+      <link>https://ebjohnsen.org/talk/ifm-2025/</link>
+      <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/ifm-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASQAP 2025</title>
+      <link>https://ebjohnsen.org/talk/asqap-2025/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/asqap-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ECOOP 2025</title>
       <link>https://ebjohnsen.org/talk/ecoop-2025/</link>
       <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
@@ -97,6 +121,14 @@
       <link>https://ebjohnsen.org/talk/environmental-digital-twins/</link>
       <pubDate>Thu, 06 Feb 2025 12:00:00 +0000</pubDate>
       <guid>https://ebjohnsen.org/talk/environmental-digital-twins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IN2080: Computability and Complexity</title>
+      <link>https://ebjohnsen.org/teaching/in2080/</link>
+      <pubDate>Sat, 01 Feb 2025 10:33:05 +0200</pubDate>
+      <guid>https://ebjohnsen.org/teaching/in2080/</guid>
       <description></description>
     </item>
     
@@ -553,14 +585,6 @@ University of Oxford (UK), Tsinghua University (CN).&lt;/p&gt;
       <link>https://ebjohnsen.org/talk/en-digital-tvilling-for-oslofjorden/</link>
       <pubDate>Thu, 08 Feb 2024 20:15:00 +0000</pubDate>
       <guid>https://ebjohnsen.org/talk/en-digital-tvilling-for-oslofjorden/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IN2080: Computability and Complexity</title>
-      <link>https://ebjohnsen.org/teaching/in2080/</link>
-      <pubDate>Thu, 01 Feb 2024 10:33:05 +0200</pubDate>
-      <guid>https://ebjohnsen.org/teaching/in2080/</guid>
       <description></description>
     </item>
     
@@ -1593,7 +1617,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-326518479&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-689521734&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -1603,7 +1627,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-326518479&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-689521734&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

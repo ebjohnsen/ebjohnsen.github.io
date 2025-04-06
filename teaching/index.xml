@@ -5,7 +5,7 @@
     <link>https://ebjohnsen.org/teaching/</link>
       <atom:link href="https://ebjohnsen.org/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teachings</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2024 10:33:05 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2025 10:33:05 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
       <title>Teachings</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>IN2031 – Project in Programming</title>
-      <link>https://ebjohnsen.org/teaching/in2031/</link>
-      <pubDate>Thu, 01 Aug 2024 10:33:05 +0200</pubDate>
-      <guid>https://ebjohnsen.org/teaching/in2031/</guid>
+      <title>IN2080: Computability and Complexity</title>
+      <link>https://ebjohnsen.org/teaching/in2080/</link>
+      <pubDate>Sat, 01 Feb 2025 10:33:05 +0200</pubDate>
+      <guid>https://ebjohnsen.org/teaching/in2080/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>IN2080: Computability and Complexity</title>
-      <link>https://ebjohnsen.org/teaching/in2080/</link>
-      <pubDate>Thu, 01 Feb 2024 10:33:05 +0200</pubDate>
-      <guid>https://ebjohnsen.org/teaching/in2080/</guid>
+      <title>IN2031 – Project in Programming</title>
+      <link>https://ebjohnsen.org/teaching/in2031/</link>
+      <pubDate>Thu, 01 Aug 2024 10:33:05 +0200</pubDate>
+      <guid>https://ebjohnsen.org/teaching/in2031/</guid>
       <description></description>
     </item>
     

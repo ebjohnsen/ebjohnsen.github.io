@@ -5,12 +5,36 @@
     <link>https://ebjohnsen.org/tag/service/</link>
       <atom:link href="https://ebjohnsen.org/tag/service/index.xml" rel="self" type="application/rss+xml" />
     <description>Service</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
       <title>Service</title>
       <link>https://ebjohnsen.org/tag/service/</link>
     </image>
+    
+    <item>
+      <title>FM 2026</title>
+      <link>https://ebjohnsen.org/talk/fm-2026/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/fm-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iFM 2025</title>
+      <link>https://ebjohnsen.org/talk/ifm-2025/</link>
+      <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/ifm-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASQAP 2025</title>
+      <link>https://ebjohnsen.org/talk/asqap-2025/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/asqap-2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ECOOP 2025</title>

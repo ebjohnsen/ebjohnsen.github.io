@@ -3,26 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ebjohnsen.org/categories/</loc>
-    <lastmod>2025-06-30T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/ecoop-2025/</loc>
-    <lastmod>2025-06-30T00:00:00+00:00</lastmod>
+    <loc>https://ebjohnsen.org/talk/fm-2026/</loc>
+    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/category/programme-committees/</loc>
-    <lastmod>2025-06-30T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/tag/service/</loc>
-    <lastmod>2025-06-30T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/tags/</loc>
-    <lastmod>2025-06-30T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/event/</loc>
+    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/talk/ifm-2025/</loc>
+    <lastmod>2025-11-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/talk/asqap-2025/</loc>
+    <lastmod>2025-07-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/talk/ecoop-2025/</loc>
     <lastmod>2025-06-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -224,6 +236,14 @@
   </url><url>
     <loc>https://ebjohnsen.org/talk/environmental-digital-twins/</loc>
     <lastmod>2025-02-06T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/teaching/in2080/</loc>
+    <lastmod>2025-02-01T10:33:05+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/teaching/</loc>
+    <lastmod>2025-02-01T10:33:05+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/publication-type/article-journal/</loc>
@@ -458,10 +478,6 @@
     <lastmod>2024-08-01T10:33:05+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/teaching/</loc>
-    <lastmod>2024-08-01T10:33:05+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ebjohnsen.org/authors/gunnar/</loc>
     <lastmod>2024-07-17T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -600,10 +616,6 @@
   </url><url>
     <loc>https://ebjohnsen.org/talk/en-digital-tvilling-for-oslofjorden/</loc>
     <lastmod>2024-02-08T20:15:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/teaching/in2080/</loc>
-    <lastmod>2024-02-01T10:33:05+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/authors/eds/</loc>
