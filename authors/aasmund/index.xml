@@ -5,7 +5,7 @@
     <link>https://ebjohnsen.org/authors/aasmund/</link>
       <atom:link href="https://ebjohnsen.org/authors/aasmund/index.xml" rel="self" type="application/rss+xml" />
     <description>Åsmund Aqissiaq Arild Kløvstad</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 17 Nov 2024 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Jun 2025 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/authors/aasmund/avatar_hu13257452924822742723.png</url>
       <title>Åsmund Aqissiaq Arild Kløvstad</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Åsmund Aqissiaq Arild Kløvstad</title>
       <link>https://ebjohnsen.org/authors/aasmund/</link>
-      <pubDate>Sun, 17 Nov 2024 09:07:44 +0200</pubDate>
+      <pubDate>Sun, 15 Jun 2025 09:07:44 +0200</pubDate>
       <guid>https://ebjohnsen.org/authors/aasmund/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compositional Symbolic Execution Semantics</title>
+      <link>https://ebjohnsen.org/publication/25-tcs/</link>
+      <pubDate>Sun, 15 Jun 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-tcs/</guid>
       <description></description>
     </item>
     

@@ -38,12 +38,68 @@
     <lastmod>2025-06-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/sle-2025/</loc>
-    <lastmod>2025-06-12T00:00:00+00:00</lastmod>
+    <loc>https://ebjohnsen.org/authors/</loc>
+    <lastmod>2025-06-15T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/authors/</loc>
-    <lastmod>2025-06-01T09:07:44+02:00</lastmod>
+    <loc>https://ebjohnsen.org/authors/andrzej/</loc>
+    <lastmod>2025-06-15T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/publication-type/article-journal/</loc>
+    <lastmod>2025-06-15T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/aasmund/</loc>
+    <lastmod>2025-06-15T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/publication/25-tcs/</loc>
+    <lastmod>2025-06-15T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/tag/denotational-semantics/</loc>
+    <lastmod>2025-06-15T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/category/denotational-semantics/</loc>
+    <lastmod>2025-06-15T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/einarj/</loc>
+    <lastmod>2025-06-15T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/erik/</loc>
+    <lastmod>2025-06-15T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/publication_types/</loc>
+    <lastmod>2025-06-15T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/publication/</loc>
+    <lastmod>2025-06-15T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/tag/semantics/</loc>
+    <lastmod>2025-06-15T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/category/semantics/</loc>
+    <lastmod>2025-06-15T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/tag/symbolic-execution/</loc>
+    <lastmod>2025-06-15T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/category/symbolic-execution/</loc>
+    <lastmod>2025-06-15T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/talk/sle-2025/</loc>
+    <lastmod>2025-06-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/authors/dominic-steinhofel/</loc>
@@ -51,10 +107,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/authors/eduard/</loc>
-    <lastmod>2025-06-01T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/authors/einarj/</loc>
     <lastmod>2025-06-01T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -71,14 +123,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/publication-type/paper-conference/</loc>
-    <lastmod>2025-06-01T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/publication_types/</loc>
-    <lastmod>2025-06-01T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/publication/</loc>
     <lastmod>2025-06-01T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -138,10 +182,6 @@
     <lastmod>2025-05-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/authors/andrzej/</loc>
-    <lastmod>2025-05-01T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ebjohnsen.org/authors/mahsa-varshosaz/</loc>
     <lastmod>2025-05-01T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -155,14 +195,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/category/reinforcement-learning/</loc>
-    <lastmod>2025-05-01T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/tag/symbolic-execution/</loc>
-    <lastmod>2025-05-01T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/category/symbolic-execution/</loc>
     <lastmod>2025-05-01T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -246,10 +278,6 @@
     <lastmod>2025-02-01T10:33:05+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/publication-type/article-journal/</loc>
-    <lastmod>2025-01-05T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ebjohnsen.org/authors/clemens-dubslaff/</loc>
     <lastmod>2025-01-05T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -318,15 +346,7 @@
     <lastmod>2024-11-17T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/authors/aasmund/</loc>
-    <lastmod>2024-11-17T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ebjohnsen.org/publication/24-ifm/</loc>
-    <lastmod>2024-11-17T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/authors/erik/</loc>
     <lastmod>2024-11-17T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -339,10 +359,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/category/operational-semantics/</loc>
-    <lastmod>2024-11-17T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/tag/semantics/</loc>
     <lastmod>2024-11-17T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -578,23 +594,11 @@
     <lastmod>2024-03-15T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/tag/denotational-semantics/</loc>
-    <lastmod>2024-03-15T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/category/denotational-semantics/</loc>
-    <lastmod>2024-03-15T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ebjohnsen.org/publication/24-toplas1/</loc>
     <lastmod>2024-03-15T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/authors/ludovic/</loc>
-    <lastmod>2024-03-15T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/category/semantics/</loc>
     <lastmod>2024-03-15T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

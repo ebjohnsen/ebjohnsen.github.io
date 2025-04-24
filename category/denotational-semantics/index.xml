@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/category/denotational-semantics/</link>
       <atom:link href="https://ebjohnsen.org/category/denotational-semantics/index.xml" rel="self" type="application/rss+xml" />
     <description>Denotational Semantics</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Mar 2024 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Jun 2025 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
       <title>Denotational Semantics</title>
       <link>https://ebjohnsen.org/category/denotational-semantics/</link>
     </image>
+    
+    <item>
+      <title>Compositional Symbolic Execution Semantics</title>
+      <link>https://ebjohnsen.org/publication/25-tcs/</link>
+      <pubDate>Sun, 15 Jun 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-tcs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Locally Abstract, Globally Concrete Semantics of Concurrent Programming Languages</title>

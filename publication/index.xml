@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/publication/</link>
       <atom:link href="https://ebjohnsen.org/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2025 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Jun 2025 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
       <title>Publications</title>
       <link>https://ebjohnsen.org/publication/</link>
     </image>
+    
+    <item>
+      <title>Compositional Symbolic Execution Semantics</title>
+      <link>https://ebjohnsen.org/publication/25-tcs/</link>
+      <pubDate>Sun, 15 Jun 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-tcs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Language-Based Testing for Knowledge Graphs</title>

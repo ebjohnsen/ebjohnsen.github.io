@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Denotational Semantics. Symbolic Execution | Einar Broch Johnsen</title>
+    <link>http://localhost:1313/category/denotational-semantics.-symbolic-execution/</link>
+      <atom:link href="http://localhost:1313/category/denotational-semantics.-symbolic-execution/index.xml" rel="self" type="application/rss+xml" />
+    <description>Denotational Semantics. Symbolic Execution</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu5605391091882128338.png</url>
+      <title>Denotational Semantics. Symbolic Execution</title>
+      <link>http://localhost:1313/category/denotational-semantics.-symbolic-execution/</link>
+    </image>
+    
+  </channel>
+</rss>
