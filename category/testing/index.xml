@@ -28,5 +28,29 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Formal Specification and Testing for Reinforcement Learning</title>
+      <link>https://ebjohnsen.org/publication/23-icfp/</link>
+      <pubDate>Wed, 20 Sep 2023 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/23-icfp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Symbolic Execution for Testing Distributed Objects</title>
+      <link>https://ebjohnsen.org/publication/09-tap/</link>
+      <pubDate>Tue, 21 Jul 2009 22:55:26 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/09-tap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing Concurrent Objects with Application-Specific Schedulers</title>
+      <link>https://ebjohnsen.org/publication/08-ictac/</link>
+      <pubDate>Thu, 21 Aug 2008 22:53:49 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/08-ictac/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
