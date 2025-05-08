@@ -5,7 +5,7 @@
     <link>https://ebjohnsen.org/authors/juliane/</link>
       <atom:link href="https://ebjohnsen.org/authors/juliane/index.xml" rel="self" type="application/rss+xml" />
     <description>Juliane Päßler</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jan 2025 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jun 2025 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/authors/juliane/avatar_hu10815968961810458827.jpg</url>
       <title>Juliane Päßler</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Feature-Oriented Modelling and Analysis of a Self-Adaptive Robotic System</title>
-      <link>https://ebjohnsen.org/publication/25-fac/</link>
-      <pubDate>Sun, 05 Jan 2025 09:07:44 +0200</pubDate>
-      <guid>https://ebjohnsen.org/publication/25-fac/</guid>
+      <title>Juliane Päßler</title>
+      <link>https://ebjohnsen.org/authors/juliane/</link>
+      <pubDate>Mon, 16 Jun 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/authors/juliane/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Juliane Päßler</title>
-      <link>https://ebjohnsen.org/authors/juliane/</link>
+      <title>ROSA: A Knowledge-based Solution for Robot Self-Adaptation</title>
+      <link>https://ebjohnsen.org/publication/25-frontiers/</link>
+      <pubDate>Mon, 16 Jun 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-frontiers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature-Oriented Modelling and Analysis of a Self-Adaptive Robotic System</title>
+      <link>https://ebjohnsen.org/publication/25-fac/</link>
       <pubDate>Sun, 05 Jan 2025 09:07:44 +0200</pubDate>
-      <guid>https://ebjohnsen.org/authors/juliane/</guid>
+      <guid>https://ebjohnsen.org/publication/25-fac/</guid>
       <description></description>
     </item>
     
