@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carlos Hernández Corbato | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/authors/carlos/</link>
+      <atom:link href="https://ebjohnsen.org/authors/carlos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carlos Hernández Corbato</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jun 2025 09:07:44 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/authors/carlos/avatar_hu14979072276233269238.jpg</url>
+      <title>Carlos Hernández Corbato</title>
+      <link>https://ebjohnsen.org/authors/carlos/</link>
+    </image>
+    
+    <item>
+      <title>Carlos Hernández Corbato</title>
+      <link>https://ebjohnsen.org/authors/carlos/</link>
+      <pubDate>Mon, 16 Jun 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/authors/carlos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ROSA: A Knowledge-based Solution for Robot Self-Adaptation</title>
+      <link>https://ebjohnsen.org/publication/25-frontiers/</link>
+      <pubDate>Mon, 16 Jun 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-frontiers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SUAVE: An Exemplar for Self-Adaptive Underwater Vehicles</title>
+      <link>https://ebjohnsen.org/publication/23-seams/</link>
+      <pubDate>Thu, 16 Mar 2023 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/23-seams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Formal Model of Metacontrol in Maude</title>
+      <link>https://ebjohnsen.org/publication/22-isola3/</link>
+      <pubDate>Thu, 18 Aug 2022 06:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/22-isola3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
