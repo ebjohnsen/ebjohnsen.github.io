@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/tag/robotics/</link>
       <atom:link href="https://ebjohnsen.org/tag/robotics/index.xml" rel="self" type="application/rss+xml" />
     <description>Robotics</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Oct 2024 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jun 2025 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
       <title>Robotics</title>
       <link>https://ebjohnsen.org/tag/robotics/</link>
     </image>
+    
+    <item>
+      <title>ROSA: A Knowledge-based Solution for Robot Self-Adaptation</title>
+      <link>https://ebjohnsen.org/publication/25-frontiers/</link>
+      <pubDate>Mon, 16 Jun 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-frontiers/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mutation-Based Integration Testing of Knowledge Graph Applications</title>
