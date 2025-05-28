@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/publication-type/paper-conference/</link>
       <atom:link href="https://ebjohnsen.org/publication-type/paper-conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Paper-Conference</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2025 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
       <title>Paper-Conference</title>
       <link>https://ebjohnsen.org/publication-type/paper-conference/</link>
     </image>
+    
+    <item>
+      <title>Declarative Dynamic Object Reclassification</title>
+      <link>https://ebjohnsen.org/publication/25-ecoop/</link>
+      <pubDate>Tue, 01 Jul 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-ecoop/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Language-Based Testing for Knowledge Graphs</title>

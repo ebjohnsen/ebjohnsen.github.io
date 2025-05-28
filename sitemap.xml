@@ -34,12 +34,68 @@
     <lastmod>2025-07-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/ecoop-2025/</loc>
-    <lastmod>2025-06-30T00:00:00+00:00</lastmod>
+    <loc>https://ebjohnsen.org/authors/</loc>
+    <lastmod>2025-07-01T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/authors/</loc>
-    <lastmod>2025-06-16T09:07:44+02:00</lastmod>
+    <loc>https://ebjohnsen.org/publication/25-ecoop/</loc>
+    <lastmod>2025-07-01T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/tag/digital-twins/</loc>
+    <lastmod>2025-07-01T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/category/digital-twins/</loc>
+    <lastmod>2025-07-01T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/eduard/</loc>
+    <lastmod>2025-07-01T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/einarj/</loc>
+    <lastmod>2025-07-01T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/ferruccio/</loc>
+    <lastmod>2025-07-01T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/publication-type/paper-conference/</loc>
+    <lastmod>2025-07-01T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/publication_types/</loc>
+    <lastmod>2025-07-01T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/publication/</loc>
+    <lastmod>2025-07-01T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/riccardo/</loc>
+    <lastmod>2025-07-01T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/tag/semantic-reflection/</loc>
+    <lastmod>2025-07-01T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/category/semantic-reflection/</loc>
+    <lastmod>2025-07-01T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/tag/smol/</loc>
+    <lastmod>2025-07-01T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/category/smol/</loc>
+    <lastmod>2025-07-01T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/talk/ecoop-2025/</loc>
+    <lastmod>2025-06-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/publication-type/article-journal/</loc>
@@ -50,23 +106,11 @@
     <lastmod>2025-06-16T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/authors/einarj/</loc>
-    <lastmod>2025-06-16T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ebjohnsen.org/authors/gustavo/</loc>
     <lastmod>2025-06-16T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/authors/juliane/</loc>
-    <lastmod>2025-06-16T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/publication_types/</loc>
-    <lastmod>2025-06-16T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/publication/</loc>
     <lastmod>2025-06-16T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -150,10 +194,6 @@
     <lastmod>2025-06-01T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/authors/eduard/</loc>
-    <lastmod>2025-06-01T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ebjohnsen.org/tag/knowledge-graphs/</loc>
     <lastmod>2025-06-01T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -163,10 +203,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/publication/25-eswc/</loc>
-    <lastmod>2025-06-01T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/publication-type/paper-conference/</loc>
     <lastmod>2025-06-01T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -186,23 +222,11 @@
     <lastmod>2025-05-04T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/tag/digital-twins/</loc>
-    <lastmod>2025-05-04T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/category/digital-twins/</loc>
-    <lastmod>2025-05-04T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ebjohnsen.org/authors/laura-slaughter/</loc>
     <lastmod>2025-05-04T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/authors/paul/</loc>
-    <lastmod>2025-05-04T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/authors/riccardo/</loc>
     <lastmod>2025-05-04T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -322,10 +346,6 @@
     <lastmod>2025-01-05T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/authors/ferruccio/</loc>
-    <lastmod>2025-01-05T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ebjohnsen.org/authors/maurice/</loc>
     <lastmod>2025-01-05T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -434,23 +454,7 @@
     <lastmod>2024-10-23T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/tag/semantic-reflection/</loc>
-    <lastmod>2024-10-23T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/category/semantic-reflection/</loc>
-    <lastmod>2024-10-23T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ebjohnsen.org/publication/24-tiziana/</loc>
-    <lastmod>2024-10-23T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/tag/smol/</loc>
-    <lastmod>2024-10-23T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/category/smol/</loc>
     <lastmod>2024-10-23T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

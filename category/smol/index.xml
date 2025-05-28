@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/category/smol/</link>
       <atom:link href="https://ebjohnsen.org/category/smol/index.xml" rel="self" type="application/rss+xml" />
     <description>SMOL</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Oct 2024 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
       <title>SMOL</title>
       <link>https://ebjohnsen.org/category/smol/</link>
     </image>
+    
+    <item>
+      <title>Declarative Dynamic Object Reclassification</title>
+      <link>https://ebjohnsen.org/publication/25-ecoop/</link>
+      <pubDate>Tue, 01 Jul 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-ecoop/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Semantic Reflection and Digital Twins: A Comprehensive Overview</title>
