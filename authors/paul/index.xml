@@ -5,7 +5,7 @@
     <link>https://ebjohnsen.org/authors/paul/</link>
       <atom:link href="https://ebjohnsen.org/authors/paul/index.xml" rel="self" type="application/rss+xml" />
     <description>Paul Kobialka</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 04 May 2025 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Jul 2025 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/authors/paul/avatar_hu1816340660552018106.jpg</url>
       <title>Paul Kobialka</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>BedreFlyt: Improving Patient Flows through Hospital Wards with Digital Twins</title>
-      <link>https://ebjohnsen.org/publication/25-asqap/</link>
-      <pubDate>Sun, 04 May 2025 09:07:44 +0200</pubDate>
-      <guid>https://ebjohnsen.org/publication/25-asqap/</guid>
+      <title>Counterfactual Strategies for Markov Decision Processes</title>
+      <link>https://ebjohnsen.org/publication/25-ijcai/</link>
+      <pubDate>Thu, 10 Jul 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-ijcai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Paul Kobialka</title>
       <link>https://ebjohnsen.org/authors/paul/</link>
-      <pubDate>Sun, 04 May 2025 09:07:44 +0200</pubDate>
+      <pubDate>Thu, 10 Jul 2025 09:07:44 +0200</pubDate>
       <guid>https://ebjohnsen.org/authors/paul/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BedreFlyt: Improving Patient Flows through Hospital Wards with Digital Twins</title>
+      <link>https://ebjohnsen.org/publication/25-asqap/</link>
+      <pubDate>Sun, 04 May 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-asqap/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>https://ebjohnsen.org/authors/lizeth/</link>
       <atom:link href="https://ebjohnsen.org/authors/lizeth/index.xml" rel="self" type="application/rss+xml" />
     <description>Silvia Lizeth Tapia Tarifa</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jun 2025 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Jul 2025 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/authors/lizeth/avatar_hu2330211903792633808.jpg</url>
       <title>Silvia Lizeth Tapia Tarifa</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>ROSA: A Knowledge-based Solution for Robot Self-Adaptation</title>
-      <link>https://ebjohnsen.org/publication/25-frontiers/</link>
-      <pubDate>Mon, 16 Jun 2025 09:07:44 +0200</pubDate>
-      <guid>https://ebjohnsen.org/publication/25-frontiers/</guid>
+      <title>Counterfactual Strategies for Markov Decision Processes</title>
+      <link>https://ebjohnsen.org/publication/25-ijcai/</link>
+      <pubDate>Thu, 10 Jul 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-ijcai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Silvia Lizeth Tapia Tarifa</title>
       <link>https://ebjohnsen.org/authors/lizeth/</link>
-      <pubDate>Mon, 16 Jun 2025 09:07:44 +0200</pubDate>
+      <pubDate>Thu, 10 Jul 2025 09:07:44 +0200</pubDate>
       <guid>https://ebjohnsen.org/authors/lizeth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ROSA: A Knowledge-based Solution for Robot Self-Adaptation</title>
+      <link>https://ebjohnsen.org/publication/25-frontiers/</link>
+      <pubDate>Mon, 16 Jun 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-frontiers/</guid>
       <description></description>
     </item>
     

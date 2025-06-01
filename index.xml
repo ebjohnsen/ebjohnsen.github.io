@@ -29,6 +29,14 @@
     </item>
     
     <item>
+      <title>Counterfactual Strategies for Markov Decision Processes</title>
+      <link>https://ebjohnsen.org/publication/25-ijcai/</link>
+      <pubDate>Thu, 10 Jul 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-ijcai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>VORTEX 2025</title>
       <link>https://ebjohnsen.org/talk/vortex-2025/</link>
       <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
@@ -1649,7 +1657,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-648237951&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-731245968&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -1659,7 +1667,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-648237951&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-731245968&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

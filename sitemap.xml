@@ -30,12 +30,52 @@
     <lastmod>2025-11-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/talk/vortex-2025/</loc>
-    <lastmod>2025-07-04T00:00:00+00:00</lastmod>
+    <loc>https://ebjohnsen.org/authors/</loc>
+    <lastmod>2025-07-10T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/authors/</loc>
-    <lastmod>2025-07-01T09:07:44+02:00</lastmod>
+    <loc>https://ebjohnsen.org/publication/25-ijcai/</loc>
+    <lastmod>2025-07-10T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/einarj/</loc>
+    <lastmod>2025-07-10T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/erika/</loc>
+    <lastmod>2025-07-10T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/francesco-leofante/</loc>
+    <lastmod>2025-07-10T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/lina-gerlach/</loc>
+    <lastmod>2025-07-10T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/publication-type/paper-conference/</loc>
+    <lastmod>2025-07-10T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/paul/</loc>
+    <lastmod>2025-07-10T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/publication_types/</loc>
+    <lastmod>2025-07-10T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/publication/</loc>
+    <lastmod>2025-07-10T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/lizeth/</loc>
+    <lastmod>2025-07-10T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/talk/vortex-2025/</loc>
+    <lastmod>2025-07-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/publication/25-ecoop/</loc>
@@ -54,23 +94,7 @@
     <lastmod>2025-07-01T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/authors/einarj/</loc>
-    <lastmod>2025-07-01T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ebjohnsen.org/authors/ferruccio/</loc>
-    <lastmod>2025-07-01T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/publication-type/paper-conference/</loc>
-    <lastmod>2025-07-01T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/publication_types/</loc>
-    <lastmod>2025-07-01T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/publication/</loc>
     <lastmod>2025-07-01T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -139,10 +163,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/category/self-adaptive-systems/</loc>
-    <lastmod>2025-06-16T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/authors/lizeth/</loc>
     <lastmod>2025-06-16T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -223,10 +243,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/authors/laura-slaughter/</loc>
-    <lastmod>2025-05-04T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/authors/paul/</loc>
     <lastmod>2025-05-04T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1528,10 +1544,6 @@
   </url><url>
     <loc>https://ebjohnsen.org/project/cumulus/</loc>
     <lastmod>2017-02-02T22:17:32+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/authors/erika-abraham/</loc>
-    <lastmod>2016-11-26T00:23:39+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/authors/florian-corzilius/</loc>
