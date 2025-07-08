@@ -7,7 +7,7 @@
     <description>Posts</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
+      <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://ebjohnsen.org/post/</link>
     </image>
@@ -38,10 +38,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;png&#34; srcset=&#34;
-               /post/blog-with-jupyter/output_1_0_hu10436241876710648818.webp 400w,
-               /post/blog-with-jupyter/output_1_0_hu9583391371614247630.webp 760w,
-               /post/blog-with-jupyter/output_1_0_hu10083326660053564461.webp 1200w&#34;
-               src=&#34;https://ebjohnsen.org/post/blog-with-jupyter/output_1_0_hu10436241876710648818.webp&#34;
+               /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp 400w,
+               /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_6b76da17c04a40aee4c1c633206f8065.webp 760w,
+               /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://ebjohnsen.org/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp&#34;
                width=&#34;601&#34;
                height=&#34;203&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -243,7 +243,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-245137689&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-491326875&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -253,7 +253,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-245137689&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-491326875&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
