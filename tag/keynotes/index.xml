@@ -7,16 +7,16 @@
     <description>Keynotes</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jun 2022 09:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ebjohnsen.org/media/icon_hub341504972d314b2e9a402ad2e73d67e_181309_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
       <title>Keynotes</title>
       <link>https://ebjohnsen.org/tag/keynotes/</link>
     </image>
     
     <item>
       <title>Digital Twins: An Emerging Paradigm for Model-Centric Engineering</title>
-      <link>https://ebjohnsen.org/pnse2022-:slug/</link>
+      <link>https://ebjohnsen.org/pnse2022-digital-twins-an-emerging-paradigm-for-model-centric-engineering/</link>
       <pubDate>Mon, 20 Jun 2022 09:00:00 +0000</pubDate>
-      <guid>https://ebjohnsen.org/pnse2022-:slug/</guid>
+      <guid>https://ebjohnsen.org/pnse2022-digital-twins-an-emerging-paradigm-for-model-centric-engineering/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Bio.&lt;/strong&gt; &lt;br&gt;
 Einar Broch Johnsen is a professor and the head of the Formal Methods group at the Department of Informatics, University of Oslo. His research interests include programming models and methodology; program specification and modeling; and the theory and application of formal methods. He is active in formal methods for distributed and concurrent systems, including object-oriented and concurrent languages, manycore computing, cloud computing, and digital twins. He is one of the main developers of the ABS modeling language.&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@ Einar Broch Johnsen is a professor and the head of the Formal Methods group at t
     
     <item>
       <title>Digital Twins: An Emerging Paradigm for Model-Centric Engineering</title>
-      <link>https://ebjohnsen.org/formalise22-:slug/</link>
+      <link>https://ebjohnsen.org/formalise22-digital-twins-an-emerging-paradigm-for-model-centric-engineering/</link>
       <pubDate>Thu, 19 May 2022 15:00:00 +0000</pubDate>
-      <guid>https://ebjohnsen.org/formalise22-:slug/</guid>
+      <guid>https://ebjohnsen.org/formalise22-digital-twins-an-emerging-paradigm-for-model-centric-engineering/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Bio.&lt;/strong&gt; &lt;br&gt;
 Einar Broch Johnsen is a professor and the head of the Formal Methods group at the Department of Informatics, University of Oslo. His research interests include programming models and methodology; program specification and modeling; and the theory and application of formal methods. He is active in formal methods for distributed and concurrent systems, including object-oriented and concurrent languages, manycore computing, cloud computing, and digital twins. He is one of the main developers of the ABS modeling language.&lt;/p&gt;
 </description>

@@ -5,26 +5,34 @@
     <link>https://ebjohnsen.org/authors/tobias/</link>
       <atom:link href="https://ebjohnsen.org/authors/tobias/index.xml" rel="self" type="application/rss+xml" />
     <description>Tobias John</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2025 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Nov 2025 09:07:44 +0200</lastBuildDate>
     <image>
-      <url>https://ebjohnsen.org/authors/tobias/avatar_huec39bb25cde3af4132355924e5eff44e_389153_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://ebjohnsen.org/authors/tobias/avatar_hu12532050145393560984.jpg</url>
       <title>Tobias John</title>
       <link>https://ebjohnsen.org/authors/tobias/</link>
     </image>
     
     <item>
-      <title>Language-Based Testing for Knowledge Graphs</title>
-      <link>https://ebjohnsen.org/publication/25-eswc/</link>
-      <pubDate>Sun, 01 Jun 2025 09:07:44 +0200</pubDate>
-      <guid>https://ebjohnsen.org/publication/25-eswc/</guid>
+      <title>RDFMutate: Mutation-Based Generation of Knowledge Graphs</title>
+      <link>https://ebjohnsen.org/publication/25-iswc/</link>
+      <pubDate>Sun, 02 Nov 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-iswc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tobias John</title>
       <link>https://ebjohnsen.org/authors/tobias/</link>
-      <pubDate>Sun, 01 Jun 2025 09:07:44 +0200</pubDate>
+      <pubDate>Sun, 02 Nov 2025 09:07:44 +0200</pubDate>
       <guid>https://ebjohnsen.org/authors/tobias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language-Based Testing for Knowledge Graphs</title>
+      <link>https://ebjohnsen.org/publication/25-eswc/</link>
+      <pubDate>Sun, 01 Jun 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-eswc/</guid>
       <description></description>
     </item>
     
