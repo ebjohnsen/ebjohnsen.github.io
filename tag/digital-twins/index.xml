@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/tag/digital-twins/</link>
       <atom:link href="https://ebjohnsen.org/tag/digital-twins/index.xml" rel="self" type="application/rss+xml" />
     <description>Digital Twins</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 Aug 2025 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
       <title>Digital Twins</title>
       <link>https://ebjohnsen.org/tag/digital-twins/</link>
     </image>
+    
+    <item>
+      <title>What-If Scenarios for the BedreFlyt Digital Twin</title>
+      <link>https://ebjohnsen.org/publication/25-christel/</link>
+      <pubDate>Fri, 29 Aug 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-christel/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Declarative Dynamic Object Reclassification</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BedreFlyt | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/category/bedreflyt/</link>
+      <atom:link href="https://ebjohnsen.org/category/bedreflyt/index.xml" rel="self" type="application/rss+xml" />
+    <description>BedreFlyt</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 Aug 2025 09:07:44 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
+      <title>BedreFlyt</title>
+      <link>https://ebjohnsen.org/category/bedreflyt/</link>
+    </image>
+    
+    <item>
+      <title>What-If Scenarios for the BedreFlyt Digital Twin</title>
+      <link>https://ebjohnsen.org/publication/25-christel/</link>
+      <pubDate>Fri, 29 Aug 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-christel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
