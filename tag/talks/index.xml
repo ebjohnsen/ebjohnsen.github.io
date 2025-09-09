@@ -5,12 +5,28 @@
     <link>https://ebjohnsen.org/tag/talks/</link>
       <atom:link href="https://ebjohnsen.org/tag/talks/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 29 Apr 2025 09:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Oct 2025 14:05:00 +0000</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
       <title>Talks</title>
       <link>https://ebjohnsen.org/tag/talks/</link>
     </image>
+    
+    <item>
+      <title>Digital Twins &amp; the Natural Environment</title>
+      <link>https://ebjohnsen.org/talk/digital-twins-the-natural-environment/</link>
+      <pubDate>Thu, 09 Oct 2025 14:05:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/digital-twins-the-natural-environment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital Twins meet Formal Methods</title>
+      <link>https://ebjohnsen.org/talk/digital-twins-meet-formal-methods/</link>
+      <pubDate>Sat, 30 Aug 2025 14:40:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/digital-twins-meet-formal-methods/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Pandemic Digital Twin</title>
