@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>Oslofjordens digitale tvilling</title>
+      <link>https://ebjohnsen.org/talk/oslofjordens-digitale-tvilling/</link>
+      <pubDate>Tue, 18 Nov 2025 19:25:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/oslofjordens-digitale-tvilling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>iFM 2025</title>
       <link>https://ebjohnsen.org/talk/ifm-2025/</link>
       <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
@@ -1858,7 +1866,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-241593687&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-894632715&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -1868,7 +1876,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-241593687&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-894632715&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

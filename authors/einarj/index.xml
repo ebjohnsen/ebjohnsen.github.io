@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/authors/einarj/</link>
       <atom:link href="https://ebjohnsen.org/authors/einarj/index.xml" rel="self" type="application/rss+xml" />
     <description>Einar Broch Johnsen</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Nov 2025 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Nov 2025 19:25:00 +0000</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/authors/einarj/avatar-old_hu980355585005689512.jpg</url>
       <title>Einar Broch Johnsen</title>
       <link>https://ebjohnsen.org/authors/einarj/</link>
     </image>
+    
+    <item>
+      <title>Oslofjordens digitale tvilling</title>
+      <link>https://ebjohnsen.org/talk/oslofjordens-digitale-tvilling/</link>
+      <pubDate>Tue, 18 Nov 2025 19:25:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/oslofjordens-digitale-tvilling/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>RDFMutate: Mutation-Based Generation of Knowledge Graphs</title>
