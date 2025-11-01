@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning System | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/category/learning-system/</link>
+      <atom:link href="https://ebjohnsen.org/category/learning-system/index.xml" rel="self" type="application/rss+xml" />
+    <description>Learning System</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2025 09:07:44 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
+      <title>Learning System</title>
+      <link>https://ebjohnsen.org/category/learning-system/</link>
+    </image>
+    
+    <item>
+      <title>Augmentor: a cognitive-inspired approach for context-aware adaptive learning with human guidance</title>
+      <link>https://ebjohnsen.org/publication/25-jim/</link>
+      <pubDate>Sat, 01 Nov 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-jim/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
