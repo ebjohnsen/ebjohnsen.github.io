@@ -27,7 +27,99 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/authors/</loc>
-    <lastmod>2025-11-18T19:25:00+00:00</lastmod>
+    <lastmod>2026-01-20T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/aasmund/</loc>
+    <lastmod>2026-01-20T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/einarj/</loc>
+    <lastmod>2026-01-20T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/publication/26-cpp/</loc>
+    <lastmod>2026-01-20T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/ludovic/</loc>
+    <lastmod>2026-01-20T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/publication-type/paper-conference/</loc>
+    <lastmod>2026-01-20T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/publication_types/</loc>
+    <lastmod>2026-01-20T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/publication/</loc>
+    <lastmod>2026-01-20T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/tag/reinforcement-learning/</loc>
+    <lastmod>2026-01-20T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/category/reinforcement-learning/</loc>
+    <lastmod>2026-01-20T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/tag/symbolic-execution/</loc>
+    <lastmod>2026-01-20T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/category/symbolic-execution/</loc>
+    <lastmod>2026-01-20T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/violet/</loc>
+    <lastmod>2026-01-20T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/yannick-zakowski/</loc>
+    <lastmod>2026-01-20T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/publication-type/article-journal/</loc>
+    <lastmod>2026-01-11T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/publication/26-processcience/</loc>
+    <lastmod>2026-01-11T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/felix/</loc>
+    <lastmod>2026-01-11T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/ferruccio/</loc>
+    <lastmod>2026-01-11T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/tag/games/</loc>
+    <lastmod>2026-01-11T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/category/games/</loc>
+    <lastmod>2026-01-11T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/paul/</loc>
+    <lastmod>2026-01-11T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/lizeth/</loc>
+    <lastmod>2026-01-11T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/tag/user-journeys/</loc>
+    <lastmod>2026-01-11T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/category/user-journeys/</loc>
+    <lastmod>2026-01-11T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/tag/dart/</loc>
@@ -35,10 +127,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/tag/digital-twins/</loc>
-    <lastmod>2025-11-18T19:25:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/authors/einarj/</loc>
     <lastmod>2025-11-18T19:25:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -74,18 +162,6 @@
     <lastmod>2025-11-02T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/publication-type/paper-conference/</loc>
-    <lastmod>2025-11-02T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/publication_types/</loc>
-    <lastmod>2025-11-02T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/publication/</loc>
-    <lastmod>2025-11-02T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ebjohnsen.org/publication/25-iswc/</loc>
     <lastmod>2025-11-02T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -108,10 +184,6 @@
   </url><url>
     <loc>https://ebjohnsen.org/authors/tobias/</loc>
     <lastmod>2025-11-02T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/publication-type/article-journal/</loc>
-    <lastmod>2025-11-01T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/category/artificial-intelligence/</loc>
@@ -166,10 +238,6 @@
     <lastmod>2025-08-29T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/authors/aasmund/</loc>
-    <lastmod>2025-08-29T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ebjohnsen.org/category/bedreflyt/</loc>
     <lastmod>2025-08-29T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -182,15 +250,7 @@
     <lastmod>2025-08-29T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/authors/paul/</loc>
-    <lastmod>2025-08-29T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ebjohnsen.org/authors/riccardo/</loc>
-    <lastmod>2025-08-29T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/authors/lizeth/</loc>
     <lastmod>2025-08-29T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -227,10 +287,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/publication/25-ecoop/</loc>
-    <lastmod>2025-07-01T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/authors/ferruccio/</loc>
     <lastmod>2025-07-01T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -310,14 +366,6 @@
     <lastmod>2025-06-15T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/tag/symbolic-execution/</loc>
-    <lastmod>2025-06-15T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/category/symbolic-execution/</loc>
-    <lastmod>2025-06-15T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ebjohnsen.org/talk/sle-2025/</loc>
     <lastmod>2025-06-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -347,14 +395,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/authors/mohsen-ghaffari/</loc>
-    <lastmod>2025-05-01T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/tag/reinforcement-learning/</loc>
-    <lastmod>2025-05-01T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/category/reinforcement-learning/</loc>
     <lastmod>2025-05-01T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -502,14 +542,6 @@
     <lastmod>2024-10-28T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/tag/games/</loc>
-    <lastmod>2024-10-23T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/category/games/</loc>
-    <lastmod>2024-10-23T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ebjohnsen.org/authors/jeremy-p.-coffelt/</loc>
     <lastmod>2024-10-23T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -527,14 +559,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/publication/24-tiziana/</loc>
-    <lastmod>2024-10-23T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/tag/user-journeys/</loc>
-    <lastmod>2024-10-23T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/category/user-journeys/</loc>
     <lastmod>2024-10-23T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -583,10 +607,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/tag/sos/</loc>
-    <lastmod>2024-09-17T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/authors/violet/</loc>
     <lastmod>2024-09-17T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -691,10 +711,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/publication/24-toplas1/</loc>
-    <lastmod>2024-03-15T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/authors/ludovic/</loc>
     <lastmod>2024-03-15T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -947,10 +963,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/publication/22-edba/</loc>
-    <lastmod>2022-12-30T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/authors/felix-mannhardt/</loc>
     <lastmod>2022-12-30T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
