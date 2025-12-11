@@ -23,7 +23,7 @@
     <item>
       <title>Layers of Confluence for Actors</title>
       <link>https://ebjohnsen.org/publication/26-cpp/</link>
-      <pubDate>Tue, 20 Jan 2026 09:07:44 +0200</pubDate>
+      <pubDate>Mon, 12 Jan 2026 09:07:44 +0200</pubDate>
       <guid>https://ebjohnsen.org/publication/26-cpp/</guid>
       <description></description>
     </item>
@@ -1890,7 +1890,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-375218496&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-713254869&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -1900,7 +1900,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-375218496&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-713254869&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
