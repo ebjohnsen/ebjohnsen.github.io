@@ -1,16 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Laura | Einar Broch Johnsen</title>
-    <link>http://localhost:1313/authors/laura/</link>
-      <atom:link href="http://localhost:1313/authors/laura/index.xml" rel="self" type="application/rss+xml" />
-    <description>Laura</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <title>Laura Slaughter | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/authors/laura/</link>
+      <atom:link href="https://ebjohnsen.org/authors/laura/index.xml" rel="self" type="application/rss+xml" />
+    <description>Laura Slaughter</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Oct 2025 09:07:44 +0200</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu5605391091882128338.png</url>
-      <title>Laura</title>
-      <link>http://localhost:1313/authors/laura/</link>
+      <url>https://ebjohnsen.org/authors/laura/avatar_hu18161197805274252542.jpg</url>
+      <title>Laura Slaughter</title>
+      <link>https://ebjohnsen.org/authors/laura/</link>
     </image>
+    
+    <item>
+      <title>Laura Slaughter</title>
+      <link>https://ebjohnsen.org/authors/laura/</link>
+      <pubDate>Mon, 20 Oct 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/authors/laura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Self-Adaptive Data Management in Digital Twins for Biodiversity Monitoring</title>
+      <link>https://ebjohnsen.org/publication/25-edtconf/</link>
+      <pubDate>Mon, 20 Oct 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-edtconf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What-If Scenarios for the BedreFlyt Digital Twin</title>
+      <link>https://ebjohnsen.org/publication/25-christel/</link>
+      <pubDate>Fri, 29 Aug 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-christel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BedreFlyt: Improving Patient Flows through Hospital Wards with Digital Twins</title>
+      <link>https://ebjohnsen.org/publication/25-asqap/</link>
+      <pubDate>Sun, 04 May 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-asqap/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
