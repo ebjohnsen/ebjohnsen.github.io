@@ -69,6 +69,14 @@
     </item>
     
     <item>
+      <title>Towards Self-Adaptive Data Management in Digital Twins for Biodiversity Monitoring</title>
+      <link>https://ebjohnsen.org/publication/25-edtconf/</link>
+      <pubDate>Mon, 20 Oct 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-edtconf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Digital Twins &amp; the Natural Environment</title>
       <link>https://ebjohnsen.org/talk/digital-twins-the-natural-environment/</link>
       <pubDate>Thu, 09 Oct 2025 14:05:00 +0000</pubDate>
@@ -1890,7 +1898,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-751863249&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-786923415&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -1900,7 +1908,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-751863249&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-786923415&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

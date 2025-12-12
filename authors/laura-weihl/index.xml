@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laura Weihl | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/authors/laura-weihl/</link>
+      <atom:link href="https://ebjohnsen.org/authors/laura-weihl/index.xml" rel="self" type="application/rss+xml" />
+    <description>Laura Weihl</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Oct 2025 09:07:44 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
+      <title>Laura Weihl</title>
+      <link>https://ebjohnsen.org/authors/laura-weihl/</link>
+    </image>
+    
+    <item>
+      <title>Towards Self-Adaptive Data Management in Digital Twins for Biodiversity Monitoring</title>
+      <link>https://ebjohnsen.org/publication/25-edtconf/</link>
+      <pubDate>Mon, 20 Oct 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-edtconf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
