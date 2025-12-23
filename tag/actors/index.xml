@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/tag/actors/</link>
       <atom:link href="https://ebjohnsen.org/tag/actors/index.xml" rel="self" type="application/rss+xml" />
     <description>Actors</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Apr 2025 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Jan 2026 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
       <title>Actors</title>
       <link>https://ebjohnsen.org/tag/actors/</link>
     </image>
+    
+    <item>
+      <title>Layers of Confluence for Actors</title>
+      <link>https://ebjohnsen.org/publication/26-cpp/</link>
+      <pubDate>Mon, 12 Jan 2026 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/26-cpp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An LAGC Semantics for Timed Rebeca</title>
@@ -25,6 +33,14 @@
       <link>https://ebjohnsen.org/publication/25-marjan1/</link>
       <pubDate>Wed, 09 Apr 2025 09:07:44 +0200</pubDate>
       <guid>https://ebjohnsen.org/publication/25-marjan1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active Objects with Deterministic Behavior</title>
+      <link>https://ebjohnsen.org/publication/20-ifm/</link>
+      <pubDate>Sat, 14 Nov 2020 09:21:51 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/20-ifm/</guid>
       <description></description>
     </item>
     

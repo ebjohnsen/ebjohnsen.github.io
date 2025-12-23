@@ -5,20 +5,12 @@
     <link>https://ebjohnsen.org/tag/symbolic-execution/</link>
       <atom:link href="https://ebjohnsen.org/tag/symbolic-execution/index.xml" rel="self" type="application/rss+xml" />
     <description>Symbolic Execution</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Jan 2026 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Jun 2025 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
       <title>Symbolic Execution</title>
       <link>https://ebjohnsen.org/tag/symbolic-execution/</link>
     </image>
-    
-    <item>
-      <title>Layers of Confluence for Actors</title>
-      <link>https://ebjohnsen.org/publication/26-cpp/</link>
-      <pubDate>Mon, 12 Jan 2026 09:07:44 +0200</pubDate>
-      <guid>https://ebjohnsen.org/publication/26-cpp/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Compositional Symbolic Execution Semantics</title>
