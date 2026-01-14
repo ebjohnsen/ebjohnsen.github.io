@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>Formal Methods meet Digital Twins: Challenges and Opportunities</title>
+      <link>https://ebjohnsen.org/talk/formal-methods-meet-digital-twins-challenges-and-opportunities/</link>
+      <pubDate>Tue, 14 Apr 2026 09:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/formal-methods-meet-digital-twins-challenges-and-opportunities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Layers of Confluence for Actors</title>
       <link>https://ebjohnsen.org/publication/26-cpp/</link>
       <pubDate>Mon, 12 Jan 2026 09:07:44 +0200</pubDate>
@@ -1898,7 +1906,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-845732916&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-793658142&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -1908,7 +1916,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-845732916&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-793658142&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
