@@ -5,7 +5,7 @@
     <link>https://ebjohnsen.org/authors/andrea/</link>
       <atom:link href="https://ebjohnsen.org/authors/andrea/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrea Pferscher</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Oct 2025 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Feb 2026 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/authors/andrea/avatar_hu10355558008571286989.jpg</url>
       <title>Andrea Pferscher</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Andrea Pferscher</title>
       <link>https://ebjohnsen.org/authors/andrea/</link>
-      <pubDate>Mon, 20 Oct 2025 09:07:44 +0200</pubDate>
+      <pubDate>Thu, 19 Feb 2026 09:07:44 +0200</pubDate>
       <guid>https://ebjohnsen.org/authors/andrea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental Fingerprinting in an Open World</title>
+      <link>https://ebjohnsen.org/publication/26-csf/</link>
+      <pubDate>Thu, 19 Feb 2026 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/26-csf/</guid>
       <description></description>
     </item>
     

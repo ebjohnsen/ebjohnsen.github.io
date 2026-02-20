@@ -5,7 +5,7 @@
     <link>https://ebjohnsen.org/authors/paul/</link>
       <atom:link href="https://ebjohnsen.org/authors/paul/index.xml" rel="self" type="application/rss+xml" />
     <description>Paul Kobialka</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Dec 2025 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Feb 2026 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/authors/paul/avatar_hu1816340660552018106.jpg</url>
       <title>Paul Kobialka</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Decision Boundaries in User Journey Event Logs</title>
-      <link>https://ebjohnsen.org/publication/25-processcience/</link>
-      <pubDate>Thu, 11 Dec 2025 09:07:44 +0200</pubDate>
-      <guid>https://ebjohnsen.org/publication/25-processcience/</guid>
+      <title>Incremental Fingerprinting in an Open World</title>
+      <link>https://ebjohnsen.org/publication/26-csf/</link>
+      <pubDate>Thu, 19 Feb 2026 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/26-csf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Paul Kobialka</title>
       <link>https://ebjohnsen.org/authors/paul/</link>
-      <pubDate>Thu, 11 Dec 2025 09:07:44 +0200</pubDate>
+      <pubDate>Thu, 19 Feb 2026 09:07:44 +0200</pubDate>
       <guid>https://ebjohnsen.org/authors/paul/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decision Boundaries in User Journey Event Logs</title>
+      <link>https://ebjohnsen.org/publication/25-processcience/</link>
+      <pubDate>Thu, 11 Dec 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-processcience/</guid>
       <description></description>
     </item>
     

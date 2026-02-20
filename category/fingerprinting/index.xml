@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fingerprinting | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/category/fingerprinting/</link>
+      <atom:link href="https://ebjohnsen.org/category/fingerprinting/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fingerprinting</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Feb 2026 09:07:44 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
+      <title>Fingerprinting</title>
+      <link>https://ebjohnsen.org/category/fingerprinting/</link>
+    </image>
+    
+    <item>
+      <title>Incremental Fingerprinting in an Open World</title>
+      <link>https://ebjohnsen.org/publication/26-csf/</link>
+      <pubDate>Thu, 19 Feb 2026 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/26-csf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
