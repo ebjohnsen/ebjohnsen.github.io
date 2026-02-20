@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/category/digital-twins/</link>
       <atom:link href="https://ebjohnsen.org/category/digital-twins/index.xml" rel="self" type="application/rss+xml" />
     <description>Digital Twins</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2025 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Feb 2026 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
       <title>Digital Twins</title>
       <link>https://ebjohnsen.org/category/digital-twins/</link>
     </image>
+    
+    <item>
+      <title>A Self-Adaptive Digital Twin Architecture for Dynamic Resource Management</title>
+      <link>https://ebjohnsen.org/publication/26-seams/</link>
+      <pubDate>Tue, 17 Feb 2026 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/26-seams/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Augmentor: a cognitive-inspired approach for context-aware adaptive learning with human guidance</title>

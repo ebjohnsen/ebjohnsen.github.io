@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nelly Bencomo | Einar Broch Johnsen</title>
-    <link>https://ebjohnsen.org/authors/nelly-bencomo/</link>
-      <atom:link href="https://ebjohnsen.org/authors/nelly-bencomo/index.xml" rel="self" type="application/rss+xml" />
-    <description>Nelly Bencomo</description>
+    <title>Buster Salomon Rasmussen | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/authors/buster-salomon-rasmussen/</link>
+      <atom:link href="https://ebjohnsen.org/authors/buster-salomon-rasmussen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Buster Salomon Rasmussen</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Feb 2026 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
-      <title>Nelly Bencomo</title>
-      <link>https://ebjohnsen.org/authors/nelly-bencomo/</link>
+      <title>Buster Salomon Rasmussen</title>
+      <link>https://ebjohnsen.org/authors/buster-salomon-rasmussen/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://ebjohnsen.org/publication/26-seams/</link>
       <pubDate>Tue, 17 Feb 2026 09:07:44 +0200</pubDate>
       <guid>https://ebjohnsen.org/publication/26-seams/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Declarative Lifecycle Management in Digital Twins</title>
-      <link>https://ebjohnsen.org/publication/24-edt/</link>
-      <pubDate>Tue, 22 Oct 2024 09:07:44 +0200</pubDate>
-      <guid>https://ebjohnsen.org/publication/24-edt/</guid>
       <description></description>
     </item>
     

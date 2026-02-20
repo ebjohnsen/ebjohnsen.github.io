@@ -5,7 +5,7 @@
     <link>https://ebjohnsen.org/authors/lizeth/</link>
       <atom:link href="https://ebjohnsen.org/authors/lizeth/index.xml" rel="self" type="application/rss+xml" />
     <description>Silvia Lizeth Tapia Tarifa</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Dec 2025 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Feb 2026 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/authors/lizeth/avatar_hu2330211903792633808.jpg</url>
       <title>Silvia Lizeth Tapia Tarifa</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Decision Boundaries in User Journey Event Logs</title>
-      <link>https://ebjohnsen.org/publication/25-processcience/</link>
-      <pubDate>Thu, 11 Dec 2025 09:07:44 +0200</pubDate>
-      <guid>https://ebjohnsen.org/publication/25-processcience/</guid>
+      <title>A Self-Adaptive Digital Twin Architecture for Dynamic Resource Management</title>
+      <link>https://ebjohnsen.org/publication/26-seams/</link>
+      <pubDate>Tue, 17 Feb 2026 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/26-seams/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Silvia Lizeth Tapia Tarifa</title>
       <link>https://ebjohnsen.org/authors/lizeth/</link>
-      <pubDate>Thu, 11 Dec 2025 09:07:44 +0200</pubDate>
+      <pubDate>Tue, 17 Feb 2026 09:07:44 +0200</pubDate>
       <guid>https://ebjohnsen.org/authors/lizeth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decision Boundaries in User Journey Event Logs</title>
+      <link>https://ebjohnsen.org/publication/25-processcience/</link>
+      <pubDate>Thu, 11 Dec 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-processcience/</guid>
       <description></description>
     </item>
     

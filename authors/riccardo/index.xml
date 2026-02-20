@@ -5,7 +5,7 @@
     <link>https://ebjohnsen.org/authors/riccardo/</link>
       <atom:link href="https://ebjohnsen.org/authors/riccardo/index.xml" rel="self" type="application/rss+xml" />
     <description>Riccardo Sieve</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 Aug 2025 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Feb 2026 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/authors/riccardo/avatar_hu8780808362851517950.jpg</url>
       <title>Riccardo Sieve</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>A Self-Adaptive Digital Twin Architecture for Dynamic Resource Management</title>
+      <link>https://ebjohnsen.org/publication/26-seams/</link>
+      <pubDate>Tue, 17 Feb 2026 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/26-seams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Riccardo Sieve</title>
       <link>https://ebjohnsen.org/authors/riccardo/</link>
-      <pubDate>Fri, 29 Aug 2025 09:07:44 +0200</pubDate>
+      <pubDate>Tue, 17 Feb 2026 09:07:44 +0200</pubDate>
       <guid>https://ebjohnsen.org/authors/riccardo/</guid>
       <description></description>
     </item>
