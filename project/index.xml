@@ -5,12 +5,22 @@
     <link>https://ebjohnsen.org/project/</link>
       <atom:link href="https://ebjohnsen.org/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Oct 2024 10:32:56 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Apr 2025 10:33:05 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
       <title>Projects</title>
       <link>https://ebjohnsen.org/project/</link>
     </image>
+    
+    <item>
+      <title>Geo4Water: Geodata Space for Smart Water Monitoring &amp; Response from Extreme Weather</title>
+      <link>https://ebjohnsen.org/project/geo4water/</link>
+      <pubDate>Sat, 26 Apr 2025 10:33:05 +0200</pubDate>
+      <guid>https://ebjohnsen.org/project/geo4water/</guid>
+      <description>&lt;p&gt;Geo4Water is one of the pilot projects under the European data space for smart communities (DS4SSCC-DEP) umbrella. The pilot aims to create a data space that integrates diverse datasets (e.g., maps, satellite imagery, sensor, weather and biodiversity data) with high-value data services for flood management, pollution monitoring, damage assessment, and urban resilience to help cities monitor, respond to, and prepare for water-related emergencies while supporting future digital twins. It is focussed on four pilot sites: Oslo (Norway), Donegal (Ireland), San Javier and Valencia (Spain). UiO is responsible for the implementation of one of the services, and contributes to the rollout and utilisation of the data space for Norwegian stakeholders in the Oslo region.&lt;/p&gt;
+&lt;p&gt;This project has received funding from the &lt;a href=&#34;https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/programmes/digital&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Europe Programme (DIGITAL)&lt;/a&gt; under grant agreement No &lt;a href=&#34;https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/43152860/101123342/DIGITAL&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;101123342&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>DART: Digital Arctic Twins</title>

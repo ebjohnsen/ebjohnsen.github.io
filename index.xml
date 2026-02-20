@@ -221,6 +221,16 @@
     </item>
     
     <item>
+      <title>Geo4Water: Geodata Space for Smart Water Monitoring &amp; Response from Extreme Weather</title>
+      <link>https://ebjohnsen.org/project/geo4water/</link>
+      <pubDate>Sat, 26 Apr 2025 10:33:05 +0200</pubDate>
+      <guid>https://ebjohnsen.org/project/geo4water/</guid>
+      <description>&lt;p&gt;Geo4Water is one of the pilot projects under the European data space for smart communities (DS4SSCC-DEP) umbrella. The pilot aims to create a data space that integrates diverse datasets (e.g., maps, satellite imagery, sensor, weather and biodiversity data) with high-value data services for flood management, pollution monitoring, damage assessment, and urban resilience to help cities monitor, respond to, and prepare for water-related emergencies while supporting future digital twins. It is focussed on four pilot sites: Oslo (Norway), Donegal (Ireland), San Javier and Valencia (Spain). UiO is responsible for the implementation of one of the services, and contributes to the rollout and utilisation of the data space for Norwegian stakeholders in the Oslo region.&lt;/p&gt;
+&lt;p&gt;This project has received funding from the &lt;a href=&#34;https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/programmes/digital&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Europe Programme (DIGITAL)&lt;/a&gt; under grant agreement No &lt;a href=&#34;https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/43152860/101123342/DIGITAL&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;101123342&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Symbolic State Seeding Improves Coverage of Reinforcement Learning</title>
       <link>https://ebjohnsen.org/publication/25-seams/</link>
       <pubDate>Sun, 20 Apr 2025 09:07:44 +0200</pubDate>
@@ -1914,7 +1924,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-259617348&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-165734298&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -1924,7 +1934,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-259617348&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-165734298&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
