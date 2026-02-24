@@ -118,6 +118,10 @@
     <lastmod>2026-02-17T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://ebjohnsen.org/publication-type/article-journal/</loc>
+    <lastmod>2026-02-17T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ebjohnsen.org/tag/bedreflyt/</loc>
     <lastmod>2026-02-17T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -130,7 +134,15 @@
     <lastmod>2026-02-17T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://ebjohnsen.org/publication/26-sosym/</loc>
+    <lastmod>2026-02-17T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ebjohnsen.org/category/digital-twins/</loc>
+    <lastmod>2026-02-17T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/eduard/</loc>
     <lastmod>2026-02-17T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -139,6 +151,18 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/authors/riccardo/</loc>
+    <lastmod>2026-02-17T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/category/self-adaptive-systems/</loc>
+    <lastmod>2026-02-17T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/tag/semantic-reflection/</loc>
+    <lastmod>2026-02-17T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/category/semantic-reflection/</loc>
     <lastmod>2026-02-17T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -190,10 +214,6 @@
     <lastmod>2026-01-12T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/publication-type/article-journal/</loc>
-    <lastmod>2025-12-11T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ebjohnsen.org/publication/25-processcience/</loc>
     <lastmod>2025-12-11T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -232,10 +252,6 @@
   </url><url>
     <loc>https://ebjohnsen.org/talk/ifm-2025/</loc>
     <lastmod>2025-11-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/authors/eduard/</loc>
-    <lastmod>2025-11-02T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/tag/knowledge-graphs/</loc>
@@ -290,10 +306,6 @@
     <lastmod>2025-11-01T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/category/self-adaptive-systems/</loc>
-    <lastmod>2025-11-01T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ebjohnsen.org/authors/laura/</loc>
     <lastmod>2025-10-20T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -303,14 +315,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/tag/self-adaptive-systems/</loc>
-    <lastmod>2025-10-20T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/tag/semantic-reflection/</loc>
-    <lastmod>2025-10-20T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/category/semantic-reflection/</loc>
     <lastmod>2025-10-20T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
