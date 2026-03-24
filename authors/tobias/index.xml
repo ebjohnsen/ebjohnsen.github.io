@@ -5,7 +5,7 @@
     <link>https://ebjohnsen.org/authors/tobias/</link>
       <atom:link href="https://ebjohnsen.org/authors/tobias/index.xml" rel="self" type="application/rss+xml" />
     <description>Tobias John</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Nov 2025 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Mar 2026 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/authors/tobias/avatar_hu12532050145393560984.jpg</url>
       <title>Tobias John</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>RDFMutate: Mutation-Based Generation of Knowledge Graphs</title>
-      <link>https://ebjohnsen.org/publication/25-iswc/</link>
-      <pubDate>Sun, 02 Nov 2025 09:07:44 +0200</pubDate>
-      <guid>https://ebjohnsen.org/publication/25-iswc/</guid>
+      <title>Mutation-based testing of knowledge graphs</title>
+      <link>https://ebjohnsen.org/publication/26-emse/</link>
+      <pubDate>Mon, 23 Mar 2026 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/26-emse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tobias John</title>
       <link>https://ebjohnsen.org/authors/tobias/</link>
-      <pubDate>Sun, 02 Nov 2025 09:07:44 +0200</pubDate>
+      <pubDate>Mon, 23 Mar 2026 09:07:44 +0200</pubDate>
       <guid>https://ebjohnsen.org/authors/tobias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RDFMutate: Mutation-Based Generation of Knowledge Graphs</title>
+      <link>https://ebjohnsen.org/publication/25-iswc/</link>
+      <pubDate>Sun, 02 Nov 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-iswc/</guid>
       <description></description>
     </item>
     
