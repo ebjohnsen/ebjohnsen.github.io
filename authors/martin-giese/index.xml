@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/authors/martin-giese/</link>
       <atom:link href="https://ebjohnsen.org/authors/martin-giese/index.xml" rel="self" type="application/rss+xml" />
     <description>Martin Giese</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 May 2024 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Mar 2026 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
       <title>Martin Giese</title>
       <link>https://ebjohnsen.org/authors/martin-giese/</link>
     </image>
+    
+    <item>
+      <title>Semantically Reflected Programs</title>
+      <link>https://ebjohnsen.org/publication/26-tgdk/</link>
+      <pubDate>Mon, 23 Mar 2026 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/26-tgdk/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Roger Antonsen fanget publikum med sitt smittende engasjement</title>
