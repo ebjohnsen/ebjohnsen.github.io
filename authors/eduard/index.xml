@@ -5,7 +5,7 @@
     <link>https://ebjohnsen.org/authors/eduard/</link>
       <atom:link href="https://ebjohnsen.org/authors/eduard/index.xml" rel="self" type="application/rss+xml" />
     <description>Eduard Kamburjan</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Mar 2026 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 31 Mar 2026 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/authors/eduard/avatar_hu7170466483812545205.jpg</url>
       <title>Eduard Kamburjan</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Eduard Kamburjan</title>
       <link>https://ebjohnsen.org/authors/eduard/</link>
-      <pubDate>Mon, 23 Mar 2026 09:07:44 +0200</pubDate>
+      <pubDate>Tue, 31 Mar 2026 09:07:44 +0200</pubDate>
       <guid>https://ebjohnsen.org/authors/eduard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantically Reflected Programs</title>
+      <link>https://ebjohnsen.org/publication/26-tgdk/</link>
+      <pubDate>Tue, 31 Mar 2026 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/26-tgdk/</guid>
       <description></description>
     </item>
     
@@ -25,14 +33,6 @@
       <link>https://ebjohnsen.org/publication/26-emse/</link>
       <pubDate>Mon, 23 Mar 2026 09:07:44 +0200</pubDate>
       <guid>https://ebjohnsen.org/publication/26-emse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Semantically Reflected Programs</title>
-      <link>https://ebjohnsen.org/publication/26-tgdk/</link>
-      <pubDate>Mon, 23 Mar 2026 09:07:44 +0200</pubDate>
-      <guid>https://ebjohnsen.org/publication/26-tgdk/</guid>
       <description></description>
     </item>
     
