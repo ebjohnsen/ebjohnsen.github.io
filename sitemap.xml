@@ -62,12 +62,72 @@
     <lastmod>2026-04-14T09:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/nii-formal-methods-meet-digital-twins-challenges-and-opportunities/</loc>
-    <lastmod>2026-03-31T16:30:00+00:00</lastmod>
+    <loc>https://ebjohnsen.org/authors/andrea/</loc>
+    <lastmod>2026-04-12T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/publication-type/article-journal/</loc>
-    <lastmod>2026-03-31T09:07:44+02:00</lastmod>
+    <lastmod>2026-04-12T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/tag/automata-learning/</loc>
+    <lastmod>2026-04-12T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/category/automata-learning/</loc>
+    <lastmod>2026-04-12T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/publication/26-tse/</loc>
+    <lastmod>2026-04-12T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/bernhard-k.-aichernig/</loc>
+    <lastmod>2026-04-12T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/tag/games/</loc>
+    <lastmod>2026-04-12T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/category/games/</loc>
+    <lastmod>2026-04-12T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/paul/</loc>
+    <lastmod>2026-04-12T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/tag/process-mining/</loc>
+    <lastmod>2026-04-12T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/category/process-mining/</loc>
+    <lastmod>2026-04-12T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/publication_types/</loc>
+    <lastmod>2026-04-12T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/publication/</loc>
+    <lastmod>2026-04-12T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/authors/lizeth/</loc>
+    <lastmod>2026-04-12T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/tag/user-journeys/</loc>
+    <lastmod>2026-04-12T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/category/user-journeys/</loc>
+    <lastmod>2026-04-12T09:07:44+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ebjohnsen.org/nii-formal-methods-meet-digital-twins-challenges-and-opportunities/</loc>
+    <lastmod>2026-03-31T16:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/category/digital-twins/</loc>
@@ -91,14 +151,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/authors/martin-giese/</loc>
-    <lastmod>2026-03-31T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/publication_types/</loc>
-    <lastmod>2026-03-31T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/publication/</loc>
     <lastmod>2026-03-31T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -174,10 +226,6 @@
     <lastmod>2026-02-19T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ebjohnsen.org/authors/andrea/</loc>
-    <lastmod>2026-02-19T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ebjohnsen.org/tag/conformance-testing/</loc>
     <lastmod>2026-02-19T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -207,10 +255,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/publication-type/paper-conference/</loc>
-    <lastmod>2026-02-19T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/authors/paul/</loc>
     <lastmod>2026-02-19T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -247,10 +291,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/category/self-adaptive-systems/</loc>
-    <lastmod>2026-02-17T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/authors/lizeth/</loc>
     <lastmod>2026-02-17T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -307,22 +347,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/authors/ferruccio/</loc>
-    <lastmod>2025-12-11T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/tag/games/</loc>
-    <lastmod>2025-12-11T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/category/games/</loc>
-    <lastmod>2025-12-11T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/tag/user-journeys/</loc>
-    <lastmod>2025-12-11T09:07:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/category/user-journeys/</loc>
     <lastmod>2025-12-11T09:07:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -2419,10 +2443,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ebjohnsen.org/authors/andreas-griesmayer/</loc>
-    <lastmod>2009-07-21T22:55:26+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ebjohnsen.org/authors/bernhard-k.-aichernig/</loc>
     <lastmod>2009-07-21T22:55:26+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
