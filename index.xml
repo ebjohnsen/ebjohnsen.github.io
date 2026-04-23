@@ -29,6 +29,14 @@
     </item>
     
     <item>
+      <title>Digital twins: Connecting models with the real world</title>
+      <link>https://ebjohnsen.org/talk/digital-twins-connecting-models-with-the-real-world/</link>
+      <pubDate>Mon, 11 May 2026 09:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/digital-twins-connecting-models-with-the-real-world/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Formal Methods meet Digital Twins: Challenges and Opportunities</title>
       <link>https://ebjohnsen.org/etaps-formal-methods-meet-digital-twins-challenges-and-opportunities/</link>
       <pubDate>Tue, 14 Apr 2026 09:00:00 +0000</pubDate>
@@ -1972,7 +1980,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-438267591&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-278614539&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -1982,7 +1990,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-438267591&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-278614539&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
