@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bernhard K. Aichernig | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/authors/bernhard/</link>
+      <atom:link href="https://ebjohnsen.org/authors/bernhard/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bernhard K. Aichernig</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 12 Apr 2026 09:07:44 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/authors/bernhard/avatar_hu456645596115950988.jpg</url>
+      <title>Bernhard K. Aichernig</title>
+      <link>https://ebjohnsen.org/authors/bernhard/</link>
+    </image>
+    
+    <item>
+      <title>Automata Learning versus Process Mining: The Case for User Journeys</title>
+      <link>https://ebjohnsen.org/publication/26-tse/</link>
+      <pubDate>Sun, 12 Apr 2026 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/26-tse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bernhard K. Aichernig</title>
+      <link>https://ebjohnsen.org/authors/bernhard/</link>
+      <pubDate>Sun, 12 Apr 2026 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/authors/bernhard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Symbolic Execution for Testing Distributed Objects</title>
+      <link>https://ebjohnsen.org/publication/09-tap/</link>
+      <pubDate>Tue, 21 Jul 2009 22:55:26 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/09-tap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing Concurrent Objects with Application-Specific Schedulers</title>
+      <link>https://ebjohnsen.org/publication/08-ictac/</link>
+      <pubDate>Thu, 21 Aug 2008 22:53:49 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/08-ictac/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
