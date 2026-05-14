@@ -5,7 +5,7 @@
     <link>https://ebjohnsen.org/authors/erika/</link>
       <atom:link href="https://ebjohnsen.org/authors/erika/index.xml" rel="self" type="application/rss+xml" />
     <description>Erika Ábrahám</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Jul 2025 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jul 2026 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/authors/erika/avatar_hu15312490864830417890.jpg</url>
       <title>Erika Ábrahám</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Counterfactual Strategies for Markov Decision Processes</title>
-      <link>https://ebjohnsen.org/publication/25-ijcai/</link>
-      <pubDate>Thu, 10 Jul 2025 09:07:44 +0200</pubDate>
-      <guid>https://ebjohnsen.org/publication/25-ijcai/</guid>
+      <title>Attribution-based Explanations for Markov Decision Processes</title>
+      <link>https://ebjohnsen.org/publication/26-ijcai/</link>
+      <pubDate>Fri, 10 Jul 2026 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/26-ijcai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Erika Ábrahám</title>
       <link>https://ebjohnsen.org/authors/erika/</link>
-      <pubDate>Thu, 10 Jul 2025 09:07:44 +0200</pubDate>
+      <pubDate>Fri, 10 Jul 2026 09:07:44 +0200</pubDate>
       <guid>https://ebjohnsen.org/authors/erika/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Counterfactual Strategies for Markov Decision Processes</title>
+      <link>https://ebjohnsen.org/publication/25-ijcai/</link>
+      <pubDate>Thu, 10 Jul 2025 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/25-ijcai/</guid>
       <description></description>
     </item>
     
