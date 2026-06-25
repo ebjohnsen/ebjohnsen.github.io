@@ -5,12 +5,44 @@
     <link>https://ebjohnsen.org/event/</link>
       <atom:link href="https://ebjohnsen.org/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Oct 2026 09:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Jun 2027 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
       <title>Talks</title>
       <link>https://ebjohnsen.org/event/</link>
     </image>
+    
+    <item>
+      <title>ECOOP 2027</title>
+      <link>https://ebjohnsen.org/talk/ecoop-2027/</link>
+      <pubDate>Mon, 28 Jun 2027 00:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/ecoop-2027/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FSEN 2027</title>
+      <link>https://ebjohnsen.org/talk/fsen-2027/</link>
+      <pubDate>Mon, 24 May 2027 00:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/fsen-2027/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LPAR 2026</title>
+      <link>https://ebjohnsen.org/talk/lpar-2026/</link>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/lpar-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASE-NIER 2026</title>
+      <link>https://ebjohnsen.org/talk/ase-nier-2026/</link>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/ase-nier-2026/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Environmental Digital Twins: Connecting Models for Nature 5.0</title>
