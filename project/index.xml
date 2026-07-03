@@ -40,7 +40,8 @@ The &lt;a href=&#34;https://en.uit.no&#34; target=&#34;_blank&#34; rel=&#34;noop
 &lt;a href=&#34;https://www.washington.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Washington&lt;/a&gt; (USA) and
 &lt;a href=&#34;https://international.au.dk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aarhus University&lt;/a&gt; (DK).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Coordinator:&lt;/strong&gt; Einar Broch Johnsen, University of Oslo (&lt;a href=&#34;mailto:einarj@ifi.uio.no?subject=DART&#34;&gt;contact&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Synopsis:&lt;/strong&gt; DART is a network spanning five circumpolar countries
+&lt;h2 id=&#34;network-overview&#34;&gt;Network Overview:&lt;/h2&gt;
+&lt;p&gt;DART is a network spanning five circumpolar countries
 (NOR, SWE, DNK, GBR, USA). We will develop digital twins to study
 just transitions to net zero under the aegis of the UArctic
 ‘&lt;a href=&#34;https://www.uarctic.org/activities/thematic-networks/climate-justice-in-the-arctic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Climate
@@ -86,12 +87,15 @@ transnational expertise in legal (Durham, Glasgow Caledonian, UiT),
 economic (Durham, Luleå), environmental (Luleå, Glasgow Caledonian),
 and health (Aberdeen, Washington) infrastructures across countries and
 places.&lt;/p&gt;
+&lt;h2 id=&#34;network-activities&#34;&gt;Network Activities&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Workshop 1:&lt;/strong&gt; Oslo, 11-13 February 2025&lt;br&gt;
 More information &lt;a href=&#34;https://www.uio.no/dscience/english/news-and-events/events/dart-workshop.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Hackathon :&lt;/strong&gt; Nesoddtangen, 10-12 June 2025&lt;br&gt;
 More information &lt;a href=&#34;https://ebjohnsen.org/dart-hackathon/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Principal Investigators&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;University of Oslo (NO)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Workshop 2:&lt;/strong&gt; Durham, 16-18 June 2026&lt;br&gt;
+More information &lt;a href=&#34;https://durham-university--dartworkshop.replit.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;principal-investigators&#34;&gt;Principal Investigators&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;University of Oslo (NO)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://ebjohnsen.org/&#34;&gt;Einar Broch Johnsen&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.mn.uio.no/english/people/adm/fac/research/nilsst/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nils Christian Stenseth&lt;/a&gt;&lt;/li&gt;
@@ -100,7 +104,7 @@ More information &lt;a href=&#34;https://ebjohnsen.org/dart-hackathon/&#34;&gt;h
 &lt;li&gt;&lt;a href=&#34;https://apferscher.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrea Pferscher&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.mn.uio.no/ifi/english/people/aca/rudi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rudi Schlatte&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;The Arctic University of Norway (NO)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Arctic University of Norway (NO)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.cs.uit.no/~aa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anders Andersen&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://ekozyri.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Elisavet Kozyri&lt;/a&gt;&lt;/li&gt;
@@ -108,35 +112,35 @@ More information &lt;a href=&#34;https://ebjohnsen.org/dart-hackathon/&#34;&gt;h
 &lt;li&gt;&lt;a href=&#34;https://en.uit.no/ansatte/person?p_document_id=731447&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Loïc Guégan&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://en.uit.no/ansatte/person?p_document_id=581687&amp;amp;p_dimension_id=88138&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tor-Arne Schmidt Nordmo&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;University of Aberdeen (UK)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;University of Aberdeen (UK)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.abdn.ac.uk/people/jules.griffin&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julian Griffin&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Durham University (UK)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Durham University (UK)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.durham.ac.uk/staff/nelly-bencomo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nelly Bencomo&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.durham.ac.uk/staff/j-h-bothwell/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;John Bothwell&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.durham.ac.uk/business/our-people/laura-marsiliani/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laura Marsiliani&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.durham.ac.uk/staff/petra-minnerop/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Petra Minnerop&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Glasgow Caledonian University (UK)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Glasgow Caledonian University (UK)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.gcu.ac.uk/staff/sennanmattar&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sennan Mattar&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;IT University of Copenhagen (DK)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;IT University of Copenhagen (DK)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.itu.dk/people/wasowski/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrzej Wasowski&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wasowski.dukla.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrzej Wasowski&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://edkamb.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eduard Kamburjan&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Luleå Technological University (SE)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Luleå Technological University (SE)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.ltu.se/en/staff/j/jesper-stage&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jesper Stage&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;University of Washington (USA)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;University of Washington (USA)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://globalhealth.washington.edu/faculty/kristie-ebi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kristie Ebi&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Aarhus University (DK)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aarhus University (DK)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://pure.au.dk/portal/en/persons/pgl%40ece.au.dk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Peter Gorm Larsen&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.au.dk/en/claudio.gomes@ece.au.dk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cláudio Gomes&lt;/a&gt;&lt;/li&gt;
