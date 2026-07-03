@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ingrid-Chieh-Yu | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/authors/ingrid-chieh-yu/</link>
+      <atom:link href="https://ebjohnsen.org/authors/ingrid-chieh-yu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ingrid-Chieh-Yu</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Jun 2020 00:01:48 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
+      <title>Ingrid-Chieh-Yu</title>
+      <link>https://ebjohnsen.org/authors/ingrid-chieh-yu/</link>
+    </image>
+    
+    <item>
+      <title>Ingrid Chieh Yu</title>
+      <link>https://ebjohnsen.org/authors/ingrid/</link>
+      <pubDate>Sat, 20 Jun 2020 00:01:48 +0200</pubDate>
+      <guid>https://ebjohnsen.org/authors/ingrid/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
