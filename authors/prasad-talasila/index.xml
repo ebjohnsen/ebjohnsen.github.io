@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prasad Talasila | Einar Broch Johnsen</title>
+    <link>https://ebjohnsen.org/authors/prasad-talasila/</link>
+      <atom:link href="https://ebjohnsen.org/authors/prasad-talasila/index.xml" rel="self" type="application/rss+xml" />
+    <description>Prasad Talasila</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 May 2026 09:07:44 +0200</lastBuildDate>
+    <image>
+      <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
+      <title>Prasad Talasila</title>
+      <link>https://ebjohnsen.org/authors/prasad-talasila/</link>
+    </image>
+    
+    <item>
+      <title>A Self-Adaptive Digital Twin Architecture to Automate Greenhouse Management</title>
+      <link>https://ebjohnsen.org/publication/26-icps/</link>
+      <pubDate>Mon, 11 May 2026 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/26-icps/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

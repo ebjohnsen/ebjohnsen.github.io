@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/category/smol/</link>
       <atom:link href="https://ebjohnsen.org/category/smol/index.xml" rel="self" type="application/rss+xml" />
     <description>SMOL</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 31 Mar 2026 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 May 2026 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
       <title>SMOL</title>
       <link>https://ebjohnsen.org/category/smol/</link>
     </image>
+    
+    <item>
+      <title>A Self-Adaptive Digital Twin Architecture to Automate Greenhouse Management</title>
+      <link>https://ebjohnsen.org/publication/26-icps/</link>
+      <pubDate>Mon, 11 May 2026 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/26-icps/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Semantically Reflected Programs</title>
