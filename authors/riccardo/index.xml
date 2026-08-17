@@ -5,7 +5,7 @@
     <link>https://ebjohnsen.org/authors/riccardo/</link>
       <atom:link href="https://ebjohnsen.org/authors/riccardo/index.xml" rel="self" type="application/rss+xml" />
     <description>Riccardo Sieve</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 May 2026 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Oct 2026 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/authors/riccardo/avatar_hu8780808362851517950.jpg</url>
       <title>Riccardo Sieve</title>
@@ -13,18 +13,42 @@
     </image>
     
     <item>
-      <title>A Self-Adaptive Digital Twin Architecture to Automate Greenhouse Management</title>
-      <link>https://ebjohnsen.org/publication/26-icps/</link>
-      <pubDate>Mon, 11 May 2026 09:07:44 +0200</pubDate>
-      <guid>https://ebjohnsen.org/publication/26-icps/</guid>
+      <title>Knowledge-driven Stream Monitor Synthesis</title>
+      <link>https://ebjohnsen.org/publication/26-rv/</link>
+      <pubDate>Tue, 06 Oct 2026 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/26-rv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Riccardo Sieve</title>
       <link>https://ebjohnsen.org/authors/riccardo/</link>
-      <pubDate>Mon, 11 May 2026 09:07:44 +0200</pubDate>
+      <pubDate>Tue, 06 Oct 2026 09:07:44 +0200</pubDate>
       <guid>https://ebjohnsen.org/authors/riccardo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Runtime Decision Models under Uncertainty using Surprise-Based Learning for Supply Management</title>
+      <link>https://ebjohnsen.org/publication/26-models/</link>
+      <pubDate>Sun, 04 Oct 2026 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/26-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BedreFlyt Artifact: A Self-Adaptive Digital Twin Software System for Hospital Resource Allocation</title>
+      <link>https://ebjohnsen.org/publication/26-acsos/</link>
+      <pubDate>Fri, 11 Sep 2026 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/26-acsos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Self-Adaptive Digital Twin Architecture to Automate Greenhouse Management</title>
+      <link>https://ebjohnsen.org/publication/26-icps/</link>
+      <pubDate>Mon, 11 May 2026 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/26-icps/</guid>
       <description></description>
     </item>
     

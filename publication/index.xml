@@ -5,12 +5,44 @@
     <link>https://ebjohnsen.org/publication/</link>
       <atom:link href="https://ebjohnsen.org/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jul 2026 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Oct 2026 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
       <title>Publications</title>
       <link>https://ebjohnsen.org/publication/</link>
     </image>
+    
+    <item>
+      <title>Knowledge-driven Stream Monitor Synthesis</title>
+      <link>https://ebjohnsen.org/publication/26-rv/</link>
+      <pubDate>Tue, 06 Oct 2026 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/26-rv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Runtime Decision Models under Uncertainty using Surprise-Based Learning for Supply Management</title>
+      <link>https://ebjohnsen.org/publication/26-models/</link>
+      <pubDate>Sun, 04 Oct 2026 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/26-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environmental Digital Twins: Connecting Models for Nature 5.0 (Keynote)</title>
+      <link>https://ebjohnsen.org/publication/26-edtconf/</link>
+      <pubDate>Sat, 03 Oct 2026 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/26-edtconf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BedreFlyt Artifact: A Self-Adaptive Digital Twin Software System for Hospital Resource Allocation</title>
+      <link>https://ebjohnsen.org/publication/26-acsos/</link>
+      <pubDate>Fri, 11 Sep 2026 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/26-acsos/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Attribution-based Explanations for Markov Decision Processes</title>

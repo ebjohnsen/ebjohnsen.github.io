@@ -5,7 +5,7 @@
     <link>https://ebjohnsen.org/authors/andrea/</link>
       <atom:link href="https://ebjohnsen.org/authors/andrea/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrea Pferscher</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jul 2026 09:07:44 +0200</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Oct 2026 09:07:44 +0200</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/authors/andrea/avatar_hu10355558008571286989.jpg</url>
       <title>Andrea Pferscher</title>
@@ -15,8 +15,24 @@
     <item>
       <title>Andrea Pferscher</title>
       <link>https://ebjohnsen.org/authors/andrea/</link>
-      <pubDate>Fri, 10 Jul 2026 09:07:44 +0200</pubDate>
+      <pubDate>Tue, 06 Oct 2026 09:07:44 +0200</pubDate>
       <guid>https://ebjohnsen.org/authors/andrea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge-driven Stream Monitor Synthesis</title>
+      <link>https://ebjohnsen.org/publication/26-rv/</link>
+      <pubDate>Tue, 06 Oct 2026 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/26-rv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environmental Digital Twins: Connecting Models for Nature 5.0 (Keynote)</title>
+      <link>https://ebjohnsen.org/publication/26-edtconf/</link>
+      <pubDate>Sat, 03 Oct 2026 09:07:44 +0200</pubDate>
+      <guid>https://ebjohnsen.org/publication/26-edtconf/</guid>
       <description></description>
     </item>
     
