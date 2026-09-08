@@ -93,6 +93,59 @@
     </item>
     
     <item>
+      <title>LØFT: Strategic collaboration for long-term increase in research quality</title>
+      <link>https://ebjohnsen.org/project/loft/</link>
+      <pubDate>Mon, 20 Jul 2026 10:32:56 +0200</pubDate>
+      <guid>https://ebjohnsen.org/project/loft/</guid>
+      <description>&lt;p&gt;LØFT (Strategic collaboration for long-term increase in research quality)
+is a network funded by
+&lt;a href=&#34;https://www.forskningsradet.no/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Research Council of Norway&lt;/a&gt; 2026-2028.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Partners:&lt;/strong&gt;
+&lt;a href=&#34;https://www.uio.no/english/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Oslo&lt;/a&gt; (NO),
+The &lt;a href=&#34;https://en.uit.no&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arctic University of Norway&lt;/a&gt; (NO),
+&lt;a href=&#34;https://www4.uib.no/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Bergen&lt;/a&gt; (NO),
+&lt;a href=&#34;https://www.simula.no/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Simula Research Laboratory&lt;/a&gt; (NO).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Coordinator:&lt;/strong&gt; Einar Broch Johnsen, University of Oslo (&lt;a href=&#34;mailto:einarj@ifi.uio.no?subject=DART&#34;&gt;contact&lt;/a&gt;)&lt;/p&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview:&lt;/h2&gt;
+&lt;p&gt;LØFT is a Norwegian research network in computer science with partners from the Universities of Oslo, Bergen and Tromsø and Simula Research Laboratory, together with international collaborators. The network was established to follow up on the &lt;a href=&#34;https://www.forskningsradet.no/en/analysis-numbers/evaluations/subject-theme/evaluation-of-mathematics-ict-and-technology-2023-2024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EVALMIT&lt;/a&gt; evaluation of computer science research in Norway. The network&amp;rsquo;s purpose is to establish long-term collaborative relationships between academic research communities, industry and public administration in the field of robust decentralized decision support. We are increasingly dependent on automated decision support that enables agile and reactive decisions, based on rapid access to data. However, centralized systems for such decision support lack scalability, are vulnerable to attacks and errors, and are poorly adaptable to local conditions. In decentralized decision support, artificial intelligence and the Internet of Things meet to enable more effective applications, e.g., in relation to the green transition. When smart things, such as AI agents, digital twins, and asynchronous objects, are connected to sensors and actuators, a transformative potential for local decision support, real-time learning, and flexible problem solving arises. Through joint strategic work, the network will strengthen the quality and visibility of Norwegian research on decentralized decision making. LØFT will work strategically and combine expertise within the network to initiate research collaboration towards the green transition, AI and quantum computing. LØFT aims to initiate and actively participate in Norwegian and European research projects including, e.g., Horizon Europe and ERC funding instruments.&lt;/p&gt;
+&lt;h2 id=&#34;network-activities&#34;&gt;Network Activities&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Workshop 1:&lt;/strong&gt; Oslo, 30 Sept - 1 Oct 2026&lt;br&gt;
+&lt;strong&gt;Workshop 2:&lt;/strong&gt; Tromsø, 20 - 22 Jan 2027&lt;br&gt;
+&lt;strong&gt;Workshop 3:&lt;/strong&gt; Tokyo, 5 - 9 April 2027&lt;br&gt;&lt;/p&gt;
+&lt;h2 id=&#34;research-groups-and-principal-investigators&#34;&gt;Research Groups and Principal Investigators&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Reliable Systems, Department of Informatics, University of Oslo&lt;/strong&gt; [&lt;a href=&#34;https://www.mn.uio.no/ifi/english/research/groups/psy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;]&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ebjohnsen.org/&#34;&gt;Einar Broch Johnsen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mn.uio.no/ifi/english/people/aca/sltarifa/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Silvia Lizeth Tapia Tarifa&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Logic and Artificial Intelligence, Department of Information Science and Media Studies, University of Bergen&lt;/strong&gt; [&lt;a href=&#34;https://www4.uib.no/en/research/research-groups/research-group-for-logics-and-ai&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;]&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www4.uib.no/en/find-employees/thomas.agotnes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Thomas Ågotnes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www4.uib.no/en/find-employees/marija.slavkovik&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marija Slavkovik&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Cyber-Physical and IoT Systems, Department of Computer Science, The Arctic University of Norway&lt;/strong&gt; [&lt;a href=&#34;https://uit.no/research/cps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;]&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cs.uit.no/~issam/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Issam Raïs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cs.uit.no/~aa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anders Andersen&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Engineering Complex Software Systems, Simula Research Laboratory&lt;/strong&gt; [&lt;a href=&#34;https://www.simula.no/research/research-areas/software-engineering/engineering-complex-software&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;]&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.simula.no/people/shaukat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shaukat Ali&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.simula.no/people/paolo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paolo Arcaini&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;international-collaborators&#34;&gt;International Collaborators&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ths.rwth-aachen.de/people/erika-abraham/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Erika Ábrahám&lt;/a&gt;, RWTH Aachen University, DE&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.durham.ac.uk/staff/nelly-bencomo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nelly Bencomo&lt;/a&gt;, Durham University, UK&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://research.nii.ac.jp/~f-ishikawa/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fuyuki Ishikawa&lt;/a&gt;, National Institute of Informatics, Japan&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fraleo.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Francesco Leofante&lt;/a&gt;, Imperial College, UK&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://alexandrasilva.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alexandra Silva&lt;/a&gt;, Cornell University, US&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fmt.isti.cnr.it/~mtbeek/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maurice ter Beek&lt;/a&gt;, Consiglio Nazionale delle Ricerche, IT&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Attribution-based Explanations for Markov Decision Processes</title>
       <link>https://ebjohnsen.org/publication/26-ijcai/</link>
       <pubDate>Fri, 10 Jul 2026 09:07:44 +0200</pubDate>
