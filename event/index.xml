@@ -5,12 +5,20 @@
     <link>https://ebjohnsen.org/event/</link>
       <atom:link href="https://ebjohnsen.org/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Jun 2027 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Aug 2027 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ebjohnsen.org/media/icon_hu5605391091882128338.png</url>
       <title>Talks</title>
       <link>https://ebjohnsen.org/event/</link>
     </image>
+    
+    <item>
+      <title>IJCAI 2027</title>
+      <link>https://ebjohnsen.org/talk/ijcai-2027/</link>
+      <pubDate>Sat, 07 Aug 2027 00:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/ijcai-2027/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ECOOP 2027</title>
@@ -25,6 +33,14 @@
       <link>https://ebjohnsen.org/talk/fsen-2027/</link>
       <pubDate>Mon, 24 May 2027 00:00:00 +0000</pubDate>
       <guid>https://ebjohnsen.org/talk/fsen-2027/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iFS 2027</title>
+      <link>https://ebjohnsen.org/talk/ifs-2027/</link>
+      <pubDate>Sat, 10 Apr 2027 00:00:00 +0000</pubDate>
+      <guid>https://ebjohnsen.org/talk/ifs-2027/</guid>
       <description></description>
     </item>
     
